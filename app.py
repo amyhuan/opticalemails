@@ -14,10 +14,7 @@ from azure.data.tables import TableServiceClient
 from openai import AzureOpenAI
 
 dotenv.load_dotenv()
-
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'secret!'
-socketio = SocketIO(app)
 
 client = AzureOpenAI(
     azure_endpoint="https://amyhuan-openai.openai.azure.com",
