@@ -1,0 +1,4 @@
+__pycache__/
+scheduler_venv/
+*env/
+.env
