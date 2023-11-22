@@ -1,4 +1,5 @@
-from datetime import datetime
+from datetime import datetime, timedelta
+import pytz
 from flask import Flask, request, jsonify
 import json
 from typing import Dict
@@ -16,6 +17,7 @@ from flask_socketio import SocketIO, send, emit
 
 dotenv.load_dotenv()
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": ["http://localhost:3000"]}})
 socketio = SocketIO(app)
 
 client = AzureOpenAI(
@@ -90,8 +92,10 @@ def get_email_ids():
 
 @app.route('/emailsummaries', methods=['GET'])
 def get_email_summaries():
-    start_time = "2023-11-20T20:02:26+00:00"
-    end_time = "2023-11-22T20:02:26+00:00"
+    current_time = datetime.now(pytz.utc)
+    start_time = (current_time - timedelta(days=1)).isoformat()
+    end_time = current_time.isoformat()
+    print(start_time, end_time)
 
     ids = email_ids_by_time_range(start_time, end_time)
     summaries = []
