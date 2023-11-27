@@ -53,6 +53,18 @@ def email_ids_by_time_range(start_time, end_time):
     print(f"Email IDs: {row_keys}")
     return row_keys
 
+def emails_by_time_range(start_time, end_time):
+    entities = query_table_by_timestamp(STORAGE_CONNECTION_STRING, "maintenances", start_time, end_time)
+    row_keys = [entity['RowKey'] for entity in entities]
+    info = {
+        entity['RowKey']: {
+            'TimeReceived': entity['TimeReceived'],
+            'Subject': entity['Subject'],
+            'From': entity['From'],
+        } for entity in entities
+    }
+    return info
+
 def get_blob_client(connection_string, container_name, blob_name):
     """
     Returns a blob client for the specified blob in Azure Blob Storage.
@@ -82,22 +94,24 @@ def parse_html_blob(blob_client):
 
     return body_text
 
-@app.route('/emailids', methods=['GET'])
-def get_email_ids():
-    # start_timestamp = request.args.get('startTime', default='').replace('\'', '')
-    # end_timestamp = request.args.get('endTime', default='').replace('\'', '')
-    start_time = "2023-11-20T20:02:26+00:00"
-    end_time = "2023-11-22T20:02:26+00:00"
-    return email_ids_by_time_range(start_time, end_time)
-
-@app.route('/emailsummaries', methods=['GET'])
-def get_email_summaries():
+@app.route('/lastdayids', methods=['GET'])
+def get_last_day_ids():
     current_time = datetime.now(pytz.utc)
     start_time = (current_time - timedelta(days=1)).isoformat()
     end_time = current_time.isoformat()
-    print(start_time, end_time)
+    return email_ids_by_time_range(start_time, end_time)
 
-    ids = email_ids_by_time_range(start_time, end_time)
+@app.route('/lastdayemails', methods=['GET'])
+def get_last_day_emails():
+    current_time = datetime.now(pytz.utc)
+    start_time = (current_time - timedelta(days=1)).isoformat()
+    end_time = current_time.isoformat()
+    return emails_by_time_range(start_time, end_time)
+
+@app.route('/emailsummaries', methods=['GET'])
+def get_email_summaries():
+    ids = request.args.get('ids', default='').split(',')
+
     summaries = []
     for id in ids:
         try:
@@ -107,7 +121,7 @@ def get_email_summaries():
             res = client.chat.completions.create(
                 model="vscode-gpt",
                 messages=[
-                    {"role": "system", "content": "Each message you will get contains the contents of a fiber provider maintenance email, sometimes incomplete. Summarize the information by noting what kind of maintenance is happening and what specific circuit IDs are affected, where they are located, and for what time range. If the message does not contain this information, do not return any summary."},
+                    {"role": "system", "content": "Each message you will get contains the contents of a fiber provider maintenance email. Extract the fiber circuit IDs affected and list them in this format: each ID on its own line. Do not include any other text. If there are no IDs present, do not return any text."},
                     {"role": "user", "content": text},
                 ],
                 temperature=0,
