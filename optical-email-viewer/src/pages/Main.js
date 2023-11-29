@@ -80,13 +80,13 @@ const Main = () => {
                     <tr>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Time Received</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>From</th>
-                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>VSO</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Notification Type</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Maintenance Reason</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Start Date/Time</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>End Date/Time</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Circuit IDs Affected</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Geographic Location</th>
+                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>VSO</th>
                     </tr>
                 </thead>
                 <tbody>

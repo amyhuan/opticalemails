@@ -20,6 +20,11 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": ["http://localhost:3000"]}})
 socketio = SocketIO(app)
 
+baseurl = 'https://msazure.visualstudio.com'
+user = 'svcazphy@microsoft.com'
+creds = os.environ.get("VSO_AUTH_PASSWORD", "")
+headers = {'Content-type': 'application/json'}
+
 client = AzureOpenAI(
     azure_endpoint="https://amyhuan-openai.openai.azure.com",
     api_key=os.getenv('API_KEY'),
@@ -107,6 +112,62 @@ def get_last_day_emails():
     start_time = (current_time - timedelta(days=1)).isoformat()
     end_time = current_time.isoformat()
     return emails_by_time_range(start_time, end_time)
+
+def get_vso_items(tag_name="HFM"):
+    start_time = '@today'
+    end_time = '@today + 1'
+
+    payload = {
+        "query": f"""SELECT
+    [System.Id],
+    [System.WorkItemType],
+    [Microsoft.VSTS.Scheduling.StartDate],
+    [Microsoft.VSTS.Scheduling.FinishDate],
+    [System.Title],
+    [System.AssignedTo],
+    [System.State],
+    [Microsoft.VSTS.Common.Risk],
+    [PhyNet.Devices],
+    [System.Tags],
+    [PhyNet.PeerApprover],
+    [PhyNet.CabApprover],
+    [System.AreaPath],
+    [Microsoft.VSTS.CMMI.ImpactAssessmentHtml]
+FROM workitems
+WHERE
+    [System.TeamProject] = 'PhyNet'
+    AND [System.WorkItemType] = 'Change Record'
+    AND [System.State] = 'Approved'
+    AND [System.AreaPath] = 'PhyNet\WANChanges'
+    AND [Microsoft.VSTS.Scheduling.StartDate] >= {start_time}
+    AND [Microsoft.VSTS.Scheduling.StartDate] <= {end_time}
+    AND [System.Title] CONTAINS WORDS 'Maintenance'
+    AND [System.Tags] CONTAINS '{tag_name}'
+    AND NOT [System.Tags] CONTAINS 'IncompleteData'
+ORDER BY [Microsoft.VSTS.Scheduling.StartDate]"""
+    }
+    url = "{}/DefaultCollection/_apis/wit/wiql?api-version=5.0".format(baseurl)
+    response = requests.post(url, auth=(user, creds),
+                             headers=headers, json=payload)
+    print(response.status_code, response.reason)
+    work_items = []
+    if response.status_code == 200:
+        wis = response.json()["workItems"]
+        for wi in wis:
+            vso_id = str(wi['id'])
+            resp = readcr(vso_id)["fields"]
+            formatted_wi = {"id": vso_id,
+                            "title": resp["System.Title"],
+                            "tags": resp.get("System.Tags", "No Tags"),
+                            "start_date": resp["Microsoft.VSTS.Scheduling.StartDate"],
+                            "end_date": resp["Microsoft.VSTS.Scheduling.FinishDate"],
+                            "impact_device_lags": resp.get("Microsoft.VSTS.CMMI.ImpactAssessmentHtml")}
+            work_items.append(formatted_wi)
+    return work_items
+
+@app.route('/lastdayvsos', methods=['GET'])
+def get_last_day_vsos():
+    return get_vso_items()
 
 @app.route('/emaildata', methods=['GET'])
 def get_email_data():
