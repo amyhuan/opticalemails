@@ -130,6 +130,7 @@ def get_email_data():
                     3) NotificationType - e.g. new maintenance scheduled, maintenance cancelled or postponed, or completed
                     4) MaintenanceReason - Reason for maintenance if applicable
                     5) GeographicLocation - Geographic location of the maintenance
+                    6) VsoId - If applicable, the Microsoft VSO ID that this maintenance is associated with
                     
                     Here is an example:
                     'CircuitIds,OGYX/172340//ZYO,OQYX/376545//ZYO\n
@@ -137,7 +138,8 @@ def get_email_data():
                     EndDatetime,2023-12-07 07:01\n
                     NotificationType,new maintenance scheduled\n
                     MaintenanceReason,Replacing damaged fiber\n'
-                    GeographicLocation,Fresno, CA\n'
+                    GeographicLocation,Fresno CA\n
+                    VsoId,15438446\n'
                     """},
                     {"role": "user", "content": text},
                 ],

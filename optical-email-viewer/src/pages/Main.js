@@ -80,12 +80,12 @@ const Main = () => {
                     <tr>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Time Received</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>From</th>
-                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>Subject</th>
-                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>Circuit IDs Affected</th>
-                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>Start Date/Time</th>
-                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>End Date/Time</th>
+                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>VSO</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Notification Type</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Maintenance Reason</th>
+                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>Start Date/Time</th>
+                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>End Date/Time</th>
+                        <th style={{ border: '1px solid #ddd', padding: '10px' }}>Circuit IDs Affected</th>
                         <th style={{ border: '1px solid #ddd', padding: '10px' }}>Geographic Location</th>
                     </tr>
                 </thead>
@@ -99,10 +99,10 @@ const Main = () => {
                                 {emailInfo[ids[index]]["From"]}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
-                                {emailInfo[ids[index]]["Subject"]}
+                                {mainInfo[index]["NotificationType"]}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
-                                {mainInfo[index]["CircuitIds"]}
+                                {mainInfo[index]["MaintenanceReason"]}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
                                 {mainInfo[index]["StartDatetime"]}
@@ -111,13 +111,13 @@ const Main = () => {
                                 {mainInfo[index]["EndDatetime"]}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
-                                {mainInfo[index]["NotificationType"]}
-                            </td>
-                            <td style={{ border: '1px solid #ddd', padding: '10px' }}>
-                                {mainInfo[index]["MaintenanceReason"]}
+                                {mainInfo[index]["CircuitIds"]}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
                                 {mainInfo[index]["GeographicLocation"]}
+                            </td>
+                            <td style={{ border: '1px solid #ddd', padding: '10px' }}>
+                                {mainInfo[index]["VsoId"]}
                             </td>
                         </tr>
                     ))}
