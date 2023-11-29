@@ -108,8 +108,8 @@ def get_last_day_emails():
     end_time = current_time.isoformat()
     return emails_by_time_range(start_time, end_time)
 
-@app.route('/emailsummaries', methods=['GET'])
-def get_email_summaries():
+@app.route('/emaildata', methods=['GET'])
+def get_email_data():
     ids = request.args.get('ids', default='').split(',')
 
     summaries = []
@@ -121,7 +121,24 @@ def get_email_summaries():
             res = client.chat.completions.create(
                 model="vscode-gpt",
                 messages=[
-                    {"role": "system", "content": "Each message you will get contains the contents of a fiber provider maintenance email. Extract the fiber circuit IDs affected and list them in this format: each ID on its own line. Do not include any other text. If there are no IDs present, do not return any text."},
+                    {"role": "system", "content": """Each message you will get contains the contents of a fiber provider maintenance email update. 
+                    For each of the following information types, return a comma separated string that lists the header name first, then each of the values, and ends with a newline.
+                    Do not insert whitespace immediately before or after commas. Always list every header even if there are no values found for it.
+                    1) CircuitIds - Fiber circuit IDs affected
+                    2) StartDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
+                    3) EndDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
+                    3) NotificationType - e.g. new maintenance scheduled, maintenance cancelled or postponed, or completed
+                    4) MaintenanceReason - Reason for maintenance if applicable
+                    5) GeographicLocation - Geographic location of the maintenance
+                    
+                    Here is an example:
+                    'CircuitIds,OGYX/172340//ZYO,OQYX/376545//ZYO\n
+                    StartDatetime,2023-11-07 07:01\n
+                    EndDatetime,2023-12-07 07:01\n
+                    NotificationType,new maintenance scheduled\n
+                    MaintenanceReason,Replacing damaged fiber\n'
+                    GeographicLocation,Fresno, CA\n'
+                    """},
                     {"role": "user", "content": text},
                 ],
                 temperature=0,
