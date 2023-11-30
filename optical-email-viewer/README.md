@@ -70,7 +70,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+
+
+
+To build/deploy:
+
+npm run build
+
 az login
 az acr login --name opticaldata
-docker build -t opticaldata.azurecr.io/opticalemails-frontend:c69696e . 
-docker push opticaldata.azurecr.io/opticalemails-frontend:c69696e
+docker build -t opticaldata.azurecr.io/opticalemails-frontend:888e11b . 
+docker push opticaldata.azurecr.io/opticalemails-frontend:888e11b
