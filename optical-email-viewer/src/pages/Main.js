@@ -7,6 +7,8 @@ const Main = () => {
     const [ids, setIds] = useState([])
     const [emailInfo, setEmailInfo] = useState([])
     const [mainInfo, setMainInfo] = useState([])
+    
+    // TODO: fcn that hits az fcn to see if ID is valid; hyperlink to modal with info
 
     // get last day email metadata
     useEffect(() => {

@@ -2,6 +2,13 @@ python -m venv venv
 .\venv\Scripts\activate
 pip install -r requirements.txt
 
-create .env file with these variables
+create .env file with these variables:
+
 API_KEY - openai key https://ms.portal.azure.com/#@microsoft.onmicrosoft.com/resource/subscriptions/e7cc6a8c-618e-4d1e-9c0d-df412c47b7e9/resourceGroups/amyhuan/providers/Microsoft.CognitiveServices/accounts/amyhuan-openai/cskeys
 STORAGE_CONNECTION_STRING - storage account connection string
+
+deploy to azure container registry:
+
+az acr login --name opticaldata
+docker build -t opticaldata.azurecr.io/opticalemails-backend:c69696e . 
+docker push opticaldata.azurecr.io/opticalemails-backend:c69696e

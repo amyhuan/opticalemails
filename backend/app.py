@@ -113,6 +113,8 @@ def get_last_day_emails():
     end_time = current_time.isoformat()
     return emails_by_time_range(start_time, end_time)
 
+# TODO: caching results in az table storage
+
 def get_vso_items(tag_name="HFM"):
     start_time = '@today'
     end_time = '@today + 1'
@@ -218,4 +220,4 @@ def base_path():
     return jsonify("success")
 
 if __name__ == "__main__":
-    socketio.run(app, allow_unsafe_werkzeug=True, debug=True, port=8080, host="0.0.0.0")
+    socketio.run(app, allow_unsafe_werkzeug=True, debug=True, port=80, host="0.0.0.0")
