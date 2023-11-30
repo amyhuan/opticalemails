@@ -10,5 +10,5 @@ STORAGE_CONNECTION_STRING - storage account connection string
 deploy to azure container registry:
 
 az acr login --name opticaldata
-docker build -t opticaldata.azurecr.io/opticalemails-backend:87ee406 . 
-docker push opticaldata.azurecr.io/opticalemails-backend:87ee406
+docker build -t opticaldata.azurecr.io/opticalemails-backend:a66fd01 . 
+docker push opticaldata.azurecr.io/opticalemails-backend:a66fd01
