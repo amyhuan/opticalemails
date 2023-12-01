@@ -1,31 +1,66 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
+import { authProvider, authenticationParameters } from '../authProvider';
+import { useMsal } from "@azure/msal-react";
+import { InteractionStatus } from "@azure/msal-browser";
+import { msalInstance } from '../authProvider';
+import { useIsAuthenticated } from "@azure/msal-react";
 
 const API_BASE = process.env.REACT_APP_API_URL
 
-const Main = () => {
+const loginRequest = {
+    scopes: ["user.read"] // optional Array<string>
+};
+
+function Main() {
     const [ids, setIds] = useState([])
     const [emailInfo, setEmailInfo] = useState([])
     const [mainInfo, setMainInfo] = useState([])
-    
-    // TODO: fcn that hits az fcn to see if ID is valid; hyperlink to modal with info
+    const [accessToken, setAccessToken] = useState("")
+
+    const { instance, accounts, inProgress } = useMsal()
+    const isAuthenticated = useIsAuthenticated()
+
+    useEffect(() => {
+        const login = async() => {            
+            if (inProgress === InteractionStatus.None && !isAuthenticated ) {
+                try {
+                    const loginResponse = await msalInstance.loginPopup(loginRequest);
+                    console.log(loginResponse)
+                } catch (err) {
+                    console.log(err)
+                }
+            }
+        }
+        login()
+    }, [inProgress, accounts, instance]);
 
     // get last day email metadata
     useEffect(() => {
         const getEmails = async () => {
-            const response = await axios.get(`${API_BASE}/lastdayemails`, {
-                headers: {
-                    "Content-Type": "application/json",
+            msalInstance.acquireTokenSilent({
+                scopes: ["User.Read"],
+                account: accounts[0]
+            }).then(async (accessRes) => {
+                if (accessRes) {
+                    const response = await axios.get(`${API_BASE}/lastdayemails`, {
+                        headers: {
+                            "Content-Type": "application/json",
+                            'Authorization': 'Bearer ' + accessRes.accessToken
+                        }
+                    });
+                    const newInfo = response.data
+                    if (newInfo) {
+                        setEmailInfo(newInfo)
+                        setIds(Object.keys(newInfo))
+                    }
                 }
-            });
-            const newInfo = response.data
-            if (newInfo) {
-                setEmailInfo(newInfo)
-                setIds(Object.keys(newInfo))
-            }
+            })
         }
-        getEmails()
-    }, []);
+        if (isAuthenticated) {
+            getEmails()
+        }
+    }, [isAuthenticated]);
 
     function parseResultString(inputString) {
         const lines = inputString.trim().split('\n');
@@ -41,28 +76,37 @@ const Main = () => {
                 }
             }
         });
-    
+
         return result;
     }
 
     // full email data
     useEffect(() => {
         const getSummaries = async () => {
-            const response = await axios.get(`${API_BASE}/emaildata?ids=${ids.join(",")}`, {
-                headers: {
-                    "Content-Type": "application/json",
+            msalInstance.acquireTokenSilent({
+                scopes: ["User.Read"],
+                account: accounts[0]
+            }).then(async (accessRes) => {
+                if (accessRes) {
+                    const response = await axios.get(`${API_BASE}/emaildata?ids=${ids.join(",")}`, {
+                        headers: {
+                            "Content-Type": "application/json",
+                        }
+                    });
+                    const newSummaries = response.data
+                    if (newSummaries) {
+                        const info = []
+                        for (let su of newSummaries) {
+                            info.push(parseResultString(su))
+                        }
+                        setMainInfo(info)
+                    }
                 }
-            });
-            const newSummaries = response.data
-            if (newSummaries) {
-                const info = []
-                for (let su of newSummaries) {
-                    info.push(parseResultString(su))
-                }
-                setMainInfo(info)
-            }
+            })
         }
-        getSummaries()
+        if (isAuthenticated) {
+            getSummaries()
+        }
     }, [ids]);
 
     useEffect(() => {
