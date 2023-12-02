@@ -60,7 +60,6 @@ def email_ids_by_time_range(start_time, end_time):
 
 def emails_by_time_range(start_time, end_time):
     entities = query_table_by_timestamp(STORAGE_CONNECTION_STRING, "maintenances", start_time, end_time)
-    row_keys = [entity['RowKey'] for entity in entities]
     info = {
         entity['RowKey']: {
             'TimeReceived': entity['TimeReceived'],
@@ -171,45 +170,74 @@ ORDER BY [Microsoft.VSTS.Scheduling.StartDate]"""
 def get_last_day_vsos():
     return get_vso_items()
 
+def summarize_email(email_html):
+    res = client.chat.completions.create(
+            model="vscode-gpt",
+            messages=[
+                {"role": "system", "content": """Each message you will get contains the contents of a fiber provider maintenance email update. 
+                For each of the following information types, return a comma separated string that lists the header name first, then each of the values, and ends with a newline.
+                Do not insert whitespace immediately before or after commas. Always list every header even if there are no values found for it.
+                1) CircuitIds - Fiber circuit IDs affected
+                2) StartDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
+                3) EndDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
+                3) NotificationType - e.g. new maintenance scheduled, maintenance cancelled or postponed, or completed
+                4) MaintenanceReason - Reason for maintenance if applicable
+                5) GeographicLocation - Geographic location of the maintenance
+                6) VsoId - If applicable, the Microsoft VSO ID that this maintenance is associated with
+                
+                Here is an example:
+                'CircuitIds,OGYX/172340//ZYO,OQYX/376545//ZYO\n
+                StartDatetime,2023-11-07 07:01\n
+                EndDatetime,2023-12-07 07:01\n
+                NotificationType,new maintenance scheduled\n
+                MaintenanceReason,Replacing damaged fiber\n'
+                GeographicLocation,Fresno CA\n
+                VsoId,15438446\n'
+                """},
+                {"role": "user", "content": email_html},
+            ],
+            temperature=0,
+            max_tokens=256
+        )
+    return res.choices[0].message.content
+
+def email_summary_exists(email_id):
+    """
+    Queries an Azure Table for rows where the Timestamp is between start_time and end_time.
+
+    :param connection_string: Connection string to the Azure Table storage account.
+    :param table_name: Name of the table.
+    :param start_time: Start of the time range (inclusive), in ISO 8601 format.
+    :param end_time: End of the time range (inclusive), in ISO 8601 format.
+    :return: List of entities matching the time range.
+    """
+    try:
+        return 
+    except Exception as e:
+        print(e)
+    return None
+
 @app.route('/emaildata', methods=['GET'])
 def get_email_data():
     ids = request.args.get('ids', default='').split(',')
 
     summaries = []
     for id in ids:
+        clean_id = id.replace("'", "")
         try:
-            blob_client = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', id)
-            text = parse_html_blob(blob_client)
+            summary_blob_client = get_blob_client(STORAGE_CONNECTION_STRING, 'email-summaries', clean_id)
+            if summary_blob_client.exists():
+                bytes = summary_blob_client.download_blob().readall()
+                summary_text = bytes.decode('utf-8')
+                summaries.append(summary_text)
+            else:
+                email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
+                email_body_text = parse_html_blob(email_body_blob)
+                summary = summarize_email(email_body_text)
+                summaries.append(summary)
 
-            res = client.chat.completions.create(
-                model="vscode-gpt",
-                messages=[
-                    {"role": "system", "content": """Each message you will get contains the contents of a fiber provider maintenance email update. 
-                    For each of the following information types, return a comma separated string that lists the header name first, then each of the values, and ends with a newline.
-                    Do not insert whitespace immediately before or after commas. Always list every header even if there are no values found for it.
-                    1) CircuitIds - Fiber circuit IDs affected
-                    2) StartDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
-                    3) EndDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
-                    3) NotificationType - e.g. new maintenance scheduled, maintenance cancelled or postponed, or completed
-                    4) MaintenanceReason - Reason for maintenance if applicable
-                    5) GeographicLocation - Geographic location of the maintenance
-                    6) VsoId - If applicable, the Microsoft VSO ID that this maintenance is associated with
-                    
-                    Here is an example:
-                    'CircuitIds,OGYX/172340//ZYO,OQYX/376545//ZYO\n
-                    StartDatetime,2023-11-07 07:01\n
-                    EndDatetime,2023-12-07 07:01\n
-                    NotificationType,new maintenance scheduled\n
-                    MaintenanceReason,Replacing damaged fiber\n'
-                    GeographicLocation,Fresno CA\n
-                    VsoId,15438446\n'
-                    """},
-                    {"role": "user", "content": text},
-                ],
-                temperature=0,
-                max_tokens=256
-            )
-            summaries.append(res.choices[0].message.content)
+                summary_blob_client.upload_blob(summary)
+
         except Exception as e:
             print(e)
             continue
