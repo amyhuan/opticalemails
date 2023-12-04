@@ -78,5 +78,6 @@ To build/deploy:
 npm run build
 
 az acr login --name opticaldata
-docker build -t opticaldata.azurecr.io/opticalemails-frontend:888e11b . 
-docker push opticaldata.azurecr.io/opticalemails-frontend:888e11b
+for /f "delims=" %a in ('git rev-parse --short HEAD') do set GIT_COMMIT=%a
+docker build -t opticaldata.azurecr.io/opticalemails-frontend:%GIT_COMMIT% . 
+docker push opticaldata.azurecr.io/opticalemails-frontend:%GIT_COMMIT%

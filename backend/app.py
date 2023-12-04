@@ -17,7 +17,10 @@ from flask_socketio import SocketIO, send, emit
 
 dotenv.load_dotenv()
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["http://localhost:3000", "https://opticalemails-frontend.azurewebsites.net"]}})
+CORS(app, resources={r"/*": {"origins": [
+    "http://localhost:3000", 
+    "https://auto-vso.azurewebsites.net"
+]}})
 socketio = SocketIO(app)
 
 baseurl = 'https://msazure.visualstudio.com'
