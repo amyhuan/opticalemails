@@ -10,5 +10,6 @@ STORAGE_CONNECTION_STRING - storage account connection string
 deploy to azure container registry:
 
 az acr login --name opticaldata
-docker build -t opticaldata.azurecr.io/opticalemails-backend:a66fd01 . 
-docker push opticaldata.azurecr.io/opticalemails-backend:a66fd01
+for /f "delims=" %a in ('git rev-parse --short HEAD') do set GIT_COMMIT=%a
+docker build -t opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT% . 
+docker push opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT%

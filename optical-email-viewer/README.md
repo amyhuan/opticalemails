@@ -75,9 +75,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 To build/deploy:
 
+az acr login --name opticaldata
+
 npm run build
 
-az acr login --name opticaldata
 for /f "delims=" %a in ('git rev-parse --short HEAD') do set GIT_COMMIT=%a
 docker build -t opticaldata.azurecr.io/opticalemails-frontend:%GIT_COMMIT% . 
 docker push opticaldata.azurecr.io/opticalemails-frontend:%GIT_COMMIT%
