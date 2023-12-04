@@ -77,7 +77,6 @@ To build/deploy:
 
 npm run build
 
-az login
 az acr login --name opticaldata
 docker build -t opticaldata.azurecr.io/opticalemails-frontend:888e11b . 
 docker push opticaldata.azurecr.io/opticalemails-frontend:888e11b
