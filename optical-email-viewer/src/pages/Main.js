@@ -27,6 +27,8 @@ function Main() {
                 try {
                     const loginResponse = await msalInstance.loginPopup(loginRequest);
                     console.log(loginResponse)
+                    setAccessToken(loginResponse.accessToken)
+                    msalInstance.setActiveAccount(loginResponse.account)
                 } catch (err) {
                     console.log(err)
                 }
@@ -57,9 +59,7 @@ function Main() {
                 }
             })
         }
-        if (isAuthenticated) {
-            getEmails()
-        }
+        getEmails()
     }, [isAuthenticated]);
 
     function parseResultString(inputString) {
@@ -91,6 +91,7 @@ function Main() {
                     const response = await axios.get(`${API_BASE}/emaildata?ids=${ids.join(",")}`, {
                         headers: {
                             "Content-Type": "application/json",
+                            'Authorization': 'Bearer ' + accessToken
                         }
                     });
                     const newSummaries = response.data
