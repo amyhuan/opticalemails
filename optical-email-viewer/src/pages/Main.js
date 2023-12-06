@@ -1,6 +1,8 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import axios from 'axios';
 import "../styling/Main.css"
+import ResponseTable from './ResponseTable';
+
 
 const API_BASE = process.env.REACT_APP_API_URL
 const CIRCUIT_INFO_API_URL = process.env.REACT_APP_CIRCUIT_INFO_API_URL
@@ -14,6 +16,15 @@ function Main() {
     const [selectedCircuit, setSelectedCircuit] = useState()
     const [idsPerEmail, setIdsPerEmail] = useState({})
     const [idInfo, setIdInfo] = useState({})
+
+    const modalContentRef = useRef(null)
+
+    const closeModal = (e) => {
+        // Close the modal if the click is outside of the modal content
+        if (!modalContentRef.current.contains(e.target)) {
+            setShowCircuitIdInfo(false);
+        }
+    }
 
     // get last day email metadata
     useEffect(() => {
@@ -96,80 +107,56 @@ function Main() {
                     }
                 }
             )
-            return res
-        } catch(e) {
+            if (res) {
+                return res.data
+            }
+        } catch (e) {
             console.log(e)
             return null
         }
+        return null
     }
-
-    // getIdInfo = () => {
-    //     const idInfo = {}
-    //     const idsPerEmail = []
-    //     mainInfo.forEach(info => {
-    //         try {
-    //             const ids = info["CircuitIds"].split(",")
-    //             console.log(ids)
-    //             idsPerEmail.push(ids)
-    //             ids.forEach(id => {
-    //                 idInfo[id] = getIdInfo(id)
-    //             })
-    //             console.log(idInfo)
-    //         } catch (e) {
-    //         }
-    //     })
-    //     setIdsPerEmail(idsPerEmail)
-    //     setIdInfo(idInfo)
-    // }
-
-    // useEffect(() => {
-    //     const idInfo = {}
-    //     const idsPerEmail = []
-    //     mainInfo.forEach(info => {
-    //         try {
-    //             const ids = info["CircuitIds"].split("\n")
-    //             console.log(ids)
-    //             idsPerEmail.push(ids)
-    //             ids.forEach(id => {
-    //                 idInfo[id] = getIdInfo(id)
-    //             })
-    //             console.log(idInfo)
-    //         } catch (e) {
-    //         }
-    //     })
-    //     setIdsPerEmail(idsPerEmail)
-    //     setIdInfo(idInfo)
-    // }, [mainInfo]);
 
     const getIdLinks = (index) => {
         console.log(idsPerEmail);
         console.log(idInfo);
-    
+
         if (!idsPerEmail) {
             return <></>;
         }
-    
+
+        idsPerEmail[index].forEach(id => {
+            console.log(id, idInfo[id])
+            if (idInfo[id]) {
+                console.log(idInfo[id].circuit_details.device_records_exist)
+            }
+        })
+
         return (
             <>
                 {idsPerEmail[index].map(id => (
-                    <a key={id} onClick={() => {
-                        setSelectedCircuit(id);
-                        setShowCircuitIdInfo(true);
-                    }}>
+                    <a key={id}
+                        className={idInfo[id] && (idInfo[id].circuit_details.device_records_exist || idInfo[id].device_records_exist) ? "link" : "invalid-id"}
+                        onClick={() => {
+                            setSelectedCircuit(id);
+                            setShowCircuitIdInfo(true);
+                        }}>
                         {id}
                     </a>
                 ))}
             </>
         );
     }
-    
+
 
     return (
         <div>
             {showCircuitIdInfo && (
-                <div className="modal">
-                    <div className="modal-content">
-                        {JSON.stringify(idInfo[selectedCircuit])}
+                <div className="modal" onClick={closeModal}>
+                    <div className="modal-content" ref={modalContentRef}>
+                            <ResponseTable
+                                response={idInfo[selectedCircuit]}
+                            />
                     </div>
                 </div>
             )}
