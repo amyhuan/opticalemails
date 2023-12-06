@@ -111,7 +111,7 @@ def get_last_day_ids():
 @app.route('/lastdayemails', methods=['GET'])
 def get_last_day_emails():
     current_time = datetime.now(pytz.utc)
-    start_time = (current_time - timedelta(days=10)).isoformat()
+    start_time = (current_time - timedelta(days=3)).isoformat()
     end_time = current_time.isoformat()
     return emails_by_time_range(start_time, end_time)
 

@@ -1,12 +1,19 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
+import "../styling/Main.css"
 
 const API_BASE = process.env.REACT_APP_API_URL
+const CIRCUIT_INFO_API_URL = process.env.REACT_APP_CIRCUIT_INFO_API_URL
 
 function Main() {
     const [ids, setIds] = useState([])
     const [emailInfo, setEmailInfo] = useState([])
     const [mainInfo, setMainInfo] = useState([])
+
+    const [showCircuitIdInfo, setShowCircuitIdInfo] = useState(false)
+    const [selectedCircuit, setSelectedCircuit] = useState()
+    const [idsPerEmail, setIdsPerEmail] = useState({})
+    const [idInfo, setIdInfo] = useState({})
 
     // get last day email metadata
     useEffect(() => {
@@ -52,19 +59,121 @@ function Main() {
                 }
             });
             const newSummaries = response.data
+            const idInfo = {}
+            const idsPerEmail = []
             if (newSummaries) {
                 const info = []
                 for (let su of newSummaries) {
-                    info.push(parseResultString(su))
+                    const parsedSummary = parseResultString(su)
+                    info.push(parsedSummary)
+
+                    const ids = parsedSummary["CircuitIds"].split("\n")
+                    console.log(ids)
+                    idsPerEmail.push(ids)
+                    ids.forEach(async id => {
+                        idInfo[id] = await getIdInfo(id)
+                    })
                 }
                 setMainInfo(info)
+                setIdsPerEmail(idsPerEmail)
+                setIdInfo(idInfo)
             }
         }
         getSummaries()
     }, [ids]);
 
+    const getIdInfo = async (id) => {
+        try {
+            const res = await axios.get(process.env.REACT_APP_CIRCUIT_INFO_API_URL, {
+                params: {
+                    vendor_circuit_id: id,
+                    code: process.env.REACT_APP_CIRCUIT_INFO_API_KEY
+                }
+            },
+                {
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                }
+            )
+            return res
+        } catch(e) {
+            console.log(e)
+            return null
+        }
+    }
+
+    // getIdInfo = () => {
+    //     const idInfo = {}
+    //     const idsPerEmail = []
+    //     mainInfo.forEach(info => {
+    //         try {
+    //             const ids = info["CircuitIds"].split(",")
+    //             console.log(ids)
+    //             idsPerEmail.push(ids)
+    //             ids.forEach(id => {
+    //                 idInfo[id] = getIdInfo(id)
+    //             })
+    //             console.log(idInfo)
+    //         } catch (e) {
+    //         }
+    //     })
+    //     setIdsPerEmail(idsPerEmail)
+    //     setIdInfo(idInfo)
+    // }
+
+    // useEffect(() => {
+    //     const idInfo = {}
+    //     const idsPerEmail = []
+    //     mainInfo.forEach(info => {
+    //         try {
+    //             const ids = info["CircuitIds"].split("\n")
+    //             console.log(ids)
+    //             idsPerEmail.push(ids)
+    //             ids.forEach(id => {
+    //                 idInfo[id] = getIdInfo(id)
+    //             })
+    //             console.log(idInfo)
+    //         } catch (e) {
+    //         }
+    //     })
+    //     setIdsPerEmail(idsPerEmail)
+    //     setIdInfo(idInfo)
+    // }, [mainInfo]);
+
+    const getIdLinks = (index) => {
+        console.log(idsPerEmail);
+        console.log(idInfo);
+    
+        if (!idsPerEmail) {
+            return <></>;
+        }
+    
+        return (
+            <>
+                {idsPerEmail[index].map(id => (
+                    <a key={id} onClick={() => {
+                        setSelectedCircuit(id);
+                        setShowCircuitIdInfo(true);
+                    }}>
+                        {id}
+                    </a>
+                ))}
+            </>
+        );
+    }
+    
+
     return (
         <div>
+            {showCircuitIdInfo && (
+                <div className="modal">
+                    <div className="modal-content">
+                        {JSON.stringify(idInfo[selectedCircuit])}
+                    </div>
+                </div>
+            )}
+
             <div>
                 <h5>
                     Optical Maintenance Emails from past 24 hours from mr@zayo.com
@@ -107,7 +216,7 @@ function Main() {
                                 {mainInfo[index]["EndDatetime"]}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
-                                {mainInfo[index]["CircuitIds"]}
+                                {getIdLinks(index)}
                             </td>
                             <td style={{ border: '1px solid #ddd', padding: '10px' }}>
                                 {mainInfo[index]["GeographicLocation"]}
