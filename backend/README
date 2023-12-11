@@ -13,3 +13,6 @@ az acr login --name opticaldata
 for /f "delims=" %a in ('git rev-parse --short HEAD') do set GIT_COMMIT=%a
 docker build -t opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT% . 
 docker push opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT%
+
+
+curl "localhost:80/ids?start='2023-12-11T14:00:00Z'&end='2023-12-11T15:00:00Z'"
