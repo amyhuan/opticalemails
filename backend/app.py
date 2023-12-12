@@ -17,6 +17,9 @@ from flask_socketio import SocketIO
 import os
 import uuid
 from azure.data.tables import TableEntity
+import time
+from datetime import datetime
+import threading
 
 dotenv.load_dotenv()
 app = Flask(__name__)
@@ -38,6 +41,24 @@ EMAIL_METADATA_TABLE_CLIENT = table_service_client.get_table_client(table_name='
 MAINTENANCE_TABLE_CLIENT = table_service_client.get_table_client(table_name='MaintenanceDetails')
 
 EMAIL_SUMMARY_HEADERS = ['CircuitIds', 'StartDatetime', 'EndDatetime', 'NotificationType', 'MaintenanceReason', 'GeographicLocation', 'VsoId']
+
+def summarize_emails_in_range(start, end):
+    email_dict = emails_by_time_range(start, end)
+    ids = [f"'{id}'" for id in email_dict]
+
+    return summarize_emails(ids)
+
+def generate_summaries_periodically():
+    while True:
+        # Make summaries for past 80 minutes
+        num_minutes = 80
+        now = datetime.now(pytz.utc)
+        then = datetime.now(pytz.utc) - timedelta(minutes=num_minutes)
+        sums = summarize_emails_in_range(then.isoformat(), now.isoformat())
+        print(f"Summarized {len(sums)} emails from the past {num_minutes} minutes")
+
+        # Check for new summaries to make every 60 minutes
+        time.sleep(360)
 
 def emails_by_time_range(start_time, end_time):
     query_filter = f"TimeReceived ge '{start_time}' and TimeReceived le '{end_time}'"
@@ -233,10 +254,11 @@ def generate_summaries_by_time_range():
     start = request.args.get('start', default='').replace("'", "")
     end = request.args.get('end', default='').replace("'", "")
 
-    email_dict = emails_by_time_range(start, end)
-    ids = [f"'{id}'" for id in email_dict]
+    return summarize_emails_in_range(start, end)
 
-    return summarize_emails(ids)
+auto_summaries = threading.Thread(target=generate_summaries_periodically)
+auto_summaries.daemon = True
+auto_summaries.start()
 
 if __name__ == "__main__":
     socketio.run(app, allow_unsafe_werkzeug=True, debug=True, port=80, host="0.0.0.0")
