@@ -115,7 +115,7 @@ def get_vso_info():
     print(work_item.fields['Microsoft.VSTS.Scheduling.FinishDate'])
     print(work_item.fields['Microsoft.VSTS.Scheduling.StartDate'])
 
-def create_vso_ticket(title, description, work_item_type, project, circuits, phynet_devices, start_time, end_time):
+def create_vso_ticket(title, description, work_item_type, project, circuits, phynet_devices, start_time, end_time, location):
     organization = 'https://dev.azure.com/msazure'
     credentials = BasicAuthentication('', VSO_AUTH_TOKEN)
     connection = Connection(base_url=organization, creds=credentials)
@@ -129,18 +129,18 @@ def create_vso_ticket(title, description, work_item_type, project, circuits, phy
         JsonPatchOperation(op="add", path="/fields/System.AreaPath", value="PhyNet\\WANChanges"),
         JsonPatchOperation(op="add", path="/fields/PhyNet.Devices", value=phynet_devices),
         JsonPatchOperation(op="add", path="/fields/PhyNet.Circuits", value=circuits),
-        JsonPatchOperation(op="add", path="/fields/PhyNet.Datacenter", value="TEST datacenter names here"),
+        JsonPatchOperation(op="add", path="/fields/PhyNet.Datacenter", value=location),
         JsonPatchOperation(op="add", path="/fields/Microsoft.VSTS.Scheduling.StartDate", value=start_time),
         JsonPatchOperation(op="add", path="/fields/Microsoft.VSTS.Scheduling.FinishDate", value=end_time),
     ]
     work_item = wit_client.create_work_item(document=document, project=project, type=work_item_type)
     return work_item
 
-def create_new_maintenance_vso(provider, start_time, end_time, circuit_ids, phynet_devices, email_body):
+def create_new_maintenance_vso(provider, start_time, end_time, circuit_ids, phynet_devices, description, location):
     project = 'PhyNet'
     work_item_type = 'Change Record'  
     title = f"{provider} maintenance for circuits {', '.join(circuit_ids)}"
-    new_work_item = create_vso_ticket(title, email_body, work_item_type, project, ", ".join(circuit_ids), ", ".join(phynet_devices), start_time, end_time)
+    new_work_item = create_vso_ticket(title, description, work_item_type, project, ", ".join(circuit_ids), ", ".join(phynet_devices), start_time, end_time, location)
     return new_work_item
 
 def send_vso_information():
@@ -162,7 +162,8 @@ def test_vso_creation():
                                          "2023-07-25T03:15:53.947Z",
                                          ['CircuitName1', 'CircuitName2', 'CircuitName3'],
                                          ['ear06.mrs20', 'mil30-96cbe-1b', 'ear05.mrs20', 'mil30-96cbe-1a'],
-                                         "Email Metadata and Body text here. New maintenance scheduled by provider.")
+                                         "Email Metadata and Body text here. New maintenance scheduled by provider.",
+                                         "GeographicLocation")
     print(new_vso.id)
 
 if __name__ == '__main__':

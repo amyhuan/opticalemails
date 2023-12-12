@@ -20,6 +20,7 @@ from azure.data.tables import TableEntity
 import time
 from datetime import datetime
 import threading
+from vso import *
 
 dotenv.load_dotenv()
 app = Flask(__name__)
@@ -255,6 +256,52 @@ def generate_summaries_by_time_range():
     end = request.args.get('end', default='').replace("'", "")
 
     return summarize_emails_in_range(start, end)
+
+def get_email_info(email_id):
+    query_filter = f"RowKey eq '{email_id}'"
+    entities = EMAIL_METADATA_TABLE_CLIENT.query_entities(query_filter)
+    for row in entities:
+        provider_email = row['From']
+        subject = row['Subject']
+        return provider_email, subject
+    return None, None
+
+def format_time_for_vso(time_string):
+    dt = datetime.strptime(time_string, '%Y-%m-%d %H:%M')
+    formatted_dt = dt.isoformat(timespec='milliseconds') + 'Z'
+    return formatted_dt
+
+def create_vso(activity_id):
+    query_filter = f"RowKey eq '{activity_id}'"
+    entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
+
+    for row in entities:
+        if "new" in row['NotificationType'].lower():
+            email_id = row['EmailId']
+            circuit_ids = row['CircuitIds'].split(",")
+
+            from_email, subject = get_email_info(email_id)
+            devices = get_devices_for_circuits(circuit_ids)
+
+            start_time = format_time_for_vso(row['StartDatetime'])
+            end_time = format_time_for_vso(row['EndDatetime'])
+            
+            reason = row['MaintenanceReason']
+            location = row['GeographicLocation']
+            description = f"{location}\n{reason}\n\n{subject}"
+
+            create_new_maintenance_vso(from_email, start_time, end_time, circuit_ids, devices, description, location)
+        break
+
+@app.route('/createvsos', methods=['GET'])
+def generate_summaries_by_time_range():
+    activity_ids = request.args.get('ids', default='').replace("'", "").split(",")
+
+    vsos = []
+    for id in activity_ids:
+        vsos.append(create_vso(id))
+
+    return vsos
 
 auto_summaries = threading.Thread(target=generate_summaries_periodically)
 auto_summaries.daemon = True
