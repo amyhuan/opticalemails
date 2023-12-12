@@ -13,3 +13,16 @@ az acr login --name opticaldata
 for /f "delims=" %a in ('git rev-parse --short HEAD') do set GIT_COMMIT=%a
 docker build -t opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT% . 
 docker push opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT%
+
+
+curl "localhost:80/ids?start='2023-12-11T14:00:00Z'&end='2023-12-11T15:00:00Z'"
+curl "localhost:80/justids?start='2023-12-11T00:00:00Z'&end='2023-12-11T10:00:00Z'"  
+
+curl "localhost:80/summarize?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVLNqiAAA='"
+
+curl "localhost:80/summarizeforce?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVLNqiAAA='"
+
+curl "localhost:80/summaries?start='2023-12-11T00:00:00Z'&end='2023-12-11T10:00:00Z'"  
+
+
+pip freeze > requirements.txt
