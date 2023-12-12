@@ -91,7 +91,7 @@ def summarize_email(email_html):
             messages=[
                 {"role": "system", "content": """Each message you will get contains the contents of a fiber provider maintenance email update. 
                 Return a TSV summarizing the maintenances mentioned with the following header column names. Each distinct maintenance should have exactly
-                one start time and end time, and have its own row in the TSV.
+                one start time and end time, and have its own row in the TSV. Include every header even if there are no associated values for it.
                 1) CircuitIds - Fiber circuit IDs affected. Separate multiple IDs with newlines.
                 2) StartDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
                 3) EndDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
@@ -111,38 +111,8 @@ def summarize_email(email_html):
         )
     return res.choices[0].message.content
 
-@app.route('/summarize', methods=['GET'])
-def get_email_summary():
-    ids = request.args.get('ids', default='').split(',')
-
-    summaries = []
-    for id in ids:
-        clean_id = id.replace("'", "")
-        print(f"Summarizing email {clean_id}")
-        try:
-            query_filter = f"EmailId eq '{clean_id}'"
-            entities = EMAIL_METADATA_TABLE_CLIENT.query_entities(query_filter)
-            if len(entities) > 0:
-                    print("Summary exists in table")
-            else: 
-                print(f"Summary doesn't exist, creating new one now")
-                email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
-
-                email_body_text = parse_html_blob(email_body_blob)
-                print(f"Email body retrieved")
-
-                summary = summarize_email(email_body_text)
-                summaries.append(summary)
-                print(f"Summary generated")
-
-                upload_email_summary(summary, clean_id)
-                print(f"Summary uploaded")
-
-        except Exception as e:
-            print(e)
-            continue
-    return summaries
-
+# Generate new summary and upload it regardless of if one exists already
+# Don't catch errors so we can see full stack trace
 @app.route('/summarizeforce', methods=['GET'])
 def get_email_summary_force():
     ids = request.args.get('ids', default='').split(',')
@@ -151,34 +121,74 @@ def get_email_summary_force():
     for id in ids:
         clean_id = id.replace("'", "")
         print(f"Summarizing email {clean_id}")
-        try:
-            # summary_blob_client = get_blob_client(STORAGE_CONNECTION_STRING, 'email-summaries', clean_id)
-           
-            print(f"Writing new summary")
-            email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
-            email_body_text = parse_html_blob(email_body_blob)
-            print(f"Email body retrieved")
-            summary = summarize_email(email_body_text)
-            summaries.append(summary)
-            print(f"Summary generated")
+        
+        print(f"Writing new summary")
+        email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
+        email_body_text = parse_html_blob(email_body_blob)
+        print(f"Email body retrieved")
+        summary = summarize_email(email_body_text)
+        summaries.append(summary)
+        print(f"Summary generated")
 
-            # summary_blob_client.upload_blob(summary)
-            upload_email_summary(summary, clean_id)
-            print(f"Summary uploaded")
+        upload_email_summary(summary, clean_id)
+        print(f"Summary uploaded")
+    return summaries
+
+@app.route('/summarize', methods=['GET'])
+def get_email_summary():
+    ids = request.args.get('ids', default='').split(',')
+
+    all_summaries = []
+
+    for id in ids:
+        clean_id = id.replace("'", "")
+        print(f"Summarizing email {clean_id}")
+        try:
+                query_filter = f"EmailId eq '{clean_id}'"
+                entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
+                entity_list = [ent for ent in entities]
+
+                if len(entity_list) > 0:
+                    print("Summary exists in table")
+                    # get summaries as list
+                    all_summaries.append(entity_list)
+                    continue
+            
+                print(f"Summary doesn't exist, creating new one now")
+                email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
+
+                email_body_text = parse_html_blob(email_body_blob)
+                print(f"Email body retrieved")
+
+                summary_tsv = summarize_email(email_body_text)
+                print(f"Summary generated")
+
+                summaries = upload_email_summary(summary_tsv, clean_id)
+                all_summaries.append(summaries)
+                print(f"Summary uploaded")
 
         except Exception as e:
             print(e)
+            raise e
             continue
-    return summaries
+    return all_summaries
 
 def upload_email_summary(summary, email_id):
+    summaries = []
+
     try:
         rows = summary.split('\n')
-        row_key = str(uuid.uuid4())
 
         for row in rows[1:]:
-            new_entity = {}
             values = row.split("\t")
+            if len(values) != len(EMAIL_SUMMARY_HEADERS):
+                continue
+
+            row_key = str(uuid.uuid4())
+            new_entity = {}
+            
+            print(EMAIL_SUMMARY_HEADERS)
+            print(values)
             for i, header in enumerate(EMAIL_SUMMARY_HEADERS):
                 new_entity[header] = values[i]
 
@@ -186,10 +196,14 @@ def upload_email_summary(summary, email_id):
             new_entity["PartitionKey"] = row_key
             new_entity["EmailId"] = email_id
 
+            summaries.append(new_entity)
             MAINTENANCE_TABLE_CLIENT.create_entity(entity=TableEntity(**new_entity))
         
     except Exception as e:
         print(e)
+        raise e
+
+    return summaries
 
 @app.route('/ids', methods=['GET'])
 def get_email_metadata():
