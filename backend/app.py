@@ -13,13 +13,8 @@ from bs4 import BeautifulSoup
 from azure.storage.blob import BlobServiceClient
 from azure.data.tables import TableServiceClient
 from openai import AzureOpenAI
-from flask_socketio import SocketIO, send, emit
+from flask_socketio import SocketIO
 import os
-from azure.identity import DefaultAzureCredential
-from azure.keyvault.keys import KeyClient
-from azure.keyvault.keys.crypto import CryptographyClient, EncryptionAlgorithm
-from cryptography.hazmat.primitives import hashes
-from cryptography.hazmat.primitives.asymmetric import padding
 import uuid
 from azure.data.tables import TableEntity
 

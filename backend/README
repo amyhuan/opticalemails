@@ -23,3 +23,6 @@ curl "localhost:80/summarize?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2Zj
 curl "localhost:80/summarizeforce?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVLNqiAAA='"
 
 curl "localhost:80/summaries?start='2023-12-11T00:00:00Z'&end='2023-12-11T10:00:00Z'"  
+
+
+pip freeze > requirements.txt
