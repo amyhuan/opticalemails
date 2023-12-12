@@ -111,29 +111,6 @@ def summarize_email(email_html):
         )
     return res.choices[0].message.content
 
-# Generate new summary and upload it regardless of if one exists already
-# Don't catch errors so we can see full stack trace
-@app.route('/summarizeforce', methods=['GET'])
-def get_email_summary_force():
-    ids = request.args.get('ids', default='').split(',')
-
-    summaries = []
-    for id in ids:
-        clean_id = id.replace("'", "")
-        print(f"Summarizing email {clean_id}")
-        
-        print(f"Writing new summary")
-        email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
-        email_body_text = parse_html_blob(email_body_blob)
-        print(f"Email body retrieved")
-        summary = summarize_email(email_body_text)
-        summaries.append(summary)
-        print(f"Summary generated")
-
-        upload_email_summary(summary, clean_id)
-        print(f"Summary uploaded")
-    return summaries
-
 def summarize_emails(ids):
     all_summaries = []
 
@@ -165,6 +142,29 @@ def summarize_emails(ids):
         print(f"Summary uploaded")
 
     return all_summaries
+
+# Generate new summary and upload it regardless of if one exists already
+# Don't catch errors so we can see full stack trace
+@app.route('/summarizeforce', methods=['GET'])
+def get_email_summary_force():
+    ids = request.args.get('ids', default='').split(',')
+
+    summaries = []
+    for id in ids:
+        clean_id = id.replace("'", "")
+        print(f"Summarizing email {clean_id}")
+        
+        print(f"Writing new summary")
+        email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
+        email_body_text = parse_html_blob(email_body_blob)
+        print(f"Email body retrieved")
+        summary = summarize_email(email_body_text)
+        summaries.append(summary)
+        print(f"Summary generated")
+
+        upload_email_summary(summary, clean_id)
+        print(f"Summary uploaded")
+    return summaries
 
 # Summarize emails specified by IDs. Don't generate a new summary if one exists already
 @app.route('/summarize', methods=['GET'])
@@ -202,6 +202,7 @@ def upload_email_summary(summary, email_id):
 
     return summaries
 
+# Get email metadata for a time range
 @app.route('/ids', methods=['GET'])
 def get_email_metadata():
     start = request.args.get('start', default='').replace("'", "")
@@ -241,7 +242,6 @@ def generate_summaries_by_time_range():
     ids = [f"'{id}'" for id in email_dict]
 
     return summarize_emails(ids)
-
 
 if __name__ == "__main__":
     socketio.run(app, allow_unsafe_werkzeug=True, debug=True, port=80, host="0.0.0.0")
