@@ -290,11 +290,12 @@ def create_vso(activity_id):
             location = row['GeographicLocation']
             description = f"{location}\n{reason}\n\n{subject}"
 
-            create_new_maintenance_vso(from_email, start_time, end_time, circuit_ids, devices, description, location)
-        break
+            new_vso = create_new_maintenance_vso(from_email, start_time, end_time, circuit_ids, devices, description, location)
+            return new_vso.id
+    return None
 
 @app.route('/createvsos', methods=['GET'])
-def generate_summaries_by_time_range():
+def create_vsos_by_activity_id():
     activity_ids = request.args.get('ids', default='').replace("'", "").split(",")
 
     vsos = []
