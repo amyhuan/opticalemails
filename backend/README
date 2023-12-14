@@ -32,5 +32,5 @@ curl "localhost:80/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU
 
 curl "localhost:80/justids?start='2023-12-11T00:00:00Z'&end='2023-12-11T05:00:00Z'"
 curl "localhost:80/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bA"
-https://opticalemails-backend.azurewebsites.net/justids?start='2023-12-11T00:00:00Z'&end='2023-12-11T05:00:00Z'"  
-https://opticalemails-backend.azurewebsites.net/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bA"
+https://opticalemails-backend.azurewebsites.net/justids?start='2023-12-13T00:00:00Z'&end='2023-12-14T00:00:00Z'"  
+https://opticalemails-backend.azurewebsites.net/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWV-nw0AAA='"
