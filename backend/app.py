@@ -16,7 +16,7 @@ from openai import AzureOpenAI
 from flask_socketio import SocketIO
 import os
 import uuid
-from azure.data.tables import TableEntity
+from azure.data.tables import TableEntity, UpdateMode
 import time
 from datetime import datetime
 import threading
@@ -140,7 +140,7 @@ def summarize_emails(ids):
         entity_list = [ent for ent in entities]
 
         if len(entity_list) > 0:
-            print("Summary exists in table")
+            print("Summaries exist in table for this email")
             # get summaries as list
             all_summaries.append(entity_list)
             continue
@@ -271,36 +271,77 @@ def format_time_for_vso(time_string):
     formatted_dt = dt.isoformat(timespec='milliseconds') + 'Z'
     return formatted_dt
 
-def create_vso(activity_id):
+def get_or_create_vso(activity_id):
+    print(f"beginning '{activity_id}'")
     query_filter = f"RowKey eq '{activity_id}'"
     entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
 
     for row in entities:
-        if "new" in row['NotificationType'].lower():
-            email_id = row['EmailId']
-            circuit_ids = row['CircuitIds'].split(",")
+        vso_id = row["VsoId"]
+        if vso_id and not vso_id.isspace():
+            print(f"Found vso ID {vso_id}")
+            return vso_id
+        else:
+            print(f"Creating new VSO")
+            if "new" in row['NotificationType'].lower():
+                # get activity details
+                email_id = row['EmailId']
+                circuit_ids = row['CircuitIds'].split(",")
 
-            from_email, subject = get_email_info(email_id)
-            devices = get_devices_for_circuits(circuit_ids)
+                from_email, subject = get_email_info(email_id)
+                devices = get_devices_for_circuits(circuit_ids)
 
-            start_time = format_time_for_vso(row['StartDatetime'])
-            end_time = format_time_for_vso(row['EndDatetime'])
-            
-            reason = row['MaintenanceReason']
-            location = row['GeographicLocation']
-            description = f"{location}\n{reason}\n\n{subject}"
+                start_time = format_time_for_vso(row['StartDatetime'])
+                end_time = format_time_for_vso(row['EndDatetime'])
+                
+                reason = row['MaintenanceReason']
+                location = row['GeographicLocation']
+                description = f"{location}\n{reason}\n\n{subject}"
 
-            new_vso = create_new_maintenance_vso(from_email, start_time, end_time, circuit_ids, devices, description, location)
-            return new_vso.id
+                # create new VSO
+                new_vso = create_new_maintenance_vso(from_email, start_time, end_time, circuit_ids, devices, description, location)
+                new_vso_id = new_vso.id
+                print(f"Created new VSO {new_vso}")
+
+                # update VSO id
+                updated_entity = {
+                    'PartitionKey': row['PartitionKey'],
+                    'RowKey': row['RowKey'],
+                    'VsoId': new_vso_id
+                }
+                MAINTENANCE_TABLE_CLIENT.update_entity(mode=UpdateMode.MERGE, entity=updated_entity)
+                print(f"Updated activity detail table with ID {new_vso_id}")
+                return new_vso_id
+            else:
+                return "No new maintenance scheduled"
+                
+    print(f"No summary found for {activity_id}")
     return None
 
 @app.route('/createvsos', methods=['GET'])
 def create_vsos_by_activity_id():
     activity_ids = request.args.get('ids', default='').replace("'", "").split(",")
 
-    vsos = []
+    vso_ids = []
     for id in activity_ids:
-        vsos.append(create_vso(id))
+        vso_ids.append(get_or_create_vso(id))
+
+    return vso_ids
+
+@app.route('/emailstovsos', methods=['GET'])
+def email_ids_to_vso_ids():
+    email_ids = request.args.get('ids', default='').replace("'", "").split(",")
+
+    vsos = {}
+    summaries = summarize_emails(email_ids)
+    for sum_list in summaries:
+        for summary in sum_list:
+            print(summary)
+            activity_id = summary["RowKey"]
+            print(f"in for loop '{activity_id}'")
+            email_id = summary["EmailId"]
+            vso_id = get_or_create_vso(activity_id)
+            vsos[email_id] = vso_id
 
     return vsos
 
