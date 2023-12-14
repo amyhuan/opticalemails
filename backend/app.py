@@ -278,7 +278,7 @@ def get_or_create_vso(activity_id):
 
     for row in entities:
         vso_id = row["VsoId"]
-        if vso_id and not vso_id.isspace():
+        if vso_id and vso_id > 0:
             print(f"Found vso ID {vso_id}")
             return vso_id
         else:
