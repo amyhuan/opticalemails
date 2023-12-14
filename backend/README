@@ -4,7 +4,7 @@ pip install -r requirements.txt
 
 create .env file with these variables:
 
-API_KEY - openai key https://ms.portal.azure.com/#@microsoft.onmicrosoft.com/resource/subscriptions/e7cc6a8c-618e-4d1e-9c0d-df412c47b7e9/resourceGroups/amyhuan/providers/Microsoft.CognitiveServices/accounts/amyhuan-openai/cskeys
+API_KEY - openai key https://ms.portal.azure.com/#@microsoft.onmicrosoft.com/resource/subscriptions/e7cc6a8c-618e-4d1e-9c0d-df412c47b7e9/resourpyceGroups/amyhuan/providers/Microsoft.CognitiveServices/accounts/amyhuan-openai/cskeys
 STORAGE_CONNECTION_STRING - storage account connection string
 
 deploy to azure container registry:
@@ -28,4 +28,9 @@ curl "localhost:80/summaries?start='2023-12-11T00:00:00Z'&end='2023-12-11T10:00:
 https://opticalemails-backend.azurewebsites.net/summaries?start='2023-12-01T00:00:00Z'&end='2023-12-11T10:00:00Z'"  
 
 curl "localhost:80/justids?start='2023-12-10T00:00:00Z'&end='2023-12-10T10:00:00Z'" 
-curl "localhost:80/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWU5VtNAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVIS3HAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVIS3IAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVIS3JAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVLNqiAAA='" 
+curl "localhost:80/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWU5VtNAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVIS3HAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVIS3IAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVIS3JAAA=','AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bAQpmFRSlGrm2VAATCzuMgAAC0FWszW4bAQpmFRSlGrm2VAAWVLNqiAAA='"
+
+curl "localhost:80/justids?start='2023-12-11T00:00:00Z'&end='2023-12-11T05:00:00Z'"
+curl "localhost:80/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bA"
+https://opticalemails-backend.azurewebsites.net/justids?start='2023-12-11T00:00:00Z'&end='2023-12-11T05:00:00Z'"  
+https://opticalemails-backend.azurewebsites.net/emailstovsos?ids='AAMkADA4OTlkZDU2LTAzZDYtNDQyMC04NzA3LTg1YzU2ZjQ2Yjc5MwBGAAAAAAAbzJAa14j0RZByGR-NLF-WBwC0FWszW4bA"

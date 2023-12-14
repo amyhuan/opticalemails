@@ -114,6 +114,7 @@ def get_vso_info():
     print(work_item.fields['System.Id'])
     print(work_item.fields['Microsoft.VSTS.Scheduling.FinishDate'])
     print(work_item.fields['Microsoft.VSTS.Scheduling.StartDate'])
+    print(work_item.fields['System.AssignedTo'])
 
 def create_vso_ticket(title, description, work_item_type, project, circuits, phynet_devices, start_time, end_time, location):
     organization = 'https://dev.azure.com/msazure'
@@ -121,7 +122,7 @@ def create_vso_ticket(title, description, work_item_type, project, circuits, phy
     connection = Connection(base_url=organization, creds=credentials)
     wit_client = connection.clients.get_work_item_tracking_client()
     document = [
-        JsonPatchOperation(op="add", path="/fields/System.Title", value=title),
+        JsonPatchOperation(op="add", path="/fields/System.Title", value=f"[TEST] {title}"),
         JsonPatchOperation(op="add", path="/fields/System.Description", value=description),
         JsonPatchOperation(op="add", path="/fields/System.WorkItemType", value=work_item_type),
         JsonPatchOperation(op="add", path="/fields/System.TeamProject", value=project),
@@ -132,6 +133,7 @@ def create_vso_ticket(title, description, work_item_type, project, circuits, phy
         JsonPatchOperation(op="add", path="/fields/PhyNet.Datacenter", value=location),
         JsonPatchOperation(op="add", path="/fields/Microsoft.VSTS.Scheduling.StartDate", value=start_time),
         JsonPatchOperation(op="add", path="/fields/Microsoft.VSTS.Scheduling.FinishDate", value=end_time),
+        JsonPatchOperation(op="add", path="/fields/System.AssignedTo", value="amyhuan@microsoft.com"),
     ]
     work_item = wit_client.create_work_item(document=document, project=project, type=work_item_type)
     return work_item
@@ -164,9 +166,11 @@ def test_vso_creation():
                                          ['ear06.mrs20', 'mil30-96cbe-1b', 'ear05.mrs20', 'mil30-96cbe-1a'],
                                          "Email Metadata and Body text here. New maintenance scheduled by provider.",
                                          "GeographicLocation")
-    print(new_vso.id)
+    print(new_vso)
 
 if __name__ == '__main__':
     test_ids = ['MSFT-CH1B-DM5B-MSCG-0019-0::100GBE-1', 'XBG/MRS/LE-268957', 'NVADF052-Span26-002', 'mnz20-bl7-iad069-west-01osp', 'NVADF052-21/22', 'MICR2-AKMH', 'NVADF052-Span129-001', 'F19M-0097756_017-018']
-    devices_for_test_ids = get_devices_for_circuits(test_ids)
-    print(devices_for_test_ids)
+    # devices_for_test_ids = get_devices_for_circuits(test_ids)
+    # print(devices_for_test_ids)
+    # get_vso_info()
+    test_vso_creation()

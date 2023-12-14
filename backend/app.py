@@ -51,15 +51,38 @@ def summarize_emails_in_range(start, end):
 
 def generate_summaries_periodically():
     while True:
-        # Make summaries for past 80 minutes
-        num_minutes = 80
-        now = datetime.now(pytz.utc)
-        then = datetime.now(pytz.utc) - timedelta(minutes=num_minutes)
-        sums = summarize_emails_in_range(then.isoformat(), now.isoformat())
-        print(f"Summarized {len(sums)} emails from the past {num_minutes} minutes")
+        try:
+            # Make summaries for past 80 minutes
+            num_minutes = 80
+            now = datetime.now(pytz.utc)
+            then = datetime.now(pytz.utc) - timedelta(minutes=num_minutes)
+            sums = summarize_emails_in_range(then.isoformat(), now.isoformat())
+            print(f"Summarized {len(sums)} emails from the past {num_minutes} minutes")
 
-        # Check for new summaries to make every 60 minutes
-        time.sleep(360)
+            # Check for new summaries to make every 60 minutes
+            time.sleep(360)
+        except Exception as e:
+            print(e)   
+
+def generate_vsos_periodically():
+    # wait a bit before checking so that it doesn't start at the same time as summary generation
+    time.sleep(10)
+    while True:
+        try:
+            # Make summaries for past 80 minutes
+            num_minutes = 80
+            now = datetime.now(pytz.utc)
+            then = datetime.now(pytz.utc) - timedelta(minutes=num_minutes)
+            email_dict = emails_by_time_range(then.isoformat(), now.isoformat())
+            if len(email_dict.keys()) > 0:
+                email_ids = ",".join([f"'{id}'" for id in email_dict])
+                vso_ids = get_vso_ids_for_emails(email_ids)
+            print(f"Made {len(vso_ids)} vsos from the past {num_minutes} minutes of emails: {vso_ids}")
+
+            # Check for new summaries to make every 60 minutes
+            time.sleep(360)
+        except Exception as e:
+            print(e)  
 
 def emails_by_time_range(start_time, end_time):
     query_filter = f"TimeReceived ge '{start_time}' and TimeReceived le '{end_time}'"
@@ -133,6 +156,10 @@ def summarize_emails(ids):
 
     for id in ids:
         clean_id = id.replace("'", "")
+        print(f"clean id: '{clean_id}'")
+        if not clean_id or clean_id.isspace():
+            print(f"Email ID is empty, skipping: '{clean_id}'")
+            continue
         print(f"Summarizing email {clean_id}")
 
         query_filter = f"EmailId eq '{clean_id}'"
@@ -278,7 +305,7 @@ def get_or_create_vso(activity_id):
 
     for row in entities:
         vso_id = row["VsoId"]
-        if vso_id and not vso_id.isspace():
+        if vso_id:
             print(f"Found vso ID {vso_id}")
             return vso_id
         else:
@@ -328,12 +355,9 @@ def create_vsos_by_activity_id():
 
     return vso_ids
 
-@app.route('/emailstovsos', methods=['GET'])
-def email_ids_to_vso_ids():
-    email_ids = request.args.get('ids', default='').replace("'", "").split(",")
-
+def get_vso_ids_for_emails(ids):
     vsos = {}
-    summaries = summarize_emails(email_ids)
+    summaries = summarize_emails(ids)
     for sum_list in summaries:
         for summary in sum_list:
             print(summary)
@@ -341,11 +365,21 @@ def email_ids_to_vso_ids():
             print(f"in for loop '{activity_id}'")
             email_id = summary["EmailId"]
             vso_id = get_or_create_vso(activity_id)
-            vsos[email_id] = vso_id
-
+            if email_id not in vsos:
+                vsos[email_id] = []
+            vsos[email_id].append(vso_id)
     return vsos
 
+@app.route('/emailstovsos', methods=['GET'])
+def email_ids_to_vso_ids():
+    email_ids = request.args.get('ids', default='').replace("'", "").split(",")
+    return get_vso_ids_for_emails(email_ids)
+
 auto_summaries = threading.Thread(target=generate_summaries_periodically)
+auto_summaries.daemon = True
+auto_summaries.start()
+
+auto_summaries = threading.Thread(target=generate_vsos_periodically)
 auto_summaries.daemon = True
 auto_summaries.start()
 
