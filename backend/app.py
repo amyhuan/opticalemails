@@ -61,6 +61,22 @@ def generate_summaries_periodically():
         # Check for new summaries to make every 60 minutes
         time.sleep(360)
 
+def generate_vsos_periodically():
+    # wait a bit before checking so that it doesn't start at the same time as summary generation
+    time.sleep(100)
+    while True:
+        # Make summaries for past 80 minutes
+        num_minutes = 80
+        now = datetime.now(pytz.utc)
+        then = datetime.now(pytz.utc) - timedelta(minutes=num_minutes)
+        email_dict = emails_by_time_range(then.isoformat(), now.isoformat())
+        email_ids = ",".join([f"'{id}'" for id in email_dict])
+        vso_ids = email_ids_to_vso_ids(email_ids)
+        print(f"Made {len(vso_ids)} vsos from the past {num_minutes} minutes of emails")
+
+        # Check for new summaries to make every 60 minutes
+        time.sleep(360)
+
 def emails_by_time_range(start_time, end_time):
     query_filter = f"TimeReceived ge '{start_time}' and TimeReceived le '{end_time}'"
     entities = EMAIL_METADATA_TABLE_CLIENT.query_entities(query_filter)
@@ -278,7 +294,7 @@ def get_or_create_vso(activity_id):
 
     for row in entities:
         vso_id = row["VsoId"]
-        if vso_id and vso_id > 0:
+        if vso_id:
             print(f"Found vso ID {vso_id}")
             return vso_id
         else:
@@ -341,11 +357,17 @@ def email_ids_to_vso_ids():
             print(f"in for loop '{activity_id}'")
             email_id = summary["EmailId"]
             vso_id = get_or_create_vso(activity_id)
-            vsos[email_id] = vso_id
+            if email_id not in vsos:
+                vsos[email_id] = []
+            vsos[email_id].append(vso_id)
 
     return vsos
 
 auto_summaries = threading.Thread(target=generate_summaries_periodically)
+auto_summaries.daemon = True
+auto_summaries.start()
+
+auto_summaries = threading.Thread(target=generate_vsos_periodically)
 auto_summaries.daemon = True
 auto_summaries.start()
 
