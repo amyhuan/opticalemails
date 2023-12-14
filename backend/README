@@ -11,11 +11,8 @@ deploy to azure container registry:
 
 az acr login --name opticaldata
 for /f "delims=" %a in ('git rev-parse --short HEAD') do set GIT_COMMIT=%a
-For /f "tokens=1-2 delims=/:" %%a in ("%TIME%") do (set mytime=%%a%%b)
-For /f "tokens=1-2 delims=/:" %%a in ('time /t') do (set mytime=%%a%%b)
-echo %mydate%_%mytime%
-docker build -t opticaldata.azurecr.io/opticalemails-backend:%mydate%_%mytime%_%GIT_COMMIT% . 
-docker push opticaldata.azurecr.io/opticalemails-backend:%mydate%_%mytime%_%GIT_COMMIT%
+docker build -t opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT% . 
+docker push opticaldata.azurecr.io/opticalemails-backend:%GIT_COMMIT%
 
 
 pip freeze > requirements.txt
