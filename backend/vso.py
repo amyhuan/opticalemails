@@ -33,7 +33,7 @@ def get_devices_for_circuits(circuit_ids):
                     for device in data['additional_info'][1]:
                         device_list.append(device['StartDevice'])
                         device_list.append(device['EndDevice'])
-                    print(device_list)
+                    return device_list
                 elif 'device_records_exist' in data:
                     for i in data['circuit_details']:
                         if 'OpticalDeviceA' in i and 'OpticalDeviceZ' in i:

@@ -75,8 +75,7 @@ def generate_vsos_periodically():
             then = datetime.now(pytz.utc) - timedelta(minutes=num_minutes)
             email_dict = emails_by_time_range(then.isoformat(), now.isoformat())
             if len(email_dict.keys()) > 0:
-                email_ids = ",".join([f"'{id}'" for id in email_dict])
-                vso_ids = get_vso_ids_for_emails(email_ids)
+                vso_ids = get_vso_ids_for_emails(email_dict.keys())
             print(f"Made {len(vso_ids)} vsos from the past {num_minutes} minutes of emails: {vso_ids}")
 
             # Check for new summaries to make every 60 minutes
@@ -153,38 +152,40 @@ def summarize_email(email_html):
 
 def summarize_emails(ids):
     all_summaries = []
+    try:
+        for id in ids:
+            clean_id = id.replace("'", "")
+            print(f"clean id: '{clean_id}'")
+            if not clean_id or clean_id.isspace():
+                print(f"Email ID is empty, skipping: '{clean_id}'")
+                continue
+            print(f"Summarizing email {clean_id}")
 
-    for id in ids:
-        clean_id = id.replace("'", "")
-        print(f"clean id: '{clean_id}'")
-        if not clean_id or clean_id.isspace():
-            print(f"Email ID is empty, skipping: '{clean_id}'")
-            continue
-        print(f"Summarizing email {clean_id}")
+            query_filter = f"EmailId eq '{clean_id}'"
+            entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
+            entity_list = [ent for ent in entities]
 
-        query_filter = f"EmailId eq '{clean_id}'"
-        entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
-        entity_list = [ent for ent in entities]
+            if len(entity_list) > 0:
+                print("Summaries exist in table for this email")
+                # get summaries as list
+                all_summaries.append(entity_list)
+                continue
+        
+            print(f"Summary doesn't exist, creating new one now. Retrieving body of email {clean_id}")
+            email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
 
-        if len(entity_list) > 0:
-            print("Summaries exist in table for this email")
-            # get summaries as list
-            all_summaries.append(entity_list)
-            continue
+            email_body_text = parse_html_blob(email_body_blob)
+            print(f"Email body retrieved")
+
+            summary_tsv = summarize_email(email_body_text)
+            print(f"Summary generated")
+
+            summaries = upload_email_summary(summary_tsv, clean_id)
+            all_summaries.append(summaries)
+            print(f"Summary uploaded")
+    except Exception as e:
+        print(e)
     
-        print(f"Summary doesn't exist, creating new one now")
-        email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
-
-        email_body_text = parse_html_blob(email_body_blob)
-        print(f"Email body retrieved")
-
-        summary_tsv = summarize_email(email_body_text)
-        print(f"Summary generated")
-
-        summaries = upload_email_summary(summary_tsv, clean_id)
-        all_summaries.append(summaries)
-        print(f"Summary uploaded")
-
     return all_summaries
 
 # Generate new summary and upload it regardless of if one exists already
@@ -356,6 +357,7 @@ def create_vsos_by_activity_id():
     return vso_ids
 
 def get_vso_ids_for_emails(ids):
+    print(f"Getting VSOs for email ids: {ids}")
     vsos = {}
     summaries = summarize_emails(ids)
     for sum_list in summaries:
