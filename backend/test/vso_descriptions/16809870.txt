@@ -1,0 +1,54 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1611973
+
+
+Work Start Date/Time:  07-02-2023 01:00:00 AEDT
+
+Work End Date/Time:     07-02-2023 07:00:00 AEDT
+      
+
+Location:            Pimpama QLD
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 6 Hours
+ 
+
+Description of Work:  
+
+ 
+
+Major fibre works to replace the damaged cable.
+
+Vocus Ref: (RW00715)
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE189689	Vocus Wavelength (AUD)
+VWE189693	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

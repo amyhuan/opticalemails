@@ -1,0 +1,51 @@
+URGENT PLANED NETWORK
+MAINTENANCE NOTIFICATION	
+
+ATTENTION	MORATEL INTERNATIONAL PTE.LTD
+SUB CATEGORY
+
+Planned Network Maintenance - High Urgent Maintenance
+DESCRIPTION
+
+TT ID NUMBER
+
+WTD-23041750
+PLANNED START DATE/TIME
+
+Wednesday, May 10, 2023 00:00 (GMT+7)
+PLANNED END DATE/TIME
+
+Wednesday, May 10, 2023 13:00 (GMT+7)
+DURATION
+
+780 Minutes
+DOWN TIME
+
+0 Minutes
+ACTIVITY DESCRIPTION
+
+Submarine Link Reconfiguration For Segment Pesaren - Tanjung Bembam ( NSA, already reroute to another link )
+SERVICES IMPACT
+
+NSA
+LINK IMPACT
+
+SuperNAP Jakarta, MTI OTB Cyber CDC - LL SINGAPORE 400G ( NSA )
+CID
+
+1711130200071837, 1711130200054446, 1711130200071839, 1711130200071838 ( NSA )
+CONTACTS
+
+If you have any inquiry regarding this maintenance activity, please contact us to Moratel Hotline Customer Support +62 21 40700 700 or send email to cs@moratelindo.co.id
+
+
+
+Best Regards,
+
+Customer Care
+PT. Mora Telematika Indonesia Tbk
+Grha 9, 4rd Floor, Jalan Panataran No. 9
+Jakarta Pusat 10320, INDONESIA
+Telp : +62-21 40700700;
+E-Mail : cs@moratelindo.co.id
+Web : http://www.moratelindo.co.id

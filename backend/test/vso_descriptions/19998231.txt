@@ -1,0 +1,13 @@
+Dear valued customers,
+
+Thank you for using our IX services.
+Please be advised that JPIX will have a maintenance as following.
+
+[Overview]
+  IX equipment Maintenance.
+  In this maintenance, we will switch over to the alternative switch by "optical switching system" manually.
+
+[Maintenance Window (JST(UTC +9))]
+  May 31st, 2023 03:00 - 05:00
+  (This switching will complete less than 1 second.)
+  Note:The time to Link Up and to BGP Peer Up depends on each environment.

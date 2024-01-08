@@ -1,0 +1,39 @@
+MOC-
+
+Start Time (PST): 4/13/2023 10:00:00 PM
+End Time (PST): 4/14/2023 3:00:00 AM
+Maintenance Length: 5 Hours
+Location: ARKDARBYARK1IAMS079 <-> NLRKAR41LIT1IAMS080
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Lumen PSCC will disaptch to clean, invesigate the ORM ports and the fiber to bring the ESL to 27 dB.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+ITAR Circuit Impacts
+
+MSFT-BN6A-CY4B-ITAR-0005-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0006-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0007-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0008-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0001-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0002-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0003-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0004-0::100GBE-1
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com

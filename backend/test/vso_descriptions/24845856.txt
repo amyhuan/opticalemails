@@ -1,0 +1,73 @@
+PLANNED START ( with time zone )  ,  ,  , 2023-08-29 00:00:00 (GMT +8),  ,  ,  , Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 19/08/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230809-0021: RELOCATION FOC 96C GEMENCHEH-GEMAS J A(MYTV) TO NEW CIVIL DUE CHANGE NEW BRIDGE BY 3RD PARTY (JKR TAMPIN)
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+N.SEMBILAN (SOUTHERN)
+
+PLANNED START ( with time zone )  
+
+2023-08-21 00:00:00 (GMT +8)
+
+PLANNED END
+
+2023-08-21 06:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-08-21 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-08-21 06:00:00
+
+EXPECTED OUTAGE DURATION
+
+2 Hours /*SERVICE PROTECTED (Switching hits)
+
+JUSTIFICATION
+
+RELOCATION FOC 96C GEMENCHEH-GEMAS J A(MYTV) TO NEW CIVIL DUE CHANGE NEW BRIDGE (FT001/226/10 SG.GEMENCHEH ) BY 3RD PARTY (JKR TAMPIN).
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1033104610
+
+2 Hours
+
+IR1033213076
+
+2 Hours
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.

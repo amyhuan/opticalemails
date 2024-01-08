@@ -1,0 +1,22 @@
+Google Emergency Network Maintenance Notification - Reference PCR/760094
+This message was sent to: [Ingrid.Erkman@microsoft.com Noraini.Ayop@microsoft.com nikang@microsoft.com ioc@microsoft.com gatharej@microsoft.com]
+These addresses were selected from the Google ISP Portal. You can update your preferences by navigating to "Configuration > Contacts" and adjusting Email Subscriptions for each user. You can find additional details about Contacts here.
+
+
+Details:
+Start Time: 2023-12-12 00:31:13 +0000 UTC
+End Time: 2023-12-12 03:41:13 +0000 UTC
+Duration: 3h10m0s
+Google ASN:	15169	Peer ASN:	8075
+Google Neighbor Address(es):	104.44.57.100	Peer Neighbor Address(es):	104.44.57.101
+Google Neighbor Address(es):	2a01:111:2000:1::3bc9	Peer Neighbor Address(es):	2a01:111:2000:1::3bca
+Google systems will automatically re-route the traffic away from the peering link(s) under maintenance.
+
+Depending on the nature of the work, your BGP session with Google may stay up through the maintenance window. Traffic may shift to alternate sessions with Google and/or your upstream provider(s).
+
+Questions about this event can be sent to noc@google.com.
+
+Thank you for peering with Google!
+
+
+PRIVILEGE AND CONFIDENTIALITY NOTICE: The information in this e-mail communication and any attached documents may be privileged, confidential or otherwise protected from disclosure and is intended only for the use of the designated recipient(s). If the reader is neither the intended recipient nor an employee or agent thereof who is responsible for delivering it to the intended recipient, you are hereby notified that any review, dissemination, distribution, copying or other use of this communication is strictly prohibited. If you have received this communication in error, please immediately notify us by return e-mail and promptly delete the original electronic e-mail communication and any attached documentation. Receipt by anyone other than the intended recipient is not a waiver of any attorney-client or work-product privilege.

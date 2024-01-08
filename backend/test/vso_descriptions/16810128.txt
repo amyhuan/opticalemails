@@ -1,0 +1,38 @@
+Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noreply@exainfra.net,noreply@exainfra.net,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00169880 - Rescheduled
+Please note that the Planned Work is rescheduled. Please see details of the work and impact on your service below.
+
+
+Reschedule Reason:
+Dear customer , Please be advised that activity has been rescheduled due to unforeseen condition.
+
+
+Details:
+Start	- Mon Jan 30 22:00:00 GMT 2023
+End	- Tue Jan 31 05:00:00 GMT 2023
+Location	Between Orbetello and Civitavecchia, Italy
+
+Planned work Reason:
+Fiber works in our network. During the maintenance Temporary reroute cable will be performed due to extraordinary maintenance bridge
+
+
+
+Affected Services :
+Service Id	Legacy Id	Service Type	Expected Impact to your service	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100612	Wavelength/01641719	Wavelength	60 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00170232
+MICRSI/WAVE/U/100613	Wavelength/01641724	Wavelength	60 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00170233
+MICRSI/WAVE/U/100615	GTT/001923689	Wavelength	60 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00170234
+MICRSI/WAVE/U/100616	GTT/001923696	Wavelength	60 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00170235
+
+
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

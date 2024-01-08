@@ -1,0 +1,41 @@
+Dear Customer
+
+
+
+We'd like to inform about Planned work.
+
+
+
+Work details:
+
+ID:2442752
+
+Work title: Planned Work
+
+Break: 2023-10-26 00:00 UTC+2 - 2023-10-26 04:00 UTC+2
+
+Outage (min.): 60
+
+
+
+ID Service:
+
+PP2004882
+
+
+
+Please accept our apologies for any inconvenience caused. If you have any questions regarding the planned work, please contact us at spptp.swo@orange.com.
+
+Regards
+
+
+
+
+
+Michał Knapik
+
+Technical Support for Carriers "SPP TP"
+
+Tel.: + 48 22 627 00 55 SPPTP.SWO@orange.com
+
+Orange Polska Teofila Lenartowicza 22 /108, 41-219 Sosnowiec

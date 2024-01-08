@@ -1,0 +1,35 @@
+Flo Networks sent you a request to reboot the line card on their wave server at 1200am CST on Saturday 4/8/23. This card reboot will affect the following circuits between QRO20 (which is not a live site yet) and SN1:
+
+ 
+
+1-13816949
+1-13816950
+1-13816951
+1-13816952
+1-13816953
+1-13816954
+1-13816955
+1-13816956
+1-13816957
+1-13816958
+1-13816959
+1-13816960
+1-13816961
+1-13816962
+1-13816963
+1-13816964
+
+ 
+
+Please approve this maintenance.
+
+
+Regards,
+
+ 
+
+Greg Harrington
+
+Telecom Delivery Specialist
+
+Work: 425-538-1066 / Mobile: 262-770-1197

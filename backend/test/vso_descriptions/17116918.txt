@@ -1,0 +1,47 @@
+ESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to perform a node updgrade. // Se realizará un trabajo programado con el fin de realizar upgrade de nodos.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 15 MIN
+
+LOCATION // LOCALIDAD: Boca Raton, USA - Fortaleza, Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+28-Feb-2023 03:00 - 28-Feb-2023 11:00 (Main 1)
+
+01-Mar-2023 03:00 - 01-Mar-2023 11:00 (Main 2)
+
+02-Mar-2023 03:00 - 02-Mar-2023 11:00 (Main 3)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRM17621
+
+RIO/EQU-SAOPAULO/MSFT 100GB S001
+
+CRT-000687
+
+CRM18032
+
+RIO/EQU-SAOPAULO/MSFT 100GB S002
+
+CRT-000961
+
+CRM14592
+
+MIAMI/NAP-SPO/MSFT 100GB S001
+
+CRT-004154
+
+CRM14593
+
+MIAMI/NAP-SPO/MSFT 100GB S002
+
+CRT-004155
+
+RJ2/EQUINIX-SP2/MICROSOFT 100GB S003

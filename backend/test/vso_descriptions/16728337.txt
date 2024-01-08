@@ -1,0 +1,23 @@
+Window,  ,  , Primary Start Date (GMT),  ,  , Primary End Date (GMT),  ,  , Backup Start Date (GMT),  ,  , Backup End Date (GMT),  ,  , 1,  ,  , 20-Jan-2023 17:00,  ,  , 21-Jan-2023 01:00,  ,  , 23-Jan-2023 17:00,  ,  , 24-Jan-2023 01:00,  ,  ,  ,  , Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Global Cloud Xchange will be carrying planned activity of software upgrade at Marseilles.
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	19-Jan-2023 17:00	20-Jan-2023 01:00	20-Jan-2023 17:00	21-Jan-2023 01:00
+
+
+Service ID	Impact
+RGWLS31148	At Risk
+RGWLS31147	At Risk
+RGWLS31146	At Risk
+RGWLS31145	At Risk
+RGWLS31144	At Risk
+RGWLS31143	At Risk
+RGWLS31142	At Risk
+RGWLS31130	At Risk
+RGWLS16746	At Risk
+RGWLS16739	At Risk
+RGBO4TA134	At Risk
+RGBO4TA133	At Risk

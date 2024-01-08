@@ -1,0 +1,29 @@
+Scheduled Maintenance Window Notification
+
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on April 4, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-34577
+Notification date:	Monday, March 27, 2023
+Start date:	Tuesday, April 4, 2023 - 12:00 am
+End date:	Tuesday, April 4, 2023 - 4:00 am
+Time zone:	Mexico Time GMT-6
+Window time frame:	3 hours
+Expected service outage:	3 hours
+Event description:	It is required to apply a reset to the chassis recommendation of the transport area to recover the management of the equipment, in order to prevent uncontrolled impacts on services and guarantee network sustainability.
+Location:	Querétaro
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816945
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816946
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816947
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816948
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net

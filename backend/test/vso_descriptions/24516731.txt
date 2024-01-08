@@ -1,0 +1,21 @@
+Dear colleagues.
+
+Please note that AS3303 (Swisscom/IP-Plus) has scheduled a
+maintenance in London, UK (LINX) on Jul 20th, 2023.
+
+The BGP sessions between AS8075 and AS3303 at
+
+    195.66.224.110
+    2001:7F8:4::ce7:1
+
+will flap within the maintenance window, from 02:00 to 06:00 UTC+2.
+Apologies for the inconvenience this may cause,
+
+Best regards,
+
+IP-Plus Engineering
+AS3303
+
+PS:
+We used the 'NOC', 'Maintenance' and 'Technical' contact info at 
+to send this announcement. Please update your entries there if these are outdated.

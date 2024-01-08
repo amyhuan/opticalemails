@@ -1,0 +1,34 @@
+Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Customer Service Center Tel : +852-28291567
+Date : 25/09/2023 03:21:31 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U3056\23C
+Date Time : 28/09/2023 02:00:00 to 28/09/2023 08:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+SR211310 / SNG(PCG)-MSL(PCG) EP7113 /
+
+Outage Description : AAE-1 Urgent Fiber maintenance works for high loss rectification in Ipoh-Bidor at Seg L
+
+Outage : No service impact is expected, but a less than 50 ms sw hits maybe experienced.
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Customer Service Center
+Global Services & Operations
+PCCW Global

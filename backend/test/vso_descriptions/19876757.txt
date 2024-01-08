@@ -1,0 +1,64 @@
+Dear All,
+
+
+This is to inform you about Urgent Maintenance activity by ILD Service provider, which is scheduled on Friday, 05 May 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+                                               Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN300892
+
+         
+
+Scheduled Date                                    :     Friday, 05 May 2023
+
+
+Maintenance Window                            :     05-05-2023 16:01 UTC to 06-05-2023 02:00 UTC
+
+ 
+
+Activity                                                :     RSPLICING & CUT OVER FOC 48C SITIAWAN - PANTAI REMIS HSBB AT KM 5.79 FROM TM NODE SITIAWAN on Segment QB Sector Q3 between Pantai Remis - Lekir
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will be switching hit Less than 10 seconds during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,

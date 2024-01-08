@@ -1,0 +1,38 @@
+65, Daehak-ro, Jongno-gu, Seoul,
+Republic of Korea 7F
+KT Global Telecommuncation Service Center
+Global Network Operation Team	TEL : 02-725-4330
+e-mail : ktidmc@kt.com	Person in charge :
+Park Ga Young
+Doc. NO. :	
+GNOC 2023-00055
+
+Enforcement Date :	
+2023/02/19
+
+Customer :	
+Microsoft
+
+Addressee :	Dear person in charge of international leased line.
+Title :	Network Maintenance
+1. Thank you for using our services.
+2. We'd like to inform you of the upcoming Network Maintenance.
+   We'll try to complete the job asap to minimize any inconvenience from it.
+   The details are as following.
+
+   a. Duration/Date :	
+2023/03/08 17:00 GMT ~ 2023/03/08 20:00 GMT
+
+   b. Issue :	
+Please be informed that KT will perform fiber cable maintenance at Cheongju, Korea.
+
+
+   c. Service ID Info :
+
+No	Service ID	Service Location(From)	Service Location(To)	Time required
+1	08887007-0133	SEL21	HKG31	50ms sw hits
+2	08887007-0134	SEL21	HKG31	50ms sw hits
+3	08887007-0313	SEL21	TYO30	50ms sw hits
+3. We apologize for the inconvenience.
+   We'll do the best to provide the customers with high quality services.
+   Thank you.

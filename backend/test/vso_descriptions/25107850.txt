@@ -1,0 +1,60 @@
+Dear ALL,
+ 
+Please be advised that there will be urgent maintenance work by International service provider
+
+ 
+
+​Event Type
+
+APCN2: Ciena will do the maintenance work for for Upgrade#22.1 project. on S1 FP1 between Kuantan - Katong.
+
+Date and Time
+
+Main Window
+
+Date Start: 19 SEP 2023 @ 1600 UTC   Date End : 19 SEP 2023 @ 2000 UTC
+
+Backup Window
+
+
+Date Start: 20 SEP 2023 @ 1600 UTC   Date End : 20 SEP 2023 @ 2000 UTC
+
+Location Description
+
+APCN2
+
+ 
+
+Maintenance Event No. :   
+
+RFC-International_Partner-230908-0003
+ 
+
+Possible Outage :
+
+Experience outage up to 04 hours.
+
+Affected Customers:
+
+
+
+
+Service No 
+
+Customer 
+
+IE1042621663 
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD 
+
+
+
+DC Code
+
+
+
+KUL01 to HKG31 
+
+KUL01 
+
+HKG31

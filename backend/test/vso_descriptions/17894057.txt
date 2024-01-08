@@ -1,0 +1,43 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Planned Maintenance Activity - 3738231
+
+Telstra will perform planned maintenance activity to planned Optic Fibre relocation/repair work, the services listed below may experience a break to service during the change window - Australia
+
+
+Reference number
+PN300118
+
+
+Start time
+Friday, 21 Apr 2023 13:59:00 (UTC)
+
+
+End time
+Friday, 21 Apr 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+MEL GIP 9602497
+
+
+Expected impact
+5 minutes outage during the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.

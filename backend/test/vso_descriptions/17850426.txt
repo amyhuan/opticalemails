@@ -1,0 +1,101 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Friday 07-April-2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :     CRQ000003148817 
+
+         
+
+Scheduled Date                                   :     Friday 07-April-2023
+
+
+Maintenance Window                           :     07-April-2023 16:00 UTC on 08-April-2023 00:00 UTC
+
+ 
+
+Activity                                               :     SingTel || emergency repair activity on Singapore intercity
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                                :     Service Affecting
+                           
+Duration of Impact                               :     Circuit will be impact during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+12932920
+
+Microsoft Operations Pte Ltd.
+
+13555731
+
+Microsoft Operations Pte Ltd.
+
+13559225
+
+Microsoft Operations Pte Ltd.
+
+13559226
+
+Microsoft Operations Pte Ltd.
+
+13559227
+
+Microsoft Operations Pte Ltd.
+
+13559223
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shipranshu
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+0124-4609696
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1

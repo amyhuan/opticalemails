@@ -1,0 +1,56 @@
+Hello Team, ,                 Last nights work was not completed. And the alternative night will be needed,  here is the new schedule. ,   , Start Time (GMT):,  , 3/22/2023 5:00:00 AM, End Time (GMT):,  , 3/22/2023 11:00:00 AM , Start Time (PST):,  , 3/21/2023 10:00:00 PM, End Time (PST):,  , 3/22/2023 4:00:00 AM, Maintenance Length:,  , 6 Hours ,   , Thanks , Chris ,   , Chris Bamesberger,  , Senior Operations Engineer,  , tel: 720-888-7864,  , | ,  , PSCC: 1-877-453-8353 opt 1, 2, 4, 2,  ,  ,  , MOC-
+
+Start Time (PST): 3/20/2023 10:00:00 PM
+End Time (PST): 3/21/2023 4:00:00 AM
+Maintenance Length: 6 Hours
+Location: SNAFTXOISA14IDMS470 <-> HSTQTX02HOU1IDMS025
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to replace fiber and is required in order to avoid unplanned outages from damages related to a previous fiber incident.  The estimated GPS location of work is on N. Graytown Rd & I-10 Frontage Rd in San Antonio, TX. LAT: 29.47439 LONG: -98.26601.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+MSFT-ATBA-SN4B-SWAN-0011-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0024-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0044-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0062-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0063-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0064-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0065-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0074-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0077-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0078-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0079-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0081-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0082-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0083-0::100GBE-1
+MSFT-ATBA-SN4B-ITAR-0045-0::100GBE-1
+MSFT-ATBA-SN4B-ITAR-0046-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0009-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0010-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0011-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0012-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0013-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0014-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0015-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0016-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0020-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0021-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0022-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0023-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0043-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0061-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0066-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0067-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0068-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0069-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0070-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0071-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0072-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0073-0::100GBE-1
+SLS-207

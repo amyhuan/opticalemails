@@ -1,0 +1,24 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230331130633 ticket number has been opened.
+
+Details
+Ticket Number	wt 230331130633
+Status	INPROG
+Level	3
+Ticket Begin Time	13/04/2023 01:00:00
+Ticket End Time	13/04/2023 05:00:00
+Time Zone	GMT + 1
+Description	 Our provider will perform cable repair works due to a previous damage between Capitello di Ispani - Scalea, Italy.  Unprotected services will face a forecasted outage of 240 minutes.   Protected services are only at risk and might face protection switch(es).
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34964a.100ge*fra-ist /comment: protected (SupplierId:WL079712 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

@@ -1,0 +1,46 @@
+Hi All,
+
+With respect to the Emergency maintenance activity, please find the details below - 
+
+Details of Maintenance : -
+
+Change ID	1100066422
+Scheduled Date	23-MAR-2023 10:30:00 IST(GMT + 5:30)
+Maintenance Window	23-MAR-2023 10:30:00 IST(GMT + 5:30) to 23-MAR-2023 14:30:00 IST(GMT + 5:30)
+Activity	Convertor Replacement activity at PU-2/CV-4 of Chennai PFE
+Location  	Chennai
+Benefit of Change 	To provide better service uptime in future
+Impact 	Service Affecting
+Duration of Impact   	Circuit will go down for 4 hrs 0 minutes during the maintenance window
+Comments	
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+14148733: Microsoft Operations Pte Ltd.
+14149419: Microsoft Operations Pte Ltd.
+14149420: Microsoft Operations Pte Ltd.
+14149421: Microsoft Operations Pte Ltd.
+14149423: Microsoft Operations Pte Ltd.
+14149424: Microsoft Operations Pte Ltd.
+14149425: Microsoft Operations Pte Ltd.
+14149426: Microsoft Operations Pte Ltd.
+14149427: Microsoft Operations Pte Ltd.
+14149428: Microsoft Operations Pte Ltd.
+14149429: Microsoft Operations Pte Ltd.
+14149430: Microsoft Operations Pte Ltd.
+14149431: Microsoft Operations Pte Ltd.
+14149432: Microsoft Operations Pte Ltd.
+14149422: Microsoft Operations Pte Ltd.
+14149435: Microsoft Operations Pte Ltd.
+14149434: Microsoft Operations Pte Ltd.
+13918352: Microsoft Operations Pte Ltd.
+13918275: Microsoft Operations Pte Ltd.
+13918351: Microsoft Operations Pte Ltd.
+13918350: Microsoft Operations Pte Ltd.
+ 
+
+We request you to kindly take the necessary steps or re-schedule sensitive operations at your end to ensure minimal impact on your services. We apologize for any inconvenience due to this event and resulting impact.
+
+We look forward to your co-operation and a long term synergic association.

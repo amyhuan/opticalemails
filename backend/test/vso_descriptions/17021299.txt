@@ -1,0 +1,79 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Monday, 6th February 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :     PN296286
+
+         
+
+Scheduled Date                                   :    Monday, 6th February 2023
+
+
+Maintenance Window                           :    06-02-2023 16:00 UTC to 06-02-2023 22:00 UTC
+
+         
+
+Activity                                               :    Relocate Fiber Optic Cable 48C (APCN) TM infrastructure along Rembau -Senawang at Sungai Gadut on Segment QA Sector Q2
+
+ 
+
+Benefit of Change                                :    To avoid unplanned outage in near future
+
+
+Impact                                                :    Service Affecting
+                           
+Duration of Impact                               :    Circuit will be Switching hits less than 10s during the maintenance window
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Arun Kumar
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+0124-4609696
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1

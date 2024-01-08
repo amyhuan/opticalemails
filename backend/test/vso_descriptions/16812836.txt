@@ -1,0 +1,59 @@
+Dear Customer,
+ 
+Below maintenance has been rescheduled for this new date/time window:
+
+NEW TIME WINDOW: between 23:00 UTC on 09/02/2023 and 06:00 UTC on 10/02/2023.
+
+All remaining details are the same.
+
+ 
+
+Regards,
+
+
+Kumar Rakshit
+
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Thursday19th January 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     ITEM-046299
+
+         
+
+Scheduled Date                                    :    Thursday19th January 2023
+
+
+Maintenance Window                            :     19-01-2023 22:00 UTC to 20-01-2023 05:00 UTC
+
+         
+
+Activity                                                :     Span loss issue
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                :      Service Affecting
+                           
+Duration of Impact                               :     Circuit will be down 360 Mins during the maintenance window
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719838
+
+Microsoft Ireland Operations Ltd.

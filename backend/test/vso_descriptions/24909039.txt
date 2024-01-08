@@ -1,0 +1,30 @@
+Dear Customer,
+
+In our continual effort to provide your company with quality service, we will be performing the following network maintenance:
+ 
+Date of Maintenance                      : 7 to 11 September 2023
+Maintenance Window Period       : 7 September 2023 0000 hrs to 11 September 2023 2359 hrs (Singapore Time)
+Affected Circuit IDs                    :
+ 
+Service ID	Service Type
+1070010081	IPLC
+1070010089	IPLC
+1070010090	IPLC
+1070010082	IPLC
+1070010083	IPLC
+1070010084	IPLC
+1070010079	IPLC
+1070010080	IPLC
+Reason                                           : Overseas Maintenance work @ APG S1.7 Cable Repair.
+Impact and Duration                     : Downtime for the duration of the activity period.
+
+Remarks :
+You may need to reboot / power recycle the CPE (e.g. Router/Modem/NTU) at your premises in case of equipment hang after the service maintenance notification downtime.
+ 
+Should you have any queries, please feel free to reply to this email. We will be glad to assist you.
+ 
+Regards
+ 
+ 
+DiEn
+Customer Experience - Business Technical Support

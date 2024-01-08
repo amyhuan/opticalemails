@@ -1,0 +1,11 @@
+Greetings,
+
+Please be advised that Verizon (AS701) will perform maintenance on the following PNI circuit in Newark on 6/29/2023 between 00:01 and 06:00 EDT. All circuits will be down for a short period of time  during the maintenance. Our NOC can be reached at the information below if there is any issue after the maintenance. 
+
+Circuit and IP info:
+MICROSOFT	152.193.8.33/30	2600:802:4af:0:0:0:0:29	GW12.EWR6	et-7/1/5	ae12.0	[u337292]:MICROSOFT CORPORATION:U337292_1	8075
+
+Verizon NOC info:
+Network Operations Center (24 Hours):
++1-800-281-8396 option 2
+CaryNMC-IP@verizon.com

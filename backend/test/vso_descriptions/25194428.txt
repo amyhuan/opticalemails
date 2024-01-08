@@ -1,0 +1,44 @@
+cheduled Maintenance #: 27624386
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to replace faulty hardware and is required in order to resolve a network condition and prevent potential unplanned service interruptions.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-09-18 16:17:11 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27624386-1
+
+Start	End
+2023-09-20 05:00 GMT (Greenwich Mean Time)	2023-09-20 10:00 GMT (Greenwich Mean Time)
+2023-09-20 00:00 CDT (Central Daylight Time)	2023-09-20 05:00 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): MONTGOMERY, MO USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442004305	N/A	100 GIG	CHEYENNE WY USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442191976	N/A	100 GIG	CHEYENNE WY USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	441941859	N/A	100 GIG	CHEYENNE WY USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442191977	N/A	100 GIG	CHEYENNE WY USA	 	Outage	1 hour	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

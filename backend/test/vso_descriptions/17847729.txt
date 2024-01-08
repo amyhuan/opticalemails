@@ -1,0 +1,35 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018985
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to clear network alarms by reseting equipment. // Se realizará un trabajo programado con la finalidad clarear una alarma de red reiniciando un equipo.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 180 MIN
+
+LOCATION // LOCALIDAD: San Juan - Fortaleza, Puerto Rico-Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+07-Apr-2023 04:00 - 07-Apr-2023 07:00 (MAIN WINDOW)
+
+08-Apr-2023 04:00 - 08-Apr-2023 07:00 (BACKUP WINDOW)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MICROSOFT - SP2/MICROSOFT 100GB S002
+
+CRT-006005
+
+[English]

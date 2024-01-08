@@ -1,0 +1,59 @@
+Change Reference Number:
+
+C206295
+ 	 
+Start Date & Time:
+
+21/09/2023 00:00:00
+
+ 	 
+Finish Date & Time:
+
+21/09/2023 06:00:00
+
+ 	 
+Time Zone:
+
+Australia/NSW
+
+ 	 
+Change Description:
+
+Network Fault Fixing Activity: Fibre Patch Testing
+
+ 	 
+Location of Change:
+
+47 Sandford St,Mitchell,ACT,2911
+92 Galong Rd,Harden,NSW,2587
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+04:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00003817"
+"SRVCKT00003820"
+"SRVCKT00001410"
+"SRVCKT00001483"	"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"	"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"	"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"	
+
+ 
+
+Optus Planned Events
+Network Management Centre

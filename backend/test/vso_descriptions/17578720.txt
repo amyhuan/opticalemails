@@ -1,0 +1,27 @@
+Dear Equinix Customer,
+
+DATE:31-MAR-2023
+
+SPAN: 31-MAR-2023 - 31-MAR-2023
+
+UTC: FRIDAY, 31 MAR 02:00 - FRIDAY, 31 MAR 09:00
+
+(Time Conversion Guide)
+
+LOCATION(s): AT,CH,DA,DC
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a configuration update on our Equinix Fabric platform. There will be no interruption or impact on services or physical ports. Your services may experience re-routing / latency change.
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Fabric
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+103749	Equinix Fabric	DC2	-	21027275-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	20263754-A	MICROSOFT- DC2-CX-SEC-01-10GLAB	Azure ExpressRoute	ASH-Cust102-ER-sec	62673198-d2cb-4236-a1e4-6eee1878dc4c	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	20675920-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	22313082-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	22313083-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	20263757-A	MICROSOFT- DC2-CX-PRI-01-10GLAB	Azure ExpressRoute	ASH-Cust101-ER-Pri	e7d37a5d-7926-4247-973e-598da716f3b0	-	-	-	-	-

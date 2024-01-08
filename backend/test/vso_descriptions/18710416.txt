@@ -1,0 +1,77 @@
+Date:                        	21-Apr-2023
+Customer:    	MICROSOFT OPERATIONS PTE LTD
+Attention:	Melody Wong,Optical DRI,Hijaz Rahman,Connie Tan . ,Azure Network Operations Center ,Adeline Ng,Bok Lan Seet,John Tan,Chasel Tan,Niall Toh
+Email:	melody.wong@microsoft.com,opticalDRI@microsoft.com,hijaz.rahman@microsoft.com,Connie.Tan@microsoft.com,moc@microsoft.com,Adeline.Ng@microsoft.com,xv.boklan.seet@singtel.com,xv.yiokuan.tan@singtel.com,chaseltan@microsoft.com,nialltoh@microsoft.com
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000140426
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G2757ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+2. Circuit:	MSL/ST-SNG 100G2758ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+3. Circuit:	MSL/ST-SNG/ST 100G2860ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	40 AVENUE ROGER SALENGRO MRS 20 (CAMPUS B) FRANCE
+ 
+Date/ Time 1 (SGT):	04-May-2023 19:00 - 05-May-2023 00:00
+Date/ Time 1 (UTC):	04-May-2023 11:00 - 04-May-2023 16:00
+ 
+Impact :	No Impact
+ 
+Reason :	SMW5 NOC detected degradation on span loss values for Wady El Natroon (South) - October#3 section
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com . 
+ 	 
+ 	 
+ 	 
+ 	 
+Request For Change Customer Contact
+ 	 
+( ) To Add	( ) To Amend
+ 	 
+Circuit:	MSL/ST-SNG 100G2757ET, MSL/ST-SNG 100G2758ET, MSL/ST-SNG/ST 100G2860ET
+ 	 
+To: Change Notification, Fax: 67883791 or Email: g-chgnotifn@singtel.com
+ 	 
+Name:	__________________________
+Fax:	__________________________
+Email:	__________________________
+Telephone No:	__________________________
+ 	 
+Please note that MRTG - BANDWIDTH UTILISATION GRAPH (for Singnet MetroEthernet & CE/Ethernetlink, Gigawavelite, OnNet) has been migrated to Connect portal with effect from April 2017.
+You can register your existing Login ID at the following link:
+https://connect.singtel.com/appnet/mrtg/register
+ 	 
+You will need to provide the following information in the above link:
+1. Circuit Reference
+2. Current Login ID
+3. Current Login Password
+You will also need to provide your email address, which will be your new Login ID.
+ 	 
+After successful processing, you will receive activation email in your inbox to setup your new password and OTP login. Please remember to check your junk mail if you could not find activation email in your inbox after one hour.
+Once you can successfully login to the new Portal, you will be able to view your Singnet services (Circuits for now) under Reports > Traffic Report tool.
+For enquires on Connect Portal, please email to @ g-connect@singtel.com

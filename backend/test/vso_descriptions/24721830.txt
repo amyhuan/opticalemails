@@ -1,0 +1,66 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance Activity by ILD Service provider, which is scheduled on Tuesday 08th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                       :    ITEM-058270 NE-16147
+
+         
+
+Scheduled Date                                :    Tuesday 08th August 2023
+
+
+Maintenance Window 1                     :    08/08/2023 00:00 (GMT+00:00) to 08/08/2023 04:00 (GMT+00:00)
+
+ 
+
+Activity                                            :    Infrastructure Relocation Activity
+
+ 
+
+Location                                           :    Ribera – Sciacca, Italy
+
+ 
+
+Benefit of Change                             :    To avoid unplanned outage in near future
+
+
+Impact                                            :     Service Affecting
+                           
+Duration of Impact                           :     Below mentioned circuit will go down 5mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.

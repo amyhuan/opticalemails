@@ -1,0 +1,48 @@
+Reminder: Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Maintenance to perform card replacement - Japan Infinera CKKDDTNX-0101 4-A-5 OTM-1200
+
+Vendor recommend to replaced CKKDDTNX-0101 4-A-5 OTM-1200 due to equipment internal failure.
+
+
+Reference number
+PN297162
+
+
+Start time
+Thursday, 02 Mar 2023 08:00:00 (UTC)
+
+
+End time
+Thursday, 02 Mar 2023 09:30:00 (UTC)
+
+
+Service/s under maintenance
+SNG TOK EPL 9478220
+SNG TOK EPL 9326503
+SNG TOK EPL 90002302
+SNG TOK EPL 90002343
+SNG TOK EPL 90002349
+SNG TOK EPL 90003403
+
+
+Expected impact
+1 hour outage during maintenance window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.

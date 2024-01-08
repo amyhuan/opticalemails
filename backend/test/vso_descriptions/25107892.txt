@@ -1,0 +1,65 @@
+Dear All,
+
+ 
+
+Please take notice that APCN will perform urgent maintenance work as below:
+
+ 
+
+Cable System/Partner
+
+APCN Segment 2 FP1
+
+Maintenance Event No.
+
+RFC-Submarine_Cable_System-230901-0001
+
+Event Type
+
+INSTALLATION/UPGRADE APCN2: UPG#22.1 ON SEGMENT 2 FP 1  BETWEEN KUANTAN – LANTAU.
+
+Date and Time
+
+Main Window
+
+Start: 19 September 2023 at 0000MYT (18 September 2023 at 1600UTC)
+
+End: 19 September 2023 at 0400MYT (18 September 2023 at 2000UTC)
+
+ 
+
+Backup Window
+
+Start: 20 September 2023 at 0000MYT (19 September 2023 at 1600UTC)
+
+End: 20 September 2023 at 0400MYT (19 September 2023 at 2000UTC)
+
+ 
+
+Note: The operation is subjected to availability of the relevant permits and weather conditions.
+
+Location Description
+
+Kuantan - Lantau
+
+Possible Outage:
+
+Traffic affecting
+
+ 
+
+Affected Circuits :
+
+ 
+
+Restoration Status
+
+Circuit ID
+
+Customer Name
+
+NR
+
+IR1033213076
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD

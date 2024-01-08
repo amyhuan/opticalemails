@@ -1,0 +1,39 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006548464
+
+Urgency: Courtesy
+
+Date Notice Sent: 13-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+27-Mar-2023 00:01 to 27-Mar-2023 05:00 ( Mountain )
+27-Mar-2023 06:01 to 27-Mar-2023 11:00 ( GMT )
+
+2nd Activity Date
+28-Mar-2023 00:01 to 28-Mar-2023 05:00 ( Mountain )
+28-Mar-2023 06:01 to 28-Mar-2023 11:00 ( GMT )
+
+3rd Activity Date
+29-Mar-2023 00:01 to 29-Mar-2023 05:00 ( Mountain )
+29-Mar-2023 06:01 to 29-Mar-2023 11:00 ( GMT )
+
+Location of Maintenance: 910 15th St, Denver, CO
+
+Reason for Maintenance: Routine Fiber splice - NO Impact is Expected to your services. This notification is to advise you that we will be entering a splice case that houses live traffic.
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/282366//ZYO	No Expected Impact	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+OGYX/268109//ZYO	No Expected Impact	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

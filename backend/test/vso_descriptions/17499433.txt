@@ -1,0 +1,35 @@
+Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Services & Operations Tel : +852-28291567
+Date : 10/03/2023 03:31:12 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+UMW Reference Number : U0576\23B-A1
+Date Time : 21/03/2023 01:00:00 to 21/03/2023 10:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+
+Outage Description : Fiber maintenance work between IPH - BID(Ipoh-Bidor) Span
+
+Impact: 50ms switching hits
+
++++++++ Amendment -A1 +++++++++
+
+[ Rescheduled to 21 March ]
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

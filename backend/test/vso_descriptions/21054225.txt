@@ -1,0 +1,61 @@
+Planned Work Notification
+
+Service ID
+
+IPL004400
+
+Maintenance Type
+
+emergency
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+Viettel
+
+ 
+
+Activity Window (GMT)
+
+16:00 GMT to 22:00 GMT/ 09th May 2023
+
+Activity Window (GMT)
+
+16:00 GMT to 22:00 GMT/ 11th May 2023
+
+Expected Impact Duration(DD:HH:MM) :
+
+3 Hours downtime/time window
+
+ 
+
+Activity Description
+
+Repair cable attenuation on backbone
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,
+
+ 
+
+ 
+
+******************************************************************************************************
+
+cid:image005.png@01D7B9F7.3A4B8F10
+
+Nguyễn Thị Thanh Trà | NOC Dept | Global Operation Center
+
+Add: 3F, Viettel Building, Hoa Lac High Tech, Thach That District, Tan Xa Commune, Ha Noi
+
+Fix: +84.246.2800025
+
+Email: thanhtra@viettel.com.vn

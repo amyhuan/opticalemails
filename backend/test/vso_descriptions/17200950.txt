@@ -1,0 +1,20 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U0454\23C
+Date Time : 17/02/2023 17:00:00 to 17/02/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227  SR186730 // SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : AAE-1 urgent fiber migration work between Ipoh - Bidor in Seg L
+
+Outage : No service impact is expected, but a less than 50ms sw hits maybe experienced.
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)

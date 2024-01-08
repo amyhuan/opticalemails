@@ -1,0 +1,61 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006936080
+
+Urgency: Courtesy
+
+Date Notice Sent: 23-Aug-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+29-Aug-2023 00:01 to 29-Aug-2023 05:00 ( Eastern )
+29-Aug-2023 04:01 to 29-Aug-2023 09:00 ( GMT )
+
+2nd Activity Date
+30-Aug-2023 00:01 to 30-Aug-2023 05:00 ( Eastern )
+30-Aug-2023 04:01 to 30-Aug-2023 09:00 ( GMT )
+
+3rd Activity Date
+31-Aug-2023 00:01 to 31-Aug-2023 05:00 ( Eastern )
+31-Aug-2023 04:01 to 31-Aug-2023 09:00 ( GMT )
+
+Location of Maintenance: 3200 Webb Bridge Rd, Alpharetta, GA
+
+Reason for Maintenance: Routine Fiber splice - NO Impact is Expected to your services. This notification is to advise you that we will be entering a splice case that houses live traffic.
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+FBDK/812212/007/ZFS	No Expected Impact	180 Peachtree St NW Atlanta, GA. USA	1100 White St SW Atlanta, GA. USA	
+OGYX/172008//ZYO	No Expected Impact	12012 Sunset Hills Rd Reston, VA. USA	9554 Westover Hills Blvd - SN6 San Antonio, TX. USA	OGYX/172008//ZYO
+FBDK/812212/008/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/009/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/2047722/001/ZFS	No Expected Impact	180 Peachtree St NW Atlanta, GA. USA	1101 Donnelly Ave SW Atlanta, GA. USA	
+FBDK/2137624//ZFS	No Expected Impact	250 Williams St NW Atlanta, GA. USA	1101 Donnelly Ave SW Atlanta, GA. USA	
+FBDK/2137672//ZFS	No Expected Impact	250 Williams St NW Atlanta, GA. USA	1100 White St SW Atlanta, GA. USA	
+F18M-0077740	No Expected Impact	56 Marietta St NW Atlanta, GA. USA	1100 White St SW Atlanta, GA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation
+
+Toll free/No sans frais: 1.866.236.2824
+
+United Kingdom Toll Free/No sans frais Royaume-Uni: 0800.169.1646
+
+Email/Courriel: mr@zayo.com 
+
+Website/Site Web: https://www.zayo.com
+
+Purpose | Network Map | Escalation List | LinkedIn | Twitter | Tranzact

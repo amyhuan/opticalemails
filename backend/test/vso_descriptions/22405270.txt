@@ -1,0 +1,47 @@
+Change ID                                                 :    ITEM-052846
+
+         
+
+Scheduled Date                                         :     Tuesday 23th May 2023
+
+
+Maintenance Window                                 :     23/05/2023 21:59  GMT to 24/05/2023 04:00 GMT
+
+ 
+
+Backup Maintenance Window                     :      24/05/2023 21:59 UTC to 25/05/2023 04:00 UTC
+
+ 
+
+Activity                                                     :     Emergency main optical cable repair, damaged by digging works between Lyon and Paris
+
+ 
+
+Benefit of Change                                      :     To avoid unplanned outage in near future
+
+
+Impact                                                     :     Service Affecting
+                           
+Duration of Impact                                    :     Circuit will be down for 360min during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+14209371
+
+Microsoft Ireland Operations Ltd.

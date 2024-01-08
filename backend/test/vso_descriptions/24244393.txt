@@ -1,0 +1,85 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C142912
+
+ 
+
+Description
+
+CR-000000594393>POHC for M-441> DSO - FAQ 200F ULL Cable (Relocation Work)
+
+Location
+
+UAE
+
+Duration
+
+At Risk Only
+
+Planned Start
+
+07-Jul-2023 21:00:00 GMT
+
+Planned End
+
+08-Jul-2023 09:00:00 GMT
+
+Backup Start
+
+-
+
+Backup End
+
+-
+
+Affected service/link
+
+DOH-UAE/MICROSOFT/GCCIA-100G08-PW621142
+
+DOH-UAE/MICROSOFT/GCCIA-100G07-PW621130
+
+Carrier References
+
+154082
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 70945621
+
+Follow us on Twitter and Facebook
+
+
+
+
+ 
+
+Upgrade your world
+
+P Please consider the environment before printing this email.
+
+ 
+
+ 
+
+This email has been classified as Internal by Ooredoo GNOC Support on Monday, June 12, 2023 at 12:11:21 PM

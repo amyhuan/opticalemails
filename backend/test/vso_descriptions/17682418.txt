@@ -1,0 +1,39 @@
+Scheduled Maintenance #: 26284409
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network.� This has been designated as ESSENTIAL.� The nature of this work is to perform a circuit migration and is required in order to improve network reliability and continue providing optimal service for our clients.�Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-03-24 18:23:53 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26284409-1
+
+Start	End
+2023-03-31 07:00 GMT (Greenwich Mean Time)	2023-03-31 13:00 GMT (Greenwich Mean Time)
+2023-03-31 00:00 PDT (Pacific Daylight Time)	2023-03-31 06:00 PDT (Pacific Daylight Time)
+2023-03-31 01:00 MDT (Mountain Daylight Time)	2023-03-31 07:00 MDT (Mountain Daylight Time)
+
+
+Maintenance Location(s): PHOENIX, AZ USA; NORTH LAS VEGAS, NV USA; GOODYEAR, AZ USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	441656679	N/A	GIG-E	GOODYEAR AZ USA	 	Outage	30 minutes	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

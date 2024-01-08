@@ -1,0 +1,199 @@
+Project ID 252429 
+Circuit ID MDMR0005-SK0012/0002
+
+Dear valued customer,
+
+We sent you a message on 6-3-2023 08:12:33 with regard to the planned work to be performed on our network. This email is to let you know that the planned maintenance work has been canceled at this time.
+If we plan a new date for the work, we will send you a new notification.
+We had registered these activities as KA-915003 .
+The service window was planned from April 11, 2023 - 00:00 local time till April 11, 2023 - 06:00 local time CET.
+
+This cancelation is for contract 252429 and this table shows the connection(s) involved:
+
+Contract number
+
+Location A
+
+Frame A
+
+Frame number A
+
+Tray A
+
+Position A
+
+Section name
+
+Location B
+
+Frame B
+
+Frame number B
+
+Tray B
+
+Position B
+
+252429
+
+SK0012
+
+EXT08
+
+01
+
+1
+
+1
+
+MDMR0001-SK0012/0001
+
+MDMR0001
+
+EXT02
+
+01
+
+1
+
+5
+
+252429
+
+SK0012
+
+EXT08
+
+01
+
+1
+
+2
+
+MDMR0001-SK0012/0001
+
+MDMR0001
+
+EXT02
+
+01
+
+1
+
+6
+
+252429
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+1
+
+MDMR0008-SK0012/0001
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+1
+
+252429
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+2
+
+MDMR0008-SK0012/0001
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+2
+
+252429
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+5
+
+MDMR0008-SK0012/0003
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+5
+
+252429
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+6
+
+MDMR0008-SK0012/0003
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+6
+
+Address(es) of location(s):
+SK0012 ,
+hegedyk 8
+8601ZR SNEEK
+MDMR0008 ,
+agriport 570
+1775TB MIDDENMEER
+MDMR0001 ,
+agriport 601
+1775TK MIDDENMEER
+
+
+If you have any questions regarding this activity, our team is available 24/7 by phone or by email. You can reach us at 0800 – 387 634 237 or via plannedwork@eurofiber.com.
+
+Kind regards,
+
+Planned Work Eurofiber    Safariweg 25-31
+0800-387 634 237        3605MA Maarssen
+plannedwork@eurofiber.com

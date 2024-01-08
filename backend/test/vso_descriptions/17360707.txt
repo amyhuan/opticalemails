@@ -1,0 +1,13 @@
+[EXTERNAL] Planned Outage Notification of International Service -RPO Reference number R1026\23C - INC000009600013
+PCCW Global
+RKwan@pccwglobal.com;Niall Toh;Yvonne Kwan;Azure Network Operations Center;ccmleung@pccwglobal.com
+gsoc-planned-event@pccwglobal.com;remedyhelpdesk@pccwglobal.com;dwscheung@pccwglobal.com;vlksu;jlee1@pccwglobal.com
+
+ 
+
+Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Services & Operations Tel : +852-28291567
+Date : 28/02/2023 05:33:36 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,

@@ -1,0 +1,22 @@
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on August 2, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-39992
+Notification date:	Thursday, July 27, 2023
+Start date:	Wednesday, August 2, 2023 - 12:00 am
+End date:	Wednesday, August 2, 2023 - 6:00 am
+Time zone:	Central Daylight Time GMT-5
+Window time frame:	6 hours
+Expected service outage:	Possibles 5 hours
+Event description:	Maintenance on fiber segment in order to prevent uncontrolled impacts on services and guarantee sustainability in the network.
+Location:	Laredo
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13799183
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13799185
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13807743
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13807744
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816740
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816741
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816742
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816743

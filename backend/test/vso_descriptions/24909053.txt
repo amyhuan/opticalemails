@@ -1,0 +1,14 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	PLANNED ACTIVITY | SA | TRAFFIC MIGRATION | 04/09/2023 22:00 UTC to 05/09/2023 06:00 UTC
+PE Reference:	C4424792
+PE Type:	Service Affecting
+PE Category:	ILD Standard Change
+Start time IST:	09/05/2023 03:30:00
+End Time IST:	09/05/2023 11:30:00
+Associated Service:	JIOGIPLMUMSIN0223
+JIOGIPLMUMSIN0248
+JIOGIPLMUMSIN0249
+Impact:	Service will be down during activity window.
+Comment:	Our supplier will be performing traffic migrations activity at PEN-SEQ segment.

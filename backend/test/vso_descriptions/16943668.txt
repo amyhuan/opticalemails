@@ -1,0 +1,43 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft 1968 South Africa (Pty) Limited
+Ticket Number	WIOCCEW128730
+External Ref	
+Incident Start Date/Time	05/02/2023 5:00 HRS UTC
+Priority	Planned - Advisory
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C170-0063	100Gbps from Johannesburg, Isando Teraco to Marseille Interxion 2 via EASSy+Onwards	100	Teraco Isando	Interxion - Marseille
+Most Recent Message:
+
+Please take note of the emergency maintenance activity below:
+
+Maintenance Window
+Start Date / Time: 5th Feb 2023 05:00 UTC
+End Date / Time: 5th Feb 2023 14:00 UTC
+
+Impact on Service(s)
+No downtime expected; service at risk
+
+Description of Works
+Maintenance activity to replace faulty joints on our South African network to enhance service resilience
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

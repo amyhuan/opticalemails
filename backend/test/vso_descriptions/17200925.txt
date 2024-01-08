@@ -1,0 +1,60 @@
+Doc. NO. :	
+GNOC 2023-00088
+
+Enforcement Date :	
+2023/02/15
+
+Customer :	
+Microsoft
+
+Addressee :	Dear person in charge of international leased line.
+Title :	Network Maintenance
+1. Thank you for using our services.
+2. We'd like to inform you of the upcoming Network Maintenance.
+   We'll try to complete the job asap to minimize any inconvenience from it.
+   The details are as following.
+
+   a. Duration/Date :	
+2023/03/06 17:00 GMT ~ 2023/03/06 20:00 GMT
+
+   b. Issue :	
+Please be informed that KT will perform faulty facilities restoration work at Yeongdong, Chungbuk Korea.
+
+   c. Service ID Info :
+
+No	Service ID	Service Location(From)	Service Location(To)	Time required
+1	08887007-0035	SEL20	TYO79	2 hours
+2	08887007-0036	SEL20	TYO79	2 hours
+3	08887007-0131	SEL20	HKG20	50ms sw hits
+4	08887007-0132	SEL20	HKG20	50ms sw hits
+5	08887007-0135	SEL20	HKG20	50ms sw hits
+6	08887007-0136	SEL20	HKG20	50ms sw hits
+7	08887007-0137	SEL20	HKG20	50ms sw hits
+8	08887007-0138	SEL20	HKG20	50ms sw hits
+9	08887007-0140	SEL20	HKG20	50ms sw hits
+10	08887007-0141	SEL20	HKG20	50ms sw hits
+11	08887007-0142	SEL20	HKG20	50ms sw hits
+12	08887007-0143	SEL20	HKG20	50ms sw hits
+13	08887007-0144	SEL20	HKG20	50ms sw hits
+14	08887007-0145	SEL20	HKG20	50ms sw hits
+15	08887007-0207	SEL21	SG2	50ms sw hits
+16	08887007-0208	SEL21	SG2	50ms sw hits
+17	08887007-0209	SEL21	SG2	50ms sw hits
+18	08887007-0210	SEL21	SG2	50ms sw hits
+19	08887007-0211	SEL21	SG2	50ms sw hits
+20	08887007-0212	SEL21	SG2	50ms sw hits
+21	08887007-0213	SEL21	SG2	50ms sw hits
+22	08887007-0214	SEL21	SG2	50ms sw hits
+23	08887007-0215	SEL21	SG2	50ms sw hits
+24	08887007-0224	SEL21	SG2	50ms sw hits
+25	08887007-0225	SEL21	SG2	50ms sw hits
+26	08887007-0226	SEL21	SG2	50ms sw hits
+27	08887007-0227	SEL21	SG2	50ms sw hits
+28	08887007-0228	SEL21	SG2	50ms sw hits
+29	08887007-0229	SEL21	SG2	50ms sw hits
+30	08887007-0230	SEL21	SG2	50ms sw hits
+31	08887007-0231	SEL21	SG2	50ms sw hits
+32	08887007-0232	SEL21	SG2	50ms sw hits
+33	08887007-0233	SEL21	SG2	50ms sw hits
+34	08887007-0234	SEL21	SG2	50ms sw hits
+35	08887007-0309	SEL20	TYO79	50ms sw hits

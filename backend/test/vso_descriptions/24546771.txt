@@ -1,0 +1,33 @@
+Scheduled Maintenance #: 27061372
+
+Summary:
+
+LWhat?
+Lumen intends to carry out internal maintenance within its network. This has been designated as URGENT. The nature of this work is to perform a traffic-affecting circuit re-route.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-07-14 20:48:56 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27061372-1
+
+Start	End
+2023-07-22 23:00 GMT (Greenwich Mean Time)	2023-07-23 02:00 GMT (Greenwich Mean Time)
+
+
+Maintenance Location(s): LONDON, United Kingdom
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT	20080H/100GIG/LONDENEH/LONEENBT	N/A	100 GIG	 	 	Outage	1 hour

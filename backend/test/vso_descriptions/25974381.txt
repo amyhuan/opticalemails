@@ -1,0 +1,44 @@
+[外部] [customers-notify-l: 176] [AS9621]Maintenance Information 2023/12/15 00:00-02:00 JST
+
+Translate message to: English | Never translate from: Japanese | (Internal) This isn't Japanese
+
+This sender customers-notify-l@lists.osaka.jpnap.net is from outside your organization. Block sender
+This message is in Japanese This sender customers-notify-l@lists.osaka.jpnap.net is from outside your organization.
+customers-notify-l  on behalf of ohmura via customers-notify-l 
+​
+customers-notify-l@lists.osaka.jpnap.net
+​
+​
+noc@ii-okinawa.ad.jp
+​
+JPNAP大阪 Peer 各位
+
+お世話になっております。OTNet大村と申します。
+
+弊社設備のメンテナンス作業を行います。
+下記日程にてピアダウンが発生しますので予めご了承頂ければ幸いです。
+
+Date:         2023/12/15 00:00-02:00 JST(UTC+9)
+AS Number:    9621
+IPv4 Address: 210.173.184.150
+IPv6 Address: 2001:7fa:7:2::9621:1
+
+以上、ご確認よろしくお願いいたします。
+
+--------------------
+Dear JPNAP Osaka Peers,
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+
+Date:         2023/12/15 00:00-02:00 JST(UTC+9)
+AS Number:    9621
+IPv4 Address: 210.173.184.150
+IPv6 Address: 2001:7fa:7:2::9621:1
+
+Best Regards,
+
+--
+customers-notify-l mailing list
+customers-notify-l@lists.osaka.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.osaka.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7Cb7f567bd8a6e475782d108dbefd86cdb%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638367485058713545%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YNS6SpeyyABItOWSIVa59iOPTFrLlQc5RbEb0QpH3Nw%3D&reserved=0

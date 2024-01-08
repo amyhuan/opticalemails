@@ -1,0 +1,26 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R4408\23D
+Date Time : 24/09/2023 16:00:00 to 24/09/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 PW TT reference : PW3581
+Description : PW To replace new fiber at Jalan Pontian, Johor in Pontian Kecil - Tg. Segenting (PNK-TGS) span
+Impact : 50ms Switching hits
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

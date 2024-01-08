@@ -1,0 +1,21 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-04-25 00:00 UTC
+End Time: 2023-05-02 00:00 UTC
+
+Fastly has left Equinix Paris exchange. Please remove bilateral sessions. For alternative peering opportunities please consult https://www.peeringdb.com/net/5520 and contact peering@fastly.com
+
+Peer Address: 195.42.145.28	Fastly Address: 195.42.145.132	Location: Paris, France
+Peer Address: 2001:7f8:43::8075:1	Fastly Address: 2001:7f8:43::5:4113:2	Location: Paris, France
+Peer Address: 195.42.145.28	Fastly Address: 195.42.145.131	Location: Paris, France
+Peer Address: 2001:7f8:43::8075:1	Fastly Address: 2001:7f8:43::5:4113:1	Location: Paris, France
+
+
+Thank you!
+
+Fastly Logo
+
+Fastly Network Engineering | techops@fastly.com
+fastly.com | AS54113 | Peering Policy

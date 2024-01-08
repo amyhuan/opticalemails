@@ -1,0 +1,57 @@
+From: TELECOM ITALIA SPARKLE
+
+To: Microsoft Ireland Operations Limited (MCRSF0)
+
+ATTN: PEW CONTACT 1 PEW CONTACT 1
+
+Email: moc@microsoft.com
+
+PEW Number: NE-16666 (Please take note the PEW Number that should be referred to in all your future communication)
+
+PEW Type: PEW
+
+Ticket Reference Number: WO0000000006860
+
+-------------------------------------------------------------------
+
+
+
+Planned Work Description
+
+Main optical cable relocation (by our Network Provider) due to some civil works between Ferrara and Padova (ITALY).
+Service ID
+
+Int. Circuit Designation
+
+PEW Impact
+
+TIS-00000078761
+
+ATHENS/WED-MARSEILLE/WED NP 0001
+
+Asset Impacted
+
+
+These works will take place between 26/09/2023 23:00 (GMT+00:00) Greenwich Mean Time (Europe/London) and 27/09/2023 05:00 (GMT+00:00) Greenwich Mean Time (Europe/London) with an estimate downtime of 240 minutes maximum.
+
+Please note that your assets listed with “PEW Impact” at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+We apologize for any inconvenience we may have caused to you.
+
+Thank you.
+-------------------------------------------------------------------
+Note: If we do not receive any feedback from you in the next two working days, we will assume you are in agreement. If you are not the right person/department, please forward this message to whom it may concern.
+
+Please be advised that the Sparkle Planned Works Change Management Desk core business hours are from 09:00 to 16:30 CET local time, Monday through Friday (except public holidays) and is not able to respond outside of these hours.
+
+_______________________________________________
+SPARKLE
+
+Sparkle Contact Center
+Ensuring the best support to our Customers
+
+Telecom Italia Sparkle S.p.A.
+Via di Macchia Palocco, 223 – 00125 ROMA
+Phone: +39 06 32 1000
+Fax: +39 06 5274 4560
+Linkedin – Twitter - tisparkle.com

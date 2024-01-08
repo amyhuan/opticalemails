@@ -1,0 +1,23 @@
+SPAN: 10-APR-2023 - 11-APR-2023
+
+LOCAL: MONDAY, 10 APR 08:00 - MONDAY, 10 APR 18:00
+UTC: MONDAY, 10 APR 13:00 - MONDAY, 10 APR 23:00
+
+LOCAL: TUESDAY, 11 APR 08:00 - TUESDAY, 11 APR 18:00
+UTC: TUESDAY, 11 APR 13:00 - TUESDAY, 11 APR 23:00
+
+IBX: DA3
+
+DESCRIPTION: Equinix facility engineers along with UPS vendor will be performing Uninterruptible Power Supply (UPS) annual preventive maintenance. Loads will be transferred to an alternate protected UPS to support each unit maintenance , one at a time. No unavailability is expected, but the system will be operating at a reduced level of redundancy during this maintenance.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+111379	010300	0312	1-7571390	Primary
+111379	010300	0312	1-7571414	Primary
+111379	010300	0312	1-7571390-R	Redundant
+111379	010300	0312	1-7571414-R	Redundant
+111379	010420	0101	20783652	Primary
+111379	010420	0101	20783656	Redundant
+111379	010420	0102	20783655	Primary
+111379	010420	0102	20783653	Redundant

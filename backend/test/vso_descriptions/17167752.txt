@@ -1,0 +1,56 @@
+,  ,  , Dear ALL,,  ,  , Please take notice that,  , our partner,  , reschedule,  , maintenance work as below: ,  , Sorry for inconveniences cause to you and your customer.,  ,  ,  ,  ,  , ​, Event Type,  ,  ,  , APCN2 Seg S2 (KTN-LNT) cable shunt fault repair,  ,  ,  , Date and Time,  ,  , Date Start: 27 JUNE 2023 @ 0600 UTC   Date End : 02 JULY 2023 @ 2359 UTC,  ,  , Location Description,  ,  , APCN2,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Possible Outage :,  ,  ,  ,  , Hard down during the maintenance,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Affected Customers:,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Service No,  ,  , Customer,  ,  , IE1042621663,  ,  , MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD,  ,  ,  ,  ,  , DC Code,  ,  ,  , KUL01 to HKG31 ,  ,  , KUL01 ,  ,  , HKG31,  ,  ,  ,  ,  ,  ,  ,  , ​, Thank you.,  ,  , Helmi,  Khaidir,  , Workteam Change Management 1,,  , Operation Performance & Change Management,  , Network Operation Command Center, GNT,  ,  ,  ,  ,  ,  , Dear ALL,,  ,  , Please take notice that,  , our partner,  , reschedule,  , maintenance work as below: ,  , Sorry for inconveniences cause to you and your customer.,  ,  ,  ,  ,  , ,  , ​, Event Type,  ,  ,  , APCN2 Seg S2 (KTN-LNT) cable shunt fault repair,  ,  ,  , Date and Time,  ,  , Date Start: 11 MAY 2023 @ 0000 UTC   Date End : 17 MAY 2023 @ 0000 UTC,  ,  , Location Description,  ,  , APCN2,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Possible Outage :,  ,  ,  ,  , Hard down during the maintenance,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Affected Customers:,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Service No,  ,  , Customer,  ,  , IE1042621663,  ,  , MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD,  ,  ,  ,  ,  , DC Code,  ,  ,  , KUL01 to HKG31 ,  ,  , KUL01 ,  ,  , HKG31,  ,  ,  ,  ,  ,  , ​, Thank you.,  ,  , Helmi,  Khaidir,  , Workteam Change Management 1,,  , Operation Performance & Change Management,  , Network Operation Command Center, GNT,  ,  ,  ,  ,  ,  , Please take notice that,  , our partner,  , reschedule,  , maintenance work as below: ,  ,  , Sorry for inconveniences cause to you and your customer.,  ,  ,  ,  ,  , ,  , ​, Event Type,  ,  ,  , APCN2 Seg S2 (KTN-LNT) cable shunt fault repair,  ,  ,  , Date and Time,  ,  , Date Start: 30 APR 2023 @ 0000 UTC   Date End : 05 MAY 2023 @ 0000 UTC,  ,  , Location Description,  ,  , APCN2,  ,  ,  ,  ,  ,  ,  , Dear ALL,,  ,  , Please take notice that,  , our partner,  , reschedule,  , maintenance work as below: ,  , Sorry for inconveniences cause to you and your customer.,  ,  ,  ,  ,  , ​, Event Type,  ,  ,  , APCN2 Seg S2 (KTN-LNT) cable shunt fault repair,  ,  ,  , Date and Time,  ,  , Date Start: 22 APR 2023 @ 0000 UTC   Date End : 28 APR 2023 @ 0000 UTC,  ,  , Location Description,  ,  , APCN2,  ,  ,  ,  ,  , Possible Outage :,  ,  ,  ,  , Hard down during the maintenance,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , Affected Customers:,  ,  ,  , Service No,  ,  , Customer,  ,  , IE1042621663,  ,  , MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD,  ,  ,  ,  ,  , DC Code,  ,  ,  , KUL01 to HKG31 ,  ,  , KUL01 ,  ,  , HKG31,  ,  ,  ,  ,  ,  ,  ,  ,  ,  , ​, Thank you.,  ,  , Helmi,  Khaidir,  , Workteam Change Management 1,,  , Operation Performance & Change Management,  , Network Operation Command Center, GNT,  ,  ,  ,  ,  , Dear ALL,
+
+Please take notice that our partner reschedule maintenance work as below: 
+
+Sorry for inconveniences cause to you and your customer.
+
+
+​Event Type
+
+APCN2 Seg S2 (KTN-LNT) cable shunt fault repair
+
+Date and Time
+
+Date Start: 01 MARCH 2023 @ 0000 UTC   Date End : 10 MARCH 2023 @ 0000 UTC
+
+Location Description
+
+APCN2
+
+
+Possible Outage :
+
+Hard down during the maintenance
+
+
+
+Affected Customers:
+
+
+
+Service No
+
+Customer
+
+IE1042621663
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+ 
+
+DC Code
+
+ 
+
+KUL01 to HKG31 
+
+KUL01 
+
+HKG31 
+
+
+​Thank you.
+
+
+
+Helmi Khaidir

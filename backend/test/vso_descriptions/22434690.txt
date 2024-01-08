@@ -1,0 +1,139 @@
+ear Customer,
+
+ 
+
+We hope this planned work meets your approval and apologize in advance for any disruption to your operations. Should you have any further enquiries regarding this work please do not hesitate to contact us.
+
+ 
+
+Kind regards,
+
+ 
+
+Bezeq International Maintenance Team
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FOR THE ATTENTION OF:
+
+CUSTOMER’S EMAIL:
+
+Microsoft Ireland Operations Limited
+
+Whaldo.Hall@microsoft.com
+
+moc@microsoft.com
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FROM (GMT):
+
+TO (GMT):
+
+EXPECTED IMPACT:
+
+10/06/2023 03:00
+
+10/06/2023 07:00
+
+Up to 4  Hours of outage .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FROM (GMT):
+
+TO (GMT):
+
+EXPECTED IMPACT:
+
+13/06/2023 03:00
+
+13/06/2023 07:00
+
+Up to 4  Hours of outage .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PLANNED WORKS LOCATION & DESCRIPTION:
+
+Reason :       Due to planned civil works by the Italian Railways Company at Bari area, the following services will be impacted:
+
+ 
+
+Planned Work Reference Number:     40881
+
+ 
+
+ 
+
+CIDs:       
+
+IPLC-20-12241
+
+IPLC-20-12471
+
+IPLC-22-14881
+
+IPLC-20-12059
+
+IPLC-20-12472
+
+IPLC-22-14882

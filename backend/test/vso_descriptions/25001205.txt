@@ -1,0 +1,30 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-08-31 01:00 UTC
+End Time: 2023-08-31 07:00 UTC
+
+Fastly will be performing a maintenance during the above window. You may see BGP down during this time for the following service(s). Please take no action to remove or shift traffic, Fastly Engineers will automatically re-route traffic as needed. Questions about this event can be sent to techops@fastly.com.
+
+Peer Address: 196.60.8.133	Fastly Address: 196.60.8.13	Location: Johannesburg, South Africa
+Peer Address: 196.60.9.133	Fastly Address: 196.60.8.13	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::133	Fastly Address: 2001:43f8:6d0::8:13	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::9:133	Fastly Address: 2001:43f8:6d0::8:13	Location: Johannesburg, South Africa
+Peer Address: 196.60.8.133	Fastly Address: 196.60.9.103	Location: Johannesburg, South Africa
+Peer Address: 196.60.9.133	Fastly Address: 196.60.9.103	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::133	Fastly Address: 2001:43f8:6d0::9:103	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::9:133	Fastly Address: 2001:43f8:6d0::9:103	Location: Johannesburg, South Africa
+Peer Address: 196.60.8.133	Fastly Address: 196.60.8.13	Location: Johannesburg, South Africa
+Peer Address: 196.60.9.133	Fastly Address: 196.60.8.13	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::133	Fastly Address: 2001:43f8:6d0::8:13	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::9:133	Fastly Address: 2001:43f8:6d0::8:13	Location: Johannesburg, South Africa
+Peer Address: 196.60.8.133	Fastly Address: 196.60.9.103	Location: Johannesburg, South Africa
+Peer Address: 196.60.9.133	Fastly Address: 196.60.9.103	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::133	Fastly Address: 2001:43f8:6d0::9:103	Location: Johannesburg, South Africa
+Peer Address: 2001:43f8:6d0::9:133	Fastly Address: 2001:43f8:6d0::9:103	Location: Johannesburg, South Africa
+
+
+Thank you!
+
+Fastly Logo

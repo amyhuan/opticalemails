@@ -1,0 +1,83 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0020752
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: An emergency work will be performed in order to check and repair damaged splice in Mendoza - Tunuyan. // Se realizará un trabajo de emergencia con la finalidad de revisar y reparar empalme aplastado en Mendoza - Tunuyan.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HITS UP TO 5 MIN
+
+LOCATION // LOCALIDAD: Mendoza - Tunuyan, Argentina
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+21-Aug-2023 04:00 - 21-Aug-2023 11:00
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S001
+
+CRT-007324
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S002
+
+CRT-007325
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S003
+
+CRT-007326
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S004
+
+CRT-007327
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009825
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S006
+
+CRT-009826
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S007
+
+CRT-009827
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S008
+
+CRT-009828
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S009
+
+CRT-010253
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S010
+
+CRT-010254
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S011
+
+CRT-010255
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S012
+
+CRT-010256
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.
+We would like to apologize for any inconvenience caused by this maintenance to you and your customers. If any additional question appears, do not hesitate to contact us. Our personnel will be permanently available for you.
+
+[Español]
+Si experimenta algún problema con su servicio debido a la realización de esta actividad programada, por favor comuníquese a nuestro NOC de Capacity Services vía el +511 411 0070 o al correo customerservice.capacity@telxius.com.
+Lamentamos los inconvenientes que este mantenimiento pueda causarle a usted o sus clientes. Si una nueva consulta surgiera, no dude en comunicarse con nosotros, nuestro personal estará permanentemente disponible para usted.

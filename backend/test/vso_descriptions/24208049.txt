@@ -1,0 +1,79 @@
+Dear Equinix Customer,
+
+DATE: 21-JUN-2023 - 22-JUN-2023
+
+SPAN: 21-JUN-2023 - 22-JUN-2023
+
+LOCAL: WEDNESDAY, 21 JUN 22:00 - THURSDAY, 22 JUN 06:00
+UTC: THURSDAY, 22 JUN 03:00 - THURSDAY, 22 JUN 11:00
+
+IBX(s): DA1,DA2
+
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade on our Equinix Fabric routers.
+
+Equinix Fabric customers with only primary/single port/Network Edge virtual connection will experience up to 120 minutes of downtime while customers with secondary/redundant ports/Network Edge virtual connections will experience a loss of redundancy.
+
+The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+eqix-google-nni5-da-pri-zone1
+Google-DA1-CX-PRI-01
+eqix-google-nni21-da-pri-zone1
+eqix-google-nni2-da-pri-zone2
+eqix-google-nni1-da-pri-zone1
+dxlag-ffflzga8
+dxlag-ffu5wsx8
+dxcon-fh65msof
+dxcon-fg13bynq
+dxcon-ffx3a150
+dxcon-ffqdit6r
+dxcon-fhd0rgg0
+dxcon-ffnjq6bh
+EQIX-DAL-06GMR-CIS-1-PRI-A
+EQIX-DAL-09XGMR-CIS-1-PRI-B
+EQIX-DAL-09XGMR-CIS-1-PRI-03122020
+EQIX-DAL-06GMR-CIS-3-PRI-A
+EQIX-DAL-06GMR-AZFED-1-PRI-A
+EQIX-DAL-06GMR-CIS-3-PRI-B
+EQIX-DAL-06GMR-CIS-3-PRI-D
+EQIX-DAL-06GMR-CIS-3-PRI-C
+EQIX-DAL-09XGMR-CIS-1-PRI-A
+
+dxlag-fg2paf6a
+dxlag-fffkjcj2
+EQIX-EXR01-DAL-PRI-02082021
+EQIX-EXR01-DAL-PRI-A
+EQIX-EXR03-DAL-PRI-02242023
+EQIX-DAL-09XGMR-CIS-2-SEC-03122020
+EQIX-EXR01-DAL-PRI-11052019
+
+PRODUCTS: EQUINIX FABRIC, ETHERNET EXCHANGE, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+111379	Equinix Fabric	DA3	-	21341190-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	-	21100275-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	-	14472010-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	-	21181699-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA2	-	20328830-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	-	21331776-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	-	14472006-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	-	20805790-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-227353801994.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-22735

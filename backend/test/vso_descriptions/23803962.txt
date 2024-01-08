@@ -1,0 +1,29 @@
+Estimados Señores,
+
+A través de la presente les hacemos llegar nuestro cordial saludo y, la vez, les remitimos la notificación de trabajo programado.
+
+ID Trabajo	Descripción	Inicio	Fin	Afectación
+CRQ000001148836	Upgrade	2023-06-05 22:00:00 (GMT)	2023-06-06 02:00:00 (GMT)	180 min
+Afectará a los siguientes servicios:
+
+Id	Cliente	Impacto	Sede	País	Ciudad
+20170531-SITEMPLS-0000427720	Microsoft Corporation EMEA		MICR-GER-GÜT-MW-000001	Germany	Gutersloh
+Por favor, no duden en comunicarse con nosotros en caso de tener cualquier consulta adicional.
+
+Saludos cordiales.
+
+Dear Sirs,
+
+With this notification we would like to send you our cordial greetings and, at the same time, we would like to notify you of a scheduled work.
+
+Work ID	Description	Start	End	Impact
+CRQ000001148836	Upgrade	2023-06-05 22:00:00 (GMT)	2023-06-06 02:00:00 (GMT)	180 min
+Affected Circuits:
+
+Id	Customer	Impact	Site	Country	City
+20170531-SITEMPLS-0000427720	Microsoft Corporation EMEA		MICR-GER-GÜT-MW-000001	Germany	Gutersloh
+For further information or concerns regarding this maintenance, please do not hesitate to contact us.
+
+Best regards.
+
+Footer CustomerB2B Sign

@@ -1,0 +1,57 @@
+Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :    ITEM-049149 NE-13895
+
+         
+
+Scheduled Date                                    :    Thursday 02nd March 2023
+
+
+Maintenance Window                            :    02/03/2023 23:00 GMT to 03/03/2023 03:00 GMT
+
+         
+
+Activity                                               :     Essential and mandatory optical cable relocation (by our Network Provider) due to some civil works
+
+
+Location                                              :     Marseille (FRANCE)
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                                :     Service Affecting
+                         
+Duration of Impact                               :     Circuit will be down for 360mins during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.

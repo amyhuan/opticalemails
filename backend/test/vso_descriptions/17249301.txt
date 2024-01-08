@@ -1,0 +1,25 @@
+Hi All,
+
+With respect to the Planned Maintenance activity, please find the details below- 
+
+Details of Maintenance : -
+
+Change ID	1100062046
+Scheduled Date	08-MAR-2023 00:00:00 IST(GMT + 5:30)
+Maintenance Window   	08-MAR-2023 00:00:00 IST(GMT + 5:30) to 08-MAR-2023 06:00:00 IST(GMT + 5:30)
+Activity	SA outage required for Matrix Upgrade Chennai_FOR PSS24x SR-1....9.6T to 24T || Under Bharti optics EXP-07
+Location  	Chennai
+Benefit of Change 	To provide better service uptime in future
+Impact 	Service Affecting
+Duration of Impact   	Circuit will go down for 1 hrs 0 minutes during the maintenance window
+Comments	
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+13938488: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.
+13938489: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.
+13937282: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.
+13938490: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.
+-

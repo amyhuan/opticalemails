@@ -1,0 +1,84 @@
+Dear customer, Good day to you!
+
+Thank you for using CHTI service. We (our partner) will perform a network maintenance operation
+in an effort to provide you with the best service. The detail information is as following：
+
+Reason
+
+Our provider will execute maintenance work on Dark Fiber in Japan.
+
+Maintenance
+Start Date/Time
+
+2023-02-20 23:00(Taipei Time, UTC +8)
+
+2023-02-20 15:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-02-21 01:00(Taipei Time, UTC +8)
+
+2023-02-20 17:00(UTC Time)
+
+Possible Impact
+
+Your circuit(s) will be in outage less than 120 minutes during the activity.
+
+Maintenance
+Location
+
+TAIWAN,－JAPAN,
+
+Circuit Type
+
+IPLC
+
+Event ID
+
+A771304
+
+Circuit Impacted
+
+Customer Name
+
+Circuit ID
+
+Bandwidth
+
+MICROSOFT
+
+2UB12361(CHT-24)
+
+100G
+
+ 
+
+2UB13301
+
+100G
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We sincerely apologize for any inconvenience this may cause you.
+
+Thank you for your understanding.
+
+ 
+
+Best wishes and regards,
+ChungHwa Telecom International Business Group
+
+Kathy Yang
+
+International Transmission Maintenance Center
+
+Office No.:+886-2-2344-3761/Mobile No.:886-0910-077277

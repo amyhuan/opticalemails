@@ -1,0 +1,19 @@
+Dear MICROSOFT noc,
+
+This is IIJ/AS2497 NOC.
+We will be performing a scheduled maintenance.
+During the window, BGP session and interface will be down.
+
+ASN        : 2497
+IP address : 104.44.198.80 (PNI)
+             2a01:111:2000:1::2bfd (PNI)
+Start time : 2023-06-08 09:00 (UTC)
+end time   : 2023-06-08 13:00 (UTC)
+
+We apologize for the inconvenience.
+
+Best regards,
+--
+Shuhei Oki
+E-mail: shuhei-o@iij.ad.jp
+Internet Initiative Japan Inc.

@@ -1,0 +1,57 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C144480
+
+ 
+
+Description
+
+Global Cloud Xchange will be carrying an emergency activity of faulty card replacement at Belbes, Egypt to avoid long unplanned outages.
+
+Location
+
+Belbes, Egypt
+
+Duration
+
+At Risk Only
+
+Planned Start
+
+26-Jul-2023 10:00:00 GMT
+
+Planned End
+
+26-Jul-2023 13:00:00 GMT
+
+Backup Start
+
+31-Jul-2023 10:00:00 GMT
+
+Backup End
+
+31-Jul-2023 13:00:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111)
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351
+
+Carrier References
+
+PE2023071942261
+
+ 
+
+ 
+
+Best Regards,

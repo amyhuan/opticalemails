@@ -1,0 +1,43 @@
+Dear Peering Partner,
+
+ 
+
+Please be informed we are going to perform scheduled maintenance work as described below:
+
+ 
+
+Change ticket: CHR41094
+
+Maintenance Window: 24.05.2023. 00:00 - 24.05.2023. 06:00 (UTC+02:00)
+
+Affected service: Following peering connection(s) will be interrupted during maintenance window.
+
+ 
+
+Peer Address         : 193.188.137.21
+
+Cetin HU Address        : 193.188.137.47
+
+ 
+
+Peer Address         : 2001:7f8:35::8075:1
+
+Cetin HU Address        : 2001:7f8:35::8448:1
+
+ 
+
+ 
+
+Thank you for your understanding.
+
+ 
+
+ 
+
+Üdvözlettel / Kind regards,
+
+ 
+
+László Farkas
+
+Senior IP Network Expert

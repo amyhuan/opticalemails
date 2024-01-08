@@ -1,0 +1,98 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned Change scheduled at Isando Teraco on the 8th May 2023 from 23:30 –9th May 2023 at 06:00 (GMT: +02:00). We need to upgrade DWDM NE Software on the DWDM Node from version V100R011C10SPC200 to V100R013C10SPC500+SPH530. The nodes will reset when upgrading the software. The current device version does not support the M504 board to go online
+
+ 
+
+IMPACT: Services will be down for a maximum duration of 40minutes during the change.
+
+ 
+
+Affected Services:
+
+ 
+
+027JOHA292013677984
+
+027KEMP292014235397
+
+027KEMP292014235392
+
+027KEMP292014235326
+
+027KEMP292014235362
+
+027CAPE292014221327
+
+027CAPE292014221322
+
+027CAPE292014221317
+
+027CAPE292014221332
+
+027MIDR292013956867
+
+027CAPE292014066895
+
+027CAPE292014066903
+
+027MIDR292014077306
+
+ 
+
+Reason for Change:
+
+ 
+
+To upgrade DWDM NE Software on the DWDM Node from version V100R011C10SPC200 to V100R013C10SPC500+SPH530. The nodes will reset when upgrading the software . The current device version does not support the M504 board to go online
+
+ 
+
+Implementation plan
+
+ 
+
+ •           Before the upgrade perform a pre-upgrade check.
+
+•            Load the software package:
+
+•            Activate the Software.
+
+•            Committing:
+
+•            Verify the upgrade
+
+ 
+
+Rollback Plan:
+
+ 
+
+ If the services don’t restore , revert back to old software version.
+
+ 
+
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator
+
+ 
+
+ 
+
+TECHNICAL SUPPORT DESK ESCALATION
+
+ 
+
+Immediate Technical Support +27 11 774 0045
+support@liquidtelecom.com 1 1-hrs Shift lead Hunt number: +27 11 774 0017
+Shiftleads@liquidtelecom.co.za 2 2-hrs Duty Manager Hunt number: +27 11 585 0041
+dutymanagers@liquidtelecom.co.za

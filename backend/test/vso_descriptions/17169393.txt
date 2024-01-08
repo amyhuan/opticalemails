@@ -1,0 +1,22 @@
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	DN0658914
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	20 AYER RAJAH CRESCENT SINGAPORE
+ 
+Date/ Time 1 (SGT):	19-Mar-2023 00:00 - 19-Mar-2023 08:00
+Date/ Time 1 (UTC):	18-Mar-2023 16:00 - 19-Mar-2023 00:00
+ 
+Impact :	The circuit will be down during the entire maintenance window.
+ 
+Reason :	To facilitate the diversion of fiber away from railway company road work activities vicinity. This is part of SingTel's ongoing effort in providing a stable network to our customers.
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com .

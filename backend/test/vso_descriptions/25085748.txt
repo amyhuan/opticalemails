@@ -1,0 +1,23 @@
+Dear Customer,
+    
+    This is to inform you that the maintenance work has been rescheduled as follows. 
+    We apologize for any inconvenience we may have caused to you.
+
+    Reference #:                            CRQ000000011469
+    Organization:                           MICROSOFT
+    Type:                                   Risk Only 
+    Location of Equipment:                  Villaviciosa – Nodo
+    Maintenance Purpose:                    Planned Maintenance Activity 
+    Start date and time (GMT+1):              9/23/2023 7:00:00 AM
+    End date and time (GMT+1):                9/23/2023 3:00:00 PM
+   Notes:                                   
+    Work Duration (Mins):                   480.00 
+    Estimated Downtime (Mins):                 0.00
+    Affected Circuit Details:               MN-C-RAC-LIS-IPL-100GE-A00121
+    
+    Regards,
+    Change Management
+    Nigeria : +234(1)342 2000
+    Accra :      +233 (0)302 744044, (0)302 744045
+    Email: gnoc@mainone.net
+    Visit us at : www.mainone.net

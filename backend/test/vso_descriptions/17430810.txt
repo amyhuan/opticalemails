@@ -1,0 +1,42 @@
+Dear Equinix Customer,
+
+DATE: 11-APR-2023
+
+SPAN: 11-APR-2023 - 11-APR-2023
+
+LOCAL: TUESDAY, 11 APR 01:00 - TUESDAY, 11 APR 05:00
+UTC: TUESDAY, 11 APR 00:00 - TUESDAY, 11 APR 04:00
+
+IBX: LD5
+
+DESCRIPTION: Equinix will be performing switching operations to allow us to complete a scheduled preventative maintenance to our HV transformers.
+Transformer reference:- TX-4.1
+
+Power will be provided by the Utility supply with Generator system backup.
+System transformer redundancy will be reduced to N. Customer supplies will still be 2N at customer rack.
+Only 1 TX will be worked on at a time and load will be supported by the alternative transformer for the duration of the works.
+Customer cabinets will remain protected by Uninterruptible Power Supply (UPS).
+
+If attending site you may notice the lighting will switch off momentarily within the Data Centre, this is normal practice. Emergency lighting will provide adequate illumination throughout the facility during this period.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+133451	001MC2	0209	17852413	Primary
+133451	001MC2	0210	17852416	Primary
+133451	001MC2	0211	20343985	Redundant
+133451	1MC118	0101	20950545	Redundant
+133451	1MC118	0102	20950546	Redundant
+133451	1MC118	0105	20950534	Redundant
+133451	1MC118	0106	20950536	Redundant
+133451	1MC118	0108	20950555	Redundant
+133451	1MC118	0108	21840219	Redundant
+133451	1MC118	0201	20950556	Redundant
+133451	1MC118	0202	20950557	Redundant
+133451	1MC118	0203	20986657	Redundant
+133451	1MC118	0204	20950558	Redundant
+133451	1MC118	0205	20950559	Redundant
+133451	1MC118	0206	20950560	Redundant
+133451	1MC118	0207	20986659	Redundant
+133451	1MC118	0208	20950561	Redundant
+133451	1MC118	0208	21840226	Redundant

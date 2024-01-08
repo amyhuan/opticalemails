@@ -1,0 +1,39 @@
+Emergency maintenance to our network infrastructure
+No services impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+TEC/AAG FP3 Event Notification - Hazardous Condition [Ref: 2023100600 / INC000104709142]
+
+Australia Japan Cable - Hazardous Condition Tumon Bay - NEC PFE Earth Unit Test : Please be advised that the Tumon Bay PFE is using station earth since an incident around 19th July 2023. They will investigate the status of the earth unit and status of the Sea earth
+
+
+Reference number
+PN313495
+
+
+Start time
+Friday, 06 Oct 2023 13:00:00 (UTC)
+
+
+End time
+Friday, 06 Oct 2023 16:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG SYD EPL 9884565
+SYD/SYDO/TELSTRA/AUS - HKG/HKKW/TELSTRA/HKG 100GIGE BASE EPL 9884565
+SCA SYD EPL 9822118
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9822118
+SCA SYD EPL 90011293
+
+
+Expected impact
+0 minutes outage - No service impact - At Risk

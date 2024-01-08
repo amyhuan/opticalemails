@@ -1,0 +1,28 @@
+With reference to our letter dated 13 Feb 2023. This is to inform you that the GBNOC network maintenance activity on 15 Feb 2023 has been rescheduled as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G2757ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+2. Circuit:	MSL/ST-SNG 100G2758ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+Date/ Time 1 (SGT):	22-Feb-2023 18:00 - 23-Feb-2023 00:00
+Date/ Time 1 (UTC):	22-Feb-2023 10:00 - 22-Feb-2023 16:00
+ 
+Impact :	No impact
+ 
+Reason :	Cable re-route on S3 R2 on route Section Erida – Zafarana at distance 88.9 km
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com .

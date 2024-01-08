@@ -1,0 +1,10 @@
+Details:
+Start Time: 2023-05-08 16:43:43 +0000 UTC
+End Time: 2023-05-08 19:53:43 +0000 UTC
+Duration: 3h10m0s
+Google ASN:	15169	Peer ASN:	8075
+Google Neighbor Address(es):	142.250.47.52	Peer Neighbor Address(es):	142.250.47.53
+Google Neighbor Address(es):	2001:4860:1:1::1882	Peer Neighbor Address(es):	2001:4860:1:1::1883
+Google Neighbor Address(es):	104.44.37.68	Peer Neighbor Address(es):	104.44.37.69
+Google Neighbor Address(es):	2a01:111:2000:1::2595	Peer Neighbor Address(es):	2a01:111:2000:1::2596
+Google systems will automatically re-route the traffic away from the peering link(s) under maintenance.

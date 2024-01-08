@@ -1,0 +1,90 @@
+Dear customer, Good day to you!
+
+Thank you for using CHTI service. We (our partner) will perform a network maintenance operation
+in an effort to provide you with the best service. The detail information is as following：
+
+Reason
+
+Chunghwa Telecom will perform essential maintenance activity due to the Government’s project of Taiwan Highway 11.
+
+Maintenance
+Start Date/Time
+
+2023-07-11 09:00(Taipei Time, UTC +8)
+
+2023-07-11 01:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-07-11 15:00(Taipei Time, UTC +8)
+
+2023-07-11 07:00(UTC Time)
+
+Possible Impact
+
+Your circuits will be in outage less than 360 minutes during the activity.
+
+Maintenance
+Location
+
+TAIWAN,－HK,
+
+Circuit Type
+
+IPLC
+
+Event ID
+
+A808952
+
+Circuit Impacted
+
+Customer Name
+
+Circuit ID
+
+Bandwidth
+
+Microsoft Operations Taiwan Limited    
+
+2UB13296/ CHF/CHT-HKG/CHT GE100L251
+
+(HKG TPE EPL 90005704)
+
+100G
+
+2UB13297/ CHF/CHT-HKG/CHT GE100L252
+
+(HKG TPE EPL 90005707)
+
+100G
+
+ 
+
+We sincerely apologize for any inconvenience this may cause you. 
+
+ 
+
+Thank you for your understanding.
+
+ 
+
+Best wishes and regards,
+
+ChungHwa Telecom International Business Group
+
+Kathy Yang
+
+International Transmission Maintenance center
+
+Phone No.:02-23443761
+
+ 
+
+ 
+
+
+
+本信件可能包含中華電信股份有限公司機密資訊,非指定之收件者,請勿蒐集、處理或利用本信件內容,並請銷毀此信件. 如為指定收件者,應確實保護郵件中本公司之營業機密及個人資料,不得任意傳佈或揭露,並應自行確認本郵件之附檔與超連結之安全性,以共同善盡資訊安全與個資保護責任.
+Please be advised that this email message (including any attachments) contains confidential information and may be legally privileged. If you are not the intended recipient, please destroy this message and all attachments from your system and do not further collect, process, or use them. Chunghwa Telecom and all its subsidiaries and associated companies shall not be liable for the improper or incomplete transmission of the information contained in this email nor for any delay in its receipt or damage to your system. If you are the intended recipient, please protect the confidential and/or personal information contained in this email with due care. Any unauthorized use, disclosure or distribution of this message in whole or in part is strictly prohibited. Also, please self-inspect attachments and hyperlinks contained in this email to ensure the information security and to protect personal information.

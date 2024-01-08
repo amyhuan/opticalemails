@@ -1,0 +1,51 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018380
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: A schedule work will performed in order to implement network optimization. // Se realizara un trabajo programado con la finalidad de implementar optimizaciones en la red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 10 MIN
+
+LOCATION // LOCALIDAD: RIO ALOG2 y RIO LS
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+16-Feb-2023 14:00 - 16-Feb-2023 22:00 (MAIN)
+
+17-Feb-2023 14:00 - 17-Feb-2023 22:00 (BACKUP 1)
+
+18-Feb-2023 03:00 - 18-Feb-2023 08:00 (BACKUP 2)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRM17621
+
+RIO/EQU-SAOPAULO/MSFT 100GB S001
+
+CRT-000687
+
+CRM18032
+
+RIO/EQU-SAOPAULO/MSFT 100GB S002
+
+CRT-000961
+
+RJ2/EQUINIX-SP2/MICROSOFT 100GB S003
+
+CRT-005247
+
+RJ2/EQU - ASCENTY/MSFT 100GB S001
+
+CRT-006050

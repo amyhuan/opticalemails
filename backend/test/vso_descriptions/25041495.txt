@@ -1,0 +1,40 @@
+Dear Sirs // Dear Sirs,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Below you will find our Scheduled Work Notification:
+
+NOTIFICATION NUMBER // NOTIFICATION NUMBER: SWX0020980
+
+NOTIFICATION TYPE // NOTIFICATION TYPE: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: An emergency work will be performed in order to optimize the BOC-PBA-PSJ spectrum. // Se realizará un trabajo de emergencia para optimizar el espectro BOC-PBA-PSJ.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 210 MIN
+
+LOCATION // LOCATION: Boca Raton, USA - Puerto Barrios - Puerto San Jose, Guatemala
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+05-Sep-2023 06:00 - 05-Sep-2023 11:00 (Main Window)
+
+06-Sep-2023 06:00 - 06-Sep-2023 11:00 (Backup Window)
+
+AFFECTED CIRCUITS // AFFECTED CIRCUITS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009823
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.
+We would like to apologize for any inconvenience caused by this maintenance to you and your customers. If any additional question appears, do not hesitate to contact us. Our personnel will be permanently available for you.
+
+[English]
+If you experience

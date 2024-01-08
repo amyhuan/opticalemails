@@ -1,0 +1,54 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1649559
+
+
+Work Start Date/Time:  10-07-2023 00:30:01 AEST
+
+Work End Date/Time:     10-07-2023 06:30:00 AEST
+      
+
+Location:            Ooldea, SA
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 1 Hour
+ 
+
+Description of Work:  
+
+ 
+
+Planned Transmission works to rectify a Fault situation
+
+ 
+
+Services List: 
+
+
+Service	Product	Site-A Address	Site-B Address
+VWE283022	Vocus Wavelength (AUD)	B1 1 Williiam St Perth Wa 6000	826 Lorimer St Port Melbourne Vic 3207
+VWE286633	Vocus Wavelength (AUD)	B1 1 Williiam St Perth Wa 6000	826 Lorimer St Port Melbourne Vic 3207
+VWE283021	Vocus Wavelength (AUD)	B1 1 Williiam St Perth Wa 6000	826 Lorimer St Port Melbourne Vic 3207
+VWE297056	Vocus Wavelength (AUD)	M1 826 Lorimer St, Port Melbourne Vic 3207,	1 William Street, Perth Wa 6000 Australia
+VWE297024	Vocus Wavelength (AUD)	M1 826 Lorimer St, Port Melbourne Vic 3207,	1 William Street, Perth Wa 6000 Australia
+VWE296994	Vocus Wavelength (AUD)	M1 826 Lorimer St, Port Melbourne Vic 3207,	1 William Street, Perth Wa 6000 Australia
+VWE286634	Vocus Wavelength (AUD)	B1 1 Williiam St Perth Wa 6000	826 Lorimer St Port Melbourne Vic 3207
+VWE297025	Vocus Wavelength (AUD)	M1 826 Lorimer St, Port Melbourne Vic 3207,	1 William Street, Perth Wa 6000 Australia
+VWE297022	Vocus Wavelength (AUD)	M1 826 Lorimer St, Port Melbourne Vic 3207,	1 William Street, Perth Wa 6000 Australia
+VWE297057	Vocus Wavelength (AUD)	M1 826 Lorimer St, Port Melbourne Vic 3207,	1 William Street, Perth Wa 6000 Australia
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288.

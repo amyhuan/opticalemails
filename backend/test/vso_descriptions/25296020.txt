@@ -1,0 +1,36 @@
+MOC-
+
+Start Time (PST): 10/5/2023 10:00:00 PM
+End Time (PST): 10/6/2023 3:00:00 AM
+Maintenance Length: 5 Hours
+Location: GSVLVAAYMNZ3IAMS1637 <-> ASBNVA38W115ICMS1636
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Lumen PSCC Sheduled work window to clear 3dB of Span Loss between MS1637<>MS1635 by inspecting, cleaning, and/or replacing the fiber.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSCG Circuit Impacts
+
+MSFT-BL7C-BLUC-MSCG-0002-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0003-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0004-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0005-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0006-0::100GBE-1
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com

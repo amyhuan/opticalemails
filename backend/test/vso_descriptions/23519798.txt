@@ -1,0 +1,23 @@
+Dear JPIX peering partners,
+
+This is Kurihara at BTV (AS18135).
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+We would appreciate your understanding and cooperation.
+Best Regards,
+
+*Purpose : Maintenance of network equipment
+*Date : 2023/05/30 AM 10:00  -  2023/05/30 AM 12:00 JST
+*AS number : 18135
+*IP address : 103.246.232.154
+
+-- 
+============================================
+   ＢＴＶ株式会社　
+         　　技術部　  　 栗原　靖典
+   〒885－0071　宮崎県都城市中町１街区７号
+   TEL:0986-46-2439（直通） TEL:0986-27-1700
+   FAX:0986-27-1600
+   E-Mail : y-kurihara@btvm.co.jp
+ ============================================

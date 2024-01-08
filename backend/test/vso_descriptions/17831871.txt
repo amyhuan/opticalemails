@@ -1,0 +1,32 @@
+MOC-
+
+Start Time (PST): 4/6/2023 7:00:00 PM
+End Time (PST): 4/6/2023 10:00:00 PM
+Maintenance Length: 3 Hours
+Location: LSANCARCLAX6IDMS1681
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+We need to perform a maintenance to move this CKT, to open capacity on the long haul network. We are requesting a 3-hour maintenance window. We have opened ticket 26369339 to track this work.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSCG Circuit Impacts
+
+MSFT-LA30-SN4A-MSCG-0025-0::100GBE-1
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com

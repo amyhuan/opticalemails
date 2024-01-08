@@ -1,0 +1,43 @@
+Hi Team,
+
+ 
+
+We will be upgrading Telehouse peering router in the below mentioned maintenance window.
+
+The router will be reloaded to upgrade the software. This will cause the peering interface/BGP sessions to go down during the router reload.
+
+ 
+
+Kindly ignore the alarms in this MW - 13/04/2023 00-06 hrs BST for circuits associated with below peering IPs.
+
+ 
+
+SKY IPv4
+
+SKY IPv6
+
+2.127.241.50/31
+
+2a02:c7a:4:fffb::e/127
+
+2.127.241.52/31
+
+2a02:c7a:4:fffb::10/127
+
+195.66.225.234
+
+2001:7f8:4::15e7:1
+
+ 
+
+ 
+
+ 
+
+Thanks & Regards,
+
+Bhagwan Patil
+
+Core Network Fulfillment Engineer
+
+Network Services and Operating Strategy

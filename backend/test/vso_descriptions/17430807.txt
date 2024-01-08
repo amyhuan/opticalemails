@@ -1,0 +1,39 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft 1968 South Africa (Pty) Limited
+Ticket Number	WIOCCEW131466
+External Ref	
+Incident Start Date/Time	05/03/2023 17:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C170-0058	1x100Gbps from Johannesburg, Liquid DC to Marseille Interxion via SEACOM	100	Johannesburg	Interxion - Marseille
+CA-MU-C170-0059	1x100Gbps from Johannesburg, Liquid DC to Marseille Interxion via SEACOM	100	Johannesburg	Interxion - Marseille
+CA-MU-C170-0065	1x100Gbps from Johannesburg, ADC Midrand to Marseille Interxion via SEACOM	100	Johannesburg	Interxion - Marseille
+Most Recent Message:
+
+Please take note of the emergency maintenance activity below
+
+Maintenance Window
+Start Date / Time: 5th Mar 2023 17:00 UTC
+End Date / Time: 5th Mar 2023 22:00 UTC
+
+Impact on Service(s)
+2 hours downtime
+
+Description of Works
+SEACOM will conduct fiber swapping activities at Marseille that have arisen due to degradation on existing fiber route
+Traffic routing from South and East Africa towards Europe traversing via Egypt will be affected during the maintenance window
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+
+Sincerely,

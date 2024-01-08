@@ -1,0 +1,34 @@
+Customer Name : MICROSOFT DATA CENTER HOLDINGS (HK)
+From : Global Services & Operations Tel : +852-28291567
+Date : 25/07/2023 08:51:28 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3438\23B-A1
+Date Time : 05/08/2023 00:00:00 to 09/08/2023 23:59:00 GMT (dd/mm/yyyy)
+Duration : 7199 mins
+Service/Circuit Affected :
+SR153904 / HKG(PCG)-SEL(PCG) EP5640 /
+
+Outage Description : APCN2 Segment: S3 (CHM-LNT) cable Shunt fault repair.
+
+Impact: circuit will be down during the period
+
++++++++ Amendment - A1 +++++++++
+
+[ Rescheduled to 05 AUG ]
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

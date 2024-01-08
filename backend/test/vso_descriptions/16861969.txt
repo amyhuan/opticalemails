@@ -1,0 +1,39 @@
+For Equinix customers,
+
+Date: 22-FEB-2023 - 23-FEB-2023
+
+SPAN: 22-FEB-2023 - 23-FEB-2023
+
+LOCAL : WEDNESDAY, 22 FEB 22:00 - THURSDAY, 23 FEB 06:00
+UTC: WEDNESDAY, 22 FEB 13:00 - WEDNESDAY, 22 FEB 21:00
+
+IBX(s): SG3,TP4,TY1,TY11,TY2,TY3,TY4,TY6,TY8,TY9
+
+Description: Equinix engineers confirm a software bug and perform a software update on Metro Connect devices.
+
+During maintenance, the following effects can be expected depending on the contract details.
+1. Unprotected Metro Connect lines will experience service interruptions of up to 60 minutes.
+
+2. Protected Metro Connect lines will experience service interruptions of up to 60 minutes.
+
+3. One of the Dual Diverse Metro Connect lines experiences up to 60 minutes of port downtime, but there is no service interruption due to redundancy.
+
+4. Equinix Fabric Metro Remote Port experiences up to 60 minutes of service interruption. If you are using a secondary line, please check if there is a redundant VC to prevent service interruption.
+
+5. Equinix Connect Single Homed customers will experience a service interruption of up to 60 minutes.
+
+6. Network Edge lines will experience up to 60 minutes of service interruption. If you are using a secondary line, please check if there is a redundant VC to prevent service interruption.
+
+Product: EQUINIX FABRIC, METRO CONNECT
+
+Impact: Your service may be impacted.
+
+
+Metro Connect
+
+Account #	Product	IBX	Service Serial #
+138258	Metro Connect	TY4	22146597-A
+
+We apologize for any inconvenience this may cause. Thank you for your cooperation and understanding.
+
+If you have any questions about this task, you can find the latest status and additional details from Equinix SMC. Refer to 5-222178718008.

@@ -1,0 +1,19 @@
+The details of the activity are provided below along with the possible effect on your services.
+
+Activity Details
+CR-000000861215>POHC for M-478> SHD - ZBL 200F ULL (Cable Rationalization Project)
+Maintenance Window
+Start:  (UAE Local time GMT+4)
+End:  (UAE Local time GMT+4)
+Service Impact
+Unprotected traffic working thru affected sections will remain out thru out activity.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)

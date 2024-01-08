@@ -1,0 +1,91 @@
+MOC-
+
+Start Time (PST): 5/22/2023 10:00:00 PM
+End Time (PST): 5/23/2023 4:00:00 AM
+Maintenance Length: 6 Hours
+Location: NRLKILAECH26IDMS008 <-> WDMNIAQSDEM5IDMS660
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to repair/replace fiber and is required in order to avoid unplanned outages from damages related to a previous fiber incident. The estimated GPS location of work is: GPS LOCATION 1: 42.437019, -87.956048; GPS LOCATION 2: 42.43124803, -87.95225695 Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 5 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 6 hours during the maintenance window. An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below. Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSIT Circuit Impacts
+
+MSFT-CH1B-DM5B-MSIT-0045-0::100GBE-1
+
+SWAN Circuit Impacts
+
+MSFT-CH1B-DM5B-SWAN-0002-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0041-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0043-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0005-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0035-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0031-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0037-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0039-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0044-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0042-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0038-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0036-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0040-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0032-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0030-0::100GBE-1
+
+ITAR Circuit Impacts
+
+MSFT-CHGA-DM3A-ITAR-0002-0::100GBE-1
+MSFT-CHGA-DM3A-ITAR-0003-0::100GBE-1
+MSFT-CH1B-DM3A-ITAR-0005-0::100GBE-1
+MSFT-CH1B-DM3A-ITAR-0006-0::100GBE-1
+MSFT-CH1B-DM3A-ITAR-0007-0::100GBE-1
+MSFT-CH1B-DM3A-ITAR-0009-0::100GBE-1
+
+MSCG Circuit Impacts
+
+MSFT-CH1B-DM5B-MSCG-0012-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0014-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0017-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0021-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0023-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0016-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0026-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0025-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0019-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0028-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0027-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0011-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0029-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0003-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0009-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0010-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0024-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0022-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0001-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0007-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0013-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0015-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0018-0::100GBE-1
+MSFT-CH1B-DM5B-MSCG-0020-0::100GBE-1
+
+SLS Circuit Impacts
+
+SLS 208
+SLS-41108
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com

@@ -1,0 +1,30 @@
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G2757ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+2. Circuit:	MSL/ST-SNG 100G2758ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+3. Circuit:	MSL/ST-SNG/ST 100G2860ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	40 AVENUE ROGER SALENGRO MRS 20 (CAMPUS B) FRANCE
+ 
+Date/ Time 1 (SGT):	04-May-2023 19:00 - 05-May-2023 00:00
+Date/ Time 1 (UTC):	04-May-2023 11:00 - 04-May-2023 16:00
+ 
+Impact :	No Impact
+ 
+Reason :	South route between NAT-S and OCT3 from 36.8 km to 37.5 km from OCT3 towards NAT
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)

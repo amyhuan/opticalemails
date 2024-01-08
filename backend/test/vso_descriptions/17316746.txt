@@ -1,0 +1,25 @@
+Details
+Ticket Number	wt 230224164651
+Status	INPROG
+Level	3
+Ticket Begin Time	07/03/2023 22:00:00
+Ticket End Time	08/03/2023 16:00:00
+Time Zone	GMT + 1
+Description	We need to perform migration works which will affect your service.An outage of 1 hour is expected on each service.
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35843a.100ge*fra-ist /comment: (SupplierId:WL085769 )
+msn35842a.100ge*fra-ist /comment: (SupplierId:WL085768 )
+msn35841a.100ge*fra-ist /comment: (SupplierId:WL085767 )
+msn35840a.100ge*fra-ist /comment: (SupplierId:WL085766 )
+msn35839a.100ge*fra-ist /comment: (SupplierId:WL085765 )
+msn35838a.100ge*fra-ist /comment: (SupplierId:WL085764 )
+msn35837a.100ge*fra-ist /comment: (SupplierId:WL085763 )
+msn35836a.100ge*fra-ist /comment: (SupplierId:WL085762 )
+msn35835a.100ge*fra-ist /comment: (SupplierId:WL085761 )
+msn35834a.100ge*fra-ist /comment: (SupplierId:WL085750 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail

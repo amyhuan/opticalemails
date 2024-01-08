@@ -1,0 +1,139 @@
+(Please do not change the subject line upon replying to this message)
+###New time###
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Planned maintenance on circuit between Fetsund and Enebakk
+
+Start of PW: 21.06.2023 00:01 (Europe/Oslo)
+End of PW: 21.06.2023 11:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+(Fetsund - Holtskogen):
+T200000348
+T200000349
+T200000350
+T200000351
+T200000380
+T200000381
+T200000382
+T200000383
+
+(Mørk fiber)
+T200000352
+T200000353
+T200000354
+T200000384
+T200000385
+T200000386
+
+(Fetsund - Enebakk):
+T200000488
+T200000489
+T200000299
+T200000301
+T200000302
+T200000312
+T200000313
+T200000318
+T200000469
+T200000470
+T200000471
+T200000458
+T200000459
+T200000460
+
+(Osix - Enebakk)
+T200001063
+
+
+
+Best regards,
+
+Stian Hagen Tofte
+Operations engineer
+Altibox Operations Center - Altibox AS
+51 90 80 15
+
+
+
+CONFIDENTIAL
+The content of this e-mail is intended solely for the use of the individual or entity to whom it is addressed. If you have received this communication in error, be aware that forwarding it, copying it, or in any way disclosing its content to any other person, is strictly prohibited. If you have received this communication in error, please notify the author by replying to this e-mail immediately, deleting this message and destruct all received documents.
+Remember to keep the subject field on reply. Do not remove recipients when you reply
+
+
+Ticket History
+Roger Synnevåg (Staff) Posted On: 26 May 2023 15:36
+
+(Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Planned maintenance on circuit between Fetsund and Enebakk
+
+Start of PW: 21.06.2023 08:00 (Europe/Oslo)
+End of PW: 21.06.2023 14:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+(Fetsund - Holtskogen):
+T200000348
+T200000349
+T200000350
+T200000351
+T200000380
+T200000381
+T200000382
+T200000383
+
+(Mørk fiber)
+T200000352
+T200000353
+T200000354
+T200000384
+T200000385
+T200000386
+
+(Fetsund - Enebakk):
+T200000488
+T200000489
+T200000299
+T200000301
+T200000302
+T200000312
+T200000313
+T200000318
+T200000469
+T200000470
+T200000471
+T200000458
+T200000459
+T200000460
+
+(Osix - Enebakk)
+T200001063
+
+Best regards,
+Altibox Operations Centre
+T: +47 51 90 81 10
+E: b2bops@altibox.no
+altibox.no
+
+Best regards
+Roger Synnevåg
+Operations Engineer
+Altibox Operation Centre
+Tlf: +47 51 90 80 15
+altibox.no, 
+, 
+CONFIDENTIAL
+The content of this e-mail is intended solely for the use of the individual or entity to whom it is addressed. If you have received this communication in error, be aware that forwarding it, copying it, or in any way disclosing its content to any other person, is strictly prohibited. If you have received this communication in error, please notify the author by replying to this e-mail immediately, deleting this message and destruct all received documents.
+Remember to keep the subject field on reply. Do not remove recipients when you reply
+, 
+
+Ticket Details
+Ticket ID: NOCD-609-30548
+Department: Noc drift
+Status: Ferdig

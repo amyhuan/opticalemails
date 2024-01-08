@@ -1,0 +1,61 @@
+Dear Sir/Madam,
+
+ 
+
+RE: NOTIFICATION ON PLANNED EVENT MAINTENANCE
+
+ 
+
+We would like to bring to your attention of Planned Event (PE) exercise that we will be carrying out as per below. 
+
+ 
+
+Objective:
+
+ 
+
+Provider APG Maintenance: Submarine cable carrier APG will perform , MICD0021,MICD0032,MICD0033,MICD0046,MICD0047,MICD0048,MICD004,  maintenance work to secure network reliability. The details of this PE are as follows:
+
+ 
+
+Planned Event Start Date/Time
+
+29 January 2023 00:00hrs (GMT+8)
+
+Planned Event End Date/Time
+
+29 January 2023 05:00hrs (GMT+8)
+
+Downtime
+
+5 hours
+
+ 
+
+Service(s) Affected
+
+ 
+
+Service
+
+Customer Name
+
+LL023236
+
+Microsoft Japan Co., Ltd
+
+ 
+
+We wish to express our regret for any inconvenience this planned event may cause.  We thank you for your cooperation and understanding in the matter.  We will continue to strive to improve our level of service and we look forward to your continued support of TIME dotcom. 
+
+ 
+
+Please do not hesitate to contact us at 1800-188-881 or +603 5033 8700 or email to soc@time.com.my for further assistance or clarification.
+
+ 
+
+Thank you.
+
+ 
+
+Regards,

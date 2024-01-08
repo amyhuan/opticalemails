@@ -1,0 +1,81 @@
+Dear Customer,
+
+
+Please be advised of below Emergency Planned Activity:-
+
+ 
+
+PE Reference
+
+C3844616
+
+PE Category
+
+Planned Activity
+
+Description
+
+Our supplier will be performing Fiber cable repair in their NW.
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+SO6084822091/JIOGIPLMUMSIN0224
+
+Start Time
+
+01-02-2023 16:00 UTC
+
+End Time
+
+01-02-2023 22:00 UTC
+
+Impact
+
+Service will be down for 60 MIN during maintenance window.
+
+
+                                        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+      jio-logo-03
+
+ 
+
+Aman Lade.
+
+NOC-International Long Distance,
+
+Reliance Jio Infocomm Ltd.,
+
+RCP, Opp. Ghansoli Rly Station, Navi Mumbai, India
+
+Phone- +912279646434
+
+E-mail- aman.lade@ril.com

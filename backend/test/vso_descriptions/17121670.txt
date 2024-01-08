@@ -1,0 +1,29 @@
+Reschedule Notification, Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times., Maintenance Ticket #:,  , TTN-0006514943, Urgency:,  , Planned, Date Notice Sent:,  , 13-Feb-2023, Customer:,  , Microsoft Corporation, Maintenance Window, 1, st,  , Activity Date, 25-Mar-2023 00:01 to 25-Mar-2023 05:00 ( Central ), 25-Mar-2023 05:01 to 25-Mar-2023 10:00 ( GMT ), Location of Maintenance:,  , 1905 Lunt Ave, Elk Grove Village, IL, Reason for Maintenance:,  , Zayo will perform planned maintenance for software upgrade., Expected Impact:,  , Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities., Circuit(s) Affected:, Circuit Id, Expected Impact, A Location Address, Z Location Address, Legacy-Customer Circuit ID, IPYX/131949/004/ZYO , Hard Down - Up to 3 hours , 2299 Busse Rd Elk Grove Village, IL. USA , 1905 Lunt Ave Elk Grove Village, IL. USA , 83121703 , IDIA/298456//ZYO , Hard Down - Up to 3 hours , 2080 Lunt Ave Elk Grove Village, IL. USA , 1905 Lunt Ave Elk Grove Village, IL. USA , ACCX/298456//ZYO , IPYX/131949/003/ZYO , Hard Down - Up to 3 hours , 2299 Busse Rd Elk Grove Village, IL. USA , 1905 Lunt Ave Elk Grove Village, IL. USA , 83121703 , Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling., Maintenance Team Contacts:, Zay, o,  Global Change Management Team/, Équipe,  , de,  , Gestion,  , du,  , Changement,  , Global Zay, o,  , Zayo | Our Fiber Fuels Global Innovation,  , Toll free/, N, o,  sans , frais, :,  , 1.866.236.2824,  , United Kingdom Toll Free/, N, o,  sans,  , frais,  , Royaume-Uni, :,  , 0800.169.1646,  , Email/, Courriel:,  , mr@zayo.com,  ,  , Website, /, Site Web:,  , https://www.zayo.com,  , Purpose,  | , Network Map,  , | , Escalation List,  , | , LinkedIn,  , | , Twitter,  , | , Tranzact,  ,  ,  ,  , This communication is the property of Zayo and may contain confidential or privileged information. If you have received this communication in error, please promptly notify the sender by reply e-mail and destroy all copies of the communication and any attachments.,  ,   ,  , Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006514943
+
+Urgency: Planned
+
+Date Notice Sent: 10-Feb-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+08-Mar-2023 00:01 to 08-Mar-2023 05:00 ( Central )
+08-Mar-2023 06:01 to 08-Mar-2023 11:00 ( GMT )
+
+Location of Maintenance: 1905 Lunt Ave, Elk Grove Village, IL
+
+Reason for Maintenance: Zayo will perform planned maintenance for software upgrade.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy-Customer Circuit ID
+IPYX/131949/004/ZYO	Hard Down - Up to 3 hours	2299 Busse Rd Elk Grove Village, IL. USA	1905 Lunt Ave Elk Grove Village, IL. USA	83121703
+IDIA/298456//ZYO	Hard Down - Up to 3 hours	2080 Lunt Ave Elk Grove Village, IL. USA	1905 Lunt Ave Elk Grove Village, IL. USA	ACCX/298456//ZYO
+IPYX/131949/003/ZYO	Hard Down - Up to 3 hours	2299 Busse Rd Elk Grove Village, IL. USA	1905 Lunt Ave Elk Grove Village, IL. USA	83121703

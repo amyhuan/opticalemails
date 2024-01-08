@@ -1,0 +1,25 @@
+Dear NOC team,
+
+Please be notified that the activity has been rescheduled as per the following
+date and time:
+
+Maintenance Window:
+Start Date/Time :- UTC, Time Zone Tue, 18 Jul 2023 at 10:00 p.m.
+Finish Date/Time :- UTC, Time Zone Wed, 19 Jul 2023 at 5:00 a.m.
+
+Contingency Start Date/Time :-   UTC, Time Zone Wed, 19 Jul 2023 at 10:00 p.m.
+Contingency Finish Date/Time :- UTC, Time Zone Thu, 20 Jul 2023 at 5:00 a.m.
+
+Total downtime expected :- 45 minutes.
+
+HAWAIKI NOC will send a notification prior to commencement of works, regular
+updates, and a notification at the conclusion of this works. If you have any
+questions, comments, or concerns regarding this operation, please contact
+HAWAIKI NOC.
+Please contact the HAWAIKI SUBMARINE CABLE Network Operations Centre (NOC)
+with any questions of concerns. We apologize for any inconvenience caused by
+this maintenance.
+
+-----
+Best Regards,
+HAWAIKI NO

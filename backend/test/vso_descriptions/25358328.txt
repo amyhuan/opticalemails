@@ -1,0 +1,63 @@
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G2757ET
+ 
+2. Circuit:	MSL/ST-SNG 100G2758ET
+ 
+Date/ Time 1 (SGT):	08-Oct-2023 00:00 - 12-Oct-2023 08:00
+Date/ Time 1 (UTC):	07-Oct-2023 16:00 - 12-Oct-2023 00:00
+ 
+Impact :	The circuit will be interrupted during the entire maintenance window.
+ 
+Reason :	Extra Attenuation Repair Yanbu and Zafarana
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com . 
+ 	 
+ 	 
+ 	 
+ 	 
+Request For Change Customer Contact
+ 	 
+( ) To Add	( ) To Amend
+ 	 
+Circuit:	MSL/ST-SNG 100G2757ET, MSL/ST-SNG 100G2758ET
+ 	 
+To: Change Notification, Fax: 67883791 or Email: g-chgnotifn@singtel.com
+ 	 
+Name:	__________________________
+Fax:	__________________________
+Email:	__________________________
+Telephone No:	__________________________
+ 	 
+Please note that MRTG - BANDWIDTH UTILISATION GRAPH (for Singnet MetroEthernet & CE/Ethernetlink, Gigawavelite, OnNet) has been migrated to Connect portal with effect from April 2017.
+You can register your existing Login ID at the following link:
+https://connect.singtel.com/appnet/mrtg/register
+ 	 
+You will need to provide the following information in the above link:
+1. Circuit Reference
+2. Current Login ID
+3. Current Login Password
+You will also need to provide your email address, which will be your new Login ID.
+ 	 
+After successful processing, you will receive activation email in your inbox to setup your new password and OTP login. Please remember to check your junk mail if you could not find activation email in your inbox after one hour.
+Once you can successfully login to the new Portal, you will be able to view your Singnet services (Circuits for now) under Reports > Traffic Report tool.
+For enquires on Connect Portal, please email to @ g-connect@singtel.com
+ 	 
+Technical Assistance Centre
+
+Change Notification
+Tel: +65 62484141
+Email: g-chgnotifn@singtel.com
+Company Registration Number: 199201624D 
+  
+
+DISCLAIMER
+The content of this email are confidential and are intended solely for the named addressee. If you are not the intended recipient, please immediately delete the email and any record of it from your system and notify the sender by email. This email is and will remain the property and confidential information of Singapore Telecommunications Limited or one of its related companies ("Singtel"). You must not disclose any part of this email to anyone without Singtel's prior written consent.
+ 
+Ref:MSG000040677018

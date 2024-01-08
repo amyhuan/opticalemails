@@ -1,0 +1,16 @@
+[ English ]
+
+Dear Campinas/SP IX.br(PTT.br) Participants,
+
+On 06/22/2023 from 6am to 9am(UTC-3) a emergency maintenance will be done on the route server 1(IPv4:200.192.108.253  and IPv6: 2001:12f8:0:11::253).
+
+During this period flaps are expected on BGP sessions with the route server 1 only.
+
+Isn't expected problems in the traffic between ASNs or flaps in the BGP sessions with the route server 2.
+
+Any questions, feel free to open a ticket at Meu.IX.br
+(https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fmy.ix.br%2f&data=05%7C01%7Cmoc%40microsoft.com%7C44177e38d40d4b6d79f108db6ddb3cb0%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638224560616748445%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zShSfWCPt6SuuX9MJkXm86FwCZ4uBJ0zQV3QEitw17M%3D&reserved=0) or get in contact with IX.br support team:
++55 11 5509-3550
+noc@ix.br
+
+Regards,

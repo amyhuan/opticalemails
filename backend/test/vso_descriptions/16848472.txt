@@ -1,0 +1,97 @@
+Dear Customer,
+
+ 
+
+Please be advised that the change has been rescheduled to 11th  March 2023 from 08:00-13:00(GMT: +02:00) due to unforeseen circumstances.
+
+ 
+
+Impact will remain the same.
+
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator
+
+ Dear Customer,
+
+ 
+
+Please take note of a Liquid Urgent Planned Change Scheduled at Worcester De Aar (Worcester to Touws River) on the 21st January 2023 from 08:00-13:00(GMT: +02:00). We need to do RAMAN card replacement at Worcester De Aar node between Worcester to Touws River span in De Aar link in Huawei DWDM NW in order to clear high losses.
+
+ 
+
+IMPACT:Services will be down for a maximum duration of 3Hrs during the change.
+
+ 
+
+Impacted Services
+
+ 
+
+027MIDR292013677915
+
+027CAPE292014221287
+
+027CAPE292014221297
+
+027CAPE292014221307
+
+027CAPE292014221292
+
+027CAPE292014221302
+
+027CAPE292014221312
+
+027MIDR292013956863
+
+027CAPE292014066891
+
+027CAPE292014066899
+
+027MIDR292014077302
+
+ 
+
+Reason For Change
+
+ 
+
+To do RAMAN card replacement at Worcester De Aar node between Worcester to Touws River span in De Aar link in Huawei DWDM NW in order to clear high losses on the link.
+
+ 
+
+Implementation Plan
+
+ 
+
+Team will check fiber losses first and if found losses are high then FMS will ask Fiber team to resolve the losses.
+
+If losses are under design then we will replace RAMAN card.
+
+ 
+
+Roll Back Plan
+
+ 
+
+1. Team will check fiber losses first and if found losses are high then FMS will ask Fiber team to resolve the losses.
+
+2. If losses are under design then we will replace RAMAN card.
+
+ 
+
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator

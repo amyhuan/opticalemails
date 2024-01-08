@@ -1,0 +1,35 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Southern Cross Planned Maintenance: SR#249129_12
+
+To allow for future network expansion it is necessary to regroom various circuits to different Network Bearers.
+
+
+Reference number
+PN299796
+
+
+Start time
+Thursday, 13 Apr 2023 16:00:00 (UTC)
+
+
+End time
+Thursday, 13 Apr 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 90022027
+
+
+Expected impact
+30 minutes outage within the change window

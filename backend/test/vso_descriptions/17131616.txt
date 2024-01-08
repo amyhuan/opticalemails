@@ -1,0 +1,80 @@
+Hi Microsoft team
+
+ 
+
+Please be informed that activity is planned to be performed as detailed below.
+
+ 
+
+Change ID
+
+C137106
+
+Description
+
+AAE-1 PW TT reference : PW3223
+
+Description : Emergency Fiber maintenance work to reroute cable between Ber Erida – Zafarana (BER-ZFR) Span in Seg X1.2. Services will be running via Sub-Segments
+
+Location
+
+Between Ber Erida – Zafarana
+
+Duration
+
+Nature : Non Service Affecting
+
+Impact : Switching hits plus protection loss
+
+Planned Start
+
+10:00 GMT /15th February 2023
+
+Planned End
+
+16:00 GMT/15th February 2023
+
+Backup start
+
+NA
+
+Backup End
+
+NA
+
+Affected service/link
+
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353 
+
+ 
+
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille) 
+
+ 
+
+Carrier References
+
+PW3223
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Ayub Oruko Ondoro
+
+ 
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 50366736
+
+Follow us on Twitter and Facebook

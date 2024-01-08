@@ -1,0 +1,37 @@
+Dear Equinix Customer,
+
+DATE: 17-MAY-2023 - 18-MAY-2023
+
+SPAN: 17-MAY-2023 - 18-MAY-2023
+
+LOCAL: WEDNESDAY, 17 MAY 22:00 - THURSDAY, 18 MAY 06:00
+UTC: THURSDAY, 18 MAY 05:00 - THURSDAY, 18 MAY 13:00
+
+IBX(s): SV5
+
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade on our Equinix Fabric routers.
+
+Equinix Fabric customers with only primary/single port will experience 120 minutes downtime while customers with secondary/redundant ports or Network Edge virtual connections will experience a loss of redundancy.
+
+The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+EQIX-EXR04-SJC-SEC-10122021
+ZOOM_SJC_AER-3-1
+544828-SV5-CX-SEC-01
+619579-SV5-CX-SEC-04
+EQIX-EXR22-SJC30-SEC-05182022
+EQIX-EXR04-SJC-SEC-02172023
+551411-SV1-CX-SEC-01
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+134125	Equinix Fabric	SV1	-	21951965-A	-	-	-	-	-	-	-	-	-	-
+134125	Equinix Fabric	SV1	-	22418456-A	-	-	-	-	-	-	-	-	-	-

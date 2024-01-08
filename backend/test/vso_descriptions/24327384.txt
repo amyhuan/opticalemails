@@ -1,0 +1,14 @@
+Details:
+Start Time: 2023-07-11 21:09:33 +0000 UTC
+End Time: 2023-07-12 00:19:33 +0000 UTC
+Duration: 3h10m0s
+Google ASN:	15169	Peer ASN:	8075
+Google Neighbor Address(es):	104.44.15.16	Peer Neighbor Address(es):	104.44.15.17
+Google Neighbor Address(es):	2a01:111:2000:1::2221	Peer Neighbor Address(es):	2a01:111:2000:1::2222
+Google systems will automatically re-route the traffic away from the peering link(s) under maintenance.
+
+Depending on the nature of the work, your BGP session with Google may stay up through the maintenance window. Traffic may shift to alternate sessions with Google and/or your upstream provider(s).
+
+Questions about this event can be sent to noc@google.com.
+
+Thank you for peering with Google!

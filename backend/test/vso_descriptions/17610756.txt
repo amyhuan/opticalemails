@@ -1,0 +1,48 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1628006
+
+
+Rescheduled from: CHG1627327                                
+
+Work Start Date/Time:  31-03-2023 01:01:00 AEDT
+
+Work End Date/Time:     31-03-2023 07:00:00 AEDT
+      
+
+Location:            SOUTHPORT, QLD
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+Fibre works - Hazard notice - NO Service impact expected, this is courtesy notice only.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE189689	Vocus Wavelength (AUD)
+VWE189693	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288.

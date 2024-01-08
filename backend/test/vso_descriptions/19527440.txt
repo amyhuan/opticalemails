@@ -1,0 +1,63 @@
+For Equinix customers,
+
+Date: 25-MAY-2023 - 26-MAY-2023
+
+SPAN: 25-MAY-2023 - 26-MAY-2023
+
+LOCAL : THURSDAY, 25 MAY 22:00 - FRIDAY, 26 MAY 06:00
+UTC: THURSDAY, 25 MAY 13:00 - THURSDAY, 25 MAY 21:00
+
+IBX(s): OS
+
+Explanation: Maintenance will be carried out on the upstream link of Equinix Connect.
+There is no impact on customer service due to this work, but several packet loss and latency fluctuations will occur when detouring communications.
+If you have any questions about this detour, please contact us with a ticket.
+
+Product: EQUINIX CONNECT, NETWORK EDGE
+
+Impact: Customer line communication is automatically bypassed
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+138285	Equinix Connect	OS1	20012887
+
+We apologize for any inconvenience this may cause. Thank you for your cooperation and understanding.
+
+If you have any questions about this task, you can find the latest status and additional details from Equinix SMC. Refer to 5-225999723557.
+
+**************************************************************************************
+
+Dear Equinix Customer,
+
+DATE: 25-MAY-2023 - 26-MAY-2023
+
+SPAN: 25-MAY-2023 - 26-MAY-2023
+
+LOCAL: THURSDAY, 25 MAY 22:00 - FRIDAY, 26 MAY 06:00
+UTC: THURSDAY, 25 MAY 13:00 - THURSDAY, 25 MAY 21:00
+
+IBX(s): OS
+
+DESCRIPTION: Please be advised that Equinix engineers will be performing a maintenance which will affect one of our Equinix Connect upstream links. There will be no service interruption but you may experience packet drops and latency change during traffic rerouting, during and after the activity. If you require further information or details to be used in your specific traffic engineering activities, please log a network case with us.
+
+PRODUCTS: EQUINIX CONNECT, NETWORK EDGE
+
+IMPACT: Traffic will be re-routed
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-225999723557.
+
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-225999723557].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.

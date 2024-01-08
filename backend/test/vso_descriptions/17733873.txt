@@ -1,0 +1,38 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Essential Maintenance - Infinera G42 CHM6 OTU4 Configuration - Batch 23
+
+Telstra and Vendor Infinera to perform card reconfiguration to improve performance and prevent future service interruptions to customer services.
+
+
+Reference number
+PN299643
+
+
+Start time
+Tuesday, 11 Apr 2023 10:00:00 (UTC)
+
+
+End time
+Tuesday, 11 Apr 2023 18:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG TOK EPL 90022562
+HKG TOK EPL 90022558
+HKG TOK EPL 90022553
+HKG TOK EPL 90022561
+
+
+Expected impact
+Up to 2 hours outage within the change window

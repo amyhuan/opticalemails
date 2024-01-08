@@ -1,0 +1,39 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006893315
+
+Urgency: Demand
+
+Date Notice Sent: 04-Aug-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+17-Aug-2023 21:00 to 18-Aug-2023 06:00 ( Central )
+18-Aug-2023 02:00 to 18-Aug-2023 11:00 ( GMT )
+
+2nd Activity Date
+18-Aug-2023 21:00 to 19-Aug-2023 06:00 ( Central )
+19-Aug-2023 02:00 to 19-Aug-2023 11:00 ( GMT )
+
+3rd Activity Date
+19-Aug-2023 21:00 to 20-Aug-2023 06:00 ( Central )
+20-Aug-2023 02:00 to 20-Aug-2023 11:00 ( GMT )
+
+Backup Date
+20-Aug-2023 21:00 to 21-Aug-2023 06:00 ( Central )
+21-Aug-2023 02:00 to 21-Aug-2023 11:00 ( GMT )
+
+Location of Maintenance: Nashville, TN
+
+Reason for Maintenance: Zayo will implement demand maintenance to perform rehab/upgrade to splice enclosure. It will be difficult to pinpoint when your service will go down exactly, however once down, that same day you will be restored. Once back up, your service will not experience any further outages throughout the maintenance window nor in TTN-0006893113 as both tickets are for the same project. The estimated GPS location of work is 36.11087, -86.78631.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+FBDK/1797016/002/ZFS	Hard Down - Duration of maintenance window	2990 Sidco Dr Nashville, TN. USA	211 Commerce St Nashville, TN. USA

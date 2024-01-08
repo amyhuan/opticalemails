@@ -1,0 +1,73 @@
+,  , Dear Team,,  ,  ,  , please note the new date of the Maintenace:,  ,  ,  ,  ,  , Start 12/09/2023 00:00 UTC ,  , End 12/09/2023 04:00 UTC,  ,  ,  , Planned Work Notification.
+
+ 
+
+ Direct Line:  +972-765614739
+
+ E-mail:           CustomerMaintenanceNotification@bezeqint.co.il
+
+ 
+
+ 
+
+Dear Customer,
+
+ 
+
+We hope this planned work meets your approval and apologize in advance for any disruption to your operations. Should you have any further enquiries regarding this work please do not hesitate to contact us.
+
+ 
+
+Kind regards,
+
+ 
+
+Bezeq International Maintenance Team
+
+  
+
+FOR THE ATTENTION OF:
+
+CUSTOMER’S EMAIL:
+
+Microsoft Ireland Operations Limited
+
+ 
+
+ 
+
+Whaldo.Hall@microsoft.com
+
+moc@microsoft.com
+
+ 
+
+FROM (GMT):
+
+TO (GMT):
+
+EXPECTED IMPACT:
+
+03/08/2023    03:00
+
+03/08/2023    07:00
+
+at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+ 
+
+PLANNED WORKS LOCATION & DESCRIPTION:
+
+Scope of work:
+
+Maintenance on our  3rd party provider Fiber infrastructure platform related to Cable Splicing
+
+ 
+
+SERVICE(S) AFFECTED:
+
+Planned Work Reference Number: NE-15955
+
+ 
+
+Circuit ID:  IPLC-20-12610 & IPLC-20-12609 & IPLC-20-12668 & IPLC-20-12669 &IPLC-22-15394 & IPLC-22-15395 & IPLC-22-15396 & IPLC-22-15397

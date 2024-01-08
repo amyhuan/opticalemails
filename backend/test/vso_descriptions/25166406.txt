@@ -1,0 +1,78 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Monday  18th September 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :      CRQ000003375802
+
+         
+
+Scheduled Date                                :      Monday  18th September  2023
+
+
+Maintenance Window                    :      08:00 UTC on 18-Sep-2023 to 11:00 UTC on 18-Sep-2023
+
+ 
+
+Activity                                               :     Emergency Board Reseat /Replace Activity
+
+ 
+
+Benefit of Change                            :      To avoid unplanned outage in near future
+
+
+Impact                                               :       Service Affecting
+                           
+Duration of Impact                          :      Below mentioned circuit will get down during the Maintenance Window
+
+ 
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit id
+
+Customer Name
+
+14149425
+
+Microsoft Operations Pte Ltd.
+
+14149424
+
+Microsoft Operations Pte Ltd.
+
+14149423
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+Regards?
+
+Arpit Gangwar
+
+7303874360
+
+Change_Management
+
+(Bharti Airtel)

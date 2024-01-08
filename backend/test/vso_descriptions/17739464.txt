@@ -1,0 +1,68 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft 1968 South Africa (Pty) Limited
+Ticket Number	WIOCCEW133260
+External Ref	
+Incident Start Date/Time	29/03/2023 22:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C170-0005	1x10Gbps from Cape Town, Teraco to London, Virtus Slough via WACS.	10	Teraco Rondebosch	Virtus Slough
+CA-MU-C170-0006	1x10Gbps from Cape Town, Teraco to London, Virtus Slough via WACS.	10	Teraco Rondebosch	Virtus Slough
+CA-MU-C170-0031	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0032	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0033	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+Most Recent Message:
+
+Reminder Notice
+
+Please take note the maintenance activity will be implemented in Phases as detailed below:
+
+PHASE 1: SLTE INSERTION AT SEGMENT 4 OF FP2
+
+Maintenance Window:
+Start Date and Time : 29th Mar 2023 22:00 UTC
+End Date and Time  : 30th Mar 2023 04:00 UTC
+
+Backup Maintenance Window:
+Start Date and Time : 30th Mar 2023 22:00 UTC
+End Date and Time  : 31st  Mar 2023 04:00 UTC
+
+Impact on Service(s)
+6 hrs downtime
+
+PHASE 2: SLTE INSERTION AT SEGMENT 4 OF FP3
+
+Maintenance Window:
+Start Date and Time : 31st March 2023 22:00 UTC
+End Date and Time  : 1st April 2023 04:00 UTC
+
+Backup Maintenance Window:
+Start Date and Time : 3rd April 2023 22:00 UTC
+End Date and Time  : 4th April 2023 04:00 UTC
+
+Impact on Service(s)
+6 hrs downtime
+
+Description of Works
+Emergency Maintenance activity to perform SLTE insertion at Segment 4 on the WACS network
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+ 
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

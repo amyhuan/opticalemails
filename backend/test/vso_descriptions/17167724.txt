@@ -1,0 +1,68 @@
+Dear Customer,
+
+ 
+
+Please be advised of below Planned Activity for main window:-
+
+ 
+
+PE Reference
+
+C3916681
+
+PE Category
+
+Planned Maintenance
+
+Description
+
+Our Supplier will be performing Upgrade#4 soft node Mumbai-Penang FP2E Step7 insertion.
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+JIOGIPLMUMSIN0224 / SO6084822091
+
+Start Time
+
+23 February 2023 at 22:00 UTC
+
+End Time
+
+24 February 2023 at 04:00 UTC
+
+Impact
+
+Traffic Affecting
+
+
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+Please contact ILD NOC on +91 22 796 46434 / Jio.NOCILDOperations@ril.com should you require any additional information.
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+      jio-logo-03
+
+ 
+
+Anuj Salunkhe.
+
+NOC-International Long Distance,
+
+Reliance Jio Infocomm Ltd.,
+
+RCP, Opp. Ghansoli Rly Station, Navi Mumbai, India
+
+Phone- +912279646434
+
+E-mail-  Anuj.Salunkhe@ril.com

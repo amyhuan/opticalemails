@@ -1,0 +1,105 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned Change scheduled at Bellville to ADC Diepriver on the 12th February 2023 from 08:00 to 13:00 (GMT: +02:00). We urgently need to migrate traffic from the old route to the new route as the currently unstable and traffic is getting impacted, fault REF is  NET4272055
+
+ 
+
+IMPACT: Services be down for a maximum duration of 4hrs.
+
+ 
+
+Affected Services:
+
+ 
+
+027MIDR292013677915
+
+027MIDR292013956863
+
+027CAPE292014066891
+
+027CAPE292014066899
+
+027MIDR292014077306
+
+ 
+
+Reason For Change
+
+ 
+
+To migrate traffic from the old route to the new route as the currently unstable and traffic is getting impacted, fault REF is  NET4272055
+
+ 
+
+ 
+
+Implementation Plan
+
+ 
+
+At Belville  technicians will run new patch leads from the Optical Distribution Frame to the chassis prior to cut over.                                                                                 
+
+Patch Optical Distribution Frame Fiber 1 & 2 to Shelf2(WCALWEO88T1602N)-5-13FIU-1
+
+ 
+
+                                                                                                    
+
+At Diepriver run new patch leads from the Optical Distribution Frame to the chassis prior to cut over.                                                                                            
+
+Patch Optical Distribution Frame Fiber 1 & 2 to Shelf1(WDIEDAO88T1601N)-5-13FIU-1                                                                                        
+
+                                                                                     
+
+ROLL BACK
+
+ 
+
+Remove the patching.
+
+Revert back to previous fibre connections.
+
+ 
+
+ 
+
+Kind Regards
+
+Danisa Chauke
+
+Change Control Administrator
+
+ 
+
+TECHNICAL SUPPORT DESK ESCALATION
+
+ 
+
+Immediate     LTSA Technical Support:                              +27 11 774 0045                 SouthAfricaTechnicalSupport@liquidtelecom.co.za
+
+1-hrs               Shift lead Hunt number:                              +27 11 774 0017                  support@liquidtelecom.com
+
+2-hrs               Duty Manager Hunt number:                     +27 11 585 0041                 Shiftleads@liquidtelecom.co.za
+
+3-hrs               dutymanagers@liquidtelecom.co.za
+
+ 
+
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator
+
+ 
+
+ 
+
+TECHNICAL SUPPORT DESK ESCALATION

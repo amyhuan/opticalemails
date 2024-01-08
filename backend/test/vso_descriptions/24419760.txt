@@ -1,0 +1,24 @@
+Planned Work Notification: 00251129 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Vienna between Thu Jul 06 21:00:00 GMT 2023-Fri Jul 07 02:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Thu Jul 06 21:00:00 GMT 2023
+End	Fri Jul 07 02:00:00 GMT 2023
+Location	Vienna
+
+Planned work Reason:
+Hardware replacement activity in our network
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100634	GTT/002078620	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251895
+MICRSI/WAVE/U/100635	GTT/002078622	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251896
+MICRSI/WAVE/U/100636	GTT/002078623	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251897
+MICRSI/WAVE/U/121505	GTT/002109820	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251898
+MICRSI/WAVE/U/121506	GTT/002109826	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251899
+MICRSI/WAVE/U/121507	GTT/002109827	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251900
+MICRSI/WAVE/U/121508	GTT/002109828	Wavelength	180	No	Prg-001_PRG1IR	Vie-001_VIE1IR	00251901
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.

@@ -1,0 +1,117 @@
+Dear MCS,
+
+Kindly inform that the plan will be reschedule as below:
+
+Service ID
+
+All traffic IA to Singapore
+
+IPL004400, IPL004401
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+IA Cable
+
+ 
+
+Activity Window (GMT)
+
+2023-08-12 10:30:00 GMT to 2023-08-12 17:30:00 GMT
+
+Nature
+
+Traffic down
+
+Expected Impact Duration(DD:HH:MM) :
+
+2 hours.
+
+Activity Window (GMT)
+
+2023-08-13 01:30:00 GMT to 2023-08-13 10:00:00 GMT
+
+Nature
+
+Traffic down
+
+Expected Impact Duration(DD:HH:MM) :
+
+3 hours.
+
+ 
+
+Activity Description
+
+The tata backbone team will be performing network maintenance activity in their network to improve the performance of the services.
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,
+
+ 
+
+Objective:
+
+ 
+
+Network Optimization Planned Event: To perform new activation works for Sedenak cabin. The details of this PE are as follows:
+
+ 
+
+Planned Event Start Date/Time
+
+20 August 2023 23:00hrs  (GMT+8)
+
+Planned Event End Date/Time
+
+21 August 2023 06:00hrs  (GMT+8)
+
+Downtime
+
+3 hours
+
+ 
+
+Service(s) Affected
+
+ 
+
+Service
+
+Customer Name
+
+LL034478
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD    
+
+ 
+
+We wish to express our regret for any inconvenience this planned event may cause.  We thank you for your cooperation and understanding in the matter.  We will continue to strive to improve our level of service and we look forward to your continued support of TIME dotcom. 
+
+ 
+
+Please do not hesitate to contact us at 1800-188-881 or +603 5033 8700 or email to soc@time.com.my for further assistance or clarification.
+
+ 
+
+Thank you.
+
+ 
+
+Regards,
+
+ 
+
+Marhayu Muhiddin
+
+Change Management
+
+TIME dotCom Berhad

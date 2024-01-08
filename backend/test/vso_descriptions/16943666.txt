@@ -1,0 +1,33 @@
+Dear All,
+
+Please be informed that due to planned maintenance work in our network, below mentioned circuits will be affected as per below schedule.
+The details of the activity are provided below along with the possible effect on your services.
+
+Activity Details
+CR-000000807675>POHC for D-189>AAN/AHO/B1//RK9-[TXM ODF]-AAN/AJH/0G//RK38-[TXM ODF] 200F (Cable Rationalization) on Feb. 26, 2023 @ 0100-1300 Hrs. (Extended Time Activity)
+Maintenance Window
+Start:  (UAE Local time GMT+4)
+End:  (UAE Local time GMT+4)
+Service Impact
+Unprotected traffic working thru affected sections will remain out thru out activity.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01
+Service ID: I61529
+SOF: IS SL 1587
+Protection: Protected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02
+Service ID: I61529
+SOF: IS SL 1587
+Intl Submarine ID: FUJ/MAR/100GBE/006/M
+Protection: Protected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note
+
+Should you have any further enquiries about this activity, please let us know.
+
+We apologize for any disruption this activity may cause.

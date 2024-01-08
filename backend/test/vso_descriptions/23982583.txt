@@ -1,0 +1,43 @@
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019601
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to find and repair degradations in the fiber path. // Se realizará un trabajo programado con la finalidad de encontrar y reparar degradaciones en tramo de fibra de la red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 240 MIN
+
+LOCATION // LOCALIDAD: San Juan, Puerto Rico
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+06-Jun-2023 05:00 - 06-Jun-2023 09:00 [MAIN]
+
+07-Jun-2023 05:00 - 07-Jun-2023 09:00 [BACKUP]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - SP2/MSFT 100GB S005
+
+CRT-007378
+
+NAP/MSFT - SP2/MSFT 100GB S006
+
+CRT-007379
+
+NAP/MSFT - SP2/MSFT 100GB S007
+
+CRT-007380
+
+NAP/MSFT - SP2/MSFT 100GB S008
+
+CRT-007381
+
+[English]

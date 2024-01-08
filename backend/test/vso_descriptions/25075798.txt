@@ -1,0 +1,45 @@
+Dear Partner,
+
+ 
+
+We would like to inform you regarding the below planned activity:
+
+ 
+
+Customer: Microsoft Operations Pte Ltd
+
+Short Description: SMW5 LU3.2 CV15:MTR and KRC S1B FP1 Chann Add (Karachi and Matara)
+
+Type of events: Planned Upgrade
+
+Circuit ID: TUS/CU-MRS/CU GE100L001；TUS/CU-MRS/CU GE100L001
+
+Provider circuit ID: MR2/TUS/100GLAN/0014；MR2/TUS/100GLAN/0015
+
+ 
+
+Maintenance Window Start (Main): [11 SEP 2023 12:00 GMT+8]
+
+Maintenance Window End (Main): [11 SEP 2023 23:00 GMT+8]
+
+Maintenance Window Start (Backup): [12 SEP 2023 12:00 GMT+8]
+
+Maintenance Window End (Backup): [12 SEP 2023 23:00 GMT+8]
+
+ 
+
+Impact: No service impact but at risk
+
+ 
+
+Thanks and should you have any inquiry, please feel free to contact me.
+
+ 
+
+With Kind Regards,
+
+Ivan Ng
+
+Business Development Manager
+
+Carrier Business Department

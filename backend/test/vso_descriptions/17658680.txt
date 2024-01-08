@@ -1,0 +1,32 @@
+Dear Customer,
+
+*** Amended 2 – Revised by Service provider to new date as per below : ***
+
+In our continual effort to provide your company with quality service, we will be performing the following network maintenance:
+ 
+Date of Maintenance                      : 28 - 31 March 2023
+Maintenance Window Period       : 1300 hrs to 2000 hrs (Singapore Time)
+Affected Circuit IDs                    :
+ 
+Service ID	Service Type
+1070010081	IPLC
+1070010089	IPLC
+1070010090	IPLC
+1070010082	IPLC
+1070010083	IPLC
+1070010084	IPLC
+1070010079	IPLC
+1070010080	IPLC
+Reason                                           : Overseas Maintenance work @ APG S9 Repair. 
+Impact and Duration                     : Service Downtime of up to 4 DAYS (subject to prevailing sea / weather conditions) .
+
+Remarks :
+You may need to reboot / power recycle the CPE (e.g. Router/Modem/NTU) at your premises in case of equipment hang after the service maintenance notification downtime.
+ 
+Should you have any queries, please feel free to reply to this email. We will be glad to assist you.
+ 
+Regards
+ 
+ 
+William
+Customer Experience - Business Technical Support | Managed Service Operation Centre

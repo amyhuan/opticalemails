@@ -1,0 +1,33 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230316094048 ticket number has been opened.
+
+Details
+Ticket Number	wt 230316094048
+Status	INPROG
+Level	3
+Ticket Begin Time	23/03/2023 22:00:00
+Ticket End Time	23/03/2023 23:59:00
+Time Zone	GMT + 1
+Description	Please be informed about a planned work which will affect your service.Reason: network optimization. outage time: up to 60 mins 
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35843a.100ge*fra-ist /comment: (SupplierId:WL085769 )
+msn35842a.100ge*fra-ist /comment: (SupplierId:WL085768 )
+msn35841a.100ge*fra-ist /comment: (SupplierId:WL085767 )
+msn35840a.100ge*fra-ist /comment: (SupplierId:WL085766 )
+msn35839a.100ge*fra-ist /comment: (SupplierId:WL085765 )
+msn35838a.100ge*fra-ist /comment: (SupplierId:WL085764 )
+msn35837a.100ge*fra-ist /comment: (SupplierId:WL085763 )
+msn35836a.100ge*fra-ist /comment: (SupplierId:WL085762 )
+msn35835a.100ge*fra-ist /comment: (SupplierId:WL085761 )
+msn35834a.100ge*fra-ist /comment: (SupplierId:WL085750 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

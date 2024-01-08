@@ -1,0 +1,34 @@
+Dear MICROSOFT,
+
+Please see below details of Planned Works: CRQ000001180744
+
+Detailed Description of Works:
+
+Vodafone are carrying out the software upgrade on the Juniper MX platform in Prague.
+This includes the core network router that provides your internet access service.
+Due to this work, you will experience a downtime of up to 30 minutes during the maintenance window.
+Please accept our apologies for any inconvenience this may cause
+
+Scheduled Start/End Date & Outage Window:
+
+13/03/2023 22:00 to 14/03/2023 04:00 UTC
+
+Impact Assessment:
+
+Loss of service for 30 minutes during the change window
+
+
+
+Services Impacted:
+
+
+Services Affected	Customer	Service Impact	Address	Service Type	Service Model	Customer Reference	Node
+K0501458A	MICROSOFT	Loss of Service	MX480 UCR1.PRA RK AB5,,NAD ELEKTRARNOU,PRAGUE,*CS >>> MICROSOFT@PRAGUE PRGGTS,,NAD ELEKTRARNOU,PRAGUE,*CS	/ 100GE	N/A	N/A	PRGGTSMC1 <> PRGGTS51Z
+
+
+
+For any questions or concerns regarding this maintenance please contact Vodafone E2E Service Change Management using the email address below. If your service remains affected upon the conclusion of the planned maintenance window provided, please contact the appropriate Vodafone Service Desk to report a fault.
+
+Best regards
+E2E Service Change Management
+Vodafone International Networks

@@ -1,0 +1,35 @@
+DCI scheduled maintenance - Service impacting
+
+Hi Mark,
+
+Please be advised that NEXTDC will be carrying out scheduled maintenance on the DCI network.
+
+DATE AND TIME
+Saturday September 9, 2023 between the hours of 10:00 and 16:00 AEST
+
+LOCATION
+B1 and B2 Brisbane
+
+
+IMPACTED PORTS
+DCI 10G ports at B1 and B2 Brisbane
+
+IMPACTED SERVICES
+Your DCI services originating, terminating or transiting in B1 and B2 Brisbane.
+
+EXPECTED CUSTOMER IMPACT
+During this time, customers will experience service outages lasting up to 15 minutes. For customers who have redundant services, only a single service will be affected at any given time during the maintenance window.
+ 
+NEED HELP?  
+Should you have any additional enquiries or require further support, please contact the Customer Experience Centre by using one of the below methods:
+
+Raising a ticket through ONEDC® - the preferred method of contact- https://onedc.nextdc.com
+Phoning 1300 NXT OPS (1300 698 677) from Australia, or +61 7 3177 4799 when calling from overseas
+Emailing nxtops@nextdc.com
+Regards,
+
+The NEXTDC team
+
+Customer Experience Centre
+1300 NXT OPS (1300 698 677)
+T +61-7-3177-4799

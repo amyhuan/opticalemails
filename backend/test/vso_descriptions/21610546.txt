@@ -1,0 +1,36 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019395
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: An emergency work will be performed in order to recover fiber threads.// Se realizará un trabajo de emergencia con la finalidad de recuperar hilos de cables de fibra.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 490 MIN
+
+LOCATION // LOCALIDAD: Santos - Fortaleza, Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+10-May-2023 13:00 - 10-May-2023 20:00 [Main Window]
+
+11-May-2023 13:00 - 11-May-2023 20:00 [Backup Window]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MICROSOFT SP2/MICROSOFT 100GB S001
+
+CRT-006004
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.

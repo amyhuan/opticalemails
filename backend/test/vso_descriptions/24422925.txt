@@ -1,0 +1,149 @@
+Dear customer, Good day to you!
+
+Thank you for using CHTI service. We (our partner) will perform a network maintenance operation
+in an effort to provide you with the best service. The detail information is as following：
+
+Reason
+
+Fiber migration will be executed doe to the bridge reconstruction mandated by government dept, in Taipei city.
+
+Working Day:
+
+Maintenance
+Start Date/Time
+
+2023-07-03 09:00(Taipei Time, UTC +8)
+
+2023-07-03 01:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-07-03 22:30(Taipei Time, UTC +8)
+
+2023-07-03 14:30(UTC Time)
+
+Back up Day:
+
+Maintenance
+Start Date/Time
+
+2023-07-06 09:00(Taipei Time, UTC +8)
+
+2023-07-06 01:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-07-06 22:30(Taipei Time, UTC +8)
+
+2023-07-06 14:30(UTC Time)
+
+Possible Impact
+
+Your circuit will be in outage of 2~5 minutes during the activity.
+
+Maintenance
+Location
+
+TAIWAN- TAIWAN Taoyuan County, TOU C/S,HK
+
+Circuit Type
+
+IPLC
+
+Event ID
+
+A807994
+
+Circuit Impacted
+
+Customer Name
+
+Circuit ID
+
+Bandwidth
+
+Microsoft Operations Taiwan Limited
+
+    
+
+3479E81872
+
+    3479E81873
+
+    
+
+3479E81874
+
+ 
+
+3479E81875
+
+ 
+
+2UB12358
+
+ 
+
+2UB12370
+
+ 
+
+2UB12371
+
+ 
+
+2UB13451
+
+ 
+
+2UB13452
+
+ 
+
+2UB13454
+
+ 
+
+2UB13787
+
+ 
+
+2UB13788
+
+ 
+
+2UB13854
+
+ 
+
+2UB13855
+
+ 
+
+ 
+
+We sincerely apologize for any inconvenience this may cause you.
+
+Thank you for your understanding.
+
+ 
+
+Best wishes and regards,
+ChungHwa Telecom ;
+
+Kathy Yang
+
+International Transmission Maintenance center
+
+Phone No.:02-23443761
+
+ 
+
+ 
+
+
+
+本信件可能包含中華電信股份有限公司機密資訊,非指定之收件者,請勿蒐集、處理或利用本信件內容,並請銷毀此信件. 如為指定收件者,應確實保護郵件中本公司之營業機密及個人資料,不得任意傳佈或揭露,並應自行確認本郵件之附檔與超連結之安全性,以共同善盡資訊安全與個資保護責任.
+Please be advised that this email message (including any attachments) contains confidential information and may be legally privileged. If you are not the intended recipient, please destroy this message and all attachments from your system and do not further collect, process, or use them. Chunghwa Telecom and all its subsidiaries and associated companies shall not be liable for the improper or incomplete transmission of the information contained in this email nor for any delay in its receipt or damage to your system. If you are the intended recipient, please protect the confidential and/or personal information contained in this email with due care. Any unauthorized use, disclosure or distribution of this message in whole or in part is strictly prohibited. Also, please self-inspect attachments and hyperlinks contained in this email to ensure the information security and to protect personal information.

@@ -1,0 +1,37 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018411
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A schedule work will performed in order to implement network optimization. // Se realizara un trabajo programado con la finalidad de implementar optimizaciones en la red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HITS UP TO 15 MIN
+
+LOCATION // LOCALIDAD: Miami NAP - BOCA
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+21-Feb-2023 15:00 - 21-Feb-2023 18:00
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MICROSOFT - SP2/MICROSOFT 100GB S002
+
+CRT-006005
+
+NAP/EQUINIX - GLOBENET/MSFT 100GB S005
+
+CRT-007916
+
+[English]

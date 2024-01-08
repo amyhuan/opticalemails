@@ -1,0 +1,43 @@
+Scheduled Maintenance #: 27645006
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a traffic-affecting circuit re-route. Work is required to perform infrastructure maintenance on core equipment to ensure the continued integrity of the network. During the maintenance window you may experience one period of outage to the maximum specified below.
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-09-25 16:45:32 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27645006-1
+
+Start	End
+2023-10-07 07:00 GMT (Greenwich Mean Time)	2023-10-07 10:00 GMT (Greenwich Mean Time)
+2023-10-07 02:00 CDT (Central Daylight Time)	2023-10-07 05:00 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): HOUSTON, TX USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	BDKW6953	N/A	GIG-E	SAN ANTONIO TX USA	SAN ANTONIO TX USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	BCWT6805	N/A	GIG-E	DALLAS TX USA	DALLAS TX USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	BDKZ7536	N/A	GIG-E	SAN ANTONIO TX USA	SAN ANTONIO TX USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	BDKZ7535	N/A	GIG-E	SAN ANTONIO TX USA	SAN ANTONIO TX USA	Outage	1 hour	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

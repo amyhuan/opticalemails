@@ -1,0 +1,68 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+ 	
+Maintenance details
+
+C2C Segment-1 (Hongkong - Philippines) - Planned Submarine Repair Work for Shunt Fault bet Repeaters R01 & R02 off Hongkong Cable Station
+
+Telstra Planned Submarine Repair Works on C2C Segment-1 (Hongkong - Philippines) for Shunt Fault approx. between Repeaters R01 and R02 off Hongkong Cable Station The whole Segment and all Fiber Pairs will be Down / Unavailable for Service throughout the Repair period.
+
+
+Reference number
+PN309789
+
+
+Start time
+Sunday, 27 Aug 2023 16:01:00 (UTC)
+
+
+End time
+Sunday, 03 Sep 2023 12:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG TOK EPL 9698386
+HKG TOK EPL 9576673
+HKG TOK EPL 9426365
+HKG TOK EPL 9636236
+HKG TOK EPL 9659419
+HKG TOK EPL 9287365
+HKG TOK EPL 90011250
+HKG TOK EPL 90011253
+HKG TOK EPL 90022562
+HKG TOK EPL 90022558
+HKG TOK EPL 90022553
+HKG TOK EPL 90022561
+
+
+Expected impact
+Outage for the full duration of the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.
+Need help?
+
+Our planned maintenance user guide might have the answers you're looking for.
+
+You also can email us at gpen@team.telstra.com or call +852 3192 7420 for help with:
+
+Any questions regarding this maintenance activity.
+Notifcation management for future planned maintenance.
+Access to Telstra Connect if you cannot contact your Telstra

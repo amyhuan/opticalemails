@@ -1,0 +1,53 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000785555
+
+Start time / Heure de début (Y/M/D):
+
+2023-06-01 12:00:01 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-06-01 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+1 h
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+Confirmed - We need to carry out work on cables and fibers in order to improve your service.
+Confirme - Nous devons procéder à des travaux sur câbles et fibres afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+CABLE RELOCATE
+
+CLLI:
+
+QUBCPQ03
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KGXS802762-006BLCA-000         
+ 05KGXS802762-008BLCA-000         
+ 05KGXS802762-010BLCA-000         
+ 05KGXS802762-012BLCA-000         
+ 05KGXS802762-014BLCA-000         
+ 05KGXS802762-018BLCA-000      1250 RENE LEVESQUE   
+
+You may experience a failure(s) at any time during the above window.
+Il est possible que vous éprouviez une/plusieurs interruption(s) de service lors de la fenêtre ci-dessus.
+
+
+cid:Bell.jpg
+Groupe Relâches | Releases Team
+Bell Marchés Affaires | Bell Business Markets

@@ -1,0 +1,20 @@
+End Date/Time: , 20-Jun-2023 02:00 UTC,  , lease be advised of EMERGENCY maintenance works to be carried out on Hawaiki Network. This work MAY impact your services identified below. Please note that this activity has already been delayed significantly.
+
+Reason for Notification:
+Hawaiki will need to perform card reset to resolve a card issue
+
+List of Services:
+MSO-BX0353
+
+Maintenance Window:
+Start Date/Time: 19-Jun-2023 22:00 UTC
+End Date/Time: 19-Jun-2023 23:00 UTC
+
+Service impact: Service may be impacted during this activity - Hard Down for up to 30mins within the maintenance window.
+
+HAWAIKI NOC will send a notification prior to commencement of works, regular updates and a notification at the conclusion of this works. If you have any questions, comments, or concerns regarding this operation, please contact HAWAIKI NOC.
+
+Please contact the HAWAIKI SUBMARINE CABLE Network Operations Centre (NOC) with any questions of concerns. We apologize for any inconvenience caused by this maintenance.
+
+-----
+Best Regards,

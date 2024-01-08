@@ -1,0 +1,71 @@
+Dears,
+
+Kindly be aware of Planned Activity with below details:
+
+ 
+
+Planned outage notification
+
+Peer IP/Circuit Impacted
+
+International circuit ID
+
+ABT/TEN-Marseilles/TEN 100GE033
+
+ABT/TEN-Marseilles/TEN 100GE034
+
+TN7/N/ABT/MRS/100G/100GE/00048 180520220065
+
+ALX/MAR/10GbE/029/M
+
+ALX/MAR/10GbE/030/M
+
+Requested outage reason
+
+Emergency planned activity to Secure TENORTH cable in Marseille from Tram infrastructure work.
+
+MW#1     Start time
+
+26-Mar-2023         00:00   UTC
+
+MW#1     End time
+
+26-Mar-2023         05:00 UTC
+
+MW#1     Duration
+
+5 Hours
+
+MW#2 Start time
+
+27-Mar-2023         21:00   UTC
+
+MW#2 End time
+
+28-Mar-2023         05:00 UTC
+
+MW#2 Duration
+
+8 Hours
+
+Backup window Start time
+
+30-Mar-2023         21:00   UTC
+
+Backup window End time
+
+31-Mar-2023         05:00  UTC
+
+Backup window Duration
+
+8 Hours
+
+Outage impact
+
+switching hits
+
+ 
+
+ 
+
+Best Regards,

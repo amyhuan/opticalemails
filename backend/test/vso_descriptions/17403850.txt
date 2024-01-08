@@ -1,0 +1,83 @@
+Hi Microsoft
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C138091
+
+ 
+
+Description
+
+AAE-1 PW TT reference : PW3255
+
+PW for card replacement to clear "Temperature Out Of Range" alarm at 1-B-3 in Marseille 1. (Ref NW TT : NW6980)
+
+ 
+
+Location
+
+Marseille
+
+Duration
+
+Nature : Service Affecting
+
+ 
+
+Impact : Up to 3 Hours Downtime
+
+ 
+
+Planned Start
+
+08:00 GMT / 16th March 2023
+
+Planned End
+
+12:00 GMT/ 16th March 2023
+
+Affected service/link
+
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353 
+
+ 
+
+Carrier References
+
+PW3255
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                   
+
+
+
+ 
+
+Regards,
+
+ 
+
+Ayub Oruko Ondoro
+
+ 
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 50366736
+
+Follow us on Twitter and Facebook

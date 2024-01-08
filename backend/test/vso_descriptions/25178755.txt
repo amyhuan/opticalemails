@@ -1,0 +1,60 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance Activity by ILD Service provider, which is scheduled on Monday, 18th September 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                       :    ITEM-060883 NE-16798
+
+         
+
+Scheduled Date                             :    Monday, 18th September 2023
+
+
+Maintenance Window                 :     18/09/2023 15:30 GMT to 18/09/2023 18:00 GMT
+
+ 
+
+Activity                                            :     Emergency Software Upgrade
+
+ 
+
+Benefit of Change                         :     To avoid unplanned outage in near future
+
+
+Impact                                             :     Non-Service Affecting
+                           
+Duration of Impact                       :     switch hit events may be detected during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+LSI
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association

@@ -1,0 +1,73 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 24/07/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230718-0013 URGENT CA FIBER Fiber_Central2 Project PROJECT ROAD CHERAS AT BKT DUKONG DUE BREAKDOWN FOC KAJANG-BALAKONG 96C & FOC KAJANG-SUNGAI LONG 48C.
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+SELANGOR (CENTRAL)
+
+PLANNED START ( with time zone )  
+
+2023-07-25 23:00:00 (GMT +8)
+
+PLANNED END
+
+2023-07-26 07:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-07-25 23:00:00
+
+EXPECTED OUTAGE END
+
+2023-07-26 07:00:00
+
+EXPECTED OUTAGE DURATION
+
+1 HOUR
+
+JUSTIFICATION
+
+RELOCATION TM CABLE JUNCTION DUE TO PERMENANT CABLE JUNCTION PROJECT ROAD CHERAS BKT DUKONG FOC KAJANG-BALAKONG 96C & FOC KAJANG-SUNGAI LONG 48C.
+
+CIRCUIT INVOLVED 
+
+ 
+
+NETWORK ID	Expected Outage
+IE1042623063
+
+1 HOUR
+
+IE1042622373
+
+1 HOUR
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.

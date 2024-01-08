@@ -1,0 +1,45 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00320919	2023-04-18 04:00:00	2023-04-18 10:00:00	0 Days 6 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+Por medio de la presente informamos que se realizará ventana de mantenimiento el 18 de abril de 2023 desde las 00:00 a.m. hasta las 06:00 a.m. En esta actividad se intervendrá el tramo Curumaní-Aguachica, dado a la topología anillada de la red, no se presentará afectación de los servicios. 
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G
+On behalf of GlobeNet, we thank you in advance and apologize for any inconvenience. The GlobeNet NOC will confirm once the work has been completed.
+
+If we do not received notification from you in 24 hours from the moment we send the notification, we will assume that the maintenance was accepted.
+
+
+
+Thank you,
+
+Network Operations Center
+
+200 East Las Olas Blvd, Suite 1700
+Fort Lauderdale, FL 33301, US
+
+USA: +1.561.750.2488
+BERMUDA: +1.441.294.6555
+BRAZIL: +55 21.3475.3371
+COLOMBIA: + 576016505201
+VENEZUELA: +58.212.740.4153
+ARGENTINA: +541170922670
+FAX: +1.561.750.9042
+
+www.globenet.com

@@ -1,0 +1,37 @@
+Dear Equinix Customer,
+
+The maintenance listed below will commence in 30 days. To avoid possible service interruption, please take any required actions now.
+
+
+Your service may be interrupted.
+
+Dear Equinix Customer,
+
+
+To continue to provide you with the most reliable service, the following maintenance is required:
+
+DATE: 20-MAY-2023 - 21-MAY-2023
+
+SPAN: 20-MAY-2023 - 21-MAY-2023
+
+LOCAL: SATURDAY, 20 MAY 22:00 - SUNDAY, 21 MAY 10:00
+UTC: SATURDAY, 20 MAY 14:00 - SUNDAY, 21 MAY 02:00
+
+IBX: SG3
+
+Planned maintenance action: Equinix and its vendor will be performing shutdown maintenance for LV Switchboard at EPR 3-B1 and PDUs (Redundant Source / B -Feed) serving Data Hall 3-1, 3-2, 3-3, 3-4 & 3-8.
+
+The purpose of the shutdown is to perform maintenance work at PDU, ACBs and LV Switchboard in accordance with Equinix LV Switchboard Preventive Maintenance Plan.
+
+During the shutdown maintenance, Redundant Source (B-Feed) to your rack will not be available for approximately 8-hours. Single corded equipment (if any) will be impacted. Please make necessary arrangement to migrate the single corded equipment to the Primary Source (A-Feed). The Primary Source (A-Feed) will remain UPS protected.
+Maintenance activity will cause half of Level 3 lighting to be switched off.
+
+After the shutdown maintenance is completed, all critical loads will be supported by both Primary Source (A-Feed) and Redundant Source (B-Feed).
+
+Recommended action: Please make necessary arrangement to migrate the single corded equipment to the Primary Source (A-Feed). The Primary Source (A-Feed) will remain UPS protected.
+
+Duration: 8 Hours
+
+Impacted assets:
+
+The equipment being maintained supports your circuits indicated in the table below.

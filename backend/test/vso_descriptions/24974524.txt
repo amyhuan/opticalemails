@@ -1,0 +1,60 @@
+Dear All,
+
+
+This is to inform you about Urgent Maintenance Activity by ILD Service provider, which is scheduled on Wednesday 06th September 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                   :     ITEM-059465 NE-16436
+
+         
+
+Scheduled Date                            :     Wednesday 06th September 2023
+
+
+Maintenance Window                    :     06-09-2023 21:00 GMT to 07-09-2023 04:00 GMT
+
+ 
+
+Activity                                        :     optical cable rerouting
+
+ 
+
+Location                                       :     MARSEILLE, France
+
+ 
+
+Benefit of Change                         :     To avoid unplanned outage in near future
+
+
+Impact                                         :     Non-Service Affecting
+                           
+Duration of Impact                        :     Circuit will be switching hit during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.

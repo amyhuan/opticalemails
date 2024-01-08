@@ -1,0 +1,37 @@
+Dear Team,,  ,  ,  , Please be informed that this activity has been rescheduled as below.,  ,  ,  , Scheduled Start Time:,  , 11-Apr -2023 22:00:00 (QLT),  , Scheduled End Time:,  , 12- Apr-2023 08:00:00 (QLT),  , Outage Duration(DD:HH:MM:SS), :,  , 00:10:00:00,  ,  ,  ,  ,  , Best Regards,,  ,  ,  ,  ,  , Erick Estrada, Fixed Technical Support Specialist, Commercial Operations Support Team,  , Vodafone Qatar P.Q.S.C, PO Box 27727, Doha, Qatar,  , +97, 4 7444 7124,  , ServiceOperationsCenter@vodafone.com,  ,  ,  , vodafone.qa,  ,  ,  , VODAFONE QATAR PLANNED ACTIVITY NOTIFICATION
+
+Vodafone Qatar – Service Operations Center
+
+Customer Name
+
+Microsoft
+
+Reference
+
+Vodafone Reference Number:   INC000068205703
+
+Circuit ID:  MSAWDMMV2MRS001U, MSAWDMMV2MRS002U
+
+Service Type: DWDM
+
+Summary:
+
+Please be informed that our international carrier partner is performing Optimization Activity on their transmission segment. 
+
+This action is very important to be proceed in order to provide you stable services and avoid uncontrolled outage.
+
+Impact:
+
+Impact analysis shows that during the activity the services will not be available for not more than 10 hours during maintenance window. This activity is mandatory to be performed to ensure the service stability.
+
+Change Activity Window:
+
+Start Time: 30-Mar-2023 22:00:00(QLT)
+
+End Time: 31-Mar-2023 08:00:00(QLT)
+
+For any further concerns regarding this outage, please contact Vodafone Qatar – Service Operations Center at +974 7444 7124 or simply reply to this message.
+
+ 
+
+This message and any files or documents attached are strictly confidential or otherwise legally protected. It is intended only for the individual or entity named. If you are not the named addressee or have received this email in error, please inform the sender immediately, delete it from your system and do not copy or disclose it or its contents or use it for any purpose.

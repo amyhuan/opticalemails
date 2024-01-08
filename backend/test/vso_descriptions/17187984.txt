@@ -1,0 +1,16 @@
+Dear Equinix Customer,
+
+DATE: 09-MAR-2023 - 10-MAR-2023
+
+SPAN: 09-MAR-2023 - 10-MAR-2023
+
+LOCAL: THURSDAY, 09 MAR 22:00 - FRIDAY, 10 MAR 06:00
+UTC: FRIDAY, 10 MAR 06:00 - FRIDAY, 10 MAR 14:00
+
+IBX(s): SV2,SV5
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a planned software upgrade on our backbone device. No impact to your service is expected.
+
+PRODUCTS: METRO CONNECT
+
+IMPACT: No impact to your service

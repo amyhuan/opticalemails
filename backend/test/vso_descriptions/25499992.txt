@@ -1,0 +1,30 @@
+Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00328790 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Piacenza to Reggio Emilia Italy between Tue Oct 17 07:30:00 GMT 2023-Tue Oct 17 13:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Tue Oct 17 07:30:00 GMT 2023
+End	Tue Oct 17 13:00:00 GMT 2023
+Location	Piacenza to Reggio Emilia Italy
+
+Planned work Reason:
+Repair needed to prevent future outages & repair a damaged potion of cable
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100630	GTT/001924206	Wavelength	300 min	No	Rümlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00328860
+MICRSI/WAVE/U/100610	Wavelength/01641706	Wavelength	300 min	No	Rumlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00328857
+MICRSI/WAVE/U/100611	Wavelength/01641707	Wavelength	300 min	No	Rumlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00328858
+MICRSI/WAVE/U/100629	GTT/001924191	Wavelength	300 min	No	Rümlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00328859
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

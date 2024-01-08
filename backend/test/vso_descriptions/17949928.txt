@@ -1,0 +1,33 @@
+(Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Planned maintenance on circuit between Rennesoy and Hjelmeland.
+
+Start of PW: 04.05.2023 00:01 (Europe/Oslo)
+End of PW: 04.05.2023 06:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+T200000060
+T200000061
+T200000062
+T200000063
+T200000064
+T200000065
+
+
+Best regards,
+Altibox Operations Centre
+T: +47 51 90 81 10
+E: b2bops@altibox.no
+altibox.no
+
+
+
+Vennlig hilsen/Best regards
+Audun Ims Torseth
+Critical Incident Manager
+Altibox Operation Centre
+Telefon: +47 51 90 80 15

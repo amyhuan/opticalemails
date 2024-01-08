@@ -1,0 +1,88 @@
+Dear All,
+
+Please be informed that due to planned maintenance work in our network, below mentioned circuits will be affected as per below schedule.
+
+The details of the activity are provided below along with the possible effect on your services.
+
+Activity Details
+CR-000000852438 for F-286> BXA - MMA 200F ULL Cable
+Maintenance Window
+Start:  (UAE Local time GMT+4)
+End:  (UAE Local time GMT+4)
+Service Impact
+Unprotected traffic working thru affected sections will remain out thru out activity.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/IMW 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES01
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES02
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES03
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES04
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE01
+Service ID: I60187
+SOF: IS SL 1504
+Intl Submarine ID: FUJ/MUM/100G/0505
+Protection: Protected
+
+Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE02
+Service ID: I60187
+SOF: IS SL 1504
+Protection: Protected
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES03 (M) - 1444057932
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES04 (M) - 1444057933
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MAR/SFR/AAE1 100GE01
+Service ID: I60188
+SOF: IS Submarine Lease - 1505.1
+Intl Submarine ID: ELT/FUJ/MRS2/100G/100Gbe/000004
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MAR/SFR/AAE1 100GE02
+Service ID: I60188
+SOF: IS Submarine Lease - 1505.1
+Intl Submarine ID: ELT/FUJ/MRS2/100G/100Gbe/000008
+Protection: Protected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note
+
+Should you have any further enquiries about this activity, please let us know.
+
+We apologize for any disruption this activity may cause.

@@ -1,0 +1,49 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000800896
+
+Start time / Heure de début (Y/M/D):
+
+2023-07-24 02:01:00 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-07-24 08:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+20 min
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+Confirmed - We need to carry out work on cables and fibers in order to improve your service.
+Confirme - Nous devons procéder à des travaux sur câbles et fibres afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+SECTION CUT OVER
+
+CLLI:
+
+EDTNABXT
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KJXS802762-072BLCA-000      555 WEST HASTINGS ST FLR:MAIN LEVEL RM:MMR VANCOU   
+ 05KJXS802762-073BLCA-000      555 WEST HASTINGS ST FLR:MAIN LEVEL RM:MMR VANCOU   
+
+You may experience a failure(s) at any time during the above window.
+Il est possible que vous éprouviez une/plusieurs interruption(s) de service lors de la fenêtre ci-dessus.
+
+
+cid:Bell.jpg
+Groupe Relâches | Releases Team
+Bell Marchés Affaires | Bell Business Markets

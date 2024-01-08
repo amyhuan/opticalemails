@@ -1,0 +1,135 @@
+[Overview]
+  IX equipment Maintenance.
+  In this maintenance, we will switch over to the alternative switch by "optical switching system" manually.
+
+[Maintenance Window (JST(UTC +9))]
+  Nov 21st, 2023 02:00 - 05:00
+  (This switching will complete less than 1 second.)
+  Note:The time to Link Up and to BGP Peer Up depends on each environment.
+
+[Impact]
+  - Customers using the IP addresses listed in [Scope of affect for IPv4/v6 address] momentary interruption will occur due to optical switch switching.
+  - Customers using the IP addresses listed in [Scope of affect for IPv4/v6 address] and customers using bilateral peers may experience a peer down.
+  - Customers using the VLAN ID listed in [Scope of affect for VLAN ID] and customers using CUG service.
+
+[Scope of affect for IPv4/v6 address]
+    210.171.224.37
+    210.171.224.41
+    210.171.224.44
+    210.171.224.45
+    210.171.224.53
+    210.171.224.54
+    210.171.224.70
+    210.171.224.75
+    210.171.224.121
+    210.171.224.152
+    210.171.224.155
+    210.171.224.166
+    210.171.224.179
+    210.171.224.198
+    210.171.224.207
+    210.171.224.232
+    210.171.224.235
+    210.171.225.27
+    210.171.225.28
+    210.171.225.29
+    210.171.225.32
+    210.171.225.34
+    210.171.225.35
+    210.171.225.40
+    210.171.225.41
+    210.171.225.47
+    210.171.225.52
+    210.171.225.54
+    210.171.225.56
+    210.171.225.62
+    210.171.225.64
+    210.171.225.66
+    210.171.225.72
+    210.171.225.78
+    210.171.225.86
+    210.171.225.96
+    210.171.225.99
+    210.171.225.101
+    210.171.225.122
+    210.171.225.123
+    210.171.225.124
+    210.171.225.127
+    210.171.225.128
+    210.171.225.143
+    210.171.225.147
+    210.171.225.155
+    210.171.225.156
+    210.171.225.158
+    210.171.225.167
+    210.171.225.176
+    210.171.225.193
+
+    2001:de8:8::1828:1
+    2001:de8:8::3303:1
+    2001:de8:8::3786:2
+    2001:de8:8::4775:1
+    2001:de8:8::4788:2
+    2001:de8:8::6461:1
+    2001:de8:8::6507:1
+    2001:de8:8::9009:1
+    2001:de8:8::1:158:1
+    2001:de8:8::1:158:2
+    2001:de8:8::1:310:1
+    2001:de8:8::1:310:2
+    2001:de8:8::1:2041:1
+    2001:de8:8::1:4537:1
+    2001:de8:8::1:4630:1
+    2001:de8:8::1:7408:1
+    2001:de8:8::1:7709:1
+    2001:de8:8::1:7941:1
+    2001:de8:8::1:7978:1
+    2001:de8:8::1:8403:1
+    2001:de8:8::1:9551:1
+    2001:de8:8::1:9679:1
+    2001:de8:8::2:3661:1
+    2001:de8:8::2:4284:2
+    2001:de8:8::2:4284:3
+    2001:de8:8::2:4429:1
+    2001:de8:8::2:4482:1
+    2001:de8:8::3:81:1
+    2001:de8:8::3:2590:1
+    2001:de8:8::3:6236:1
+    2001:de8:8::4:627:1
+    2001:de8:8::4:2473:1
+    2001:de8:8::4:5758:1
+    2001:de8:8::4:6562:1
+    2001:de8:8::5:5805:1
+    2001:de8:8::5:7976:1
+    2001:de8:8::5:8453:1
+    2001:de8:8::5:8807:1
+    2001:de8:8::5:8907:1
+    2001:de8:8::5:9123:1
+    2001:de8:8::6:2713:1
+    2001:de8:8::6:2955:1
+    2001:de8:8::6:3199:1
+    2001:de8:8::13:5391:1
+    2001:de8:8::13:6907:1
+    2001:de8:8::13:6907:2
+    2001:de8:8::13:7367:1
+    2001:de8:8::15:1420:1
+    2001:de8:8::19:7440:1
+    2001:de8:8::39:8704:1
+
+[Scope of affect for VLAN ID]
+    vlan 1361
+    vlan 3150
+
+[Contact]
+If you have any questions, please feel free to contact us at support@jpix.ad.jp
+
+Best Regards,
+
+-------------------------------------
+Japan Internet Xing Co., Ltd.
+JPIX Support 
+     Emergency 
+Phone: +81-3-5255-3858 (24 hours)
+Fax  : +81-3-3243-9580
+-------------------------------------
+  *The company name has been changed since 2023/01/01 JST.

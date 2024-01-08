@@ -1,0 +1,18 @@
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC230785
+Action and Reason:	Maintenance to relocate cable due to civil construction works, in order to avoid unannounced outage
+Location:	Suomenoja, Finland
+
+
+Service Window: PWIC230785.1 primary	Work Status: Confirmed
+Service window start:	2023-05-16 21:00 UTC
+Service window end:	2023-05-17 05:00 UTC
+Impacted Services	
+IC-366815 (TRIM.20210210.07)	Wavelength Single Link	1 x 8 hours
+
+
+
+Best Regards
+Customer Support Center

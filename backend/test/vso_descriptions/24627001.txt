@@ -1,0 +1,32 @@
+Planned Work Notification: 00267860 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Austria between Wed Aug 09 22:00:00 GMT 2023-Thu Aug 10 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Wed Aug 09 22:00:00 GMT 2023
+End	Thu Aug 10 04:00:00 GMT 2023
+Location	Austria
+
+Planned work Reason:
+Optical cable replacement in sub-provider network
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100614	Wavelength/01592810	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269039
+MICRSI/WAVE/U/100631	GTT/002078615	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269040
+MICRSI/WAVE/U/100632	GTT/002078616	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269041
+MICRSI/WAVE/U/100633	GTT/002078617	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269042
+MICRSI/WAVE/U/121504	GTT/002109808	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269043
+MICRSI/WAVE/U/121509	GTT/002109835	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269044
+MICRSI/WAVE/U/121510	GTT/002109837	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269045
+MICRSI/WAVE/U/121511	GTT/002109839	Wavelength	240 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00269046
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

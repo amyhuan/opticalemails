@@ -1,0 +1,52 @@
+Dear Team,,  ,  ,  , Please kindly be informed that the mentioned maintenance work has rescheduled. Please find below for updated information., Event Details:,  , Start Date/Time: 2023-09-11 22:00:00 UTC/2023-09-12 06:00:00 UTC+8, End Date/Time: 2023-09-12 06:00:00 UTC/2023-09-12 14:00:00 UTC+8,  ,  ,  , Regards,  ,  ,  , Below Activity has been rescheduled for,  ,  ,  , Primary window,  ,  , 2023-09-05 22:00 UTC- 2023-09-06 06:00 UTC,  ,  , Backup window,  ,  , 2023-09-07 22:00 UTC- 2023-09-08 06:00 UTC,  ,  ,  ,  ,  , Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Tuesday 05th September 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                           Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID : QT2023GJJH010188
+
+ 
+
+Scheduled Date : Tuesday 05th September 2023
+
+
+Maintenance Window : 2023-09-05 22:00:00 UTC - 2023-09-06 06:00:00 UTC
+
+ 
+
+Activity : Partner provider’s network maintenance
+
+ 
+
+Location : International/Overseas
+
+ 
+
+Benefit of Change : To avoid unplanned outage in near future
+
+
+Impact : Service Affecting
+
+Duration of Impact : Circuit will be down 30min during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Customer Name
+
+13854870
+
+Microsoft Operations Pte Ltd.

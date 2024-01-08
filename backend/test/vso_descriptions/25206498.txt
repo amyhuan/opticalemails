@@ -1,0 +1,56 @@
+# English Follows Japanese
+
+JPNAP Osaka Peer
+
+I am always indebted to you.
+I'm Ueto of Takehara Cable Network (AS131988).
+
+Maintenance work is scheduled as follows,
+Interface and peer down will be temporarily implemented.
+
+------------------------------------------------------------
+
+Date: 2023-09-27 00:00-04:00 (JST)
+
+AS  ： AS131988
+IPv4 Address: 210.173.184.131
+IPv6 Address: 2001:7fa:7:2:0:13:1988:1
+
+Impact: Interface and peer downs occur within the above time
+
+------------------------------------------------------------
+
+
+
+Dear JPNAP Osaka peers,
+
+This is Yuichirou Uefuji , TANET(AS131988).
+
+We will be doing maintenance work at the peer on the following schedule.
+The BGP peer sessions and the interface will be Down during this time.
+
+------------------------------------------------------------
+
+Date/Time : 2023/09/27 00:00-04:00 (JST)
+
+AS  ： AS131988
+IPv4 Address: 210.173.184.131
+IPv6 Address: 2001:7fa:7:2:0:13:1988:1
+
+------------------------------------------------------------
+
+Best regards,
+
+
+--------------
+Yuichirou Uefuji
+
+Takehara Cable Network Co,Ltd
+(AS131988)
+info@tanet.co.jp
+--------------
+
+--
+customers-notify-l mailing list
+customers-notify-l@lists.osaka.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.osaka.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7C0ac2e5ca3f2c47278b0908dbb8f4a51e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638307133123053459%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iDWb8dN8zb9IHUjszKxiFbVD6BQAYIHsgYt%2B4iXEzeY%3D&reserved=0

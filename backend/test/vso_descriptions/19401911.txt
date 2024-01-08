@@ -1,0 +1,47 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C140466
+
+Description
+
+Planned activity to shunt fault localization in TGN-Gulf network and power balancing KSA-Dubai.
+
+Location
+
+Al Khobar-Dubai
+
+Duration
+
+03 Hours Outage.
+
+Planned Start
+
+06 May 2023 22:00 GMT
+
+Planned End
+
+07 May 2023 01:00 GMT
+
+Affected service/link
+
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114 (QDC5)
+
+DOH-MUM/MICROSOFT/TGN-100G05-PW618348/PW618349
+
+Carrier References
+
+CHGP0576437
+
+ 
+
+ 
+
+Thanks & Regards,

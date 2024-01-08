@@ -1,0 +1,139 @@
+
+This sender Changemgmt@airtel.com is from outside your organization. Block sender
+This sender Changemgmt@airtel.com is from outside your organization.
+Changemgmt 
+​
+​
+​
+​
+​
+​
+Dear Team,
+
+ 
+
+Please be informed that due to some unpredicted technical & logistical difficulties was obliged to postpone this activity to tomorrow night.
+
+ 
+
+The new time window is:
+
+ 
+
+00:00 – 04:00 UTC of 27/10/2023.
+
+ 
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Arun Kumar
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Changemgmt
+Sent: 27 September, 2023 8:47 AM
+To: 'MOC@microsoft.com' ; 'MOCALERT@microsoft.com' ; Vivek Ahuja 
+Cc: Soumajit Sengupta 
+Subject: ID : ITEM-062219 NE-17010 Planned Maintenance Activity by ILD Service provider, which is scheduled on Thursday 26th October 2023 ( Microsoft Ireland Operations Ltd.)
+
+ 
+
+Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Thursday 26th October 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID : ITEM-062219 NE-17010
+
+ 
+
+Scheduled Date : Thursday 26th October 2023
+
+
+Maintenance Window : 26/10/2023 00:00 (GMT +00:00)  on 26/10/2023 04:00 (GMT +00:00)
+
+ 
+
+Activity : Main optical cable repair
+
+ 
+
+Location : Messina-Rosarno (ITALY)
+
+ 
+
+­­Benefit of Change : To avoid unplanned outage in near future
+
+
+Impact : Service Affecting
+
+Duration of Impact : Circuit will go down for 240mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Customer Name
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards?
+
+Arpit Gangwar
+
+7303874360
+
+Change_Management
+
+(Bharti Airtel)

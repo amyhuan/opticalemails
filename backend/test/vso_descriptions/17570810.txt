@@ -1,0 +1,27 @@
+Email Recipients: moc@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00201142 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in 73240 Wendlingen am Neckar, Germany between Mon Apr 03 22:00:00 GMT 2023-Tue Apr 04 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Mon Apr 03 22:00:00 GMT 2023
+End	Tue Apr 04 04:00:00 GMT 2023
+Location	73240 Wendlingen am Neckar, Germany
+
+Planned work Reason:
+Fiber works in 73240 Wendlingen am Neckar, Germany
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MIIR1/WAVE/U/123676	IR/wavelength/01639671	Wavelength	360 min	No	Par-221_PAR221IR	Par-221_PAR221IR	00202875
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

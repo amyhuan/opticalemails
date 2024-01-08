@@ -1,0 +1,45 @@
+, Maintenance Window   ,  , 08-SEP-2023 00:00:00 IST(GMT + 5:30) to 08-SEP-2023 06:00:00 IST(GMT + 5:30) , Hi All,, With respect to the maintenance activity, detailed in the below mail, we wish to inform you that the same has been,  , Rescheduled,  , for,  , ", 27-JUL-2023 00:00:00",  , IST(GMT + 5:30). ,  , Details of Maintenance :,  , -,  , Change ID,  , 1100084834 , Scheduled Date,  , 27-JUL-2023 00:00:00 IST(GMT + 5:30) , Maintenance Window   ,  , 27-JUL-2023 00:00:00 IST(GMT + 5:30) to 27-JUL-2023 06:00:00 IST(GMT + 5:30) , Activity,  , 5400 NE upgradation in NLD/Metro network , Location  ,  , GPX Mumbai , Benefit of Change ,  , To provide better service uptime in future. , Impact ,  , Service Affecting , Duration of Impact   ,  , Circuit will go down for 1 hrs 0 minutes during the maintenance window , Comments , Circuit will go down only for one time , ----------------------------------------------------,  , Circuit Detail, :,  , Circuits as per the particular activity-,  , Impacted LSI : Party Name,  , 13557047: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED. ,   ,  ,  ,  ,  ,  ,  , Hi All,
+
+With respect to the Planned Maintenance activity, please find the details below- 
+
+Details of Maintenance : -
+
+Change ID	1100084834
+Scheduled Date	18-JUL-2023 00:00:00 IST(GMT + 5:30)
+Maintenance Window   	18-JUL-2023 00:00:00 IST(GMT + 5:30) to 19-JUL-2023 06:00:00 IST(GMT + 5:30)
+Activity	5400 NE upgradation in NLD/Metro network
+Location  	GPX Mumbai
+Benefit of Change 	To provide better service uptime in future.
+Impact 	Service Affecting
+Duration of Impact   	Circuit will go down for 30 hrs 0 minutes during the maintenance window
+Comments	Circuit will go down only for one time
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+13557047: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.
+ 
+
+We request you to kindly take the necessary steps or re-schedule sensitive operations at your end to ensure minimal impact on your services. We apologize for any inconvenience due to this event and resulting impact.
+
+We look forward to your co-operation and a long term synergic association.
+
+ 
+
+Regards,
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+ 
+
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID : changemgmt@airtel.com Toll Free no: 1800-102-001

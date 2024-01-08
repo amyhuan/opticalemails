@@ -1,0 +1,59 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1626779
+
+
+Work Start Date/Time:  02-04-2023 00:01:00 AEDT
+
+Work End Date/Time:     02-04-2023 05:59:00 AEST
+      
+
+Location:            PIALLIGO, ACT
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 1 Hour
+ 
+
+Description of Work:  
+
+ 
+
+Network maintenance to rectify a fault condition on the network.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE243333	Vocus Wavelength (AUD)
+VWE273689	Vocus Wavelength (AUD)
+VWE283010	Vocus Wavelength (AUD)
+VWE243299	Vocus Wavelength (AUD)
+VWE161001	Vocus Wavelength (AUD)
+VWE160999	Vocus Wavelength (AUD)
+VWE123210	Vocus Etherwave (AUD)
+VWE160998	Vocus Wavelength (AUD)
+VWE283008	Vocus Wavelength (AUD)
+VWE268858	Vocus Wavelength (AUD)
+VWE268857	Vocus Wavelength (AUD)
+VWE243303	Vocus Wavelength (AUD)
+VWE273690	Vocus Wavelength (AUD)
+VWE161000	Vocus Wavelength (AUD)
+VWE128557	Vocus Etherwave (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288.

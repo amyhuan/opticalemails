@@ -1,0 +1,17 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	EMERGENCY PLANNED ACTIVITY | SA | Cable Replacement Activity | 19th July 2023 16:00 GMT TO 19th July 2023 22:00 GMT
+PE Reference:	C4349345
+PE Type:	Service Affecting
+PE Category:	ILD Standard Change
+Start time IST:	07/19/2023 21:30:00
+End Time IST:	07/20/2023 03:30:00
+Associated Service:	JIOGIPLMUMSIN0224
+Impact:	Circuits will be down for 1 Hour during activity window
+Comment:	Our supplier will be performing Emergency Planned Activity for Cable replacement in their media.
+This mail is automatically generated, please do not reply it. If any query regarding mentioned activity, Please Contact us on Jio.NOCILDOperations@ril.com ( mailto:Jio.NOCILDOperations@ril.com )
+
+Thanks and Regards
+
+ILD Change management Team

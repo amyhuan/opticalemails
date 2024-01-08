@@ -1,0 +1,52 @@
+Dear Customer ,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C140426
+
+Description
+
+PW by supplier TE for fiber relocation work in segment X1.2 between Wadi Elnatron-6th October
+
+Location
+
+Wadi Elnatron-6th October
+
+Duration
+
+Switching hit plus protection loss (Traffic will be running on X1.1 route during the activity , Non Service Affecting
+
+Planned Start
+
+05/04/23 11:00:00 GMT
+
+Planned End
+
+05/04/23 16:00:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille) 
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353 
+
+ 
+
+Regards ,
+
+ 
+
+Fayis Neroth
+
+Consultant
+
+Ooredoo Qatar
+M: +974 74089340
+
+Follow us on Twitter and Facebook

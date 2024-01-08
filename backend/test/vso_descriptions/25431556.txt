@@ -1,0 +1,39 @@
+Dear Sirs,
+
+We hereby send you our cordial greetings and, at the same time, we send you the notification of scheduled work.
+
+Emergency work by incident
+
+ID Work	Description	Start	End	Affectation
+CRQ001000033422	Fix/Repair	2023-10-12 07:00:00 (GMT)	2023-10-12 09:00:00 (GMT)	30 min
+It will affect the following services:
+
+Client ID		Computer	IP AS Interface		
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4	Microsoft	GRTVAPEM1	ae70	84.16.7.79	8075
+ITS-0001050189 - GRTVAPEM1 - et-5/0/19 - IPv4	Microsoft	GRTVAPEM1	and-5/0/19	84.16.7.79	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv6	Microsoft	GRTVAPEM1	ae70	2001:1498:1:966:0:0:0:1692	8075
+ITS-0001050189 - GRTVAPEM1 - et-5/0/19 - IPv6	Microsoft	GRTVAPEM1	and-5/0/19	2001:1498:1:966:0:0:0:1692	8075
+Please do not hesitate to contact us if you have any additional questions.
+
+Best regards.
+
+Dear Sirs,
+
+With this notification we would like to send you our cordial greetings and, at the same time, we would like to notify you of a scheduled work.
+
+Emergency work due to incident
+
+Work ID	Description	Start	End	Impact
+CRQ001000033422	Fix/Repair	2023-10-12 07:00:00 (GMT)	2023-10-12 09:00:00 (GMT)	30 min
+Affected Circuits:
+
+Id	Customer	Device	Interface	IP	AS
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4	Microsoft	GRTVAPEM1	ae70	84.16.7.79	8075
+ITS-0001050189 - GRTVAPEM1 - et-5/0/19 - IPv4	Microsoft	GRTVAPEM1	and-5/0/19	84.16.7.79	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv6	Microsoft	GRTVAPEM1	ae70	2001:1498:1:966:0:0:0:1692	8075
+ITS-0001050189 - GRTVAPEM1 - et-5/0/19 - IPv6	Microsoft	GRTVAPEM1	and-5/0/19	2001:1498:1:966:0:0:0:1692	8075
+For further information or concerns regarding this maintenance, please do not hesitate to contact us.
+
+Best regards.
+
+Footer CustomerB2B Sign

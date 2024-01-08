@@ -1,0 +1,23 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Our provider will be carrying an emergency activity for Battery Bank installation & commissioning at DAKC, Mumbai.
+
+Impact: Unprotected services will face 03 Hours outage & protected services will be At risk
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	20-Aug-2023 17:30	21-Aug-2023 01:30	27-Aug-2023 17:30	28-Aug-2023 01:30
+
+
+Service ID	Impact
+RGBO4TA134	03 Hours Outage
+RGBO4TA133	03 Hours Outage
+This activity has been planned with lots of diligence, however in case there are concerns related to this event, please highlight it to GCX within 48 hours of receipt of this notification. GCX will make all endeavors to address the concerns, however there will be limitations to accommodate such requests because of network criticality, dependency on third party schedule and resources, availability of access permission and reasons beyond GCX’s control.
+
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Pradnya V Kokane

@@ -1,0 +1,24 @@
+,  , Scheduled Maintenance #: 26409396, Summary:, Lumen's 3rd party provider will perform maintenance within their network. This has been designated as ESSENTIAL. The nature of this work is to implement a fiber maintenance and is required in order to improve network reliability., As this maintenance is not under the control of Lumen it may not be possible to reschedule it., Lumen sincerely apologizes for any inconvenience caused by this maintenance, ., Updates:, 2023-04-24 12:20:58 GMT - This maintenance has been rescheduled by the 3rd party provider, Customer Impact:, 26409396-1,  , Start , End , 2023-05-10 05:00 GMT (Greenwich Mean Time) , 2023-05-10 11:00 GMT (Greenwich Mean Time) , 2023-05-10 00:00 CDT (Central Daylight Time) , 2023-05-10 06:00 CDT (Central Daylight Time) , Previously Scheduled for (2023-04-18 05:00 GMT to 2023-04-18 11:00 GMT), Maintenance Location(s):,  , Multiple, TX UNITED STATES,  , Customer Name , Circuit ID , Alt Circuit ID , Bandwidth , A Location , Z Location , Impact Type , Maximum Duration , Order Number , MICROSOFT CORPORATION MCIO , 443762638 , N/A , 10GIG-E LAN , RESTON VA USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , MICROSOFT CORPORATION MCIO , 442611823 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , MICROSOFT CORPORATION MCIO , 443762639 , N/A , 10GIG-E LAN , RESTON VA USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , MICROSOFT CORPORATION MCIO , 442611824 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , MICROSOFT CORPORATION MCIO , 441254213 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , MICROSOFT CORPORATION MCIO , 442611825 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   ,  , Notes History:, 2023-04-24 12:20:58 GMT - This maintenance has been rescheduled by the 3rd party provider, 2023-04-17 18:35:36 GMT - This maintenance has been,  , postponed,  , due to XXXXX. Once a new date is determined, updated notifications will be sent reflecting the date change., 2023-04-12 01:31:17 GMT - This maintenance is scheduled., Click here,  , to open a case for assistance on this scheduled maintenance via Email., Click here,  , for immediate information on scheduled maintenances via the Lumen Customer Portal., Click here,  , to manage your notification subscriptions via the Lumen Portal., Click here,  , to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal., Network Change Management Team, Lumen, 1-855-244-6468 option 1, The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.,  ,  , As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-04-12 01:31:17 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26409396-1
+
+Start	End
+2023-04-18 05:00 GMT (Greenwich Mean Time)	2023-04-18 11:00 GMT (Greenwich Mean Time)
+2023-04-18 00:00 CDT (Central Daylight Time)	2023-04-18 06:00 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): Multiple, TX UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	443762638	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611823	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	443762639	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611824	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	441254213	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours

@@ -1,0 +1,46 @@
+Dear Sirs // Dear Sirs,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Below you will find our Scheduled Work Notification:
+
+NOTIFICATION NUMBER // NOTIFICATION NUMBER: SWX0019371
+
+NOTIFICATION TYPE // NOTIFICATION TYPE: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPTION: A schedule work will performed in order to implement network optimization. A scheduled work will be carried out in order to implement optimizations in the network.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 10 MIN
+
+LOCATION // LOCATION: Savior
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+09-May-2023 16:00 - 09-May-2023 22:00 ( MAIN)
+
+10-May-2023 03:00 - 09-May-2023 08:00 (BACKUP 1)
+
+10-May-2023 14:00 - 09-May-2023 22:00 (BACKUP 2)
+
+AFFECTED CIRCUITS // AFFECTED CIRCUITS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/EQUINIX - GLOBENET/MSFT 100GB S005
+
+CRT-007916
+
+RIO/EQU SAOPAULO/MSFT 100GB S011
+
+CRT-010094
+
+RIO/EQU SAOPAULO/MSFT 100GB S012
+
+CRT-010095
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.

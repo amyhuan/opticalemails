@@ -1,0 +1,25 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230512140307 ticket number has been opened.
+
+Details
+Ticket Number	wt 230512140307
+Status	INPROG
+Level	3
+Ticket Begin Time	25/05/2023 23:00:00
+Ticket End Time	26/05/2023 04:00:00
+Time Zone	GMT + 1
+Description	Please be informed about an urgent maintenance works within our partner network, which will affect your service.Location(s):between Messina and PattiOutage time: 4 hours
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33648b.100ge*fra-ist /comment: (SupplierId:WL074836 )
+msn33649b.100ge*fra-ist /comment: (SupplierId:WL074837 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

@@ -1,0 +1,21 @@
+Maintenance Update
+Hello Microsoft team,
+
+This is to inform you that we have scheduled the maintenance window for the below 100G circuit for Microsoft (AS8075) in Madras.
+
+We will update you again once the session are up or if there are any delays.
+
+For any questions, please reach out to our engineers at aws-peering-capacity@amazon.com
+
+Schedule Details
+All times are in (DD/MM/YYYY HH:MM) format and in UTC
+Start time: 11/10/2023 02:30
+End time: 14/10/2023 02:30
+Session Details
+LAG 1
+Circuit Information
+Amazon Circuit ID	Cross Connect ID	CFA	Microsoft Circuit ID
+CIRCUIT-14951	C1-MAA01-30014360-25/26	Site: STT Chennai VSB Floor/Block : 5/F, 2nd Block Rack: Row 3, R07 Patch panel: 5F2B-ROW3-R07-RU4 Port: P5	MSFT Ref : 832110
+IP Addresses
+Amazon IPv4	Peer IPv4	Amazon IPv6	Peer IPv6
+104.44.15.139/31	104.44.15.138	2a01:111:2000:1::ae/126	2a01:111:2000:1::ad

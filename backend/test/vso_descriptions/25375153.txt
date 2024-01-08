@@ -1,0 +1,44 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft Ireland Operations Ltd
+Ticket Number	WIOCCEW149494
+External Ref	
+Incident Start Date/Time	05/10/2023 21:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C208-0024	1x100Gbps from Lagos to London	100	Rack Centre - Lagos	London
+CA-MU-C208-0028	1x100Gbps from Lagos to London	100	Rack Centre - Lagos	London
+Most Recent Message:
+
+Please take note that the emergency maintenance activity detailed below;
+
+Maintenance Window 1
+Start Date / Time: 5th Oct 2023 21:00 UTC
+End Date / Time: 6th Oct 2023 05:00 UTC
+
+Maintenance Window 2
+Start Date / Time: 6th Oct 2023 21:00 UTC
+End Date / Time: 7th Oct 2023 05:00 UTC
+
+Impact on Service(s)
+Intermittent downtime for up to 60 Mins
+
+Description of Works
+Firmware upgrade on our DWDM equipment nodes in Lagos and UK
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010

@@ -1,0 +1,17 @@
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00344650	2023-07-06 06:00:00	2023-07-06 11:30:00	0 Days 5 Hours 30 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+Por medio de la presente enviamos reprogramación ventana de mantenimiento el 06 de julio del 2023 desde las 01:00 a.m. hasta las 06:30 a.m.

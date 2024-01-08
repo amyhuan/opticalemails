@@ -1,0 +1,26 @@
+Dear Equinix Customer,
+
+DATE:10-MAY-2023
+
+SPAN: 10-MAY-2023 - 10-MAY-2023
+
+UTC: WEDNESDAY, 10 MAY 04:00 - WEDNESDAY, 10 MAY 11:00
+
+(Time Conversion Guide)
+
+LOCATION(s): CL,KA,TR,WI
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a configuration update. No service impact is expected.
+
+PRODUCTS: EQUINIX CONNECT, EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: No impact to your service
+
+
+Equinix Fabric
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+111615	Equinix Fabric	TR1	-	20790432-A	-	-	-	-	-	-	-	-	-	-
+111615	Equinix Fabric	TR1	-	20790433-A	-	-	-	-	-	-	-	-	-	-
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.

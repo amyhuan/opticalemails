@@ -1,0 +1,27 @@
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on August 27, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-40636
+Notification date:	Monday, August 21, 2023
+Start date:	Sunday, August 27, 2023 - 10:00 am
+End date:	Sunday, August 27, 2023 - 1:00 pm
+Time zone:	Central Daylight Time GMT-5
+Window time frame:	3 Hours
+Expected service outage:	3 Hours
+Event description:	An improvement will be carried out in our connections by replacing cables and connectors. This process will help optimize the efficiency and reliability of our systems.
+Location:	General Bravo, Matamoros
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799182
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799184
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808812
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808813
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net

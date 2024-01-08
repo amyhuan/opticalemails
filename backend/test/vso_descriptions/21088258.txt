@@ -1,0 +1,32 @@
+Sunrise maintenance work - CRQ000001900439
+Sunrise LLC, Glattpark (Opfikon), 4. May 2023
+
+Dear customer
+
+Sunrise Business constantly improves and expands its Telecommunication infrastructure throughout Switzerland. In order to ensure seamless customer experience, we are carrying out scheduled maintenance work.
+
+As a valued customer of ours, we have identified you being impacted by the below mentioned network change.
+
+Microsoft MCIO Schweiz GmbH
+Reason	Due to works on fibre optic cables, an interruption of your service will occur.
+Start	24.05.2023 01:00 (CEST)
+End	24.05.2023 02:00 (CEST)
+Duration in minutes	60
+
+Service	Location	Customer ref.	Remarks
+SAP@356.0395167	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395188	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395189	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395190	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0415386	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0415999	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0463610	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0463611	WHS GigaClass	Gland, Route des Avouillons 32		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395166	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395169	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395170	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0395171	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0415383	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0415997	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0463603	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Center Path impacted. The other Path's South and North are NOT impacted!
+SAP@356.0463604	WHS GigaClass	Rümlang, Hofwisenstrasse 56

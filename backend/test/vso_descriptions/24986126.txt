@@ -1,0 +1,79 @@
+Hello Microsoft.
+
+ 
+
+Please be informed that we have an emergency activity as  detailed below:
+
+ 
+
+Change ID
+
+C146348
+
+Description
+
+Global Cloud Xchange will be carrying an emergency activity to rectify high attenuation points between Ramses and Sadat in Egypt Backhaul.
+
+Impact: At risk
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Location
+
+Between Ramses and Sadat in Egypt Backhaul.
+
+
+Duration
+
+At Risk
+
+Planned Start
+
+03-Sep-2023 07:00 GMT
+
+Planned End
+
+03-Sep-2023 14:00 GMT
+
+Affected service/link
+
+ 
+
+ 
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5) 
+
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351 
+
+ 
+
+Carrier References
+
+PE2023082942679
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+ 
+
+Ayub Oruko Ondoro
+
+ 
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 50366736
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

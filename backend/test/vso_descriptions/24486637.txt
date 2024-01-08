@@ -1,0 +1,40 @@
+External: Exercise caution with links & attachments.
+
+JPIX Peer各位
+
+お世話になります。
+シナプス（AS7511）福山と申します。
+
+弊社メンテナンスのため、以下の日程でPeerが
+断続的にdownします。
+
+日時        ： 2023/07/15(土) 00:00 -- 06:00
+AS          ： 7511
+IPv4アドレス： 210.171.224.208
+IPv6アドレス： 2001:de8:8::7511:1
+
+ご迷惑をおかけしますが、宜しくお願いいたします。
+
+---------------------------------------------------------
+Dear JPIX Peers
+
+This is Fukuyama Tomoyuki at SYNAPSE(AS7511).
+A maintenance is scheduled at the below date and time.
+
+Date        : 2023/07/15(Sat) 00:00 -- 06:00 JST
+AS Number　 : 7511
+IPv4 address: 210.171.224.208
+IPv6 address: 2001:de8:8::7511:1
+
+The connection between each peer will be down under maintenance.
+
+We apologize for any inconvenience this may cause you.
+Thank you for your understanding.
+
+--------------------------------------------
+株式会社 シナプス 技術部ネットワーク課
+福山 智之（Fukuyama Tomoyuki）
+E-mail : tfukuyama@synapse.jp
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fwww.synapse.jp%2f&data=05%7C01%7Cmoc%40microsoft.com%7Cadb2e8ca89d948f6ab6708db7fc6f767%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638244264782590835%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=SnIxdTeTtewOZ5y3DfwFWAiBkwnu5aUA4ve7CtVjVwk%3D&reserved=0
+TEL:099-813-8687 FAX:099-813-8689
+--------------------------------------------

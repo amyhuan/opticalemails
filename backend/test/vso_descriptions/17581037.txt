@@ -1,0 +1,46 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000766606
+
+Start time / Heure de début (Y/M/D):
+
+2023-03-24 12:00:00 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-03-24 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+2 h
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+Confirmed - We need to proceed with a central office maintenance in order to improve your service.
+Confirme - Nous devons procéder à une maintenance à la centrale afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+CPL
+
+CLLI:
+
+MTRLPQ02O17
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KGXS802762-003BLCA-000         
+ 05KGXS802762-005BLCA-000         
+ 05KGXS802762-007BLCA-000         
+ 05KJXS802762-049BLCA-000      35 JOHN TORONTO ON FLR MAIN RM MMR   
+ 05KJXS802762-050BLCA-000      35 JOHN FLR MAIN RM MMR TORONTO ON   
+ 05KJXS802762-053BLCA-000         
+ 05KJXS802762-054BLCA-000

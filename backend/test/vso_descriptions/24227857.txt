@@ -1,0 +1,25 @@
+Dear Customer,
+
+Planned Maintenance has been scheduled that will impact your service.We are unable to provide 14 calendar days notice.Telstra wishes to apologise for the short notice and any inconvenience caused.
+
+This is an iCal notification for Telstra Planned Maintenance PN304767,which will insert a placeholder in your calendar as a reminder.This is for your convenience and information only, so no response from you is required.
+
+ To                                 : Microsoft Corporation (USA)
+
+Attention                       : moc, activations, Erik.Miller, F1800872
+
+Change Reference         : PN304767
+
+Maintenance Window   : 22/06/2023 16:00:00(UTC) to 22/06/2023 17:00:00(UTC)
+
+Expected Impact            : 20 minutes outage during the change window
+
+Maintenance Details      :
+
+ARTERIA Essential Maintenance Notification D431-8550
+
+Please be informed ARTERIA will perform essential maintenance. This outage is due to switch the optical fiber route upon overpass construction of railway in Katsushika Ward, Tokyo.
+
+Service(s) Impacted       : LAX TOK EPL 9986827
+                                         LAX TOK EPL 9657112
+                                         LAX TOK EPL 9201538

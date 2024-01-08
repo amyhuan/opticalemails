@@ -1,0 +1,33 @@
+Team Microsoft, good day, 
+
+The purpose of this email is to inform you of an upcoming maintenance window to migrate Microsoft services to FLO Network infrastructure.
+
+The following services will be migrated:
+1-13799182
+1-13799184
+1-13808812
+1-13808813
+The Maintenance Window is scheduled as follows:
+
+Maintenance ticket #:	MW-33508 / MW-33508
+Notification date:	Tuesday, February 28, 2023
+Start date:	Friday, March 31, 2023 - 12:00 am
+End date:	Friday, March 31, 2023 - 6:00 am
+Time zone:	Central Standard Time GMT-6
+Window time frame:	6 hours
+Expected service outage:	6 hours
+
+The mentioned Microsoft services will be Hard Down beginning April 21, 2022 at 10:00 hrs Central Time due to cancellation of our last mile provider located in SN1 San Antonio.
+
+We respectfully request a POC from Microsoft to assist with this MW to perform the following on the above mentioned dates:
+
+Phase 1: Installation of card and conexions at SN1 ( Responsable FLO)
+
+Phase 2: Migration of services at 00:00 hrs CT on March 31st, 2023 ( Responsable FLO with Microsoft support)
+
+ DCAT information:
+FLŌ Network to insert cards to our equipment
+FLŌ to reroute conexions to new card
+Microsoft to change conexions to new LOA (to be provided after performing Site Survey to locate available ports) 
+Microsoft to validate services. 
+End of activity.

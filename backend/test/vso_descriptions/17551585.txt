@@ -1,0 +1,60 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Friday 17th March 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :     ITEM-050227
+
+         
+
+Scheduled Date                                   :     Friday 17th March 2023
+
+
+Maintenance Window                           :      17-03-2023 20:00 GMT to 18-03-2023 06:00 GMT
+
+         
+
+Activity                                               :      Equipment software upgrade to improve network reliability and service quality
+
+ 
+
+Locations                                          :      London (England), Paris (France), Frankfurt (Germany).
+
+ 
+
+Benefit of Change                                :      To avoid unplanned outage in near future
+
+
+Impact                                               :       Service Affecting
+                           
+Duration of Impact                              :       Circuit will be down for 60min during the maintenance window
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.

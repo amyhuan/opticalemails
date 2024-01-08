@@ -1,0 +1,102 @@
+エクイニクスをご利用のお客様へ,
+
+日付:22-JUN-2023 - 23-JUN-2023
+
+SPAN: 22-JUN-2023 - 23-JUN-2023
+
+ローカル: 木曜日, 22 JUN 22:00 - 金曜日, 23 JUN 06:00
+UTC: 木曜日, 22 JUN 13:00 - 木曜日, 22 JUN 21:00
+
+IBX(s): TY4
+
+説明:エクイニクス担当者は弊社Equinix Fabric設備にて、ソフトウェアアップグレードのメンテナンスを実施致します。
+
+ 
+本作業中、お客様のご利用サービスによって以下のような影響がございます。
+
+・Equinix Fabricをprimaryポートのみでご利用中のお客様、Network Edgeのvirtual connectionをシングル構成でご利用中のお客様は、ご利用中の回線において最大120分間の通信断が発生致します。
+
+・Equinix Fabricを冗長構成でご利用中のお客様、Network Edgeのvirtual connectionを冗長構成でご利用中のお客様は、ご利用中の回線において通信経路の切り替わりに伴う冗長性の低下が発生致します。
+
+
+本メンテナンスにおいては、弊社設備のうち1台のみで作業を行います。Equinix Fabricで以下のCloud Service Provider (CSP)ポートへ接続されている場合は、お客様の物理ポートに影響がない場合でも同様に通信断がございます。
+
+EQIX-EXR04-TYO02-SEC-03092022
+EQIX-EXR02-TYO2-SEC-12152019-A
+EQIX-EXR02-TYO2-SEC-12152019-B
+EQIX-EXR02-TYO02-SEC-09222020-A
+EQIX-EXR02-TYO02-SEC-09222020-B
+ORACLE-TY4-CX-SEC-02
+eqix-google-nni9-ty-sec-zone1
+eqix-google-nni9-ty-sec-zone1
+pc-6we342cb2wdvy63rb1fz5
+pc-6weyfbo5h1yh1atqg00i7
+
+製品:EQUINIX FABRIC, NETWORK EDGE
+
+影響:お客様のサービスに影響の可能性があります。
+
+
+Equinix Fabric
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+138258	Equinix Fabric	TY4	-	21524026	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21268551	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21524031	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21268549	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	22099919	-	-	-	-	-	-	-	-	-	-
+
+この作業に関してご迷惑をおかけいたしますことをお詫び申し上げます。 お客様のご協力とご理解をお願いいたします。
+
+この作業についてご質問がある場合は、Equinix SMC から最新のステータスや追加の詳細情報をご入手いただけます。5-226861875545 をご参照ください。
+
+**************************************************************************************
+
+Dear Equinix Customer,
+
+DATE: 22-JUN-2023 - 23-JUN-2023
+
+SPAN: 22-JUN-2023 - 23-JUN-2023
+
+LOCAL: THURSDAY, 22 JUN 22:00 - FRIDAY, 23 JUN 06:00
+UTC: THURSDAY, 22 JUN 13:00 - THURSDAY, 22 JUN 21:00
+
+IBX(s): TY4
+
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade on our Equinix Fabric routers.
+
+Equinix Fabric customers with only primary/single port/Network Edge virtual connection will experience up to 120 minutes of downtime while customers with secondary/redundant ports/Network Edge virtual connections will experience a loss of redundancy.
+
+The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+EQIX-EXR04-TYO02-SEC-03092022
+EQIX-EXR02-TYO2-SEC-12152019-A
+EQIX-EXR02-TYO2-SEC-12152019-B
+EQIX-EXR02-TYO02-SEC-09222020-A
+EQIX-EXR02-TYO02-SEC-09222020-B
+ORACLE-TY4-CX-SEC-02
+eqix-google-nni9-ty-sec-zone1
+eqix-google-nni9-ty-sec-zone1
+pc-6we342cb2wdvy63rb1fz5
+pc-6weyfbo5h1yh1atqg00i7
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226861875545.
+
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-226861875545].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.

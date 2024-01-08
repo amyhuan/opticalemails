@@ -1,0 +1,17 @@
+Dear Customer,
+
+Please be advised of the following maintenance activity as below:
+
+Start Date/Time:    2023-05-02 19:00:00 UTC / 2023-05-03 03:00:00 (GMT+8)
+
+End Date/Time:     2023-05-02 19:30:00 UTC / 2023-05-03 03:30:00 (GMT+8)
+
+Action and Reason: Fiber Maintenance at Lohas Park Road
+
+================================================
+
+Service Impact: 30 Minutes
+
+Affected circuit(s)ID: MICD0021
+
+/////////////////////////////////

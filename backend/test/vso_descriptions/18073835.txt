@@ -1,0 +1,32 @@
+Customer Name :
+From : Global Services & Operations Tel : +852-28291567
+Date : 18/04/2023 04:24:09 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+UMW Reference Number : U1125\23D-A1
+Date Time : 20/04/2023 00:00:00 to 20/04/2023 08:00:00 GMT (dd/mm/yyyy)
+Duration : 480 mins
+Service/Circuit Affected :
+SR147408 / HKG(PCG)-OAS(PCG) EP5385 /
+
+Outage Description : IACS power reconfiguration on segment 1
+Hard Down - Duration of maintenance window
+
+************ AMENDMENT *************
+Rescheduled to 20/04/2023 00:00:00 GMT
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

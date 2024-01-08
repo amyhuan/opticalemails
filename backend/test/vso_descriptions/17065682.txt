@@ -1,0 +1,19 @@
+Dear Customer,
+
+ 
+
+Please be advised that an Emergency planned maintenance is scheduled as follows;
+
+ 
+
+1. Maintenance window : 08-Feb.  22:00 ~ 23:00 UTC
+
+2. Expected impact : 60 minutes down hard during the maintenance work
+
+3. Maintenance details : Network maintenance at Seoul, Korea.
+
+4. Service impacted : 500175284001, 500175284002
+
+ 
+
+We apologize for the inconvenience caused.

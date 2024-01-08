@@ -1,0 +1,32 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Global Cloud Xchange will be carrying planned activity of network optimization at Versova, Mumbai.
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Impact : 15 Minutes Outage for each service.
+
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	15-Feb-2023 09:30	15-Feb-2023 14:00	17-Feb-2023 09:30	17-Feb-2023 14:00
+
+
+Service ID	Impact
+RGWLS31148	Outage
+RGWLS31147	Outage
+RGWLS31146	Outage
+RGWLS31145	Outage
+RGWLS31144	Outage
+RGWLS31143	Outage
+RGWLS31142	Outage
+RGWLS31130	Outage
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Vishal Parab
+Change Management, Global Network Operations Center
+D +91-22 303 86074
+M:+91 9702427917
+vvparab@globalcloudxchange.com

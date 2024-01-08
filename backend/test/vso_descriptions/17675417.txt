@@ -1,0 +1,27 @@
+Email Recipients: moc@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00205851 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Saint-Jean Les Jumeaux, France between Fri Mar 31 21:00:00 GMT 2023-Sat Apr 01 05:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Fri Mar 31 21:00:00 GMT 2023
+End	Sat Apr 01 05:00:00 GMT 2023
+Location	Saint-Jean Les Jumeaux, France
+
+Planned work Reason:
+Emergency Reroute Saint-Jean Les Jumeaux due to motorway building
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MIIR1/WAVE/U/123676	IR/wavelength/01639671	Wavelength	480 min	No	Par-221_PAR221IR	Par-221_PAR221IR	00206082
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

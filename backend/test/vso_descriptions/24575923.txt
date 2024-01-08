@@ -1,0 +1,37 @@
+Scheduled Maintenance #: 26916699
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a configuration change within the Lumen network and is required in order to improve network reliability and continue providing optimal service for our clients.
+The maintenance consists of multiple nights and customers will only receive notification for the night their services will be impacted.
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-07-18 15:29:30 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26916699-1
+
+Start	End
+2023-08-01 04:00 GMT (Greenwich Mean Time)	2023-08-01 10:00 GMT (Greenwich Mean Time)
+2023-08-01 00:00 EDT (Eastern Daylight Time)	2023-08-01 06:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): STAMFORD, CT USA; NEW HAVEN, CT USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442860305	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442860307	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	3 hours	 
+26916699-2
+
+Start	End
+2023-08-02 04:00 GMT (Greenwich Mean Time)	2023-08-02 10:00 GMT (Greenwich Mean Time)
+2023-08-02 00:00 EDT (Eastern Daylight Time)	2023-08-02 06:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): STAMFORD, CT USA; NEW HAVEN, CT USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442860305	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442860307	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	3 hours

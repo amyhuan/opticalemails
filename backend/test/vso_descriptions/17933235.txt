@@ -1,0 +1,49 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000774398
+
+Start time / Heure de début (Y/M/D):
+
+2023-04-26 12:00:01 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-04-26 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+2 h
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+We need to proceed with a central office maintenance in order to improve your service.
+Nous devons procéder à une maintenance à la centrale afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+OME6500CDC
+
+CLLI:
+
+OWLKONFRO01
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KJXS802762-074BLCA-000         
+ 05KJXS802762-075BLCA-000         
+
+You may experience a failure(s) at any time during the above window.
+Il est possible que vous éprouviez une/plusieurs interruption(s) de service lors de la fenêtre ci-dessus.
+
+
+cid:Bell.jpg
+Groupe Relâches | Releases Team
+Bell Marchés Affaires | Bell Business Markets

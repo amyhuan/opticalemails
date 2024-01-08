@@ -1,0 +1,29 @@
+Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00304435 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in UK between Thu Sep 28 18:00:00 GMT 2023-Fri Sep 29 05:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Thu Sep 28 18:00:00 GMT 2023
+End	Fri Sep 29 05:00:00 GMT 2023
+Location	UK
+
+Planned work Reason:
+Essential maintenance work to complete a repair on a damaged fiber on our partner network
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/121496	HI/Wavelength/00697199	Wavelength	10 hours	No	Mnc-011_MAN1H	Slough - 13 Liverpool Rd	00304529
+MICRSI/WAVE/U/121503	GTT/002107753	Wavelength	10 hours	No	Lon-256_LON256IR	Mnc-011_MAN1H	00304537
+MICRSI/WAVE/U/121502	GTT/002107744	Wavelength	10 hours	No	Lon-256_LON256IR	Mnc-011_MAN1H	00304539
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

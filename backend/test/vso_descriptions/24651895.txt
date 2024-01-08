@@ -1,0 +1,37 @@
+Dear All,
+
+Please be informed that, an emergency planned activity to clear the degradation observed at distance 25.1 KM at BMH in seg-1.7 (JED-Suez section) has been scheduled and will be performed as per below MW.
+
+Activity Details
+Planned activity to resolve degradation at BMH in Seg 1.7.
+
+Maintenance Window
+Start:  (UTC)
+End:  (UTC)
+Service Impact
+
+Traffic of Seg-1.7 JED-SUZ FP1, FP2 and FP3 will be impacted during the activity.
+IMEWE TT: 11PAN020223
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01
+Service ID: I61529
+SOF: IS SL 1587
+Protection: Protected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02
+Service ID: I61529
+SOF: IS SL 1587
+Intl Submarine ID: FUJ/MAR/100GBE/006/M
+Protection: Protected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04
+Service ID: I65366
+SOF: IS SL 1784
+Intl Submarine ID: FUJ/MAR/100GBE/010/M
+Protection: Unprotected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note

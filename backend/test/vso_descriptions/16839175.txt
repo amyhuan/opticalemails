@@ -1,0 +1,69 @@
+Classification: Internal
+
+ 
+
+Dear Team,
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C136165
+
+Description
+
+Please be informed that there is emergency maintenance work to rectify "Optical Loss Of Signal" alarm between OCT and WNS Span in Segment X1.2. Services will be running via Sub-Segments X1.1.
+
+Location
+
+Between OCT and WNS Span in Segment X1.2. Services will be running via Sub-Segments X1.1.
+
+Duration
+
+Nature : Non Service Affecting
+
+Impact : Switching hits plus protection loss
+
+Planned Start
+
+24 – Jan -2023 - 09:00 :00 (GMT)
+
+Planned End
+
+24 – Jan -2023 - 14:00 :00 (GMT)
+
+Affected service/link
+
+ 
+
+Ooredoo/DOH/MRS2/100G/100Gbe/000015     DOHA   MARSEILLE-2              DOH-MAR/MICROSOFT/AAE1-100G03   100G
+
+Ooredoo/DOH/MRS1/100G/100Gbe/000022     DOHA   MARSEILLE-1              DOH-MAR1/MICROSOFT/AAE1-100G06               100G
+
+ 
+
+Carrier References
+
+PW3178
+
+ 
+
+Regards  & Thanks ,
+
+ 
+
+Mohamed Youssef
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 66153596
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

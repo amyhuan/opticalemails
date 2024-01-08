@@ -1,0 +1,29 @@
+UTC:,  , WEDNESDAY, 21 JUN 14:00 - WEDNESDAY, 21 JUN 22:00,  , The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+eqix-google-nni5-sg-pri-zone1
+eqix-google-nni1-sg-pri-zone2
+115944-SG1-CX-PRI-01
+584665-SG1-CX-PRI-01
+584665-SG1-CX-PRI-02
+EQIX-EXR01-SIN31-PRI-11042021
+EQIX-SGE-09XGMR-CIS-1-PRI-A-03152020
+EQIX-SGE-09XGMR-CIS-1-PRI-B-03152020
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+115690	Equinix Fabric	SG1	-	21969043-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21339480-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21339481-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226877000365.

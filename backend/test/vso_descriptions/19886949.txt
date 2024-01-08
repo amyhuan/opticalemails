@@ -1,0 +1,90 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+TEC/AAG FP3 Event Notification 2023051000 (INC000103333340) - MW#5
+
+Please be advised that we plan to migrate and upgrade on Telstra Endeavour MW#5.
+
+
+Reference number
+PN300937
+
+
+Start time
+Wednesday, 10 May 2023 14:00:00 (UTC)
+
+
+End time
+Wednesday, 10 May 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+SCA SYD EPL 9294316
+
+
+Expected impact
+1 hour outage within the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.
+Need help?
+
+Our planned maintenance user guide might have the answers you're looking for.
+
+You also can email us at gpen@team.telstra.com or call +852 3192 7420 for help with:
+
+Any questions regarding this maintenance activity.
+Notifcation management for future planned maintenance.
+Access to Telstra Connect if you cannot contact your Telstra representative/s.
+Please do not reply to this email. It's been sent from an automated system.
+
+
+
+Dear Cogent Customer,
+
+As a valued customer, Cogent is committed to keeping you informed about any changes in the status of your service with us. This email is to alert you regarding maintenance we will be performing on our network: 
+
+Start time: 00:00 CEST (UTC+2) 8-MAY-2023
+End time: 05:00 CEST (UTC+2)
+Work order number: NC938-136
+Order ID(s) impacted: 1-212061554, 1-300050736, 1-300050741, 3-001013695, 3-001013696, 3-001013697, 3-001013698
+Expected Outage/Downtime: 60-90 minutes
+Location: Amsterdam/Stockholm
+
+Only the Cogent Order ID(s) listed above will be impacted. The purpose of this work is to apply and activate software module upgrades on code running on the edge routers per the manufacturer's recommendations.
+
+During this maintenance window, you may experience up to two  interruptions in service while we complete the maintenance activities. However, due to the complexity of the work, your downtime may be longer. Customers may also see some re-convergence during the maintenance window. Customers may experience latency and packet loss intermittently throughout the window.
+
+Our network operations engineers closely monitor the work and will do everything possible to minimize any inconvenience to you. If you have any problems with your connection after this time, or if you have any questions regarding the maintenance at any point, please contact Customer Support at eu-support@cogentco.com and refer to this Maintenance Ticket: NC938-136.
+
+We appreciate your patience during this work and welcome any feedback. Thank you for being a Cogent customer.
+Please send all questions and concerns to mailto:eu-support@cogentco.com?subject=Maintenance%20Event%20For%20Order%20ID:%201-212061554, 1-300050736, 1-300050741, 3-001013695, 3-001013696, 3-001013697, 3-001013698&body=RE:NC938-136%0AOrder%20ID(s)%20impacted:%201-212061554, 1-300050736, 1-300050741, 3-001013695, 3-001013696, 3-001013697, 3-001013698%0APlease%20type%20any%20questions%20or%20concerns%20with%20this%20event%20below%20this%20line%0A--------------
+
+
+Sincerely,
+
+Customer Support Europe / European Network Operation Center
+Cogent Communications | Madrid, Spain | https://nam06.safelinks.protection.outlook.com/?url=http%3A%2f%2fwww.cogentco.com%2f&data=05%7C01%7Cmoc%40microsoft.com%7C2bcd08ff55f24f748d4408db47064a21%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638181864593527613%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=iiZMrP2wecTN3CqYA2SCwh51CkwjeetOvBd8j0JEBgA%3D&reserved=0
+Hotlines in Europe: |+34 91 102 2501, option 2 | +49 69 2998 9696, option 2 | +33 1 49 03 1818
+Alternative Hotline: 0800 877 8005 (in the UK) | 06800 18854 (in Hungary)

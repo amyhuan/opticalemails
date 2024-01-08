@@ -1,0 +1,69 @@
+Dears,
+
+Kindly be aware of Planned Activity with below details:
+
+ 
+
+Planned outage notification
+
+Peer IP/Circuit Impacted
+
+International circuit ID
+
+IMW-MIC-100G-0001
+
+Requested outage reason
+
+ 
+
+software upgrade from Release 12.85 to Release 15.5v2.0
+
+ 
+
+Outage Start time
+
+1st Outage Main start time:        10/5/23 04:00:00 UTC
+
+1st Outage Backup start time:    10/9/23 04:00:00 UTC
+
+ 
+
+2nd Outage Main start time:        10/5/23 22:00:00 UTC
+
+2nd Outage Backup start time:    10/9/23 22:00:00 UTC
+
+Outage End time
+
+ 
+
+1st Outage Main End time :        10/5/23 14:00:00 UTC
+
+1st Outage Backup End time :     10/9/23 14:00:00 UTC
+
+ 
+
+2nd Outage Main End time :        10/5/23 23:59:00 UTC
+
+2nd Outage Backup End time :    10/9/23 23:59:00 UTC
+
+ 
+
+ 
+
+Outage Duration
+
+1st Outage Main duration :        00D : 10H :00M
+
+1st Outage Backup duration :    00D : 10H :00M
+
+ 
+
+2nd Outage Main duration :      00D : 02H :00M
+
+2nd Outage Backup duration :   00D : 02H :00M
+
+Outage impact
+
+1st Outage : At risk
+
+                                                    2nd Outage: Service Affecting

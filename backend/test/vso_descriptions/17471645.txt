@@ -1,0 +1,47 @@
+日付:07-APR-2023 - 08-APR-2023
+
+SPAN: 07-APR-2023 - 08-APR-2023
+
+ローカル: 金曜日, 07 APR 22:00 - 土曜日, 08 APR 06:00
+UTC: 金曜日, 07 APR 13:00 - 金曜日, 07 APR 21:00
+
+IBX(s): TY3,TY4,TY8,TY9
+
+説明:概要：エクイニクスにて、Equinix Fabricの拡張のため、バックボーンデバイスのリプレイス作業を計画しております。本作業において、サービス通信を迂回して実施するため、メンテナンスによるお客様サービスの通信断はございません。
+ 
+PRODUCTS: EQUINIX FABRIC
+ 
+影響：作業中、サービス通信は迂回されるため、影響はございません。
+
+製品:EQUINIX FABRIC
+
+影響:お客様回線の通信は自動的に迂回されます。
+
+
+Equinix Fabric
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+138258	Equinix Fabric	TY4	-	21524029	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21524025	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21268550	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21269452	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	22099918	-	-	-	-	-	-	-	-	-	-
+138258	Equinix Fabric	TY4	-	21138035	-	-	-	-	-	-	-	-	-	-
+
+お客様のご協力とご理解をお願いいたします。
+
+この作業についてご質問がある場合は、Equinix SMC から最新のステータスや追加の詳細情報をご入手いただけます。5-224397031907 をご参照ください。
+
+**************************************************************************************
+
+Dear Equinix Customer,
+
+DATE: 07-APR-2023 - 08-APR-2023
+
+SPAN: 07-APR-2023 - 08-APR-2023
+
+LOCAL: FRIDAY, 07 APR 22:00 - SATURDAY, 08 APR 06:00
+UTC: FRIDAY, 07 APR 13:00 - FRIDAY, 07 APR 21:00
+
+IBX(s): TY3,TY4,TY8,TY9
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a planned activity on one of our infrastructure devices. There will be no interruption to services or physical ports, only a loss of redundancy on our internal infrastructure during this work.

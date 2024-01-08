@@ -1,0 +1,44 @@
+Sunrise maintenance work - CRQ000001908121
+Sunrise LLC, Glattpark (Opfikon), 2. June 2023
+
+Dear customer
+
+Sunrise Business constantly improves and expands its Telecommunication infrastructure throughout Switzerland. In order to ensure seamless customer experience, we are carrying out scheduled maintenance work.
+
+As a valued customer of ours, we have identified you being impacted by the below mentioned network change.
+
+Microsoft MCIO Schweiz GmbH
+Reason	Due to works on fibre optic cables, an interruption of your service will occur.
+Start	13.07.2023 00:01 (CEST)
+End	13.07.2023 06:00 (CEST)
+Duration in minutes	359
+
+Service	Location	Customer ref.	Remarks
+SAP@356.0395184	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0395185	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0395186	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0395187	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0416008	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0416009	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0463612	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0463613	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0395172	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0395173	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0395174	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0395175	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0416000	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0416001	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0463605	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0463606	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+
+Remarks:
+---
+
+Our apologies for any inconvenience this maintenance may cause you.
+In case of an emergency, or further questions concerning this announcement, don’t hesitate to contact us.
+
+Kind Regards
+
+Sunrise Business
+
+businesssupport@sunrise.net

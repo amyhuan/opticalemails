@@ -1,0 +1,67 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R0099\23
+Date Time : 17/01/2023 16:00:00 to 17/01/2023 18:00:00 GMT (dd/mm/yyyy)
+Duration : 60 mins
+Service/Circuit Affected :
+SR147407 / HKG(PCG)-OAS(PCG) EP5384 /  ,  , SR164498 / SNG(PCG)-MSL(PCG) EP6000 / SR164499 / MSL(PCG)-SNG(PCG) EP6001,  ,  , SR147408 / HKG(PCG)-OAS(PCG) EP5384,  ,  , SR171502 / SNG(PCG)-MRS(PCG) EP6227 / SR186730 / SNG(PCG)-MSL(PCG) EP6664,  ,  ,  , SR211308 / SNG(PCG)-MSL(PCG) EP7111 /,  ,  Outage Description : Provider's partner will perform cable relocation due to damaged cable by traffic accident.
+Impact: 60 mins
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global
+
+
+
+Possible Outage :
+
+Hard down during the maintenance
+
+
+
+Affected Customers:
+
+
+
+Service No
+
+Customer
+
+IE1042621663
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+ 
+
+DC Code
+
+ 
+
+KUL01 to HKG31 
+
+KUL01 
+
+HKG31 
+
+
+​Thank you.
+
+
+
+Helmi Khaidir
+
+Workteam Change Management 1,
+
+Operation Performance & Change Management
+
+Network Operation Command Center, GNT

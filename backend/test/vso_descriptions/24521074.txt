@@ -1,0 +1,41 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006823525
+
+Urgency: Courtesy
+
+Date Notice Sent: 12-Jul-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+25-Jul-2023 00:01 to 25-Jul-2023 05:00 ( Eastern )
+25-Jul-2023 04:01 to 25-Jul-2023 09:00 ( GMT )
+
+2nd Activity Date
+26-Jul-2023 00:01 to 26-Jul-2023 05:00 ( Eastern )
+26-Jul-2023 04:01 to 26-Jul-2023 09:00 ( GMT )
+
+3rd Activity Date
+27-Jul-2023 00:01 to 27-Jul-2023 05:00 ( Eastern )
+27-Jul-2023 04:01 to 27-Jul-2023 09:00 ( GMT )
+
+Location of Maintenance: 1033 Jefferson St NW, Atlanta, GA
+
+Reason for Maintenance: Zayo will perform Routine Fiber splice - NO Impact is Expected to your services. This notification is to advise you that we will be entering a splice case that houses live traffic.
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/267721//ZYO	No Expected Impact	881 Peachtree St NE Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+F18M-0077739	No Expected Impact	56 Marietta St NW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/007/ZFS (F17M-0050924)	No Expected Impact	180 Peachtree St NW Atlanta, GA. USA	1100 White St SW Atlanta, GA. USA	
+FBDK/812212/008/ZFS (F17M-0189256)	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/009/ZFS ( F17M-0189258)	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/2137624//ZFS (F22M-0205752)	No Expected Impact	250 Williams St NW Atlanta, GA. USA	1101 Donnelly Ave SW Atlanta, GA. USA	
+FBDK/2137672//ZFS ( F22M-0206038)	No Expected Impact	250 Williams St NW Atlanta, GA. USA	1100 White St SW Atlanta, GA. USA

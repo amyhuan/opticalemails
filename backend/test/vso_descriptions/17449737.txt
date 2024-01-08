@@ -1,0 +1,125 @@
+Revised , Schedule, :,  ,  ,  ,  ,  , Phase,  ,  , Date,  ,  , Downtime,  ,  , Change REF,  ,  , Leslie and Willian Nicol Phase 1,  ,  , 22, nd,  , April 2023 from 07:00-15:00,  ,  , 7Hrs,  ,  , CHG0061736,  ,  , Leslie and Willian Nicol Phase 2,  ,  , 23, rd,  , April 2023 from 07:00-18:00,  ,  , 10Hrs,  ,  , CHG0061738,  ,  , Dear Customer,
+
+ 
+
+Please take note of Liquid Planned Change scheduled at  Leslie and Willian Nicol(Johannesburg) as per below schedule). We need to increase fibre capacity between Leslie and Willian Nicol, technicians will install new cable and splice services to the new cable.
+
+ 
+
+IMPACT: Services will be down for a maximum duration of 7hrs during Phase 1 and 10Hrs on Phase 2.
+
+ 
+
+Schedule
+
+ 
+
+Phase
+
+Date
+
+Downtime
+
+Change REF
+
+Leslie and Willian Nicol Phase 1
+
+18th March 2023 from 07:00-15:00
+
+7Hrs
+
+CHG0061736
+
+Leslie and Willian Nicol Phase 2
+
+19th March 2023 from 07:00-18:00
+
+10Hrs
+
+CHG0061738
+
+ 
+
+Affected Service
+
+ 
+
+027JOHA361011174454
+
+027JOHA361011174725
+
+027JOHA361011174717
+
+027JOHA361011174721
+
+027JOHA361011174705
+
+027JOHA361011174446
+
+027JOHA361011174512
+
+027JOHA361011174462
+
+027JOHA361011174484
+
+027JOHA361011174476
+
+027JOHA361011174466
+
+027JOHA361011174492
+
+ 
+
+Reason for Change:
+
+ 
+
+ 
+
+To increase fibre capacity between Leslie and Willian Nicol, technicians will install new cable and splice services to the new cable.
+
+ 
+
+Implementation plan
+
+ 
+
+1.           Phase 1 cable to be installed and Phase 2 same cables to be used
+
+2.           Cables will be prepared after into new fibre joints
+
+3.           Same cable is already in use, and one installed on Phase 1
+
+4.           Cut the old cable and prepare it into the new joint and the new cable on Phase 1
+
+5.           Splice the cable as per service priority
+
+6.           Continuously confirming with both IP and SDH NOC for service restoration
+
+7.           Splice the rest of the fibres once all workers are through
+
+8.           Final confirmation with both NOC on completion
+
+ 
+
+Rollback Plan:
+
+ 
+
+•             System(s) will be cut on new cable as per priority and service affecting.
+
+•             OSP will continuously confirm during and after the cut over with both IP and SDH NOC. Should there be any system which is still down after the planned work execution, then it will be treated as fault.
+
+•             Fibre fault diagnose process will kick in to restore the affected services. End to end test will be done to check fibre conditions.
+
+•             The test will be performed between the applicable POP and the jointing site. OSP FST will ensure that all links are up before parting site
+
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator

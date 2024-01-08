@@ -1,0 +1,56 @@
+Date:                        	17-Apr-2023
+Customer:    	MICROSOFT JAPAN CO. LTD
+Attention:	Melody Wong,Azure Network Operations Center,Connie Tan,Chasel Tan,Bok Lan Seet,Hijaz Rahman,Niall Toh,Adeline Ng . ,Optical DRI,John Tan
+Email:	melody.wong@microsoft.com,moc@microsoft.com,Connie.Tan@microsoft.com,chaseltan@microsoft.com,xv.boklan.seet@singtel.com,hijaz.rahman@microsoft.com,nialltoh@microsoft.com,Adeline.Ng@microsoft.com,opticalDRI@microsoft.com,xv.yiokuan.tan@singtel.com
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000140127
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	CHB/ST-HKG/ST 100G2761ET
+ 
+Client Name:	MICROSOFT JAPAN CO. LTD
+Address A:	TYO79: 2698-19, SHIRAKO, MINAMIBOSO-SHI, CHIBA-KEN, JAPAN
+Address B:	HKG31: MICROSOFT C/O EQUINIX 17/F KERRY WAREHOUSE, HONG KONG
+ 
+2. Circuit:	CHB/ST-HKG/ST 100G2762ET
+ 
+Client Name:	MICROSOFT JAPAN CO. LTD
+Address A:	TYO79: 2698-19, SHIRAKO, MINAMIBOSO-SHI, CHIBA-KEN, JAPAN
+Address B:	HKG31: MICROSOFT C/O EQUINIX 17/F KERRY WAREHOUSE, HONG KONG
+ 
+3. Circuit:	HKG/ST-CHB/ST 100G2841ET
+ 
+Client Name:	MICROSOFT JAPAN CO. LTD
+Address A:	HKG31, MICROSOFT C/O EQUINIX 17/F KERRY WAREHOUSE, HONG KONG
+Address B:	TYO79 , 2698-19, SHIRAKO MINAMIBOSO-SHI JAPAN
+ 
+4. Circuit:	HKG/ST-CHB/ST 100G2842ET
+ 
+Client Name:	MICROSOFT JAPAN CO. LTD
+Address A:	HKG31, MICROSOFT C/O EQUINIX 17/F KERRY WAREHOUSE HONG KONG
+Address B:	TYO79 , 2698-19 , SHIRAKO, MINAMIBOSO-SHI JAPAN
+ 
+Date/ Time 1 (SGT):	18-Apr-2023 22:00 - 19-Apr-2023 06:00
+Date/ Time 1 (UTC):	18-Apr-2023 14:00 - 18-Apr-2023 22:00
+ 
+Impact :	Day 1 : No impact, at risk.
+ 
+Reason :	Day 1 : To perform power optimization.
+ 
+Date/ Time 2 (SGT):	19-Apr-2023 22:00 - 20-Apr-2023 06:00
+Date/ Time 2 (UTC):	19-Apr-2023 14:00 - 19-Apr-2023 22:00
+ 
+Impact :	Day 2 : No impact, at risk.
+ 
+Reason :	Day 2 : To perform power optimization.
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)

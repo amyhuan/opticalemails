@@ -1,0 +1,55 @@
+Change ID                                                 :    ITEM-054333 NE-15249
+
+         
+
+Scheduled Date                                         :     Tuesday 06th June 2023
+
+
+Maintenance Window                                 :     06/06/2023 01:00 GMT to 06/06/2023 04:00 GMT
+
+ 
+
+Activity                                                     :     SW Upgrade activity on equipment
+
+ 
+
+Location                                                   :     London
+
+ 
+
+Benefit of Change                                     :     To avoid unplanned outage in near future
+
+
+Impact                                                     :     Service Affecting
+                           
+Duration of Impact                                    :     Circuit will be down for 90mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.

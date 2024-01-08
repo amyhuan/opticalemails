@@ -1,0 +1,71 @@
+Dear Customer,
+
+ 
+
+We hope this planned work meets your approval and apologize in advance for any disruption to your operations. Should you have any further enquiries regarding this work please do not hesitate to contact us.
+
+ 
+
+Kind regards,
+
+ 
+
+Bezeq International Maintenance Team
+
+  
+
+FOR THE ATTENTION OF:
+
+CUSTOMER’S EMAIL:
+
+Microsoft Ireland Operations Limited
+
+ 
+
+ 
+
+Whaldo.Hall@microsoft.com
+
+moc@microsoft.com
+
+ 
+
+FROM (GMT):
+
+TO (GMT):
+
+EXPECTED IMPACT:
+
+26/09/2023 23:00
+
+27/09/2023 05:00
+
+Services at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+ 
+
+PLANNED WORKS LOCATION & DESCRIPTION:
+
+Scope of work:
+
+Main optical cable relocation (by our Network Provider) due to some civil works between Ferrara and Padova (ITALY)..
+
+ 
+
+SERVICE(S) AFFECTED:
+
+Planned Work Reference Number: NE-16666
+
+ 
+
+Circuit ID:  IPLC-20-12610 & IPLC-20-12609 & IPLC-20-12668 & IPLC-20-12669 &IPLC-22-15394
+
+ 
+
+ 
+
+ 
+
+Shahar  Taitler 
+
+[Phone]  |  +972-39260226  |  data@bezeqint.co.il

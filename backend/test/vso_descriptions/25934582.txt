@@ -1,0 +1,57 @@
+Dear Peer,
+
+ 
+
+ 
+
+We (AS13045 - htp GmbH) will be performing maintenance on a router you are peering with in Frankfurt Interxion.
+
+The BGP session may flap several times during this period.
+
+ 
+
+ 
+
+Timezone: Europe/Berlin
+
+Local Start        Time: 2023-11-23 00:00 CET
+
+Local End         Time: 2023-11-23 05:00 CET
+
+ 
+
+ASN: 13045
+
+IPv4 BGP Neighbor: 104.44.47.130
+
+IPv6 BGP Neighbor: 2a01:111:2000:1::3815
+
+ 
+
+ 
+
+We apologize for any inconvenience caused.
+
+ 
+
+ 
+
+Kind regards
+
+ 
+
+--------------------------------------------------------------------------------------------------------------------------
+
+htp GmbH
+
+Mailänder Straße 2, D-30539 Hannover
+
+E-Mail: www.htp.net
+
+Geschäftssitz: Hannover
+
+Geschäftsführer: Thomas Heitmann, Karsten Schmidt Amtsgericht Hannover HRB
+
+55735
+
+--------------------------------------------------------------------------------------------------------------------------

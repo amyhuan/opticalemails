@@ -1,0 +1,57 @@
+Dear Equinix Customer,
+
+DATE: 24-MAY-2023 - 25-MAY-2023
+
+SPAN: 24-MAY-2023 - 25-MAY-2023
+
+LOCAL: WEDNESDAY, 24 MAY 22:00 - THURSDAY, 25 MAY 06:00
+UTC: WEDNESDAY, 24 MAY 14:00 - WEDNESDAY, 24 MAY 22:00
+
+IBX(s): HK1
+
+DESCRIPTION:"Please be advised that Equinix engineers will perform a 8hr on our Equinix Fabric routers.
+
+Equinix Fabric customers with only primary/single port will experience 120 minutes downtime while customers with secondary/redundant ports or Network Edge virtual connections will experience a loss of redundancy.
+
+The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+EQIX-EXR02-HKB-SEC-02272023
+ZOOM_HKG_AER-4-1
+642090-HK5-CX-SEC-01
+632528-HK1-CX-SEC-01
+632528-HK4-CX-SEC-01
+539676-HK2-CX-SEC-01
+636048-HK2-CX-SEC-02
+583907-HK4-CX-SEC-01
+632768-HK1-CX-SEC-04
+632768-HK1-CX-SEC-02
+632768-HK1-CX-SEC-01
+632768-HK1-CX-SEC-03
+116769-HK1-CX-SEC-01
+EQIX-EXR02-HKG30-SEC-06032022
+632528-HK4-CX-SEC-02
+136445-HK3-CX-SEC-01
+652564-HK1-CX-SEC-01
+138916-HK2-CX-SEC-02
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+116771	Equinix Fabric	HK1	-	22422761	-	-	-	-	-	-	-	-	-	-
+116771	Equinix Fabric	HP1	-	22155965-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226676408249.
+
+Sincerely,
+Equinix SMC

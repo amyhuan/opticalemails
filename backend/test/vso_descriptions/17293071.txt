@@ -1,0 +1,40 @@
+Doc. NO. :
+
+GNOC 2023-00100
+
+Enforcement Date :
+
+2023/02/22
+
+Customer :
+
+Microsoft
+
+Addressee :
+
+Dear person in charge of international leased line.
+
+Title :
+
+Network Maintenance
+
+1. Thank you for using our services.
+
+2. We'd like to inform you of the upcoming Network Maintenance.
+   We'll try to complete the job asap to minimize any inconvenience from it.
+   The details are as following.
+
+   a. Duration/Date :
+
+2023/02/24 01:00 GMT ~ 2023/02/24 03:00 GMT
+
+   b. Issue :
+
+[Emergency] Please be informed that there will be replacement work of faulty USPNL at KT Sangju building.
+
+*Alarm occurred : MS-ILA-Sangju 1-22-USPNL HWACCESS FAILURE (2023/02/19 15:20 GMT~)
+
+   c. Service impact : No Service Impact
+
+3. We apologize for the inconvenience.
+   We'll do the best to provide the customers with high quality services

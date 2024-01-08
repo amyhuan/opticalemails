@@ -1,0 +1,17 @@
+Details
+Ticket Number	wt 230817101246
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	31/08/2023 2:00 AM
+Ticket End Time	31/08/2023 6:00 AM
+Time Zone	(UTC+2:00) CEST
+Description	Please be informed, a maintenance will take place, which may affect your services.Outage: no outage expected,  at riskReason: fiber works in partner network in Brancaleone, Italy
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34964a.100ge*fra-ist /comment: (SupplierId:WL079712 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

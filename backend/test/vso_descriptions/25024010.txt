@@ -1,0 +1,105 @@
+Dear HKIX participant,
+
+ 
+
+RS1 (2001:7FA:0:1::CA28:A101) is going to have maintenance on 17-Sep-2023 (Sunday) 02:00 – 08:00 HKT (UTC +8).
+
+RS2 (2001:7FA:0:1::CA28:A102) is going to have maintenance on 24-Sep-2023 (Sunday) 02:00 – 08:00 HKT (UTC +8).
+
+ 
+
+During the maintenance, your BGP sessions with one route server may be up and down but your BGP sessions with another route server will NOT be affected and the multi-lateral peering can still be maintained.
+
+ 
+
+If you have not set up the IPv6 BGP sessions with both RS1 & RS2, you should do it ASAP for better resilience.  
+
+ 
+
+ 
+
+Regards,
+
+Lo Yu Hin
+
+HKIX NOC
+
+Email: noc@hkix.net
+
+Website: https://www.hkix.net
+
+ 
+
+ 
+
+From: Azure Network Operations Center 
+Sent: Thursday, August 31, 2023 5:31 PM
+To: HKIX NOC ; noc@hkix.net
+Subject: Re: [Amendment] Scheduled Maintenance for HKIX IPv6 Route Server 1 on 17-Sep-2023 (Sunday) & HKIX IPv6 Route Server 2 on 24-Sep-2023 (Sunday)
+
+ 
+
+Hi Team,
+
+ 
+
+Please provide Circuit details of the activity.
+
+ 
+
+ 
+
+Thanks & Regards,
+
+Mounika | Azure NOC
+
+NOC Hotline: +1 425-705-2686
+
+From: HKIX NOC 
+Sent: 30 August 2023 23:14
+To: noc@hkix.net 
+Subject: [EXTERNAL] [Amendment] Scheduled Maintenance for HKIX IPv6 Route Server 1 on 17-Sep-2023 (Sunday) & HKIX IPv6 Route Server 2 on 24-Sep-2023 (Sunday)
+
+ 
+
+Dear HKIX participant,
+
+ 
+
+Please kindly note that HKIX will carry out Route Servers maintenance with the following details:
+
+ 
+
+Date:
+
+Scheduled Maintenance for HKIX IPv6 Route Server 1 on 17-Sep-2023 (Sunday) & HKIX IPv6 Route Server 2 on 24-Sep-2023 (Sunday)
+
+ 
+
+Time Window:
+
+0200 - 0800 HKT (UTC +8)
+
+ 
+
+Maintenance:
+
+Planned maintenance of HKIX IPv6 Route Servers
+
+  
+
+Impact:
+
+There will be no impact to HKIX participants which have BGP sessions with both IPv6 route servers RS1 (2001:7FA:0:1::CA28:A101) & RS2 (2001:7FA:0:1::CA28:A102). During the maintenance, your BGP sessions with one route server may be up and down but your BGP sessions with the another route server will NOT be affected and the multi-lateral peering can still be maintained.
+
+ 
+
+If you have not set up the IPv6 BGP sessions with both RS1 & RS2, you should do it ASAP for better resilience.  
+
+ 
+
+Thank you for your attention.
+
+ 
+
+Regards,

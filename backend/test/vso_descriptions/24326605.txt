@@ -1,0 +1,44 @@
+Scheduled Maintenance #: 26822504
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a circuit migration and is required in order to improve network reliability and continue providing optimal service for our clients.
+
+Lumen would like to apologize for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-06-20 16:37:06 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26822504-1
+
+Start	End
+2023-06-28 07:00 GMT (Greenwich Mean Time)	2023-06-28 13:00 GMT (Greenwich Mean Time)
+2023-06-28 00:00 PDT (Pacific Daylight Time)	2023-06-28 06:00 PDT (Pacific Daylight Time)
+
+
+Maintenance Location(s): BANDON, OR USA; HILLSBORO, OR USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	443820787	N/A	100 GIG	HILLSBORO OR USA	 	Outage	25 minutes	 
+MICROSOFT CORPORATION MCIO	443818288	N/A	100 GIG	HILLSBORO OR USA	 	Outage	25 minutes	 
+MICROSOFT CORPORATION MCIO	443818285	N/A	100 GIG	HILLSBORO OR USA	 	Outage	25 minutes	 
+MICROSOFT CORPORATION MCIO	443820788	N/A	100 GIG	HILLSBORO OR USA	 	Outage	25 minutes	 
+MICROSOFT CORPORATION MCIO	443818286	N/A	100 GIG	HILLSBORO OR USA	 	Outage	25 minutes	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

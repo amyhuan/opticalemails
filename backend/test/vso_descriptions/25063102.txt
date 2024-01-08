@@ -1,0 +1,73 @@
+Dear ALL,
+ 
+Please be advised that there will be urgent maintenance work by International service provider
+
+ 
+
+​Event Type
+
+APCN2 Seg S2 (KTN-LNT) cable shunt fault repair
+
+Date and Time
+
+Main Window
+
+Date Start: 11 SEP 2023 @ 1600 UTC   Date End : 11 SEP 2023 @ 2000 UTC
+
+Backup Window
+
+
+Date Start: 12 SEP 2023 @ 1600 UTC   Date End : 12 SEP 2023 @ 2000 UTC
+
+Location Description
+
+APCN2
+
+ 
+
+Maintenance Event No. :   
+
+RFC-International_Partner-230905-0002
+ 
+
+Possible Outage :
+
+Experience outage up to 04 hours.
+
+Affected Customers:
+
+
+
+
+Service No 
+
+Customer 
+
+IE1042621663 
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD 
+
+
+
+DC Code
+
+
+
+KUL01 to HKG31 
+
+KUL01 
+
+HKG31 
+
+
+If you need any assistance during this maintenance work, kindly e-mail to pmw.nmcc@tm.com.my  and quote the PMW No.TM apologizes for any inconvenience caused to you and your customers. We would like to thank you for your cooperation and understanding.
+
+ 
+
+Thank you.
+
+ 
+
+Helmi Khaidir
+
+Workteam Change Management 1,

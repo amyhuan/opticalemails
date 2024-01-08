@@ -1,0 +1,68 @@
+Dear Team , This is to inform you that, the,  , Planned maintenance,  , has rescheduled as below, ,   , Planned Work Schedule :,  , 09:00 GMT to 15:00 GMT/ 02, nd,  , August 2023,  , Nature :,  , Service Affecting,  , Impact :,  , Up to 6 Hrs. downtime ,  , Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C143650
+
+ 
+
+Description
+
+PW To troubleshoot "Input Signal Power Low" alarm in Fiber pair F2F and F5F at Marseille-2.
+
+Location
+
+Marseille-2
+
+Duration
+
+Up to 06 Hours Outage
+
+Planned Start
+
+13-Jul-2023 09:00:00 GMT
+
+Planned End
+
+13-Jul-2023 15:00:00 GMT
+
+Backup Start
+
+-
+
+Backup End
+
+-
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116)
+
+Carrier References
+
+PW3496
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 70945621
+
+Follow us on Twitter and Facebook

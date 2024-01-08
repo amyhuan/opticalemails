@@ -1,0 +1,91 @@
+PNAP Tokyo Peer 各位
+
+ 
+
+いつもお世話になっております。
+
+一般財団法人研究学園都市コミュニティケーブルサービス(AS23628)
+
+根本圭と申します。
+
+ 
+
+下記日程にて、ネットワークメンテナンス作業を実施いたします。
+
+作業中はピアダウンが発生しますので予めご了承下さい。
+
+ご協力宜しくお願い致します。
+
+ 
+
+Time:     2023/05/18 00:50 〜 2023/05/18 06:40 JST (UTC+09:00)
+
+AS:        23628
+
+IPv4:      210.173.176.151
+
+IPv6:      None
+
+ 
+
+−−−−−−−−−−−−−−−−−−−−−−−−−−
+
+一般財団法人研究学園都市コミュニティケーブルサービス
+
+略称：ACCS（エーシーシーエス）
+
+通信部　通信課　　根本　圭
+
+305-0032 茨城県つくば市竹園1-6-1 つくば三井ビル3F
+
+TEL: 029-852-6111    FAX: 029-858-0220
+
+E-mail:   accscom@accs.or.jp
+
+−−−−−−−−−−−−−−−−−−−−−−−−−−
+
+ 
+
+ 
+
+Dear JPNAP Tokyo peer partner,
+
+ 
+
+We will inform you of our maintenance work.
+
+During the maintenance, the BGP peering session will be down intermittently.
+
+We would appreciate your understanding and cooperation.
+
+ 
+
+Time:     2023/05/18 00:50 - 2023/05/18 06:40 JST (UTC+09:00)
+
+AS:        23628
+
+IPv4:      210.173.176.151
+
+IPv6:      None
+
+ 
+
+---------------------------------------------------
+
+Academic newtown Community Cable Service
+
+(ACCSnet)
+
+NEMOTO, KEI
+
+Phone: 029-852-6111　Facsimile: 029-858-0220
+
+e-mail:   accscom@accs.or.jp
+
+---------------------------------------------------
+
+ 
+
+ 
+
+--

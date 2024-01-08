@@ -1,0 +1,38 @@
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade work on our Equinix Fabric backbone routers in Seatte. We do not anticipate any outages of your service, but a loss of redundancy and possible latency change during the work.
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: Loss of redundancy to your service
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust37-ER-pri	ee46782f-fe31-497b-aa9d-5e4031c58290	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust39-ER-sec	9ddb007a-3fcf-4f35-a73c-1571f772bf8e	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust104-pri	711f6504-f63b-492d-babd-be74b9f195b2	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust39-ER-pri	7b94107c-2bf4-4242-bf3f-fa6ac1ce5188	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust34-ER-sec	71a3d248-b355-46d7-a0d4-65abec6f8b23	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust106-ER-pri	36d6ecbe-16cb-4e8b-a427-6a485441b295	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust24-ER-sec	b79166d8-fa2e-4f36-a558-f925e5f022c7	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust19-ER-sec	bb8387c7-8cbe-4153-9775-a44a4fea4a96	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust44-ER-pri	2c945315-78db-4941-98b4-1d899d71fc0e	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust106-ER-sec	e3639f6d-1795-44d5-beac-ab15f1f0ea02	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust17-ER-pri	b7812a65-5dc9-4a24-b176-739799e69817	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust104-sec	99a54cff-7088-44a6-a7f2-322867552a51	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust44-ER-sec	bedecc35-8376-453e-81d4-8b32ff4396ac	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust29-ER-pri	f2d62623-edab-4d95-9af6-1ce4ffe77981	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust17-ER-sec	5953859e-2f2e-4d07-b160-a7e3cfc4035c	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust45-ER-pri	48dff757-ea7b-4e41-8293-e6999abfaaa8	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust29-ER-sec	f8ee8f64-7a71-4e52-bf86-c633dee1c0d8	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust43-ER-sec	92afb776-1bba-4edc-9c59-6fc531c5be70	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust108-ER-sec	cb8b0cf9-c348-4b90-bc53-894eb521b384	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust14-ER-pri	d4a99676-dc25-4585-8e7a-427deb7d55ba	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust103-ER-Sec	6489680b-9faf-4781-b7e8-d40ba759c096	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust38-ER-sec	21bfa6c8-301d-49f4-803d-b1eef66281bb	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust43-ER2-sec	451a931c-1e7e-43e4-ac84-3ec68b5945b9	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust13-ER-pri	b2719759-7ee6-4fa4-8434-b6b145390722	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust37-ER-sec	b3b99879-5bcb-487d-96e6-392ffa785de6	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263750	MICROSOFT-SE3-CX-PRI-01-10GLAB	Azure ExpressRoute	SEA-Cust38-ER-pri	f1adc1cc-d792-4fea-96e6-73e99718cc0f	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	20263751	MICROSOFT-SE3-CX-SEC-01-10GLAB	Azure ExpressRoute	SEA-Cust13-ER-sec	a438fed7-ee89-41af-bf6b-10041a332761	-	-	-	-	-	-
+110260	Equinix Fabric	SE3	-	202

@@ -1,0 +1,74 @@
+Dear MICROSOFT NOC ,
+
+
+
+Please be advised of maintenance works  to be carried out by our backhaul provider. This work is expected to impact your service(s) identified below.  
+
+
+
+Service ID: MSO-BC0677 , MSO-BC0671
+
+
+
+
+
+Reason for Notification: Our US Backhaul partner is scheduled to conduct maintenance activities aimed at enhancing the robustness of their network.
+
+
+
+Maintenance Window:
+
+Date/Time Start: ﻿﻿4 October 2023 12:00 UTC
+
+Date/Time End: ﻿﻿4 October 2023 13:00 UTC
+
+
+
+Back-up Maintenance Window:
+
+Date/Time Start: ﻿﻿5 October 2023 12:00 UTC
+
+Date/Time End: ﻿﻿5 October 2023 13:00 UTC
+
+
+
+Location of Maintenance: Oregon , US
+
+
+
+Service Impacting: Two switch hits expected.
+
+
+
+Hawaiki NOC will monitor the progress of works throughout the maintenance window, keep you informed of developments as they occur and advise when the activity is complete.
+
+Please contact the HAWAIKI SUBMARINE CABLE Network Operations Centre (NOC) with any questions of concerns.
+
+-----
+Best Regards,
+HAWAIKI NOC
+
+In case of emergency, contact us on any of the following:
+- New-Zealand Toll-free : +64 800 002 600
+- Australia Toll-free : +61 1800 319 388
+- United States Toll-free : +1 8888 313 339
+- International Calling Number: +64 9 887 3243
+- Email : support@hawaikicable.co.nz
+
+
+HAWAIKI CONFIDENTIALITY NOTICE:
+This email and its contents are confidential and may also be privileged. If you have received it in error, you may not read, use, copy or disclose this email or its attachments. If you are the intended recipient, you must not disclose or circulate this email or its content other than in accordance with any confidentiality arrangements between us.
+
+-----
+Best Regards,
+HAWAIKI NOC
+
+In case of emergency, contact us on any of the following:
+- New-Zealand Toll-free : +64 800 002 600
+- Australia Toll-free : +61 1800 319 388
+- United States Toll-free : +1 8888 313 339
+- International Calling Number: +64 9 887 3243
+- Email : support@bw-digital.com
+- Customer Portal : portal.bw-digital-ext.com
+
+HAWAIKI CONFIDENTIALITY NOTICE: This email and its contents are confidential and may also be privileged. If you have received it in error, you may not read, use, copy or disclose this email or its attachments. If you are the intended recipient, you must not disclose or circulate this email or its content other than in accordance with any confidentiality arrangements between us.

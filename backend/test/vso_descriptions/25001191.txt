@@ -1,0 +1,28 @@
+, Reschedule Reason: ,  , Dear customer, please be advised that activity is rescheduled. , Details:,  , Start, Wed Sep 06 20:00:00 GMT 2023,  , - Wed Sep 13 20:00:00 GMT 2023 , End, Thu Sep 07 04:00:00 GMT 2023,  , - Thu Sep 14 04:00:00 GMT 2023 , Location, Marseille, France ,  ,  ,  ,  , Planned Work Notification: 00289791 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Marseille, France between Wed Sep 06 20:00:00 GMT 2023-Thu Sep 07 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Wed Sep 06 20:00:00 GMT 2023
+End	Thu Sep 07 04:00:00 GMT 2023
+Location	Marseille, France
+
+Planned work Reason:
+Maintenance for site optimization in Marseille, France
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100612	Wavelength/01641719	Wavelength	360 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00290225
+MICRSI/WAVE/U/100613	Wavelength/01641724	Wavelength	360 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00290226
+MICRSI/WAVE/U/100615	GTT/001923689	Wavelength	360 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00290227
+MICRSI/WAVE/U/100616	GTT/001923696	Wavelength	360 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00290228
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

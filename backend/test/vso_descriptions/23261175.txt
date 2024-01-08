@@ -1,0 +1,25 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2433\23C
+Date Time : 03/06/2023 16:00:00 to 03/06/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR153547 / TOK(PCG)-SEL(PCG) EP5637 /
+
+Outage Description : RNAL Planned maintenance for the repeater TOP adjustment on RNAL FP1 [PSN WAD]
+
+Outage : No service impact is expected, but a hazardous condition only
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

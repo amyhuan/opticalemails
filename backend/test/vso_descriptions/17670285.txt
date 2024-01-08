@@ -1,0 +1,74 @@
+Classification: Restricted
+
+ 
+
+ 
+
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C139245
+
+Description
+
+Planned activity for Shunt fault localization & Power Balancing in TGN GULF.
+
+Location
+
+KSA-Dubai.
+
+Duration
+
+06 Hours Outage.
+
+Planned Start
+
+07 Apr 2023 20:00 GMT
+
+Planned End
+
+08 Apr 2023 02:00 GMT
+
+Affected service/link
+
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114 (QDC5)
+
+DOH-MUM/MICROSOFT/TGN-100G05-PW618348/PW618349
+
+Carrier References
+
+CHGP0561559
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Hossain Anowar
+
+Consultant
+
+Ooredoo Qatar
+
+T: +974 44400673  
+M: +974 66412976
+
+Follow us on Twitter and Facebook
+
+ 
+
+cid:image006.jpg@01D8B586.AEDA0B00
+
+ 
+
+Ooredoo Supernet: The first 5G network in the world

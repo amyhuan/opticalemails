@@ -1,0 +1,42 @@
+Scheduled Maintenance #: 25932932
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform cable diversion works.
+
+Why?
+Work is required to relocate 432 fiber core backbone infrastructure ahead of forthcoming civils construction work for a new tramway, and to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-02-03 15:02:50 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+25932932-1
+
+Start	End
+2023-02-27 23:00 GMT (Greenwich Mean Time)	2023-02-28 05:00 GMT (Greenwich Mean Time)
+2023-02-28 00:00 CET (Central European Time)	2023-02-28 06:00 CET (Central European Time)
+
+
+Maintenance Location(s): MARSEILLE, France; MARSEILLE, France
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	441295876	N/A	100 GIG	MILANO MI ITALY	MARSEILLE U FRANCE	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	441295875	N/A	100 GIG	MILANO MI ITALY	MARSEILLE U FRANCE	Outage	6 hours	 
+
+
+Click here for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
