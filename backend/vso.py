@@ -127,7 +127,7 @@ def create_vso_ticket(title, description, work_item_type, project, circuits, phy
         JsonPatchOperation(op="add", path="/fields/System.WorkItemType", value=work_item_type),
         JsonPatchOperation(op="add", path="/fields/System.TeamProject", value=project),
         JsonPatchOperation(op="add", path="/fields/Microsoft.VSTS.Common.Risk", value="2 - Medium"),
-        JsonPatchOperation(op="add", path="/fields/System.AreaPath", value="PhyNet\\WANChanges"),
+        JsonPatchOperation(op="add", path="/fields/System.AreaPath", value="PhyNet\\TestPurposeAOnly"),
         JsonPatchOperation(op="add", path="/fields/PhyNet.Devices", value=phynet_devices),
         JsonPatchOperation(op="add", path="/fields/PhyNet.Circuits", value=circuits),
         JsonPatchOperation(op="add", path="/fields/PhyNet.Datacenter", value=location),
