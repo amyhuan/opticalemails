@@ -1,0 +1,27 @@
+Dear Equinix Customer,
+
+DATE: 12-AUG-2023
+
+SPAN: 12-AUG-2023 - 12-AUG-2023
+
+LOCAL: SATURDAY, 12 AUG 09:00 - SATURDAY, 12 AUG 22:00
+UTC: SATURDAY, 12 AUG 01:00 - SATURDAY, 12 AUG 14:00
+
+IBX: SG3
+
+DESCRIPTION: Equinix SG3 IBX will perform Electrical High Tension (HT) A-Feed Shutdown Maintenance on 12 August 2023 from 09:00am to 10:00pm
+
+There will be no change on Uninterruptible Power Supply (UPS) redundancy during HT A-Feed Shutdown maintenance. IT load will remain supported by UPS protected source via generator during feeder maintenance.
+
+Flex Offices without UPS power supply will be momentarily disrupted during transfer from utility to generator and vice versa.
+
+After the maintenance, all critical load will be supported by UPS via Grid/Utility.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+115690	All	All	All	All
+
+
+
+Equinix engineers will work to ensure the maintenance does not impact yo

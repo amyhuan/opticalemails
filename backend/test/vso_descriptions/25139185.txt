@@ -1,0 +1,58 @@
+Date:                        	12-Sep-2023
+Customer:    	MICROSOFT OPERATIONS PTE LTD
+Attention:	John Tan Yio Kuan,Melody Wong,Optical DRI,Hijaz Rahman,Connie Tan . ,Azure Network Operations Center ,Adeline Ng,Chasel Tan,Niall Toh
+Email:	john.tan@singtel.com,melody.wong@microsoft.com,opticalDRI@microsoft.com,hijaz.rahman@microsoft.com,Connie.Tan@microsoft.com,moc@microsoft.com,Adeline.Ng@microsoft.com,chaseltan@microsoft.com,nialltoh@microsoft.com
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000148945
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G2758ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+2. Circuit:	MSL/ST-SNG 100G2985ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE 757703
+Address B:	
+ 
+3. Circuit:	MSL/ST-SNG 100G2986ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	(MRS 20) 40 AVENUE ROGER SALENGR MARSEILLE INTERXION MRS1 FRANCE
+ 
+4. Circuit:	MSL/ST-SNG 100G4010ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	40 AVENUE ROGER SALENGRO MARSEILLE INTERXION MRS1 FRANCE
+ 
+Date/ Time 1 (SGT):	19-Sep-2023 16:00 - 20-Sep-2023 00:00
+Date/ Time 1 (UTC):	19-Sep-2023 08:00 - 19-Sep-2023 16:00
+ 
+Impact :	Non-Service Affecting
+ 
+Reason :	SMW5 NOC will be carrying out the following Planned Activity
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com . 
+ 	 
+ 	 
+ 	 
+ 	 
+Request For Change Customer Contact

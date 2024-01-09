@@ -1,0 +1,75 @@
+Dear valued customers,
+
+Thank you for using our IX services.
+Please be advised that JPIX will have a maintenance as following.
+
+[Overview]
+  IX equipment Maintenance.
+  In this maintenance, we will switch over to the alternative switch by "optical switching system" manually.
+
+[Maintenance Window (JST(UTC +9))]
+  May 31st, 2023 03:00 - 05:00
+  (This switching will complete less than 1 second.)
+  Note:The time to Link Up and to BGP Peer Up depends on each environment.
+
+[Impact]
+  - Customers using the IP addresses listed in [Scope of affect for IPv4/v6 address] momentary interruption will occur due to optical switch switching.
+  - Customers using the IP addresses listed in [Scope of affect for IPv4/v6 address] and customers using bilateral peers may experience a peer down.
+  - Customers using the "Shared Cache service Type A" may experience temporary communication delays.
+  - Customers using the "JPIXplus Transit" may experience temporary communication delays.
+
+[Contact]
+If you have any questions, please feel free to contact us at support@jpix.ad.jp
+
+[Scope of affect for IPv4/v6 address]
+    210.171.224.94
+    210.171.224.113
+    210.171.224.116
+    210.171.224.157
+    210.171.224.164
+    210.171.224.171
+    210.171.224.221
+    210.171.225.190
+    210.171.225.245
+
+    2001:de8:8::714:1
+    2001:de8:8::2516:1
+    2001:de8:8::2906:1
+    2001:de8:8::8075:2
+    2001:de8:8::9370:1
+    2001:de8:8::9824:1
+    2001:de8:8::1:4593:2
+    2001:de8:8::1:7511:2
+    2001:de8:8::2:4257:12
+
+[Scope of affect for VLAN ID]
+    vlan 3200
+    vlan 3201
+    vlan 3202
+    vlan 3203
+    vlan 3204
+    vlan 3205
+    vlan 3206
+    vlan 3208
+    vlan 3209
+    vlan 3211
+    vlan 3212
+    vlan 3213
+    vlan 3215
+    vlan 3216
+    vlan 3217
+    vlan 3218
+    vlan 3219
+    vlan 3220
+    vlan 3221
+
+Best Regards,
+
+-------------------------------------
+Japan Internet Xing Co., Ltd.
+JPIX Support 
+     Emergency 
+Phone: +81-3-5255-3858 (24 hours)
+Fax  : +81-3-3243-9580
+-------------------------------------
+  *The company name has been changed since 2023/01/01 JST.

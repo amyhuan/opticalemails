@@ -1,0 +1,41 @@
+Date:                        	18-Jul-2023
+Customer:    	MICROSOFT OPERATIONS PTE LTD
+Attention:	John Tan Yio Kuan,Melody Wong,Optical DRI,Hijaz Rahman,Connie Tan . ,Azure Network Operations Center ,Adeline Ng,Chasel Tan,Niall Toh
+Email:	john.tan@singtel.com,melody.wong@microsoft.com,opticalDRI@microsoft.com,hijaz.rahman@microsoft.com,Connie.Tan@microsoft.com,moc@microsoft.com,Adeline.Ng@microsoft.com,chaseltan@microsoft.com,nialltoh@microsoft.com
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000145310
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	BKK/CAT-SNG 100G2843ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	35 TAI SENG STREET SINGAPORE
+Address B:	BKK30, 91 MOO 1 TAMBON KHLONG NUNG THAILAND
+ 
+2. Circuit:	BKK/CAT-SNG 100G2844ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	35 TAI SENG STREET, SINGAPORE
+Address B:	BKK30, 91 MOO 1 TAMBON KHLONG NUNG THAILAND
+ 
+Date/ Time 1 (SGT):	28-Jul-2023 01:00 - 28-Jul-2023 04:00
+Date/ Time 1 (UTC):	27-Jul-2023 17:00 - 27-Jul-2023 20:00
+ 
+Impact :	3 hours
+ 
+Reason :	Upgrade Software DWDM HUAWEI 1800V
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com .

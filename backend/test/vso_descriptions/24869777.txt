@@ -1,0 +1,267 @@
+Hi Team,
+
+ 
+
+This is your connection on the agriport 595 in Middenmeer
+
+CID is MDMR0001-SK0012/0001 and MDMR0008-SK0012/0001 and MDMR0008-SK0012/0003
+
+ 
+
+ 
+
+ 
+
+Met vriendelijke groet,
+
+ 
+
+Lisa Androg
+
+Asset Coördinator                                                  Eurofiber Nederland
+
+0800 387 634 237                                                     Safariweg 25 - 31
+                                                                                      3605 MA Maarssen
+
+ 
+
+
+
+ 
+
+Volg ons op Twitter | Linkedin | Facebook | Youtube
+
+ 
+
+
+
+ 
+
+From: Azure Network Operations Center 
+Sent: donderdag 17 augustus 2023 11:37
+To: Plannedwork ; Azure WAN DRI ; opticalDRI 
+Subject: Re: [EXTERNAL] Eurofiber SA-Maintenance notification KA-447003
+
+ 
+
+Hi Team,
+
+ 
+
+Please provide circuit details of the activity
+
+ 
+
+Thanks & Regards,
+
+XXXXXX | Azure NOC
+
+NOC Hotline: +1 425-705-2686
+
+From: plannedwork@eurofiber.com 
+Sent: 16 August 2023 23:09
+To: Azure Network Operations Center ; Azure WAN DRI ; opticalDRI 
+Subject: [EXTERNAL] Eurofiber SA-Maintenance notification KA-447003
+
+ 
+
+Dear valued customer,
+
+Eurofiber would like to inform you that we will be having a scheduled maintenance on our network soon. This work is necessary to continue guaranteeing the high quality and reliability of our network.
+We will make sure to minimize the duration of any impact on your connection(s). These activities have been registered as KA-447003 .
+The service window runs from September 22, 2023 - 00:00 local time till September 22, 2023 - 06:00 local time. Our local time is CET in the winter and CEST during the summer.
+
+Preventive maintenance work is carried out to maintain the quality of our fiber network. We are unable to provide a specific timetable or order of works. Please consider that the interruption may last during the complete Service Window.
+
+
+This work is carried out for contract 252429 and this table shows the connection(s) involved:
+
+Contract number
+
+Location A
+
+Frame A
+
+Frame number A
+
+Tray A
+
+Position A
+
+Section name
+
+Location B
+
+Frame B
+
+Frame number B
+
+Tray B
+
+Position B
+
+252429
+
+SK0012
+
+EXT08
+
+01
+
+1
+
+1
+
+MDMR0001-SK0012/0001
+
+MDMR0001
+
+EXT02
+
+01
+
+1
+
+5
+
+252429
+
+SK0012
+
+EXT08
+
+01
+
+1
+
+2
+
+MDMR0001-SK0012/0001
+
+MDMR0001
+
+EXT02
+
+01
+
+1
+
+6
+
+252429
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+1
+
+MDMR0008-SK0012/0001
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+1
+
+252429
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+2
+
+MDMR0008-SK0012/0001
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+2
+
+252429
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+5
+
+MDMR0008-SK0012/0003
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+5
+
+252429
+
+SK0012
+
+EXT01
+
+01
+
+1
+
+6
+
+MDMR0008-SK0012/0003
+
+MDMR0008
+
+ODF05_AX309
+
+01
+
+1
+
+6
+
+Address(es) of location(s):
+SK0012 ,
+hegedyk 8
+8601ZR SNEEK
+MDMR0001 ,
+agriport 601
+1775TK MIDDENMEER
+MDMR0008 ,
+agriport 570
+1775TB MIDDENMEER
+
+If you would like to be notified by email and/or text message at the start and finish of these activities, or if you want to object against this activity you can specify that by the confirmation form: Click Here
+We ask you to provide a short explanation in the objection. In this event, we will contact you as soon as possible.
+
+If you have any questions regarding this activity, our team is available 24/7 by phone or by email. You can reach us at 0800 – 387 634 237 or via plannedwork@eurofiber.com.
+
+Kind regards,
+
+Planned Work Eurofiber    Safariweg 25-31
+0800-387 634 237        3605MA Maarssen
+plannedwork@eurofiber.com

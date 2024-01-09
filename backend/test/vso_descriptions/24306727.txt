@@ -1,0 +1,23 @@
+Customer Name : MICROSOFT DATA CENTER HOLDINGS (HK)
+From : Global Customer Service Center Tel : +852-28291567
+Date : 19/06/2023 07:56:05 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U1840\23C
+Date Time : 22/06/2023 16:00:00 to 22/06/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 urgent Network maintenance in Melaka- Muar (MLK-MUR) span within Segment- L.2
+
+Outage : No service impact is expected, but a less than 50ms sw hits maybe experienced.
+
+PCCW Global apologies for all inconveniences cau

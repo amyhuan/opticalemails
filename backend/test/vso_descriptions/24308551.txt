@@ -1,0 +1,84 @@
+Dear Microsoft Team,
+
+ 
+
+Please be advised for below plan activity.
+
+ 
+
+ 
+
+PE Reference
+
+CHN-5749
+
+PE category
+
+Planned activity
+
+Description
+
+LTC NOC will be perform fiber rectification work 
+
+PE Type
+
+Service Threatening
+
+Associated Services
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000349
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000350
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000351
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000352
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000353
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000354
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000355
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000356
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000357
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000358
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000359
+
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000360
+
+Activity time
+
+22:00 IST 26.06.23 - 06:00 IST 27.06.23
+
+Impact
+
+Services will be on threat during this activity
+
+ 
+
+ 
+
+Our sincere apologies for the inconvenience caused to you.
+
+ 
+
+Please get back to us in case you require additional information.
+
+
+
+
+Thanks and Regards, 
+
+Santosh
+
+Senior Executive – Service Operations 
+
+www.lightstormtelecom.com 
+
+Phone : +91-22 69315544 
+
+E-mail-  ltcsoc.l1@lightstormtelecom.com

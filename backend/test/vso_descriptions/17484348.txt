@@ -1,0 +1,76 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1625722
+
+
+Work Start Date/Time:  27-03-2023 00:00:00 AEDT
+
+Work End Date/Time:     27-03-2023 06:00:00 AEDT
+      
+
+Location:            Macquarie Park, NSW
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 6 Hours
+ 
+
+Description of Work:  
+
+ 
+
+Planned Major Fibre works, the listed services may experience a break during the change window.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE243333	Vocus Wavelength (AUD)
+VWE243299	Vocus Wavelength (AUD)
+VWE128557	Vocus Etherwave (AUD)
+DKF096783	Dark Fibre
+DKF096808	Dark Fibre
+DKF096785	Dark Fibre
+DKF141855	Dark Fibre
+DKF096788	Dark Fibre
+DKF096790	Dark Fibre
+VWE283010	Vocus Wavelength (AUD)
+DKF094906	Dark Fibre
+DKF141862	Dark Fibre
+DKF094909	Dark Fibre
+VWE161000	Vocus Wavelength (AUD)
+VWE243303	Vocus Wavelength (AUD)
+VWE160998	Vocus Wavelength (AUD)
+VWE160999	Vocus Wavelength (AUD)
+DKF096809	Dark Fibre
+DKF096786	Dark Fibre
+DKF141859	Dark Fibre
+DKF096789	Dark Fibre
+VWE123210	Vocus Etherwave (AUD)
+VWE283008	Vocus Wavelength (AUD)
+DKF141869	Dark Fibre
+DKF096807	Dark Fibre
+VWE161001	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

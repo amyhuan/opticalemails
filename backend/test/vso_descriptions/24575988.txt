@@ -1,0 +1,44 @@
+Scheduled Maintenance #: 26993906
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a Network Element software upgrade.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-07-18 14:00:06 GMT - This maintenance has been modified.
+
+Customer Impact:
+
+26993906-1
+
+Start	End
+2023-08-01 22:00 GMT (Greenwich Mean Time)	2023-08-02 01:00 GMT (Greenwich Mean Time)
+2023-08-02 00:00 CEST (Central European Summer Time)	2023-08-02 03:00 CEST (Central European Summer Time)
+
+Previously Scheduled for (2023-07-14 22:00 GMT to 2023-07-15 01:00 GMT)
+
+Maintenance Location(s): FRANKFURT, Germany
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT	31508G/10GIG/FRNKGEAT/FRNKGEIQ	N/A	10GIG	 	 	Outage	1 hour	 
+MICROSOFT	31507G/10GIG/FRNKGEAT/FRNKGEIQ	N/A	10GIG	 	 	Outage	1 hour	 
+
+
+Notes History:
+
+2023-07-18 14:00:06 GMT - This maintenance has been modified.
+2023-07-18 13:53:25 GMT - This maintenance has been modified.
+2023-07-12 21:29:40 GMT - This maintenance has been postponed due to XXXXX. Once a new date is determined, updated notifications will be sent reflecting the date change.
+2023-06-30 09:38:28 GMT - This maintenance is scheduled.

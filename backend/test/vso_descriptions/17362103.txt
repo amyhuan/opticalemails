@@ -1,0 +1,25 @@
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Planned maintenance on circuit between Grendstuggu and Moholt
+
+Start of PW: 08.03.2023 00:00 (Europe/Oslo)
+End of PW: 08.03.2023 06:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+
+Red:
+T200000054
+T200000055
+T200000056
+T200000057
+T200000058
+T200000059
+
+
+Best regards,
+Altibox Operations Centre
+T: +47 51 90 81 10
+E: b2bops@altibox.no
+altibox.no

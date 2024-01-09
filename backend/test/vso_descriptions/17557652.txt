@@ -1,0 +1,150 @@
+, Maintenance Description:,  , We need to replace the ORM card in Rome GA in order to get visibility back to the ORM and clear alarms on the adjacent Add/Drop Nodes.,  , Impacted Span: , SLS-41111.,  ,  , L, ags in SLS-41111:,  , SolutionId , NodeA , NodeZ , LagA , 41111 , ATL30-0100-0001-01SW , CH2-0100-0001-01SW , 12 , 41111 , ATL30-0100-0002-01SW , CH2-0100-0002-01SW , 11 , 41111 , ibr01.atl30 , ibr01.ch2 , 9 , 41111 , ibr02.atl30 , ibr02.ch2 , 9 ,  ,  , ROC:,  , https://wanroc.azure.com/#/myJobs?jobId=v-moh-roc-23032004113768,  ,  , Precheck & Post check:,  , 1. , It's,  , a Lumen Infinera span. Take all lags up or down status and packets flow.,  , 2. Lags status logs.,  ,  , POST CHECK:,  , 1. After completion of activity need to check all lags are up or not.,  , 2. After traffic shifting need to check traffic status by log into the routers.,  ,  , Tools used:,  , 1.T, ool is using for draining and reverting the traffic: , Execution View (clockwerkweb.azurewebsites.net),  | , WF: lag-srlg-overload-unoverload-all-lags-v2-manager,  , 3. Core tool is using for traffic checking.,  , 4. Secure-CRT tool is using for manually checking the lags status and traffic status.,  ,  ,  ,  , Rollback steps:,  , Vendor team will resplice the fiber. ,  ,  , Vendor: , Lumen; , professionalservices@centurylink.com,  ,  ,  ,  ,  , _________________________________________________________________________________________________________,  ,  , From:,  ProfessionalServices <professionalservices@centurylink.com>
+, Sent:,  Wednesday, March 15, 2023 4:40 PM, To:,  DL-Morpheus GCR Contacts <DL-MorpheusGCRContacts@lumen.com>, Cc:,  ProfessionalServices <professionalservices@centurylink.com>;
+ProfessionalServices <professionalservices@centurylink.com>, Subject:,  [EXTERNAL] Maintenance Window Request || Replacing the ORM card
+|| RMG1 || 03/22/23 22:00:00 <-> 03/23/23 02:00:00 PST || 26230149,  ,   ,  , MOC-,  , Start
+Time (PST): , 3/22/2023
+10:00:00 PM, End Time (PST): , 3/23/2023 2:00:00 AM, Maintenance Length: , 4 Hours, Location: , ROMEGAHMRMG1IAMS052, Maintenance Severity: , Service Affecting(SA),  , Maintenance Description:, 
+We need to replace the ORM card in Rome GA in order to get visibility back to
+the ORM and clear alarms on the adjacent Add/Drop Nodes.,  , Please open a VSO#, provide us with the VSO# number
+and submit the VSO# for approval. ,  , Maintenance Impact:,  The Following circuits will be
+impacted by the maintenance., Circuit Impact, 
+MSIT Circuit Impacts, 
+MSFT-ATBA-CH2A-MSIT-0010-0::100GBE-1, 
+SWAN Circuit Impacts, 
+MSFT-ATBA-CH2A-SWAN-0001-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0003-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0005-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0006-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0007-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0008-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0009-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0011-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0012-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0013-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0014-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0015-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0016-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0017-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0018-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0019-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0029-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0030-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0031-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0032-0::100GBE-1, 
+MSFT-ATBA-CH2A-SWAN-0033-0::100GBE-1, 
+ITAR Circuit Impacts, 
+MSFT-ATBA-CH2A-ITAR-0034-0::100GBE-1, 
+MSFT-ATBA-CH2A-ITAR-0035-0::100GBE-1, 
+MSFT-ATBA-CH2A-ITAR-0036-0::100GBE-1, 
+MSFT-ATBA-CH2A-ITAR-0037-0::100GBE-1, 
+MSFT-BN6A-CY4B-ITAR-0005-0::100GBE-1, 
+MSFT-BN6A-CY4B-ITAR-0006-0::100GBE-1, 
+MSFT-BN6A-CY4B-ITAR-0007-0::100GBE-1, 
+MSFT-BN6A-CY4B-ITAR-0008-0::100GBE-1, 
+MSFT-BN6A-DM2B-ITAR-0001-0::100GBE-1, 
+MSFT-BN6A-DM2B-ITAR-0002-0::100GBE-1, 
+MSFT-BN6A-DM2B-ITAR-0003-0::100GBE-1, 
+MSFT-BN6A-DM2B-ITAR-0004-0::100GBE-1, 
+MSCG Circuit Impacts, 
+MSFT-ATBA-CH2A-MSCG-0002-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0004-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0020-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0021-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0022-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0023-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0024-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0025-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0026-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0027-0::100GBE-1, 
+MSFT-ATBA-CH2A-MSCG-0028-0::100GBE-1,  , 
+Regards, ,  , Professional Services Control Center, Lumen, 1025 Eldorado Blvd, Broomfield, CO 80021, 
+p: 1-877-453-8353 Opt 1,2,4,2, e: , ProfessionalServices@lumen.com,  , 
+, 
+, 
+,  , 
+, 
+,  , 
+,  , _____________________________________________________________________________________________________________________________________ ,  , MOC-
+
+Start Time (PST): 3/22/2023 10:00:00 PM
+End Time (PST): 3/23/2023 2:00:00 AM
+Maintenance Length: 4 Hours
+Location: ROMEGAHMRMG1IAMS052
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+We need to replace the ORM card in Rome GA in order to get visibility back to the ORM and clear alarms on the adjacent Add/Drop Nodes.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSIT Circuit Impacts
+
+MSFT-ATBA-CH2A-MSIT-0010-0::100GBE-1
+
+SWAN Circuit Impacts
+
+MSFT-ATBA-CH2A-SWAN-0001-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0003-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0005-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0006-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0007-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0008-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0009-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0011-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0012-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0013-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0014-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0015-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0016-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0017-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0018-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0019-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0029-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0030-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0031-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0032-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0033-0::100GBE-1
+
+ITAR Circuit Impacts
+
+MSFT-ATBA-CH2A-ITAR-0034-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0035-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0036-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0037-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0005-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0006-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0007-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0008-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0001-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0002-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0003-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0004-0::100GBE-1
+
+MSCG Circuit Impacts
+
+MSFT-ATBA-CH2A-MSCG-0002-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0004-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0020-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0021-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0022-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0023-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0024-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0025-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0026-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0027-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0028-0::100GBE-1
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2

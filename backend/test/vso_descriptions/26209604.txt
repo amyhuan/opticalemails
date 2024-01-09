@@ -1,0 +1,49 @@
+[外部] [customers-notify-l: 722] Maintenance Notification(AS7511)
+
+Translated from: Japanese. Show original message | Turn on automatic translation 
+Translated from: Japanese.
+customers-notify-l  on behalf of SYNAPSE via customers-notify-l 
+​
+​
+JPNAP Peer各位
+
+Nice to meet you.
+Synapse (AS7511) My name is Fukuyama.
+
+Due to the maintenance of the relay line operator, Peer will be
+It goes down intermittently.
+
+日時 : 2023/12/21 23:30 - 12/22 01:30 JST
+AS          ： 7511
+IPv4 address: 210.173.177.91
+IPv6 address: 2001:7fa:7:1::7511:1
+
+We apologize for any inconvenience this may cause and thank you for your understanding.
+
+---------------------------------------------------------
+Dear JPNAP Peers
+
+This is Fukuyama Tomoyuki at SYNAPSE(AS7511).
+A maintenance is scheduled at the below date and time.
+
+Date        : 2023/12/21 23:30 - 12/22 01:30 JST
+AS Number   : 7511
+IPv4 address: 210.173.177.91
+IPv6 address: 2001:7fa:7:1::7511:1
+
+The connection between each peer will be down under maintenance.
+
+We apologize for any inconvenience this may cause you.
+Thank you for your understanding.
+--------------------------------------------
+Synapse Co., Ltd. Engineering Department Network Section
+福山 智之(Fukuyama Tomoyuki)
+E-mail : tfukuyama@synapse.jp
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fwww.synapse.jp%2f&data=05%7C02%7Cmoc%40microsoft.com%7C622b1f7d7c664ea422c908dc00acc30b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638385989222392860%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yibFYl3fxj%2BT6ut%2BJqgVEm2q0SxeB0MrzIZSmq%2BcAds%3D&reserved=0
+TEL:099-813-8687 FAX:099-813-8689
+--------------------------------------------
+
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C02%7Cmoc%40microsoft.com%7C622b1f7d7c664ea422c908dc00acc30b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638385989222400708%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2ZwhtWel%2BIGbehoV1%2BuD%2fM4%2fhw0UplR1r4ObLUYrEyE%3D&reserved=0

@@ -1,0 +1,47 @@
+JPNAP Peer 各位
+
+お世話になっております。
+宇都宮ケーブルテレビ(AS18274)北井と申します。
+
+回線事業者メンテナンス作業のため、下記の時間帯でPeer downが発生します。
+
+----------------------------------
+Date : 2023/07/21 00:00-05:30(JST)
+2023/07/20 15:00-20:30(UTC)
+ASN : 18274
+IPv4 : 210.173.176.165
+----------------------------------
+
+ご迷惑をお掛けしますが、よろしくお願い申し上げます。
+
+---
+
+Dear JPNAP Tokyo peers,
+
+This is Utsunomiya Cable TV Corp(AS18274).
+
+We will be having a maintenance as follows.
+The BGP sessions will be down during this time.
+We appreciate your understanding and cooperation.
+
+----------------------------------
+Date : 2023/07/21 00:00-05:30(JST)
+2023/07/20 15:00-20:30(UTC)
+ASN : 18274
+IPv4 : 210.173.176.165
+----------------------------------
+
+Best regards,
+
+Utsunomiya Cable TV Corp.
+Takeshi Kitai
+Email : kitai@ucatv.ne.jp
+PeeringDB : https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fwww.peeringdb.com%2fasn%2f18274&data=05%7C01%7Cmoc%40microsoft.com%7C9da3f778d80b4811d0c608db761ca09b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638233637567714825%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zKs95ZaMMw16W01U%2Bur5hZXpjcVir7hJOOWfrLLJX2M%3D&reserved=0
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7C9da3f778d80b4811d0c608db761ca09b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638233637567714825%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=mMedSmY5aKObeFyOVvsbOmRyXqIt3qEkEhd0r6YIQXc%3D&reserved=0
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7C9da3f778d80b4811d0c608db761ca09b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638233637567714825%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=mMedSmY5aKObeFyOVvsbOmRyXqIt3qEkEhd0r6YIQXc%3D&reserved=0

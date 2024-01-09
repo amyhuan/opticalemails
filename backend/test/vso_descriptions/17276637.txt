@@ -1,0 +1,42 @@
+Scheduled Maintenance #: 26051602
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a fiber maintenance activity and is required in order to improve network reliability and continue providing optimal service for our clients.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-02-22 01:28:15 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26051602-1
+
+Start	End
+2023-02-27 05:01 GMT (Greenwich Mean Time)	2023-02-27 10:00 GMT (Greenwich Mean Time)
+2023-02-27 00:01 EST (Eastern Standard Time)	2023-02-27 05:00 EST (Eastern Standard Time)
+
+
+Maintenance Location(s): MIAMI, FL USA; SOUTH BAY, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	BCXR6655	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	440687861	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	441225922	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6656	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442553404	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442138497	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442138486	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442553405	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442271562	N/A	100 GIG	TAMPA FL USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442271560	N/A	100 GIG	TAMPA FL USA	MIAMI FL USA	Outage	3 hours	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.

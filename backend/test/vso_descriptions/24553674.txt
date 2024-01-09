@@ -1,0 +1,39 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Our provider will be carrying planned activity for cable installation in Marseille, France.
+
+Impact: Unprotected services will face 05 Hours outage & protected services will be At risk
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	02-Aug-2023 19:30	03-Aug-2023 04:00	NA	NA
+
+
+Service ID	Impact
+RGWLS16746	At Risk
+RGWLS16739	At Risk
+RGBO4TA134	At Risk
+RGBO4TA133	At Risk
+RGWLS31148	At Risk
+RGWLS31147	At Risk
+RGWLS31146	At Risk
+RGWLS31145	At Risk
+RGWLS31144	At Risk
+RGWLS31143	At Risk
+RGWLS31142	At Risk
+RGWLS31130	At Risk
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Pradnya V Kokane
+Change Management, Global Network Operations Center
+D: +91 22 303 86148
+M: +91 7977316326
+PVKokane@globalcloudxchange.com
+
+LinkedIn | Facebook | Twitter | Google+
+The information

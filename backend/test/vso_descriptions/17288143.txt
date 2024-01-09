@@ -1,0 +1,35 @@
+Description: Description: Description: Description: Description: Description: cid:image001.png@01CDC8C6.9C2E4410
+VODAFONE QATAR PLANNED ACTIVITY NOTIFICATION
+
+Vodafone Qatar – Service Operations Center
+
+Customer Name
+
+Microsoft
+
+Reference
+
+Vodafone Reference Number: INC000066689834
+
+
+Circuit ID:  
+
+MSAWDMMV2MUM001U  (100G Microsoft Link to Mumbai_1U )
+
+MSAWDMMV2MUM002U(100G Microsoft Link to Mumbai _2U)
+
+Service Type: DWDM
+
+Summary:
+
+Please be informed that our international carrier partner is performing activity on their transmission segment. This action is very important to be proceed in order to provide you stable services and avoid uncontrolled outage.
+
+Impact:
+
+Impact analysis shows that during the activity the services will not be available for not more than 12 hours during maintenance window. This activity is mandatory to be performed to ensure the service stability.
+
+Change Activity Window:
+
+Start Time: 11-Mar-2023 00:00:00 QLT
+End Time: 11-Mar-2023 12:00:00 QLT
+For any further concerns regarding this outage, please contact Vodafone Qatar – Service Operations Center at +974 7444 7124 or simply reply to this message.

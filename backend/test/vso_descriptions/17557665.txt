@@ -1,0 +1,51 @@
+MAINTENANCE WORK
+
+ 
+
+Time:                            05.04.2023 21:00 - 06.04.2023 04:00 (UTC)
+
+ 
+
+Description:                  Cinia’s partner will perform urgent cable maintenance work part2
+
+                                                                                               
+
+Location:                       Germany
+
+ 
+
+Service Impact:             C27676 MS HamVan 100GE
+
+C27677 MS HamVan 100GE
+
+C27678 MS HamVan 100GE
+
+C27679 MS HamVan 100GE
+
+C27680 MS HamVan 100GE
+
+C27681 MS HamVan 100GE
+
+C27682 MS HamVan 100GE
+
+C27683 MS HamVan 100GE
+
+C28172 MS HamVan 100GE
+
+C28173 MS HamVan 100GE
+
+C28174 MS HamVan 100GE
+
+C28175 MS HamVan 100GE
+
+C29497 MS HamVan 100G
+
+C29498 MS HamVan 100G
+
+C29499 MS HamVan 100G
+
+C29500 MS HamVan 100G
+
+ 
+
+Downtime:                     Downtime is max. 7 hours during the maintenance work window

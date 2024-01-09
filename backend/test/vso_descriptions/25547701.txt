@@ -1,0 +1,34 @@
+Dear Equinix Customer,
+
+DATE: 06-NOV-2023 - 07-NOV-2023
+
+SPAN: 06-NOV-2023 - 07-NOV-2023
+
+LOCAL: MONDAY, 06 NOV 22:00 - TUESDAY, 07 NOV 02:00
+UTC: MONDAY, 06 NOV 22:00 - TUESDAY, 07 NOV 02:00
+
+IBX(s): LD
+
+DESCRIPTION:
+Please be advised that Equinix engineers will be performing a planned capacity upgrade on our Linx / Lon peering point.
+
+EXPECTED SERVICE IMPACT:
+Your services might experience a change in latency.
+
+PRODUCTS: EQUINIX CONNECT, EQUINIX INTERNET ACCESS
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+133451	Equinix Connect	LD5	20037837
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-230305175804.
+
+Sincerely,

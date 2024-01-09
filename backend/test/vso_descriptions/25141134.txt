@@ -1,0 +1,28 @@
+EMERGENCY MAINTENANCE NOTIFICATION
+Dear valued customer
+In order to maintain the highest levels of availability and service, we are forced to carry out Emergency maintenance for your service.
+We apologise for any resulting inconvenience and assure you of our efforts to minimise any service disruption. If you require any assistance, please contact the HelpDesk & Service Centre or simply reply to this email.
+EMERGENCY MAINTENANCE 3742-1209
+Maintenance Ticket #: 3742-1209
+Status: Scheduled
+Maintenance's details:
+Type : Emergency
+Impact : Outage
+Impacted service(s) : MICR2-ALXQ, MICR2-ALXR, MICR2-ALXS, MICR2-ALXT, MICR2-AMDS, MICR2-AMDT, MICR2-AMDU, MICR2-AMDV
+Starting : Saturday 16 September 2023 10:00 am CET
+Ending : Saturday 16 September 2023 11:00 am CET
+Maintenance Team Contact Info : eusupport@sipartech
+Reason for Maintenance :
+Cher Client,
+
+Suite aux coupures fibre subies fin août à Montpellier, Sipartech a effectué un reroutage sur une chemin alternatif afin de réduire le temps de coupure de votre service.
+
+La réparation de la fibre étant effectuée, nous vous proposons le retour arrière sur la route principale.
+
+Cette maintenance est prévue le 16 septembre 2023 de 10h00 à 11h00 CET avec une coupure de 1h de votre service est attendue à l'intérieur de la fenêtre de maintenance.
+
+Nous restons à votre disposition.
+
+Bien Cordialement,
+
+Le Service Helpdesk

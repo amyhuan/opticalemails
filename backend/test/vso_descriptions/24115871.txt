@@ -1,0 +1,32 @@
+作業中はピアのダウンアップが発生いたしますのでご了承いただきますようお願い申し上げます。
+
+--------------------------------------------
+Start Time: 2023-05-31 00:00 JST/UTC+0900
+End Time: 2023-05-31 06:00 JST/UTC+0900
+AS Number: 23627
+IPv4 Address: 210.173.176.61
+IPv6 Address: 2001:7fa:7:1:0:2:3627:1
+--------------------------------------------
+
+以上、よろしくお願いいたします。
+
+***********************
+
+Dear JPNAP Tokyo peering partners,
+
+This is TAKANO Yosuke from UEDA CABLE VISION (AS23627).
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+
+We would appreciate your understanding and cooperation.
+
+--------------------------------------------
+Start Time: 2023-05-31 00:00 JST/UTC+0900
+End Time: 2023-05-31 06:00 JST/UTC+0900
+AS Number: 23627
+IPv4 Address: 210.173.176.61
+IPv6 Address: 2001:7fa:7:1:0:2:3627:1
+--------------------------------------------
+
+Best Regards,

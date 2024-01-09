@@ -1,0 +1,33 @@
+Scheduled Maintenance Window Notification
+
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on April 22, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-34959
+Notification date:	Thursday, April 6, 2023
+Start date:	Saturday, April 22, 2023 - 4:00 pm
+End date:	Saturday, April 22, 2023 - 11:00 pm
+Time zone:	Mountain Daylight Time GMT-6
+Window time frame:	6 Hours
+Expected service outage:	6 Hours
+Event description:	Emergency repair of fiber segment in metropolitan area damaged and with detected degradation in order to prevent uncontrolled impacts on services and guarantee sustainability in the network. We will be working to give priority to reestablishing your services as soon as possible
+Location:	Nuevo Laredo
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13799183
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13799185
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13807743
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13807744
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816740
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816741
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816742
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816743
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net

@@ -1,0 +1,36 @@
+Windstream has identified a network fault and must perform emergency maintenance in order to restore our network services to their full capabilities. This maintenance is required to resolve current service impacts or remove the risk for potential impacts. We understand the challenges this may present and are working to minimize disruptions. The details of the planned maintenance are listed below along with descriptions and planned impact timeframes.
+
+DESCRIPTION OF MAINTENANCE
+Repair: Troubleshooting Degraded Service
+
+MAINTENANCE INFORMATION
+WMT:	473856
+Maintenance Address:	
+1033 JEFFERSON ST NW,ATLANTA,GA
+1003 DONNELLY AVE SW,ATLANTA,GA
+Service Affecting:	YES
+Event Start Date & Time:	03/17/23 00:00 ET
+Event End Date & Time:	03/17/23 05:00 ET
+Impact Type:	Duration	Impact Start	Impact End
+Switch Hit	50 msec	03/17/23 00:00 ET	03/17/23 05:00 ET
+Outage	120 minute(s)	03/17/23 00:00 ET	03/17/23 05:00 ET
+Note: Service impact may be experienced at varying times throughout the implementation window.
+
+
+Name	Account	Circuit ID	Rate Code	Cust Ckt ID	A-Loc	A-Loc Address	Z-Loc	Z-Loc Address
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425420/ /WXN /	100G	18393287	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425421/ /WXN /	100G	18393288	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425422/ /WXN /	100G	18393289	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425423/ /WXN /	100G	18393291	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT-PO 99869557	*****9404	214289404-DAT-1	ETHN	18422942	ATLNGADZDS0	2 CONCOURSE NE PKY	ATLNGADZ	2 CONCOURSE NE PKY
+MICROSOFT-PO 99869557	*****9404	38/GEDO/169741/240/PUA /GED	ST2.5G	18412748	ATLNGADZDS0	2 CONCOURSE NE PKY	ATLDGA10	1003 DONNELLY SW AVE
+
+
+If you experience any trouble with your service prior to or after this maintenance window time frame shown in this notification, please contact the appropriate Service Assurance group.
+Enterprise: 800-600-5050
+Wholesale: 844-946-2662
+Fiber To The Tower: 877-473-8042
+
+If you have questions pertaining to or in reference to this maintenance, please contact the Windstream Change Management Team via email directly at wci.maintenance.notifications@windstream.com or by calling us at 800-892-6785.
+
+Thank you for your business!

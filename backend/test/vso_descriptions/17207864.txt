@@ -1,0 +1,78 @@
+Dear All,
+
+
+This is to inform you about Urgent Maintenance activity by ILD Service provider, which is scheduled on Friday 24th February 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :    ITEM-048420 NE-13789
+
+         
+
+Scheduled Date                                    :    Friday 24th February 2023
+
+
+Maintenance Window                            :    24/02/2023 23:00 (GMT+00:00) to 25/02/2023 07:00 (GMT+00:00)
+
+         
+
+Activity                                               :     Network maintenance
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                                :     Service Affecting
+                         
+Duration of Impact                               :     Circuit will be go down 300mins during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Arun Kumar
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

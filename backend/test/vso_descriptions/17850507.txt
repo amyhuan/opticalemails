@@ -1,0 +1,83 @@
+Classification: Internal
+
+ 
+
+Hi Microsoft
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C139829
+
+Description
+
+Our provider will be carrying planned activity for RS cable installation at Marseille, France.
+
+Impact: Unprotected services will face 04 Hours outage & protected services will be At risk
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Location
+
+Marseille, France.
+
+Duration
+
+Impact : At Risk
+
+Planned Start
+
+20-Apr-2023 19:30  GMT
+
+Planned End
+
+21-Apr-2023 04:00  GMT
+
+Affected service/link
+
+ 
+
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351 
+
+ 
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5)  
+
+ 
+
+ 
+
+Carrier References
+
+PE2023040541108
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+ 
+
+Ayub Oruko Ondoro
+
+ 
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 50366736
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

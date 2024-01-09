@@ -1,0 +1,49 @@
+Dear Equinix Customer,
+
+DATE: 23-MAY-2023 - 24-MAY-2023
+
+SPAN: 23-MAY-2023 - 24-MAY-2023
+
+LOCAL: TUESDAY, 23 MAY 22:00 - WEDNESDAY, 24 MAY 06:00
+UTC: TUESDAY, 23 MAY 12:00 - TUESDAY, 23 MAY 20:00
+
+IBX(s): SY
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a configuration update on our device. It is estimated that your services may experience intermittent interruption of up to 5 minutes due to the activity.
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+116344	Equinix Fabric	SY2	-	21088482-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	21109578-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	21147810-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	21190752-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	21088490-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	20352137-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	20894529-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	20693073-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	20682387-A	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	624213.1	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	624212.1	-	-	-	-	-	-	-	-	-	-
+116344	Equinix Fabric	SY2	-	20693064-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226189696442.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-226189696442].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.

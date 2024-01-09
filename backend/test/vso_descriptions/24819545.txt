@@ -1,0 +1,90 @@
+***************** AMENDMENT A1 **************, Main Window : from 24-Aug-2023 21:00 UTC to 25-Aug-2023 03:00 UTC, Backup Window : from 25-Aug-2023 21:00 UTC to 26-Aug-2023 03:00 UTC, ***************** AMENDMENT A2 **************, Main window from 21:00 UTC 6th Sep 2023 to 03:00 UTC 7th Sep 2023, Backup window from 21:00 UTC 7th Sep 2023 to 03:00 UTC 8th Sep 2023,  , Activity has been postponed, new window as below:, Main Window : from 24-Aug-2023 21:00 UTC to 25-Aug-2023 03:00 UTC, Backup Window : from 25-Aug-2023 21:00 UTC to 26-Aug-2023 03:00 UTC,  ,  , Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Customer Service Center Tel : +852-28291567
+Date : 11/08/2023 06:22:42 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U2529\23d
+Date Time : 14/08/2023 21:00:00 to 16/08/2023 03:00:00 GMT (dd/mm/yyyy)
+Duration : 360 mins
+Service/Circuit Affected :
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : Software upgrade on our national network
+
+Main Window
+14-Aug-2023 21:00 UTC
+15-Aug-2023 03:00 UTC
+
+Backup Window
+15-Aug-2023 21:00 UTC
+16-Aug-2023 03:00 UTC
+
+Impact: 6 hours outage
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Customer Service Center
+Global Services & Operations
+PCCW Global
+
+
+ 	
+Dear Equinix Customer,
+
+DATE: 30-AUG-2023 - 31-AUG-2023
+
+SPAN: 30-AUG-2023 - 31-AUG-2023
+
+LOCAL: WEDNESDAY, 30 AUG 22:00 - THURSDAY, 31 AUG 02:00
+UTC: WEDNESDAY, 30 AUG 21:00 - THURSDAY, 31 AUG 01:00
+
+IBX(s): LD6
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing planned configuration update to your services. It is estimated that there might be a service interruption of up to 15 minutes approximately due to the activity.
+
+PRODUCTS: EQUINIX FABRIC
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+153958	Equinix Fabric	LD5	-	20664844-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-228914429016.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-228914429016].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.
+
+ 
+
+Equinix	
+How are we doing? Tell Equinix - We're Listening.	 	
+ 
+
+E Q U I N I X (UK) Ltd   |   	2 Buckingham Avenue, Slough SL1 4NB
+Berkshire, United Kingdom	   |   www.equinix.com ,

@@ -1,0 +1,17 @@
+Dear colleagues.
+
+Please note that AS3303 (Swisscom/IP-Plus) has scheduled a
+maintenance in Zurich on Jun 22th, 2023.
+
+The BGP sessions between AS8075 and AS3303 at
+
+    104.44.15.77
+    2a01:111:2000:1::229a
+
+will flap within the maintenance window, from 02:00 to 06:00 UTC+2.
+Apologies for the inconvenience this may cause,
+
+Best regards,
+
+IP-Plus Engineering
+AS3303

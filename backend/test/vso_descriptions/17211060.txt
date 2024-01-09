@@ -1,0 +1,20 @@
+Greetings,
+
+Verizon (AS701) will perform maintenance on the following PNI in Philadelphia on 3/7/2023 between 00:01 and 06:00 PST. The circuit will be down during the maintenance. Please contact our NOC at the information below if there is any issue after the maintenance. 
+
+Circuit and IP info:
+MICROSOFT	65.244.194.49	2600:80a:86f:0:0:0:0:69 	GW7.LAX15	et-8/1/5	ae21.0	[U8002195]:MICROSOFT CORPORATION:U8002195	8075
+
+Verizon NOC contact info:
+Network Operations Center (24 Hours):
++1-800-281-8396 option 2
+CaryNMC-IP@verizon.com
+
+
+Thanks,
+
+David Tien
+
+Global IP Network Optimization & Peering
+
+703-694-6954

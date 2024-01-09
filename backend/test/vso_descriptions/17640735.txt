@@ -1,0 +1,39 @@
+RP-TIG-02-02
+PLAN MAINTENANCE NOTIFICATION
+PMN Reference: TIG/NOC-MA/0202300335
+Date of Issue: 2023-03-21 18:05:49
+Status: Proceeding
+Subject: Plan to Perform software upgrade by GTC
+MAINTENANCE SCHEDULE
+Planned by : Global Transit
+Maintenance Area :
+Start date/time: 2023-04-06 23:00:00 GMT+7
+End date/time: 2023-04-07 06:00:00 GMT+7
+Estimate Downtime : 02:00
+MAINTENANCE CATEGORY
+1. Normal
+SERVICE IMPACT
+CLASSIFICATION
+DESCRIPTION OF WORK
+###### REVISED:RESCHEDULED DATE ######
+GTC, who is our third party transmission provider, has a maintenance plan to perform software
+upgrade for DWDM equipment. The activity plan will be done during 23:00 on 6 April
+2023(GMT+7) to 06:00 on 7 April 2023(GMT+7). The service will be interrupted during that time
+for 2 Hours.
+###### PREVIOUS MESSAGE ######
+1
+GTC, who is our third party transmission provider, has a maintenance plan to perform software
+upgrade for DWDM equipment. The activity plan will be done during 23:00 on 23 March
+2023(GMT+7) to 06:00 on 24 March 2023(GMT+7). The service will be interrupted during that time
+for 2 Hours.
+Should you need further support, please do not hesitate to contact us.
+Microsoft affected circuit
+Circuit ID: IPL001401
+Service: IPLC 100G
+Circuit ID: IPL000262
+Service: IPLC 100G
+ADDITIONAL INFORMATIONS:
+True Internet Corporation Co., Ltd.
+IP Transit Service Tel: +662-7009116 Ext.1
+Virtual Nodes, IPVPN, IPLC Service Tel: +662-7009116 Ext.1
+EMAIL: noc-tig@trueintergateway.co

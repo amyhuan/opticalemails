@@ -1,0 +1,72 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned change scheduled between Kroonstad to Sasolburg on the 18th June 2023 from 08:30-12:30 (GMT: +02:00). We urgently need to replace damaged Optic Fibre Cable fibres. The one fiber of TFR DWDM pair is off on the section Koppies to Sasolburg .
+
+ 
+
+ 
+
+IMPACT: Services will be down for a maximum duration of 3hrs.
+
+ 
+
+Affected  Service:
+
+ 
+
+027JOHA292013677984
+
+027CAPE292014221327
+
+027CAPE292014221322
+
+027CAPE292014221317
+
+027CAPE292014221332
+
+027MIDR292013956867
+
+027CAPE292014066895
+
+027CAPE292014066903
+
+027MIDR292014077306
+
+ 
+
+Reason for Change:
+
+ 
+
+To replace damaged Optic Fibre Cable fibres. The one fiber of TFR DWDM pair is off on the section Koppies to Sasolburg .
+
+ 
+
+ 
+
+Implementation plan
+
+ 
+
+The technicians will prepare fibre and fibre joints.
+Splice the fibre as per service priority.
+The NOC will confirm service restoration.
+ 
+
+Rollback Plan:
+
+ 
+
+In the event of issues, technicians will re-splice the fibres.
+The NOC will confirm service restoration.
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator

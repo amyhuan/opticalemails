@@ -1,0 +1,102 @@
+Dear Valued Partner, ​
+
+Good day!
+
+ 
+
+There will be a network maintenance work to be carried out. ASE NOC will perform repair works for Submarine Cable Fault Segment 4.
+
+ 
+
+Below are the details of the maintenance and please monitor your circuit on the given time window.
+
+ 
+
+
+
+AFFECTED CIRCUIT
+
+CUSTOMER NAME
+
+SERVICE TYPE/ BANDWIDTH
+
+MPI02-052020-49552
+
+AEND-MICROSOFT HKG20 (1st 100G) - PASIG via ASE (HK) - HGC
+
+ETHERNET IPL, 100G
+
+MPI02-102021-09593
+
+AEND-MICROSOFT HKG20 (2nd 100G) - PASIG via ASE (HK) - HGC
+
+ETHERNET IPL, 100G
+
+MPI02-022019-02399
+
+AEND-MICROSOFT 1ST 10G - PASIG via ASE (HK) - HKBN (CB007)
+
+ETHERNET IPL, STM64
+
+ 
+
+ 
+
+ 
+
+ACTIVITY DETAILS
+
+Start Date and Time
+
+3 June 2023 2100H Philippine Standard Time.
+
+End Date and Time
+
+8 June 2023 0600H Philippine Standard Time.
+
+Event Summary
+
+Repair works for Submarine Cable Fault Segment 4
+
+ 
+
+Major outage has been detected since 03/08/2023 19:52 LST
+
+ 
+
+Partial fiber break on Segment 4:
+
+- FP41: (link between HongKong & Japan/Okinawa)
+- FP42: (link between HongKong & Singapore)
+- FP62: (link between HongKong & Mersing)
+
+ 
+
+Update as of May 18, 2023 16:30H LST
+
+The current ETA for the Cable Ship to the repair ground is June 3, 2023 @ 2100H LST.
+And the current ETR for the completion of the cable repair is June 8, 2023 @ 06:00H LST. 
+
+Please note there is a possibility that the dates may change due to delays in the repair by either technical issues or bad weather conditions around the cable repair ground.
+
+Location
+
+Between Hong Kong and Singapore.
+
+Impact
+
+Down for the whole duration of repair.
+
+ 
+
+Philippine – Hong Kong circuits running via ASE cable system will experience downtime on the provided window since the power feeding equipment (PFE) connecting Philippines will be shutdown as part of the submarine cable repair works.
+
+ 
+
+ 
+
+
+
+Enterprise Complex Service Assurance Management - Global
+
+PLDTECSAGlobal@pldt.com.ph

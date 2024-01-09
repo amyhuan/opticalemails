@@ -1,0 +1,38 @@
+English follows Japanese
+JPNAP Osaka Peer
+
+I am always indebted to you.
+My name is Hirotani from Himeji Cable TV Co., Ltd. (AS38628).
+Maintenance work will be carried out as follows.
+Please note that peer down will occur during the work.
+Thank you for your cooperation.
+
+Date      : 2023/08/02 13:00-17:00 (JST)
+ASN       : 38628
+IPv4      : 210.173.184.86
+IPv6 : 2001:7fa:7:2:0:3:8628:1
+
+===
+Himeji Cable TV Co., Ltd. (WINK)
+Hirotani Ryo
+hirotani@winknet.ne.jp
+
+---
+
+Dear JPNAP Osaka Peers
+
+This is HIMEJI CABLE TELEVISION CORPORATION(AS38628).
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+We would appreciate your understanding and cooperation.
+Best Regards,
+
+Date      : 2023/08/02 13:00-17:00 (JST)
+ASN       : 38628
+IPv4      : 210.173.184.86
+IPv6 : 2001:7fa:7:2:0:3:8628:1
+
+===
+HIMEJI CABLE TELEVISION CORPORATION（WINK）
+Ryo Hirotani
+hirotani@winknet.ne.jp

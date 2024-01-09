@@ -1,0 +1,32 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00309769	2023-03-05 11:00:00	2023-03-05 17:00:00	0 Days 6 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+In this activity, the Girardot - Ibague section will be intervened, given the ringed topology of the network, the services will not be affected. The activity will be carried out in order to carry out bidirectional certification of the Girardot - Ibague link corresponding to the national ring and Globenet networks in order to identify and correct high events (if found) that are degrading current services. This email It is informative in nature since Globenet services are not affected. It is noteworthy that the services will not be affected by maintenance, possibly a flap in the switching, commutation or hit in the service, due to the redundancy that exists in the western zone. The activity must be carried out during daylight hours due to public order problems (common crime) at the points where the link must be intervened.
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G
+On behalf of GlobeNet, we thank you in advance and apologize for any inconvenience. The GlobeNet NOC will confirm once the work has been completed.
+
+If we do not received notification from you in 24 hours from the moment we send the notification, we will assume that the maintenance was accepted.
+
+
+
+Thank you,
+
+Network Operations Center

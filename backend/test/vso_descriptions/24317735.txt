@@ -1,0 +1,31 @@
+Scheduled Work Notification
+
+We express our gratitude for using Arcstar Network Services.
+We would like to inform you that the following activity will be
+carried out on the International Circuit(s).
+We sincerely apologize for any inconvenience this may cause you.
+
+Details;
+
+
+1.Affect Circuit & Date(yyyy/mm/dd UTC) :
+   LE100054 (100G)
+
+   LE100055 (100G)
+
+   LE100062 (100G)
+
+   LE100063 (100G)
+
+   LE100071 (100G)
+
+   LE100072 (100G)
+
+
+2023/06/24(Sat) 16:00 - 2023/06/24(Sat) 20:00 UTC
+
+*  JST(Japan Time) = UTC(Universal Time) + 9 hours
+
+2.Outage Duration : Maximum 180 minutes down
+
+3.Reason : Network management carrier - INFRA-NOC will perform urgent maintenance work to secure network reliability at the time listed above.

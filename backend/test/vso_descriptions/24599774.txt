@@ -1,0 +1,59 @@
+Dear MCS,
+
+This is to inform you that, a Planned maintenance has rescheduled as below:
+
+ 
+
+Service ID
+
+All traffic via IA to Singapore
+
+IPL004400, IPL004401
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+IA Cable
+
+ 
+
+Activity Window (GMT)
+
+2023-08-05 10:30:00 GMT to 2023-08-05 17:30:00 GMT
+
+Nature
+
+Traffic down
+
+Expected Impact Duration(DD:HH:MM) :
+
+2 hours.
+
+Activity Window (GMT)
+
+2023-08-06 01:30:00 GMT to 2023-08-06 10:00:00 GMT
+
+Nature
+
+Traffic down
+
+Expected Impact Duration(DD:HH:MM) :
+
+3 hours.
+
+ 
+
+Activity Description
+
+The tata backbone team will be performing network maintenance activity in their network to improve the performance of the services.
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,

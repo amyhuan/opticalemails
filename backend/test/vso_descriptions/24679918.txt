@@ -1,0 +1,41 @@
+Dear Team, ,   , Kindly be informed the activity date has been changed as below. ,   ,   ,   , Window,  ,  , Primary Start Date (GMT),  ,  , Primary End Date (GMT),  ,  , Backup Start Date (GMT),  ,  , Backup End Date (GMT),  ,  , 1,  ,  , 06-Aug-2023 23:00,  ,  , 07-Aug-2023 05:00,  ,  , NA,  ,  , NA,  ,  ,   , Br, ,  ,  ,  , Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C144771
+
+ 
+
+Description
+
+Global Cloud Xchange will be carrying an emergency activity of BU Switching between Yeroskipos to Alexandria.
+
+Location
+
+Yeroskipos to Alexandria.
+
+Duration
+
+06 Hours outage
+
+Planned Start
+
+07-August-2023 23:00:00 GMT
+
+Planned End
+
+08- August -2023 05:00:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351
+
+Carrier References
+
+PE2023072642340

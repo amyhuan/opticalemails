@@ -1,0 +1,41 @@
+Lumen
+
+
+Scheduled Maintenance #: 25939744
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as an EMERGENCY. The nature of this work is to perform traffic affecting work in order to rectify a fault.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-02-06 13:54:40 GMT - This maintenance has been modified.
+
+Customer Impact:
+
+25939744-1
+
+Start	End
+2023-02-08 04:00 GMT (Greenwich Mean Time)	2023-02-08 08:00 GMT (Greenwich Mean Time)
+2023-02-08 00:00 AST (Atlantic Standard Time)	2023-02-08 04:00 AST (Atlantic Standard Time)
+
+Previously Scheduled for (2023-02-04 04:00 GMT to 2023-02-04 08:00 GMT)
+
+Maintenance Location(s): ST CROIX, VI USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	FRO2006795794	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	MICROSOFT CORP BARUERI SP BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006795788	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	MICROSOFT CORP BARUERI SP BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006795785	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	MICROSOFT CORP BARUERI SP BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006795791	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	MICROSOFT CORP BARUERI SP BRAZIL	Outage	2 hours

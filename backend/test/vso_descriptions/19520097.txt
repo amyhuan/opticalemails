@@ -1,0 +1,91 @@
+Dear All,
+
+
+This is to inform you about Urgent Maintenance Activity by ILD Service provider, which is scheduled on Thursday 4th May 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                                 :    ITEM-052642
+
+         
+
+Scheduled Date                                         :     Thursday 4th May 2023
+
+
+Maintenance Window                                 :     04-05-2023 00:00 GMT to 04:00 GMT
+
+ 
+
+Activity                                                     :     Cable maintenance to fix an attenuation issue.
+
+ 
+
+Locations                                                  :     Valmontone-Roccasecca (ITALY).
+
+ 
+
+Benefit of Change                                      :     To avoid unplanned outage in near future
+
+
+Impact                                                     :     Service Affecting
+                           
+Duration of Impact                                    :     Circuit will be down for 240min during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shreyansh Moghia
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+9369439608
+
+Airtel for Business
+
+On your side. By your side

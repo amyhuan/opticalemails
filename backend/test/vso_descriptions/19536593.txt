@@ -1,0 +1,150 @@
+Sunrise emergency maintenance work - CRQ000001898904
+Sunrise LLC, Glattpark (Opfikon), 24. April 2023
+
+ 
+
+Dear customer
+
+Sunrise Business constantly improves and expands its Telecommunication infrastructure throughout Switzerland. In order to ensure seamless customer experience, we are carrying out scheduled maintenance work.
+
+As a valued customer of ours, we have identified you being impacted by the below mentioned network change.
+
+ 
+
+Microsoft MCIO Schweiz GmbH
+Reason
+
+Due to urgent works by our external partner, an interruption of your service will occur.
+
+Start
+
+01.05.2023 00:00 (CEST)
+
+End
+
+01.05.2023 06:00 (CEST)
+
+Duration in minutes
+
+360
+
+ 
+
+Service
+
+Location
+
+Customer ref.
+
+Remarks
+
+SAP@356.0395184
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0395185
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0395186
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0395187
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0416008
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0416009
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0463612
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0463613
+
+WHS GigaClass
+
+Gland, Route des Avouillons 32
+
+SAP@356.0395172
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0395173
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0395174
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0395175
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0416000
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0416001
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0463605
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+SAP@356.0463606
+
+WHS GigaClass
+
+Rümlang, Hofwisenstrasse 56
+
+
+Remarks:
+Aufgrund von dringenden Glasfaser- Arbeiten durch Dritte(Compagnie du Chemin de fer Montreux Oberland bernois SA) kommt es zum Unterbruch Ihres Service.
+
+Due to urgent fibre optic works by third parties (Compagnie du Chemin de fer Montreux Oberland bernois SA) your service will be interrupted.
+
+Our apologies for any inconvenience this maintenance may cause you.
+In case of an emergency, or further questions concerning this announcement, don’t hesitate to contact us.
+
+Kind Regards
+
+Sunrise Business
+
+businesssupport@sunrise.net

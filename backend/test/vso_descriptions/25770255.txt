@@ -1,0 +1,36 @@
+[EXTERNAL] Apple (AS714) Network Maintenance Notification
+
+This sender no-reply@apple.com is from outside your organization. Block sender
+This sender no-reply@apple.com is from outside your organization.
+no-reply@apple.com
+​
+Internet Operations Center
+​
+Apple (AS714) Network Maintenance Notification
+Reference Internal Ticket: CHG001050309
+Message sent to: ioc@microsoft.com
+
+Details:
+Start Time: 2023-11-10(Fri) 01:00 UTC
+End Time: 2023-11-10(Fri) 11:00 UTC
+
+Peering Details:
+Apple AS: 714
+Peer AS: 8075
+
+Apple IP: ['2001:dea:0:10::71', '103.26.68.113', '2001:de8:6::714:2', '103.26.68.113', '2001:dea:0:10::71', '2001:de8:6::714:2']
+Peer IP: ['2001:dea:0:10::7', '103.26.68.7', '2001:de8:6::8075:2', '103.26.69.104', '2001:dea:0:10::168', '2001:de8:6::1:2076:1']
+
+There is no change required on your end as we will gracefully drain the traffic prior to maintenance.
+
+When the maintenance is completed, Apple will automatically re-route traffic back.
+For reference, our current max prefix setting recommendation is: IPv4 = 10000 and IPv6 = 1000.
+Questions about this event can be sent to peering-noc@group.apple.com.
+
+Thank you for peering with Apple!
+
+Regards,
+
+Apple Peering NOC (AS714)
+peering-noc@group.apple.com
+as714.peeringdb.com

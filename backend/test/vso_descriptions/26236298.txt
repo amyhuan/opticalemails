@@ -1,0 +1,62 @@
+[EXTERNAL] ***Microsoft Corporation***ZAYO TTN-0007225278 Emergency MAINTENANCE NOTIFICATION***
+MR Zayo 
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0007225278
+
+Urgency: Emergency
+
+Date Notice Sent: 21-Dec-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+22-Dec-2023 00:01 to 22-Dec-2023 05:00 ( Mountain )
+22-Dec-2023 07:01 to 22-Dec-2023 12:00 ( GMT )
+
+Location of Maintenance: 240 Fort Keogh Rd, Miles City, MT
+
+Reason for Maintenance: Zayo will perform emergency maintenance to replace failed equipment in order to prevent an unplanned outage.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/172331//ZYO	Hard Down - Duration of maintenance window	3730 163rd Ave NE Redmond, WA. USA	10880 Airman Ave Manassas, VA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation
+
+Toll free/No sans frais: 1.866.236.2824
+
+United Kingdom Toll Free/No sans frais Royaume-Uni: 0800.169.1646
+
+Email/Courriel: mr@zayo.com 
+
+Website/Site Web: https://www.zayo.com
+
+Purpose | Network Map | Escalation List | LinkedIn | Twitter | Tranzact 
+
+ 
+
+This communication is the property of Zayo and may contain confidential or privileged information. If you have received this communication in error, please promptly notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

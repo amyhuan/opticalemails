@@ -1,0 +1,18 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-09-01 01:00 UTC
+End Time: 2023-09-01 07:00 UTC
+
+Fastly will be performing a maintenance during the above window. You may see BGP down during this time for the following service(s). Please take no action to remove or shift traffic, Fastly Engineers will automatically re-route traffic as needed. Questions about this event can be sent to techops@fastly.com.
+
+Peer Address: 104.44.56.33	Fastly Address: 104.44.56.32	Location: Slough, UK
+Peer Address: 2a01:111:2000:1::3952	Fastly Address: 2a01:111:2000:1::3951	Location: Slough, UK
+Peer Address: 104.44.56.33	Fastly Address: 104.44.56.32	Location: Slough, UK
+Peer Address: 2a01:111:2000:1::3952	Fastly Address: 2a01:111:2000:1::3951	Location: Slough, UK
+
+
+Thank you!
+
+Fastly Logo

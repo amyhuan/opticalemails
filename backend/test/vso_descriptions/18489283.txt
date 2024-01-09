@@ -1,0 +1,33 @@
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to relocate fiber cable on the Lumen network and is required in order to proactively avoid unplanned outages due to Union Pacific Railroad mandated construction.
+
+The estimated GPS location of work is on Maury St & Leona St in Houston, TX. LAT: 29.77384 LONG: -95.34925.
+
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-04-20 00:58:40 GMT - This maintenance has been modified.
+
+Customer Impact:
+
+26366360-1
+
+Start	End
+2023-04-25 05:00 GMT (Greenwich Mean Time)	2023-04-25 11:00 GMT (Greenwich Mean Time)
+2023-04-25 00:00 CDT (Central Daylight Time)	2023-04-25 06:00 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): HOUSTON, TX USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442247056	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442067423	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442138497	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442138486	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	4 hours	 
+Alternate Night:
+26366360-2
+
+Start	End
+2023-04-26 05:00 GMT (Greenwich Mean Time)	2023-04-26 11:00 GMT (Greenwich Mean Time)
+2023-04-26 00:00 CDT (Central Daylight Time)	2023-04-26 06:00 CDT (Central Daylight Time)

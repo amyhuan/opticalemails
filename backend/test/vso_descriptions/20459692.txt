@@ -1,0 +1,58 @@
+Classification: Restricted
+
+ 
+
+Dear Customer ,
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C139461
+
+Description
+
+Modulefile_Update_Fail  alarm troubleshooting 3-304-WAC POTN node
+
+Location
+
+Doha -Qatar
+
+Duration
+
+Protection switching will occur (Services are protected)
+
+Planned Start
+
+05/23/23 00:00:00 GMT+3
+
+Planned End
+
+05/23/23 06:00:00 GMT+3
+
+Affected service/link
+
+DOH-MUM/MICROSOFT/TGN-100G02_PW616112/PW616114
+
+DOH-MUM/MICROSOFT/TGN-100G05_PW618348/PW618349
+
+ 
+
+Regards ,
+
+ 
+
+Fayis Neroth
+
+Consultant
+
+Ooredoo Qatar
+M: +974 74089340
+
+Follow us on Twitter and Facebook
+
+ 
+
+Upgrade your world

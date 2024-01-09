@@ -1,0 +1,44 @@
+Service/s
+
+Voice, Data, Internet services will be affected
+
+Reason for outage
+
+One New Zealand is carrying out fibre repairs to its network
+
+Duration
+
+1 x 50ms switching break & loss of redundancy for up to 4 hours for protected circuits. Up to a 4 hour loss of service for unprotected circuits
+
+Outage window START
+
+21/08/2023 22:00:00
+
+Back Up Date One 22/08/2023 22:00:00
+
+Back Up Date Two 23/08/2023 22:00:00
+
+(dd/mm/yy  hh:mm)
+NZST
+
+Outage window END
+
+22/08/23023 02:00:00
+
+Back Up Date One 23/08/2023 02:00:00
+
+Back Up Date Two 24/08/2023 04:00:00
+
+(dd/mm/yy  hh:mm)
+NZST
+
+Services Affected
+Circuit & Site
+
+INT23655647 - 5737 NE HUFFMAN STREET HILLSBRO HILLSBRO - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+INT23655648 - 5737 NE HUFFMAN STREET HILLSBRO HILLSBRO - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+INT23655649 - 5737 NE HUFFMAN STREET HILLSBRO HILLSBRO - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+INT23655650 - 7 PARKHEAD PLACE ROSEDALE NORTH SHORE CITY - Microsoft 6399 New Zealand Limited AP PO 100203114

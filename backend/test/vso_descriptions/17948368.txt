@@ -1,0 +1,25 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00323793	2023-04-26 13:00:00	2023-04-26 17:00:00	0 Days 4 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+En esta actividad se intervendrá el tramo La pintada - Medellin, dado a la topología anillada de la red, no se presentará afectación de los servicios. La actividad se ejecutará con el fin de la certificación del enlace La Pintada - Medellin.
+
+La actividad debe realizar en horario diurno debido a problemas de orden público (delincuencia común) en los puntos donde se debe intervenir el enlace.
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G

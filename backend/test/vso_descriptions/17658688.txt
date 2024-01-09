@@ -1,0 +1,24 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230323160227 ticket number has been opened.
+
+Details
+Ticket Number	wt 230323160227
+Status	INPROG
+Level	3
+Ticket Begin Time	07/04/2023 00:00:00
+Ticket End Time	07/04/2023 06:00:00
+Time Zone	GMT + 1
+Description	Our provider has to perform a maintenance work due to an equipment replacement in Chambery (France). There is no outage expected on your services. 
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34964a.100ge*fra-ist /comment: (SupplierId:WL079712 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

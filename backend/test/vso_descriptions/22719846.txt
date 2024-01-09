@@ -1,0 +1,29 @@
+Planned Start Date:	05/06/2023	Planned Start Time:	20:00
+Planned End Date:	06/06/2023	Planned End Time:	06:00
+
+Schedule Advised is Local UK Time
+
+Maintenance activity:
+Please be advised of essential maintenance work required on our NEOS Fibre Network Platform. We are required to carry out joint audit, to determine existing splicing and condition of joint enclosure. If required a joint rebuild will be arranged under a planned outage later and you will be notified accordingly. These works are part of a wider project to improve existing service between our datacentres, this will provide a more resilient network and increase capacity for future business provisions. We have been advised that the joints we are entering are known to be troublesome, you may see brief service hits and therefore we are advising you accordingly, we apologise for any inconvenience in advance. NB. these works are being carried out in two phases. Phase 1: is the desilt within chambers and this work will be carried out between 20:00 - 23:00 and is deemed not service impacting. Phase 2: This is the heightened risk activity and will not commence until post 23:00 hours.
+
+Services affected:
+
+Circuit Ref	Service/Product	Customer ref	Job No	Status	A end location	B end location	Impact*
+IDN126971GIG100			94282	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN126972GIG100			94282	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN126973GIG100			94282	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN124261GIG100			J91105	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN124263GIG100			J91105	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN124264GIG100			J91105	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN124260GIG100			J91105	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+IDN124262GIG100			J91105	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	At Risk
+
+
+Impact*
+Affected	Services marked "Affected" will be subject to an outage during the times specified in the outage window and should be considered "At risk" for the remainder of the maintenance window
+At Risk	Services have been deemed "At Risk" for the duration of the maintenance window
+
+If you have any queries please reply to this mail or contact us on +44 (0) 3453 053337
+ 
+
+* Schedule Advised is Local UK Time

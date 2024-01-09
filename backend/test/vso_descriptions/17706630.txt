@@ -1,0 +1,37 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018874
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to carry on a Network optimization migration.// Se realizará un trabajo programado con la finalidad de realizar una migración por optimización de red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 15 MIN
+
+LOCATION // LOCALIDAD: RIO - SANTOS, BRAZIL
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+30-Mar-2023 14:30 - 30-Mar-2023 19:30 [MAIN]
+
+31-Mar-2023 14:30 - 31-Mar-2023 19:30 [BACKUP]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+RIO/EQU SAOPAULO/MSFT 100GB S011
+
+CRT-010094
+
+RIO/EQU SAOPAULO/MSFT 100GB S012
+
+CRT-010095

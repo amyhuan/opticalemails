@@ -1,0 +1,63 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned Change scheduled on NLD 2 between Megawatt and Zuurbekom on the 12th March 2023 from 07:00 to 15:00 (GMT: +02:00). We need to do temporary repairs due to the Main Reef Road collapsing and the NLD2 Infrastructure is at High Risk. The City of Johannesburg (JRA) needs to do urgent repairs to Main Reef Road and walkway due to flood damages.
+
+ 
+
+IMPACT: Services will be down for a maximum duration of 4Hrs.
+
+ 
+
+Affected Services:
+
+ 
+
+027MIDR292013677915
+
+027CAPE292014221287
+
+027CAPE292014221297
+
+027CAPE292014221307
+
+027CAPE292014221292
+
+027CAPE292014221302
+
+027CAPE292014221312
+
+027MIDR292013956863
+
+027CAPE292014066891
+
+027CAPE292014066899
+
+027MIDR292014077302
+
+ 
+
+Reason for Change:
+
+ 
+
+To do temporary repairs due to the Main Reef Road collapsing and the NLD2 Infrastructure is at High Risk. The City of Johannesburg (JRA) needs to do urgent repairs to Main Reef Road and walkway due to flood damages.
+
+ 
+
+Implementation plan
+
+ 
+
+Required Splicing on New fibre cable.
+
+It will also require 2 OTDR testers to be at 2 POP’s to preform testing as soon as the Cutover is done.
+
+ 
+
+Cut into existing Splice closure: Will be checked
+
+If one of the adjacent manholes contains an existing splice, the following minimum procedure needs to be followed:
+
+•             Confirm the working fibres for each cable.

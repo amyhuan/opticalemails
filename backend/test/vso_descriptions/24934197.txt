@@ -1,0 +1,19 @@
+Google Emergency Network Maintenance Notification - Reference PCR/726465
+This message was sent to: [Ingrid.Erkman@microsoft.com Noraini.Ayop@microsoft.com nikang@microsoft.com ioc@microsoft.com gatharej@microsoft.com]
+These addresses were selected from the Google ISP Portal. You can update your preferences by navigating to "Configuration > Contacts" and adjusting Email Subscriptions for each user. You can find additional details about Contacts here.
+
+
+Details:
+Start Time: 2023-09-08 01:27:10 +0000 UTC
+End Time: 2023-09-08 04:37:10 +0000 UTC
+Duration: 3h10m0s
+Google ASN:	15169	Peer ASN:	8075
+Google Neighbor Address(es):	104.44.196.6	Peer Neighbor Address(es):	104.44.196.7
+Google Neighbor Address(es):	2a01:111:2000:1::2745	Peer Neighbor Address(es):	2a01:111:2000:1::2746
+Google systems will automatically re-route the traffic away from the peering link(s) under maintenance.
+
+Depending on the nature of the work, your BGP session with Google may stay up through the maintenance window. Traffic may shift to alternate sessions with Google and/or your upstream provider(s).
+
+Questions about this event can be sent to noc@google.com.
+
+Thank you for peering with Google!

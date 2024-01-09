@@ -1,0 +1,19 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	PLANNED ACTIVITY | SA | CPRR Migrations Activity in SEQ
+PE Reference:	C4339175
+PE Type:	Service Affecting
+PE Category:	ILD Standard Change
+Start Time IST:	08/05/2023 03:30:00
+End Time IST:	08/05/2023 11:30:00
+Associated Service:	JIOGIPLMUMSIN0223
+JIOGIPLMUMSIN0248
+JIOGIPLMUMSIN0249
+Impact:	Service will be down during activity window
+Comment:	Our supplier will be performing CPRR Migrations Activity at SEQ
+This mail is automatically generated, please do not reply it. If any query regarding mentioned activity, Please Contact us on Jio.NOCILDOperations@ril.com ( mailto:Jio.NOCILDOperations@ril.com )
+
+Thanks and Regards
+
+ILD Change management Team

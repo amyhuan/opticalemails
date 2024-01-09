@@ -1,0 +1,87 @@
+FYI below : -
+
+
+
+
+
+1).
+
+Account :- 1444073320 (Managed Wave Length Primary Service) 
+
+
+
+Circuit Designation	Account No
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES03 (M)	1444073320
+
+2).
+
+Account : - 1444052829 (Leased Line Service) 
+
+
+
+Circuit Designation	Account No
+JDC/MICROSOFT-FJN/IXP/SB 10GBES01-1444052829	1444052829
+
+
+
+Regards,
+
+Khaja Azherullah 
+
+Business Care
+
+Tel: 8009111
+
+Email:  ESChangeMgt@etisalat.ae
+
+
+ 
+
+
+
+From: Azure Network Operations Center 
+Sent: Wednesday, June 7, 2023 9:25 PM
+To: noreply-onlineservices@etisalat.ae; Mohd Imran Manzoor; Asadhulla Hidayathulla; Microsoft NOC; Brandon Raciborski
+Cc: ESChangeMgt; Syed Shahid
+Subject: [EXTERNAL EMAIL]: Re: [EXTERNAL] Planned Outage Notification – CR-000000878970
+ 
+
+"EXTERNAL EMAIL: This is an external email received from the Internet. If you suspect that the email contains any malicious content, please forward the email to spamreport@eand.com "
+
+
+Hi Team,
+
+
+please provide circuit details
+
+Thanks & Regards,
+keerthana | Azure NOC
+NOC Hotline: +1 425-705-2686
+From: noreply-onlineservices@etisalat.ae 
+Sent: 07 June 2023 07:11
+To: Azure Network Operations Center ; Mohd Imran Manzoor ; Asadhulla Hidayathulla ; Microsoft NOC ; Brandon Raciborski 
+Cc: ESChangeMgt@etisalat.ae ; syshahid@etisalat.ae ; Asadhulla Hidayathulla 
+Subject: [EXTERNAL] Planned Outage Notification – CR-000000878970
+ 
+
+Outage Ref: CR-000000878970
+Date: 6/7/2023 6:11:51 PM
+
+Dear MICROSOFT COPORATION - ABU DHABI,
+
+Please note that there will be a Planned Critical Network Maintenance Activity by Engineering team which is expected to cause a Service interruption affecting the attached accounts. The planned Critical maintenance is scheduled to occur from Wednesday, June 21, 2023 12:00 AM to Wednesday, June 21, 2023 06:00 AM, which will affect the attached accounts. The services will be interrupted during the maintenance window based on the site conditions. All necessary precautions have been taken in order to minimize the impact on services.
+
+The activity is aimed to improve Etisalat network infrastructure, to ensure class leading services to our customers. Please note that the delay in carrying out the planned maintenance work can impose risk to the network and impact customer services.
+
+Kindly note that timing as per UAE local time (+4 GMT).
+
+Thanks for your usual cooperation and we apologize for this inconvenience.
+
+Regards,
+Etisalat Business Care
+
+ESChangeMgt@etisalat.ae
+
+نتمنى لك يومًا سعيدًا
+
+HAVE A GOOD DAY

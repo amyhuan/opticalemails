@@ -1,0 +1,18 @@
+Dear Microsoft Corporation,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC230124
+Action and Reason:	Maintenance to perform software upgrade works on network device to the latest version as recommended by vendor in order to avoid unannounced outage
+Location:	Budapest, Hungary
+
+
+Service Window: PWIC230124.1 primary	Work Status: Confirmed
+Service window start:	2023-05-07 22:00 UTC
+Service window end:	2023-05-08 02:00 UTC
+Impacted Services	
+IC-309416	IP Connect	1 x 3 hours
+
+
+
+Best Regards
+Customer Support Center

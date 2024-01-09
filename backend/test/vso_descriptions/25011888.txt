@@ -1,0 +1,38 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230830150331 ticket number has been opened.
+
+Details
+Ticket Number	wt 230830150331
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	29/09/2023 00:00
+Ticket End Time	29/09/2023 01:00
+Time Zone	(UTC+2:00) CEST
+Description	Please be informed that there will be a planned maintenance in our network, which will affect your service.Outage: 1 Hour for non protected lines / protected lines will face protection switch only 
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35843a.100ge*fra-ist /comment: (SupplierId:WL085769 )
+msn35842a.100ge*fra-ist /comment: (SupplierId:WL085768 )
+msn35841a.100ge*fra-ist /comment: (SupplierId:WL085767 )
+msn35840a.100ge*fra-ist /comment: (SupplierId:WL085766 )
+msn35839a.100ge*fra-ist /comment: (SupplierId:WL085765 )
+msn35838a.100ge*fra-ist /comment: (SupplierId:WL085764 )
+msn35837a.100ge*fra-ist /comment: (SupplierId:WL085763 )
+msn35836a.100ge*fra-ist /comment: (SupplierId:WL085762 )
+msn35835a.100ge*fra-ist /comment: (SupplierId:WL085761 )
+msn35834a.100ge*fra-ist /comment: (SupplierId:WL085750 )
+msn34730a.100ge*fra-ist /comment: (SupplierId:WL079439 )
+msn34729a.100ge*fra-ist /comment: (SupplierId:WL079438 )
+msn33633a.100ge*fra-ist /comment: (SupplierId:WL074833 )
+msn33632a.100ge*fra-ist /comment: (SupplierId:WL074832 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

@@ -1,0 +1,89 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Thursday 03rd Aug 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                   :     ITEM-057517 NE-15925
+
+         
+
+Scheduled Date                            :     Thursday 03rd Aug 2023
+
+
+Maintenance Window                    :     03/08/2023 00:00 GMT on 04:00  GMT
+
+ 
+
+Activity                                        :     Main optical cable repair on our national provider's network after a previous damage, due to a fire.
+
+ 
+
+Location                                       :     Brancaleone-Locri (ITALY)
+
+ 
+
+­­Benefit of Change                         :     To avoid unplanned outage in near future
+
+
+Impact                                         :     Service Affecting
+                           
+Duration of Impact                        :     Circuit will go down for 240mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Customer Name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Shipranshu
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1

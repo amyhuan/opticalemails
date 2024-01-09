@@ -1,0 +1,37 @@
+Dear Microsoft,
+
+ 
+
+We will inform you of our maintenance work.
+
+During the maintenance, the BGP peering session and interface link will be down.
+
+We would appreciate your understanding and cooperation.
+
+ 
+
+Time:
+
+2023/06/02  09:00 ~ 11:00 JST (UTC +09:00)
+
+ 
+
+AS: 9605
+
+ 
+
+IP address of Docomo:
+
+104.44.47.164
+
+2a01:111:2000:1::3859
+
+ 
+
+Best Regards,
+
+ 
+
+Hiroko Kanda
+
+NTT docomo

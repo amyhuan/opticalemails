@@ -1,0 +1,25 @@
+Planned Work Description
+
+Rack replacement works on our network in Sofia.
+
+
+Service ID
+
+Int. Circuit Designation
+
+PEW Impact
+
+ATHENS/WED-WIEN/WED NP 0002
+
+TIS-00000081577
+
+Asset Impacted
+
+
+These works will take place between 03/10/2023 21:00 (GMT +00:00) and 04/10/2023 01:00 (GMT +00:00) with an estimate downtime of 240 minutes maximum.
+
+Please note that your assets listed with “PEW Impact” at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+We apologize for any inconvenience we may have caused to you.
+
+Thank you.

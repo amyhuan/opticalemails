@@ -1,0 +1,81 @@
+, Dear Team, , We would like to inform you that our provider has once again delayed the maintenance work. Kindly take note of the new maintenance schedule: , Start: 14/09/2023 00:00 UTC,  , End: 14/09/2023 04:00 UTC,  , Thank you for your understanding. , Best regards, ,  ,  , Emergency Work Notification.
+
+ 
+
+ Direct Line:  +972-765614739
+
+ E-mail:           CustomerMaintenanceNotification@bezeqint.co.il
+
+ 
+
+ 
+
+Dear Customer,
+
+ 
+
+We hope this planned work meets your approval and apologize in advance for any disruption to your operations. Should you have any further enquiries regarding this work please do not hesitate to contact us.
+
+ 
+
+Kind regards,
+
+ 
+
+Bezeq International Maintenance Team
+
+  
+
+FOR THE ATTENTION OF:
+
+CUSTOMER’S EMAIL:
+
+Microsoft Ireland Operations Limited
+
+ 
+
+ 
+
+Whaldo.Hall@microsoft.com
+
+moc@microsoft.com
+
+ 
+
+FROM (GMT):
+
+TO (GMT):
+
+EXPECTED IMPACT:
+
+09/08/2023 20:30
+
+10/08/2023 03:00
+
+Service will experience a 2x switch hits from 50mls in order the service to go on a spare path while the other is under maintenance
+
+ 
+
+PLANNED WORKS LOCATION & DESCRIPTION:
+
+Scope of work:
+
+Maintenance on our  3rd party provider Fiber infrastructure platform related to Cable Splicing
+
+ 
+
+SERVICE(S) AFFECTED:
+
+Planned Work Reference Number: NE-16197
+
+ 
+
+Circuit ID:  IPLC-20-12610 & IPLC-20-12609 & IPLC-20-12668 & IPLC-20-12669 &IPLC-22-15394
+
+ 
+
+ 
+
+Shahar  Taitler 
+
+[Phone]  |  +972-39260226  |  data@bezeqint.co.il

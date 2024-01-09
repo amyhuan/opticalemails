@@ -1,0 +1,66 @@
+Dear all,
+
+ 
+
+Regret to be informed that RFC needs to be RESCHEDULED  due to a technical issue. This work cannot proceed as notified earlier. All circuits involved remain.
+
+ 
+
+New dated as stated below :  , PLANNED,  , START ( with time zone )  ,  ,  , 2023-08-21 00:00:00 (GMT +8),  ,  , PLANNED,  , END,  ,  , 2023-08-21 06:00:00 (GMT +8),  ,  ,  ,  TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-International_Partner-230724-0002 PARTNER CA International_Partner International Partner Maintenance CABLE MAINTENANCE : PERFORM TWO PERMANENT JOINT AT KUANTAN, ML109.
+
+REGION                     
+
+PAHANG(EASTERN)
+
+PLANNED START ( with time zone )  
+
+2023-08-14 00:00:00 (GMT +8)
+
+PLANNED END
+
+2023-08-14 06:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-08-14 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-08-14 06:00:00
+
+EXPECTED OUTAGE DURATION
+
+3 HOURS
+
+JUSTIFICATION
+
+CABLE MAINTENANCE : PERFORM TWO PERMANENT JOINT AT KUANTAN, ML109. Link TM BIA - TM SKDL Cherating (KP86.010 Jabor)
+
+CIRCUIT INVOLVED 
+
+ 
+
+NETWORK ID	Expected Outage
+IE1033104610
+
+3 HOURS
+
+IR1033213076
+
+3 HOURS
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.

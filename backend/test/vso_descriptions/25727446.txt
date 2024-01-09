@@ -1,0 +1,67 @@
+[外部] [customers-notify-l: 675] YUME NETWORK/AS17958 Maintenance Information
+
+Translate message to: English | Never translate from: Japanese | (Internal) This isn't Japanese
+
+This sender customers-notify-l@lists.tokyo.jpnap.net is from outside your organization. Block sender
+This message is in Japanese This sender customers-notify-l@lists.tokyo.jpnap.net is from outside your organization.
+customers-notify-l  on behalf of 横山 琢真 via customers-notify-l 
+​
+customers-notify-l@lists.tokyo.jpnap.net
+​
+​
+kcv-network@nsg.kcv.ne.jp
+​
+JPNAP東京 Peer 各位
+
+お世話になります。笠岡放送（AS17958）横山と申します。
+
+下記の通りメンテナンス作業を実施します。
+作業中はピアダウンが発生しますので予めご了承下さい。
+ご協力宜しくお願い致します。
+
+*作業内容
+ルータメンテナンス
+
+*作業日時
+2023/11/14 AM01:00 - AM04:00 JST
+
+*AS番号
+17958
+
+*IPアドレス
+IPv4　210.173.176.157
+IPv6　2001:7fa:7:1:0:1:7958:1
+
+----------------------------------------
+
+Dear JPNAP Tokyo Peers
+
+This is Takuma　Yokoyama at Kasaoka Cable Vision(AS17958).
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+We would appreciate your understanding and cooperation.
+
+*Date
+2023/11/14 AM01:00 - AM04:00 JST
+
+*AS Number
+17958
+
+*IP address
+IPv4　210.173.176.157
+IPv6　2001:7fa:7:1:0:1:7958:1
+
+Best Regards,
+
+++++++++++++++++++++++++++++++
+Kasaoka Broadcast CO.,LTD.
+Takuma Yokoyama
+TEL:0865-63-6181
+FAX:0865-63-2147
+mailto:yokoyama@nsg.kcv.ne.jp
+++++++++++++++++++++++++++++++
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7C661a882676d2421c474f08dbde8ebc4f%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638348476865875315%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=eDq5hcTrLiZpL2W4CrV%2BZYBtfYWmtpgwPg0jpKJlR6k%3D&reserved=0

@@ -1,0 +1,52 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006909604
+
+Urgency: Demand
+
+Date Notice Sent: 02-Aug-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+07-Aug-2023 00:01 to 07-Aug-2023 02:00 ( Central )
+07-Aug-2023 05:01 to 07-Aug-2023 07:00 ( GMT )
+
+Location of Maintenance: 735 Bogard Ave, East Saint Louis, IL
+
+Reason for Maintenance: Zayo has identified a failed circuit pack in East St. Louis that could affect service performance. This circuit pack needs to be replaced to prevent future network outages and stabilize the overall performance of the network.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/282151//ZYO	Hard Down - Duration of maintenance window	4005 S Mendenhall Rd Memphis, TN. USA	2299 Busse Rd Elk Grove Village, IL. USA	
+OQYX/282224//ZYO	Hard Down - Duration of maintenance window	4005 S Mendenhall Rd Memphis, TN. USA	2299 Busse Rd Elk Grove Village, IL. USA	
+OGYX/176205//ZYO	Hard Down - Duration of maintenance window	15580 NE 31st St Building B43 Redmond, WA. USA	9554 Westover Hills Blvd - SN6 San Antonio, TX. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation
+
+Toll free/No sans frais: 1.866.236.2824
+
+United Kingdom Toll Free/No sans frais Royaume-Uni: 0800.169.1646
+
+Email/Courriel: mr@zayo.com 
+
+Website/Site Web: https://www.zayo.com
+
+Purpose | Network Map | Escalation List | LinkedIn | Twitter | Tranzact 
+
+ 
+
+This communication is the property of Zayo and may contain confidential or privileged information. If you have received this communication in error, please promptly notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

@@ -1,0 +1,12 @@
+Dear Sirs,
+We inform you that a new scheduled task has been generated.
+Scheduled Task Detail:
+
+Subject:	scheduled task provider
+Affected Service:	MSF013, MSF014
+Date:	04/04/2023
+Work Window:	1:00 Hs - 3:00 Hs (GMT -3)
+Effective impact:	0
+Description:	Optical fiber measurements in Pucon - Junin, they are risky jobs, there is NO affectation of service
+Ticket Nº:	149967
+Regards,

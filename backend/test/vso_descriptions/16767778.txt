@@ -1,0 +1,39 @@
+Dear all,
+
+please take in consideration the following notification.
+We apologize for any inconvenience this may cause.
+If you do not respond within 24 hours we consider the planned work to be accepted.
+
+------------------------------------------------------------------------------
+TTI Ticket-Number: wt230111150707  Customer Ticket-Number:
+Status:open,  Level:major scheduled
+ 
+From: NOC Türk Telekom International (Türk Telekom International)
+To:   KUMAR Shivesh, CC ON ALL  Notifications, NOC , PARKER Todd,  (Microsoft Ireland Operations Ltd.)
+Start: 24.01.2023  23:00:00 (CET) 24.01.2023 22:00 (GMT)
+End:   25.01.2023  01:00:00 (CET) 25.01.2023 00:00 (GMT)
+ 
+Description:
+Please be informed, a maintenance will take place, which may affect your services.
+
+Outage: 2 hours
+Reason: swapping to new fibers to reduce attenuation
+ 
+Services:
+msn35834a.100ge*fra-ist (WL085750 )
+msn35835a.100ge*fra-ist (WL085761 )
+msn35836a.100ge*fra-ist (WL085762 )
+msn35837a.100ge*fra-ist (WL085763 )
+msn35838a.100ge*fra-ist (WL085764 )
+msn35839a.100ge*fra-ist (WL085765 )
+msn35840a.100ge*fra-ist (WL085766 )
+msn35841a.100ge*fra-ist (WL085767 )
+msn35842a.100ge*fra-ist (WL085768 )
+msn35843a.100ge*fra-ist (WL085769 )
+
+
+ 
+
+------------------------------------------------------------------------------
+ 
+Best Regards

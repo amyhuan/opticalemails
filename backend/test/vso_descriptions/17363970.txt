@@ -1,0 +1,23 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00311208	2023-03-04 05:00:00	2023-03-04 11:00:00	0 Days 6 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+En esta actividad se intervendrá el tramo Normandía - La Mesa, dado a la topología anillada de la red, no se presentará afectación de los servicios. La actividad se ejecutará con el fin de realizar certificación bidireccional del enlace Normandía - La Mesa correspondiente a las redes del anillo nacional y Globenet con el fin de identificar y corregir eventos altos (en caso de encontrarse) que están degradando los servicios actuales.
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G

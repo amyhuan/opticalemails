@@ -1,0 +1,152 @@
+Dear Customer
+
+ 
+
+Please be informed that the correct new rescheduling details are the following:
+
+ 
+
+MAIN Window
+
+NEW Start Date & Time: 29/08/2023, 22:00 GMT
+
+NEW End Date & Time: 30/08/2023, 04:00 GMT
+
+ 
+
+BACKUP Window
+
+NEW Start Date & Time: 30/08/2023, 22:00 GMT
+
+NEW End Date & Time: 31/08/2023, 04:00 GMT
+
+ 
+
+Regards,
+
+ 
+
+Shipranshu
+
+Global Services Management Center (GSMC)
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: Changemgmt
+Sent: Tuesday, July 4, 2023 3:39 PM
+To: MOC@microsoft.com; MOCALERT@microsoft.com
+Cc: arun7.sharma@airtel.com
+Subject: RE: ITEM-055981 NE-15690 Planned Maintenance Activity by ILD Service provider, which is scheduled on Monday 24th July 2023 ( Microsoft Ireland Operations Ltd.)
+
+ 
+
+Dear All,
+
+ 
+
+With respect to the maintenance activity detailed in the below mail, we wish to inform you that the same has been postponed and mention activity will carried out again, we will let you know new date once available.
+
+ 
+
+Regards,
+
+ 
+
+Shreyansh Moghia
+
+Global Services Management Center (GSMC)
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1
+
+ 
+
+ 
+
+From: Changemgmt
+Sent: Tuesday, June 27, 2023 11:12 AM
+To: MOC@microsoft.com; MOCALERT@microsoft.com
+Cc: arun7.sharma@airtel.com
+Subject: ID : ITEM-055981 NE-15690 Planned Maintenance Activity by ILD Service provider, which is scheduled on Monday 24th July 2023 ( Microsoft Ireland Operations Ltd.)
+
+ 
+
+Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Monday 24th July 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                            :        ITEM-055981 NE-15690
+
+         
+
+Scheduled Date                                     :        Monday 24th July 2023
+
+
+Maintenance Window                             :        24/07/2023 22:00 (GMT+00:00) to 25/07/2023 04:00 (GMT+00:00)
+
+ 
+
+Activity                                                :         Main optical cable repair
+
+ 
+
+Location                                               :         Lyon (FRANCE)
+
+ 
+
+Benefit of Change                                 :         To avoid unplanned outage in near future
+
+
+Impact                                                 :         Service Affecting
+                           
+Duration of Impact                                :         Circuit will be down for 360mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.

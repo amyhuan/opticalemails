@@ -1,0 +1,12 @@
+Dear Sirs,
+We inform you that a new scheduled task has been generated.
+Scheduled Task Detail:
+
+Subject:	Equipment Work
+Affected Service:	MSF013,MSF014,MSF015,MSF016,MSF017,MSF018
+Date:	11/04/2023
+Work Window:	2:00 Hs - 7:00 Hs (GMT -3)
+Effective impact:	180 min
+Description:	Change of mux in Artigas
+Ticket Nº:	150079
+Regards,

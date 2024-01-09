@@ -1,0 +1,39 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019702
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: A schedule work will performed in order to implement network optimization. // Se realizara un trabajo programado con la finalidad de implementar optimizaciones en la red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 90 MIN
+
+LOCATION // LOCALIDAD: BOCA RATON - MIAMI NAP
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+02-Jun-2023 03:00 - 02-Jun-2023 11:00 (MAIN)
+
+06-Jun-2023 03:00 - 06-Jun-2023 11:00 (BACK UP)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S003
+
+CRT-009612
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S004
+
+CRT-009613
+
+[English]

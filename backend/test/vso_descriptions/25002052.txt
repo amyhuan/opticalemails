@@ -1,0 +1,48 @@
+Classification : Restricted
+
+
+Dear Team,
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C146398
+
+Description
+
+Please be informed that our supplier will perform an PA  To troubleshoot "Input Signal Power Low" alarm in Fiber pair F2F and F5F at Marseille-2.
+
+Location
+
+Marseille-2(France )
+
+Duration
+
+Nature : Service Affecting
+
+Impact : Up to 6 Hrs. downtime
+
+Planned Start
+
+15- Sep -2023 – 08 :00:00 (GMT)
+
+Planned End
+
+15 -Sep -2023 – 14 :00:00  (GMT)
+
+Affected service/link
+
+DOH/MRS2/100G/100Gbe/000015          DOHA    MARSEILLE-2     DOH-MAR/MICROSOFT/AAE1-100G03             100G
+
+Carrier References
+
+PW3563
+
+ 
+
+Regards  & Thanks ,
+
+Mohamed Youssef

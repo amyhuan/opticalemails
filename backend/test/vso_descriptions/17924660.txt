@@ -1,0 +1,31 @@
+Dear Equinix Customer,
+
+DATE: 27-APR-2023 - 28-APR-2023
+
+SPAN: 27-APR-2023 - 28-APR-2023
+
+LOCAL: THURSDAY, 27 APR 22:00 - FRIDAY, 28 APR 05:00
+UTC: THURSDAY, 27 APR 14:00 - THURSDAY, 27 APR 21:00
+
+IBX(s): SG1
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a planned maintenance work on our platform Equinix Internet Exchange.
+There is no expected interruption on your network port, but the BGP session to affected peering partners can go down for up to 45 minutes during the maintenance window.
+
+PRODUCTS: INTERNET EXCHANGE
+
+IMPACT: No impact to your service
+
+
+Internet Exchange
+
+Account #	Product	IBX	Service Serial #
+115690	Internet Exchange	SG3	21932284-A
+115690	Internet Exchange	SG3	21932283-A
+115690	Internet Exchange	SG3	21932282-A
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-225617361507.

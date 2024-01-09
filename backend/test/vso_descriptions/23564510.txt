@@ -1,0 +1,25 @@
+Maintenance details
+
+Lumen's 3rd party Emergency Maintenance Notification [Ref: #: 26668709]
+
+Lumen's supplier intends to carry out internal maintenance within its network. Lumen's 3rd party provider will perform maintenance within their network. This has been designated as URGENT. The nature of this work is to implement a fiber relocation maintenance and is required in order to mitigate the conflict with PG&E substructure upgrade and electric primary cable. The estimated GPS location of work is: GPS Location 1: 37.30203370286976, -121.93157628713597; GPS Location 2: 37.296115398711535, -121.9315067863026 Primary Window (GMT): 25/05/2023 06:00:00 to 25/05/2023 13:00:00 Backup Window (GMT): 26/05/2023 06:00:00 to 26/05/2023 13:00:00
+
+
+Reference number
+PN302942
+
+
+Start time
+Thursday, 25 May 2023 06:00:00 (UTC)
+
+
+End time
+Friday, 26 May 2023 13:00:00 (UTC)
+
+
+Service/s under maintenance
+SCA SYD EPL 9294316
+HKG SCA EPL 9608213
+HKG SCA EPL 9244944
+HKG SCA EPL 9343122
+HKG SCA EPL 9436548

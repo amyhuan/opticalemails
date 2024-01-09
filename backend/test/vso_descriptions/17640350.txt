@@ -1,0 +1,29 @@
+Planned Activity Notice Risk Only Work
+    
+
+
+    
+    
+
+
+    Dear Esteemed Customer,
+    We would like to inform you that there will be a planned Risk Only  maintenance work on our network.
+    Details of the maintenance work are as follows:
+
+    Reference #:                            CRQ000000010376
+    Organization:                           Microsoft Ireland Operations Ltd
+    Type:                                   Risk Only 
+    Maintenance Purpose:                    PLANNED MAINTENANCE ACTIVITY BY OUR THIRD-PARTY PARTNER 
+    Start date and time (GMT+1):              4/27/2023 11:00:00 PM
+    End date and time (GMT+1):                4/28/2023 5:00:00 AM
+    Notes:                                    
+    Work Duration (Mins):                   360.00 
+    Estimated Downtime (Mins):              0.00
+    Affected Circuit Details:               MM-C-IKE-LND-IPC-A03145
+    
+    Regards,
+    Change Management
+    Nigeria : +234(1)342 2000
+    Accra :      +233 (0)302 744044, (0)302 744045
+    Email: gnoc@mainone.net
+    Visit us at : www.mainone.net

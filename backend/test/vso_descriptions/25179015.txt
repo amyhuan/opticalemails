@@ -1,0 +1,83 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Thursday 28th September 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :      ITEM-060982 NE-16809
+
+         
+
+Scheduled Date                                    :      Thursday 28th September 2023
+
+
+Maintenance Window                            :      28/09/2023 00:00 GMT to 28-09-2023 04:00 GMT
+
+                                                   
+
+Activity                                                :      Load-bearing movement
+
+ 
+
+Locations                                             :      Albania
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                :      Service Affecting
+                           
+Duration of Impact                               :      Circuit will be down for 240Min during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+Note: displacement of the RTN infrastructure load-bearing part as it interferes with the construction of a spillway by ANAS in SS n. 1 Aurelia Loc. Albinia
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards
+
+ 
+
+Shipranshu
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

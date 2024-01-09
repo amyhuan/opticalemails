@@ -1,0 +1,49 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C143514
+
+ 
+
+Description
+
+PW for card replacement to clear "Equipment Degradation" issue at 1- A-6 IRM in Zayed within segment X1.1 (Ref NW TT : NW7511). Services will be running via Sub-Segments X1.2.
+
+Location
+
+Zayed
+
+Duration
+
+Switching hit plus protection loss
+
+Planned Start
+
+11-July-2023 06:00:00 GMT
+
+Planned End
+
+11-July-2023 10:00:00 GMT
+
+Affected service/link
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116)
+
+Carrier References
+
+PW3487
+
+ 
+
+ 
+
+Best Regards,

@@ -1,0 +1,34 @@
+Location:            Hume Fwy, Little Billabong NSW
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 7 Hours
+ 
+
+Description of Work:  
+
+ 
+
+Planned major fibre works.
+
+Vocus Ref: (RW00992)
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE161001	Vocus Wavelength (AUD)
+VWE283010	Vocus Wavelength (AUD)
+VWE160998	Vocus Wavelength (AUD)
+VWE243333	Vocus Wavelength (AUD)
+VWE161000	Vocus Wavelength (AUD)
+VWE243303	Vocus Wavelength (AUD)
+VWE160999	Vocus Wavelength (AUD)
+VWE243299	Vocus Wavelength (AUD)
+VWE283008	Vocus Wavelength (AUD)
+VWE128557	Vocus Etherwave (AUD)
+VWE123210	Vocus Etherwave (AUD)

@@ -1,0 +1,31 @@
+, ** Please note revised Primary dates below **, Reschedule Notification, Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times., Maintenance Ticket #:,  , TTN-0006918419, Urgency:,  , Planned, Date Notice Sent:,  , 29-Aug-2023, Customer:,  , Microsoft Corporation, Maintenance Window, 1, st,  , Activity Date, 05-Sep-2023 00:01 to 05-Sep-2023 05:00 ( Eastern ), 05-Sep-2023 04:01 to 05-Sep-2023 09:00 ( GMT ),  ,  ,  , Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006918419
+
+Urgency: Planned
+
+Date Notice Sent: 08-Aug-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+21-Aug-2023 00:01 to 21-Aug-2023 05:00 ( Eastern )
+21-Aug-2023 04:01 to 21-Aug-2023 09:00 ( GMT )
+
+Location of Maintenance: 1005 W Centre St, Mahanoy City, PA
+
+Reason for Maintenance: Zayo will be performing a planned maintenance to replace a failing amplifier in Mahanoy City PA.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/283655//ZYO	Hard Down - up to 30 minutes	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+OGYX/172331//ZYO	Hard Down - up to 30 minutes	3730 163rd Ave NE Redmond, WA. USA	10880 Airman Ave Manassas, VA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

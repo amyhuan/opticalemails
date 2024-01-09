@@ -1,0 +1,34 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft Ireland Operations Ltd
+Ticket Number	WIOCCEW136380
+External Ref	
+Incident Start Date/Time	09/05/2023 7:00 HRS UTC
+Priority	Planned - Outage
+Case Category	WIOCC EWs/Change Mgt
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C208-0013	100Gbps from Nairobi to Marseille.	100Gbps	Nairobi, East Africa Data Centre	Marseille, Interxion - Marseille
+Most Recent Message:
+
+Please note of the emergency activity as detailed below:
+
+Maintenance Window
+Start Date / Time: 9th May. 2023 7:00 UTC
+End Date / Time: 9th May. 2023 22:00 UTC
+
+Impact on Service(s)
+15 hours downtime
+
+Description of Works
+Urgent maintenance activity between Djibouti <> Marseille to enhance service resilience
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket

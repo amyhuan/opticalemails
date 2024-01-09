@@ -1,0 +1,26 @@
+Scheduled Maintenance #: 26539870
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as ESSENTIAL. The nature of this work is to implement a network optimization and is required in order to improve network reliability.
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-04-28 15:54:02 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26539870-1
+
+Start	End
+2023-05-05 04:01 GMT (Greenwich Mean Time)	2023-05-05 10:00 GMT (Greenwich Mean Time)
+2023-05-05 00:01 EDT (Eastern Daylight Time)	2023-05-05 06:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): CHARLOTTE COURT HOUSE, VA UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORP	ETH100-17532513	N/A	10MEG	101 HERBERT DR BOYDTON VA USA	 	Outage	4 hours

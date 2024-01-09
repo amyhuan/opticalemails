@@ -1,0 +1,44 @@
+Hi Microsoft,
+
+ 
+
+Gamma (AS31655) will be upgrading several devices across our edge, which will result in PNI’s between ourselves being impacted by session drop for extended periods of up to one hour per date/change window.
+
+ 
+
+The information below highlights the dates/times/IP’s (sorry I don’t have any Service Reference ID’s), associated with the NNI:
+
+ 
+
+ 
+
+23/02/2023 22:00 (GMT) >>> 24/02/2023 05:00 (GMT)
+
+ 
+
+-              Gamma AS: 31655
+
+-              Gamma IP: 164.39.242.12 / 2a04:4447:0:3100::
+
+ 
+
+ 
+
+ 
+
+Apologies for any inconvenience.
+
+ 
+
+ 
+
+Thanks
+
+ 
+
+Rob
+
+ 
+
+Rob French
+Technical Lead

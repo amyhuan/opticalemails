@@ -1,0 +1,63 @@
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as URGENT. The nature of this work is to implement a fiber relocation maintenance and is required in order to mitigate the conflict with PG&E substructure upgrade and electric primary cable.
+
+The estimated GPS location of work is: GPS Location 1: 37.30203370286976, -121.93157628713597; GPS Location 2: 37.296115398711535, -121.9315067863026
+
+3rd party provider advises the cable will be spliced one buffer tube at a time to minimize the outage duration.
+
+3rd party provider advises due to safety reasons, the complexity of the maintenance, and the extensive work that is required, an extended 7 hour impacting multi night maintenance window is unfortunately necessary to complete all of required work. Every effort will be taken to complete this important work as quickly and as efficiently as possible.
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen would like to apologize for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-05-18 15:00:58 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26668709-1
+
+Start	End
+2023-05-25 06:00 GMT (Greenwich Mean Time)	2023-05-25 13:00 GMT (Greenwich Mean Time)
+2023-05-24 23:00 PDT (Pacific Daylight Time)	2023-05-25 06:00 PDT (Pacific Daylight Time)
+
+
+Maintenance Location(s): SAN JOSE, CA UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	BDBM5809	N/A	1GIG-E	ASHBURN VA USA	SAN JOSE CA USA	Outage	7 hours	 
+Microsoft	Fiber264	BBHC7523	FIBER	 	 	Outage	7 hours	 
+Microsoft	Fiber263	BBHC7523	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber11	No Associated SID	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber12	No Associated SID	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber192	BBHC756	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber191	BBHC756	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	BDBM5809	N/A	1GIG-E	ASHBURN VA USA	SAN JOSE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	442437437	N/A	10GIG-E LAN	SANTA CLARA CA USA	SAN JOSE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	BCKB9118	N/A	10GIG-E LAN	SAN JOSE CA USA	SUNNYVALE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	441573398	N/A	100 GIG	LAS VEGAS NV USA	SANTA CLARA CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	442444764	N/A	10GIG-E LAN	SANTA CLARA CA USA	SAN JOSE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	441573397	N/A	100 GIG	LAS VEGAS NV USA	SANTA CLARA CA USA	Outage	7 hours	 
+26668709-2
+
+Start	End
+2023-05-26 06:00 GMT (Greenwich Mean Time)	2023-05-26 13:00 GMT (Greenwich Mean Time)
+2023-05-25 23:00 PDT (Pacific Daylight Time)	2023-05-26 06:00 PDT (Pacific Daylight Time)
+
+
+Maintenance Location(s): SAN JOSE, CA UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	BDBM5809	N/A	1GIG-E	ASHBURN VA USA	SAN JOSE CA USA	Outage	7 hours	 
+Microsoft	Fiber264	BBHC7523	FIBER	 	 	Outage	7 hours	 
+Microsoft	Fiber263	BBHC7523	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber11	No Associated SID	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber12	No Associated SID	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber192	BBHC756	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	Fiber191	BBHC756	FIBER	 	 	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	BDBM5809	N/A	1GIG-E	ASHBURN VA USA	SAN JOSE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	442437437	N/A	10GIG-E LAN	SANTA CLARA CA USA	SAN JOSE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	BCKB9118	N/A	10GIG-E LAN	SAN JOSE CA USA	SUNNYVALE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	441573398	N/A	100 GIG	LAS VEGAS NV USA	SANTA CLARA CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	442444764	N/A	10GIG-E LAN	SANTA CLARA CA USA	SAN JOSE CA USA	Outage	7 hours	 
+MICROSOFT CORPORATION MCIO	441573397	N/A	100 GIG	LAS VEGAS NV USA	SANTA CLARA CA USA	Outage	7 hours

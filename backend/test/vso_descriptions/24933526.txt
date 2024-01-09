@@ -1,0 +1,49 @@
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Bharti Airtel Essential Maintenance Notification - CRQ000003340023
+
+AAG || Planned maintenance Activity to Migrate 4x WL3 (2x 100G) to WL5e.
+
+
+Reference number
+PN311434
+
+
+Start time
+Friday, 01 Sep 2023 17:00:00 (UTC)
+
+
+End time
+Friday, 01 Sep 2023 19:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG SCA EPL 9343122
+
+
+Expected impact
+2 hours outage within the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.

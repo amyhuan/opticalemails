@@ -1,0 +1,118 @@
+Dear Team,
+
+ 
+
+Mentioned activity has been rescheduled to below date.
+
+ 
+
+Start Time
+
+27-02-2023 16:00 UTC
+
+End Time
+
+27-02-2023 22:00 UTC
+
+ 
+
+ 
+
+ 
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+Please contact ILD NOC on +91 22 796 46434 / Jio.NOCILDOperations@ril.com should you require any additional information.
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+      jio-logo-03
+
+ 
+
+Aditya Pashte.
+
+NOC-International Long Distance,
+
+Reliance Jio Infocomm Ltd.,
+
+RCP, Opp. Ghansoli Rly Station, Navi Mumbai, India
+
+Phone- +912279646434
+
+E-mail-  Aditya.pashte@ril.com
+
+ 
+
+ 
+
+From: Jio NOCILDOperations (Generic ID) 
+Sent: Tuesday, January 24, 2023 6:46 AM
+To: 'Azure Network Operations Center'' ; 'Azure WAN DRI' ; 'oopticaldri@microsoft.com' 
+Cc: Jio ILDSDNOC ; Virat Shah ; Shailendra6 Mishra ; Jio ILDTX ; Jio NOCILDOperations (Generic ID) 
+Subject: C3855429 | SA | PLANNED ACTVITY | BETWEEN :- 13-02-2023 16:00 UTC TO 13-02-2023 22:00 UTC
+
+ 
+
+Dear Customer,
+
+Please be advised of below Planned Activity:-
+
+PE Reference
+
+C3855429
+
+PE Category
+
+Planned Activity
+
+Description
+
+Our supplier will be performing Fiber works in their network.
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+SO6084822091/JIOGIPLMUMSIN0224
+
+Start Time
+
+13-02-2023 16:00 UTC
+
+End Time
+
+13-02-2023 22:00 UTC
+
+Impact
+
+Service will be down for 180 MIN during maintenance window.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+
+Please contact ILD NOC on +91 22 796 46434 / [mailto:Jio.NOCILDOperations@ril.com%3cmailto:Jio.NOCILDOperations@ril.com]Jio.NOCILDOperations@ril.com should you require any additional information

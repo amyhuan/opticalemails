@@ -1,0 +1,23 @@
+Hello Azure Network Operations Center,
+
+We will perform maintenance for the interconnection connected to Microsoft Azure Peering Service in Tokyo, Japan.
+
+Maintenance is scheduled for the following periods:
+2023-02-27 09:00 (UTC) ~ 2023-02-27 13:30 (UTC)
+
+Please find the connections detail below:
+ Peering facility id: 142
+ Peer IPv4 address: 202.238.254.250
+ Microsoft IPv4 address: 202.238.254.249
+
+The BGP peer is scheduled to be down due to IIJ maintenance.
+For the duration of the maintenance event, you should expect BGP sessions on any VLAN attachments to be down.
+
+For any issues with this maintenance, please contact [ms-contact@iij.ad.jp](mailto:ms-contact@iij.ad.jp)
+
+Regards,
+---
+Shunya Ono
+[ono-shunya@iij.ad.jp](mailto:ono-shunya@iij.ad.jp)
+Network Service Sect., Network Service #2 Div.
+Internet Initiative Japan Inc.

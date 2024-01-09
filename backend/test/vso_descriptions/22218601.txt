@@ -1,0 +1,32 @@
+Customer Name : MICROSOFT DATA CENTER HOLDINGS (HK)
+From : Global Customer Service Center Tel : +852-28291567
+Date : 12/05/2023 11:49:55 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U1409\23b
+Date Time : 16/05/2023 15:00:00 to 16/05/2023 16:00:00 GMT (dd/mm/yyyy)
+Duration : 20 mins
+Service/Circuit Affected :
+SR205222 / HKG(PCG)-BUS(PCG) EP6909 /
+SR205223 / HKG(PCG)-BUS(PCG) EP6910 /
+
+Outage Description : Reason: Urgent maintenance for replacing the defective AOC cable in Busan cable landing station
+- Date/Time: 16th May 2023 / 15:00-16:00 GMT
+- Expect outage: 20 minutes
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Customer Service Center
+Global Services & Operations
+PCCW Global

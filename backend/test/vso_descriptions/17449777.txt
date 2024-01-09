@@ -1,0 +1,40 @@
+Scheduled Maintenance #: 26051602
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to troubleshoot network alarms and is required in order to resolve a network condition and prevent potential unplanned service interruptions.
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-03-06 17:49:58 GMT - This maintenance has been modified. This maintenance has been updated to reflect a new scheduled date of work.
+
+Customer Impact:
+
+26051602-1
+
+Start	End
+2023-03-13 05:01 GMT (Greenwich Mean Time)	2023-03-13 10:00 GMT (Greenwich Mean Time)
+2023-03-13 01:01 EDT (Eastern Daylight Time)	2023-03-13 06:00 EDT (Eastern Daylight Time)
+
+Previously Scheduled for (2023-02-27 05:01 GMT to 2023-02-27 10:00 GMT)
+
+Maintenance Location(s): SOUTH BAY, FL USA; MIAMI, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442553404	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442138497	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442138486	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442553405	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442271562	N/A	100 GIG	TAMPA FL USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	442271560	N/A	100 GIG	TAMPA FL USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6655	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	440687861	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	441225922	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6656	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	3 hours	 
+
+
+Notes History:
+
+2023-03-06 17:49:58 GMT - This maintenance has been modified. This maintenance has been updated to reflect a new scheduled date of work.
+2023-02-25 05:02:26 GMT - This maintenance has been postponed due to customer request. Once a new date is determined, updated notifications will be sent reflecting the date change.
+2023-02-22 01:28:15 GMT - This maintenance is scheduled.

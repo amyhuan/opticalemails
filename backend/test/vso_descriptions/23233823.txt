@@ -1,0 +1,52 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1641841
+
+
+Work Start Date/Time:  26-05-2023 00:00:01 AEST
+
+Work End Date/Time:     26-05-2023 06:00:00 AEST
+      
+
+Location:            Inglewood, QLD
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+Planned Fibre works, this is Hazard notice only No Impact expected.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE190179	Vocus Wavelength (AUD)
+VWE190177	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

@@ -1,0 +1,24 @@
+Date:         2023/03/06 01:00-04:00 JST(UTC+9)
+AS Number:    7690
+IPv4 Address: 210.173.184.124
+IPv6 Address: 2001:7fa:7:2::7690:1
+
+以上、よろしくお願いいたします。
+
+-------------
+
+Dear JPNAP Osaka peering partners,
+
+This is Naohiro Shinoda from Mirai Communication Network(AS7690).
+
+We will inform you of our maintenance work.
+During the maintenance, the BGP peering session may be down intermittently.
+We would appreciate your understanding and cooperation.
+
+Date:         03/06/2023 01:00-04:00 JST(UTC+9)
+AS Number:    7690
+IPv4 Address: 210.173.184.124
+IPv6 Address: 2001:7fa:7:2::7690:1
+
+Best regards,
+Naohiro Shinoda

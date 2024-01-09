@@ -1,0 +1,55 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0020198
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed to take measuremets with OTDR. // Se realizará un trabajo programado con el fin de tomar medidas con OTDR.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HIT UP TO 15 MINUTES
+
+LOCATION // LOCALIDAD: Guatemala
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+12-Jul-2023 06:00 - 12-Jul-2023 11:00 (Main Window)
+
+13-Jul-2023 06:00 - 13-Jul-2023 11:00 (Backup Window)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRT-007322
+
+EQNDC10/TELXIUS - TWUS01/TGSUSA 500MB S001
+
+CRT-009612
+
+EQNDC10/TELXIUS - TWUS01/TGSUSA 500MB S001
+
+CRT-009613
+
+BUE/AS - LUR - IT/TELXIUS 100MB S001
+
+CRT-010257
+
+SNT-BOC - IT/TELXIUS TELECOM 100MB S001
+
+CRT-010258
+
+SDR-BOC - IT/TELXIUS TELECOM 100MB S001
+
+CRT-010259
+
+FLA-BOC - IT/TELXIUS TELECOM 100MB S001
+
+CRT-010260

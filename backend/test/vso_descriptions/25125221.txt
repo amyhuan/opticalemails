@@ -1,0 +1,28 @@
+Hi All,
+
+With respect to the Planned Maintenance activity, please find the details below- 
+
+Details of Maintenance : -
+
+Change ID	1100093936
+Scheduled Date	19-SEP-2023 00:30:00 IST(GMT + 5:30)
+Maintenance Window   	19-SEP-2023 00:30:00 IST(GMT + 5:30) to 19-SEP-2023 06:30:00 IST(GMT + 5:30)
+Activity	EIG || Emergency activity to Improve ORL level in Amp card at segment 2.7(North Route)
+Location  	MONACO – Marseille
+Benefit of Change 	To provide better service uptime in future
+Impact 	Non Service Affecting
+Duration of Impact   	Circuit will go down for 6 hrs 0 minutes during the maintenance window
+Comments	Circuit will get Switching hits during the Maintenance Window
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+14211007: Microsoft Ireland Operations Ltd.
+14211009: Microsoft Ireland Operations Ltd.
+14211011: Microsoft Ireland Operations Ltd.
+14211010: Microsoft Ireland Operations Ltd.
+14211008: Microsoft Ireland Operations Ltd.
+14211006: Microsoft Ireland Operations Ltd.
+14211005: Microsoft Ireland Operations Ltd.
+14210994: Microsoft Ireland Operations Ltd.

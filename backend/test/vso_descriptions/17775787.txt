@@ -1,0 +1,50 @@
+Scheduled Maintenance Window #: 26312078-2, Summary:, Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a permanent repair of multiple fiber cables and is required in order to proactively avoid unplanned outages., The estimated GPS location of work is: GPS LOCATION 1: 26.123097,-80.436878; GPS LOCATION 2: 26.110766,-80.434260; GPS LOCATION 3: 25.780795,-80.269524; GPS LOCATION 4: 25.784306,-80.269481, Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 5 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 6 hours during the maintenance window., An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below., Lumen sincerely apologizes for any inconvenience caused by this maintenance, ., Updates:, 2023-04-13 10:06:42 GMT - Maintenance is still in progress and has been extended. Estimated time of resolve unknown at this time. Once an update is received from the field, you will be notified., 2023-04-13 04:00:04 GMT - The scheduled maintenance work has begun., Customer Impact:, 26312078-2,  , Start , End , 2023-04-13 04:00 GMT (Greenwich Mean Time) , 2023-04-13 10:00 GMT (Greenwich Mean Time) , 2023-04-13 00:00 EDT (Eastern Daylight Time) , 2023-04-13 06:00 EDT (Eastern Daylight Time) , Previously Scheduled for (2023-04-12 20:00 GMT to 2023-04-13 02:00 GMT), Maintenance Location(s):,  , MIAMI, FL USA; SOUTH BAY, FL USA,  , Customer Name , Circuit ID , Alt Circuit ID , Bandwidth , A Location , Z Location , Impact Type , Maximum Duration , Order Number , MICROSOFT CORPORATION MCIO , BCXR6656 , N/A , 100 GIG , SAN ANTONIO TX USA , MIAMI FL USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , BCXR6655 , N/A , 100 GIG , SAN ANTONIO TX USA , MIAMI FL USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 440687861 , N/A , 100 GIG , MIAMI FL USA , SAN ANTONIO TX USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 441225922 , N/A , 100 GIG , MIAMI FL USA , SAN ANTONIO TX USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , BBDV7351 , DLLSTX97-MIAUFLWS-00006 , 10GIG , DALLAS TX USA , MIAMI FL USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 442553405 , N/A , 100 GIG , MIAMI FL USA , SAN ANTONIO TX USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 442553404 , N/A , 100 GIG , MIAMI FL USA , SAN ANTONIO TX USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 442138486 , N/A , 100 GIG , SAN ANTONIO TX USA , MIAMI FL USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 442271560 , N/A , 100 GIG , TAMPA FL USA , MIAMI FL USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 442271562 , N/A , 100 GIG , TAMPA FL USA , MIAMI FL USA , Outage , 5 hours ,   , MICROSOFT CORPORATION MCIO , 442138497 , N/A , 100 GIG , SAN ANTONIO TX USA , MIAMI FL USA , Outage , 5 hours ,   ,  , Click here,  , for immediate information on scheduled maintenances via the Lumen Customer Portal., Click here,  , to manage your notification subscriptions via the Lumen Customer Portal., Click here,  , to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal., Click here,  , to give us feedback on this scheduled maintenance., For updates anytime via telephone:,    North America: 877-453-8353,    Europe, Middle East, and Africa: +44 1270 727 126,    Latin America:,         Argentina: 0800-800-5383,         Brazil: 0800-887-3333,         Chile: 800-360-303,         Colombia: 01 8000 117997,         Ecuador: 1800-400-408,         Peru: 0800-7-0662,         Venezuela: 0800-538-3538, 6312078-1,  , Start , End , 2023-04-11 20:00 GMT (Greenwich Mean Time) , 2023-04-12 02:00 GMT (Greenwich Mean Time) , 2023-04-11 16:00 EDT (Eastern Daylight Time) , 2023-04-11 22:00 EDT (Eastern Daylight Time) , Scheduled Maintenance #: 26312078
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a permanent repair of multiple fiber cables and is required in order to proactively avoid unplanned outages.
+
+The estimated GPS location of work is: GPS LOCATION 1: 26.123097,-80.436878; GPS LOCATION 2: 26.110766,-80.434260; GPS LOCATION 3: 25.780795,-80.269524; GPS LOCATION 4: 25.784306,-80.269481
+
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 5 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 6 hours during the maintenance window.
+
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-03-31 12:06:36 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26312078-1
+
+Start	End
+2023-04-12 00:00 GMT (Greenwich Mean Time)	2023-04-12 06:00 GMT (Greenwich Mean Time)
+2023-04-11 20:00 EDT (Eastern Daylight Time)	2023-04-12 02:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): SOUTH BAY, FL USA; MIAMI, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442553405	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553404	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442138486	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442271560	N/A	100 GIG	TAMPA FL USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442271562	N/A	100 GIG	TAMPA FL USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442138497	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6656	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6655	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	440687861	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	441225922	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BBDV7351	DLLSTX97-MIAUFLWS-00006	10GIG	DALLAS TX USA	MIAMI FL USA	Outage	5 hours	 
+Alternate Night:
+26312078-2
+
+Start	End
+2023-04-13 00:00 GMT (Greenwich Mean Time)	2023-04-13 06:00 GMT (Greenwich Mean Time)
+2023-04-12 20:00 EDT (Eastern Daylight Time)	2023-04-13 02:00 EDT (Eastern Daylight Time)
+
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.

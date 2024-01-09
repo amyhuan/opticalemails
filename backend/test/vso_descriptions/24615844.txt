@@ -1,0 +1,43 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000811675
+
+Start time / Heure de début (Y/M/D):
+
+2023-07-25 12:01:00 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-07-25 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+2 h
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+We need to proceed with a central office maintenance in order to avoid a loss of service.
+Nous devons procéder à une maintenance à la centrale afin d’éviter une perte de service.
+
+Equipment / Équipement:
+
+OME6500CDC
+
+CLLI:
+
+TOROON63O3G
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KJXS802762-113BLCA-000      TOROON01BB PHYSICALTAG:UNMANAGED   
+
+You may experience a failure(s) at any time during the above window.
+Il est possible que vous éprouviez une/plusieurs interruption(s) de service lors de la fenêtre ci-dessus.

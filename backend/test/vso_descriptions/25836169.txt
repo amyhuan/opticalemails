@@ -1,0 +1,13 @@
+Dear team,
+
+Amazon fiber subcontractor will be performing fiber hot cut.
+During this period you will experience a declination in advertised prefixes and or BGP session/link flapping intermittently.
+
+Maintenance Information:
+Start Time: 2023-11-16 22:00 UTC (2023-11-17 09:00 AEDT)
+End Time: 2023-11-17 04:00 UTC (2023-11-17 15:00 AEDT)
+Location: SYD
+
+Affected Service:
+Your BGP session IP: 99.83.70.41
+CID: CAS-41670-X7M8M8

@@ -1,0 +1,38 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230809131437 ticket number has been opened.
+
+Details
+Ticket Number	wt 230809131437
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	16/08/2023 22:00
+Ticket End Time	17/08/2023 05:00
+Time Zone	(UTC+2:00) CEST
+Description	Please be informed that there will be a planned maintenance in our providers network, which will affect your service. Reason: Urgent & mandatory network maintenance by our Network Provider. This maintenance is NOT traffic affecting for your traffic. At low risk only in Rotterdam (THE NETHERLANDS).Protected services are only at risk and might face protection switch(es).   
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34964a.100ge*fra-ist /comment: protected (SupplierId:WL079712 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.
+
+
+""
+
+
+
+
+
+ 
+NOC Türk Telekom International
+Türk Telekom International AT GmbH
+2345 Brunn am Gebirge, Campus21, Europaring F13, Ebene 3, Austria
+NOC@turktelekomint.com

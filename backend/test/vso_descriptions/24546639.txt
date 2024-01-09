@@ -1,0 +1,31 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0020309
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be carried out in order to reset or card replacement.// Se realizará un trabajo programado con la finalidad de realizar un reinicio o reemplazo de tarjeta.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 120 MIN
+
+LOCATION // LOCALIDAD: Lurin, Lima, Perú
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+18-Jul-2023 04:00 - 18-Jul-2023 09:00
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009823

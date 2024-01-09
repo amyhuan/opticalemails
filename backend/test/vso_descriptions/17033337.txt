@@ -1,0 +1,42 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006480766
+
+Urgency: Planned
+
+Date Notice Sent: 06-Feb-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+06-Mar-2023 00:01 to 06-Mar-2023 05:00 ( Eastern )
+06-Mar-2023 05:01 to 06-Mar-2023 10:00 ( GMT )
+
+2nd Activity Date
+07-Mar-2023 00:01 to 07-Mar-2023 05:00 ( Eastern )
+07-Mar-2023 05:01 to 07-Mar-2023 10:00 ( GMT )
+
+3rd Activity Date
+08-Mar-2023 00:01 to 08-Mar-2023 05:00 ( Eastern )
+08-Mar-2023 05:01 to 08-Mar-2023 10:00 ( GMT )
+
+Location of Maintenance: 250 Williams St NW, Atlanta, GA
+
+Reason for Maintenance: Zayo will perform Routine Fiber splice - NO Impact is Expected to your services. This notification is to advise you that we will be entering a splice case that houses live traffic
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/267721//ZYO	No Expected Impact	881 Peachtree St NE Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo

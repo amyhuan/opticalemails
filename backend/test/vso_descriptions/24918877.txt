@@ -1,0 +1,25 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230823110849 ticket number has been opened.
+
+Details
+Ticket Number	wt 230823110849
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	05/09/2023 10:00 PM
+Ticket End Time	06/09/2023 2:00 AM
+Time Zone	(UTC+2:00) CEST
+Description	Our provider will perform card replacement works which will affect your service.  Location: Istanbul, Turkey.  Unprotected services will face a forecasted outage of 90 minutes.  Protected services are only at risk and might face protection switch(es).  
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34964a.100ge*fra-ist /comment: (SupplierId:WL079712 )
+msn33649b.100ge*fra-ist /comment: (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: (SupplierId:WL074836 )
+Click to see the details...
+
+Türk Telekom International

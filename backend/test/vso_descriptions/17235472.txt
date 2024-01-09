@@ -1,0 +1,36 @@
+Scheduled Maintenance #: 25749342
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a fiber maintenance activity and is required in order to avoid unplanned outages from damages related to natural causes.
+The estimated GPS location of work is at 6912 Ridgeview Drive in Edina, MN LAT: 44.87817 LONG: -93.35975
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 4 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 4 hours during the maintenance window.
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-02-17 19:53:39 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+25749342-1
+
+Start	End
+2023-03-07 06:00 GMT (Greenwich Mean Time)	2023-03-07 12:00 GMT (Greenwich Mean Time)
+2023-03-07 00:00 CST (Central Standard Time)	2023-03-07 06:00 CST (Central Standard Time)
+
+
+Maintenance Location(s): MINNEAPOLIS, MN USA; Edina, MN UNITED STATES; Edina, MN UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442627052	N/A	100 GIG	MINNEAPOLIS MN USA	CHASKA MN USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442627053	N/A	100 GIG	MINNEAPOLIS MN USA	CHASKA MN USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442627054	N/A	100 GIG	MINNEAPOLIS MN USA	CHASKA MN USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442627051	N/A	100 GIG	MINNEAPOLIS MN USA	CHASKA MN USA	Outage	4 hours	 
+Alternate Night:
+25749342-2
+
+Start	End
+2023-03-08 06:00 GMT (Greenwich Mean Time)	2023-03-08 12:00 GMT (Greenwich Mean Time)
+2023-03-08 00:00 CST (Central Standard Time)	2023-03-08 06:00 CST (Central Standard Time)

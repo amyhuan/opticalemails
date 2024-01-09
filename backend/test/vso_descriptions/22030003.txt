@@ -1,0 +1,34 @@
+MAINTENANCE: Equipment move to new Racks (OPEN)
+
+DE-CIX Maintenance ID: DXDB:MAINT:1510
+
+Work start: 2023-06-05 22:01 UTC
+Work end: 2023-06-06 05:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: FULL DISRUPTION
+
+Affected entities:
+Device: edge02.fra6.fra.de-cix.net/esat-6
+
+Work description:
+
+Dear Customer,
+
+the Datacenter Provider requested us to move all our Equipment to new Racks. During this time your services are down.
+Expected downtime 3 Hours.
+We will inform you during the Maintenance when your Service is stable again.
+
+Affected Customers:
+AS50061 - PwC IT Services Europe GmbH
+
+
+If you have any questions, do not hesitate to ask!
+
+Best regards,
+--
+DE-CIX Customer Service
+
+DE-CIX Management GmbH | Lindleystr. 12 | 60314 Frankfurt am Main | Germany | https://nam06.safelinks.protection.outlook.com/?url=http%3A%2f%2fwww.de-cix.net%2f&data=05%7C01%7Cmoc%40microsoft.com%7Cbfaeefaca96b4c1a9a9708db52135167%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638194015204088327%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=BW6OW6eL3QXoSwYwv6gVzpIEbB%2fvotjamhrUXJA8yFU%3D&reserved=0 | Phone +49 69 1730902 11 | Fax +49 69 4056 2716 | support@de-cix.net
+Geschaeftsfuehrer Ivaylo Ivanov, Sebastian Seifert | Handelsregister Koeln HRB 51135

@@ -1,0 +1,46 @@
+Bell reference number / Numéro de référence Bell:
+
+CM0000000780970
+
+Start time / Heure de début (Y/M/D):
+
+2023-05-18 11:00:00 PM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-05-19 05:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+30 min 30 s
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+We need to proceed with a central office maintenance in order to improve your service.
+Nous devons procéder à une maintenance à la centrale afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+CPL
+
+CLLI:
+
+RBTONBSCO5A
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KJXS802762-096BLCA-000      85 10TH FLR:MAIN RM:MMR NEW YORK NY   
+ 05KJXS802762-097BLCA-000      85 10TH FLR:MAIN RM:MMR NEW YORK N   
+ 05KJXS802762-098BLCA-000      85 10TH FLR:MAIN RM:MMR NEW YORK NY   
+ 05KJXS802762-100BLCA-000      85 10TH FLR MAIN RM MMR NEW YORK NY   
+ 05KJXS802762-101BLCA-000      85 10TH FLR MAIN RM MMR NEW YORK NY   
+ 05KJXS802762-102BLCA-000      85 10TH STREET MAIN FLR MMR NEW YORK NY USA   
+ 05KJXS802762-103BLCA-000      85 10TH STREET MAIN FLR MMR NEW YORK NY USA   
+ 05KJXS802762-104BLCA-000      85 10TH STREET MAIN FLR MMR NEW YORK NY USA   
+ 05KJXS802762-105BLCA-000      85 10TH STREET MAIN FLR MMR NEW YORK NY USA   
+ 05KJXS802762-106BLCA-000      85 10TH STREET MAIN FLR MMR NEW YORK NY USA   
+ 05KJXS802762-107BLCA-000      85 10TH STREET MAIN FLR MMR NEW YORK NY USA

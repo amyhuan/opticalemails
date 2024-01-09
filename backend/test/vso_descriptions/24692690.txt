@@ -1,0 +1,32 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Global Cloud Xchange will be carrying an emergency activity of BU Switching between Yeroskipos to Alexandria.
+
+Impact: Unprotected services will face 06 Hours Outage & protected services will be At risk
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	07-Aug-2023 23:00	08-Aug-2023 05:00	NA	NA
+
+
+Service ID	Impact
+RGWLS31148	Outage
+RGWLS31145	Outage
+RGWLS31144	Outage
+RGWLS31143	Outage
+RGWLS31142	Outage
+RGWLS31130	Outage
+This activity has been planned with lots of diligence, however in case there are concerns related to this event, please highlight it to GCX within 48 hours of receipt of this notification. GCX will make all endeavors to address the concerns, however there will be limitations to accommodate such requests because of network criticality, dependency on third party schedule and resources, availability of access permission and reasons beyond GCX’s control.
+
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Pradnya V Kokane
+Change Management, Global Network Operations Center
+D: +91 22 303 86148
+M: +91 7977316326
+PVKokane@globalcloudxchange.com

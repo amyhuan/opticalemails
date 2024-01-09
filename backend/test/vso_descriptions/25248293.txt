@@ -1,0 +1,41 @@
+Mandatory Maintenance Window Notification
+
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on September 27, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-42638
+Notification date:	Friday, September 22, 2023
+Start date:	Wednesday, September 27, 2023 - 12:00 am
+End date:	Wednesday, September 27, 2023 - 5:00 am
+Time zone:	Mexico Time GMT-6
+Window time frame:	5 hours
+Expected service outage:	5 hours
+Event description:	Firmware upgrade in order to prevent uncontrolled impacts on services and guarantee sustainability in the network.
+Location:	Querétaro
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816933
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816934
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816935
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816936
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816937
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816938
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816939
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816940
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816941
+Private Line - Ethernet - 100 Gbps - Vymsa DataBank Data Center, Atlanta - ID:1-13816942
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net
+
+Flō Networks was formerly known as Transtelco / Flō Networks era anteriormente conocido como Transtelco.
+
+CONFIDENTIALITY NOTICE: This message is intended only for the individual or entity to whom it is addressed. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited.
+
+AVISO DE CONFIDENCIALIDAD:Esta comunicación es sólo para el uso de la persona o entidad a la que se dirige y puede contener información privilegiada, confidencial y exenta de divulgación bajo la legislación aplicable. Si no es el destinatario de esta información, se le notifica que cualquier uso, difusión, distribución o copia de la comunicación está estrictamente prohibido.

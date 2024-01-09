@@ -1,0 +1,37 @@
+Dear Microsoft Company,
+
+we want to inform you about a Planned Work that our Network Provider is going to carry out on its network with the following details:
+
+ 
+
+Our Planned Work Ref.: MED PW#8809
+
+ 
+
+Time window: 15/03/2023 22:00 GMT and 16/03/2023 04:00 GMT
+
+ 
+
+Reason of the work: Mandatory network cable works by provider at Ag.Dimitrios of Ioannina. This is the 2nd Step of the notified planned work MED PW#8808.
+
+ 
+
+Circuit List
+
+ 
+
+Services Affected for a forecasted Outage Time: 360 minutes.
+
+Microsoft:ETH-20148_100G (Cust ID:ATHENS/WED-WIEN/WED NP 0002,  TIS-00000081577)
+
+Microsoft:ETH-2055_100G (Cust ID:ATHENS/WED-WIEN/WED NP 0001, TIS-00000078765)
+
+ 
+
+We apologize for any inconvenience we may cause to you.
+
+ 
+
+Note: If we don't receive any feedback from you in the next hours, we will assume you are in agreement.
+
+      If you are not the right person/department, please forward this message to whom it may concern.

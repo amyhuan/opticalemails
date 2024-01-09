@@ -1,0 +1,69 @@
+,  , Dear Team,,  , please note the new schedule of the work below: ,  , NEW Start Date & Time: 04/08/2023, 20:00 UTC,  , NEW End Date & Time: 05/08/2023, 04:00 UTC,  ,  ,  ,  , Regards,,  ,  ,  ,  ,   ,   , Shahar ,  , Taitler ,  ,   ,  ,  , [Phone],  ,  | ,  , +972-39260226 ,  | ,  , data@bezeqint.co.il,  ,   ,  ,  ,  ,  ,  ,  ,  ,  , Dear Customer,
+
+ 
+
+We hope this planned work meets your approval and apologize in advance for any disruption to your operations. Should you have any further enquiries regarding this work please do not hesitate to contact us.
+
+ 
+
+Kind regards,
+
+ 
+
+Bezeq International Maintenance Team
+
+  
+
+FOR THE ATTENTION OF:
+
+CUSTOMER’S EMAIL:
+
+Microsoft Ireland Operations Limited
+
+ 
+
+ 
+
+Whaldo.Hall@microsoft.com
+
+moc@microsoft.com
+
+ 
+
+FROM (GMT):
+
+TO (GMT):
+
+EXPECTED IMPACT:
+
+12/07/202 320:00
+
+13/07/202 302:00
+
+at risk will have an estimate downtime of 0 minutes maximum
+
+ 
+
+PLANNED WORKS LOCATION & DESCRIPTION:
+
+Scope of work:
+
+Maintenance on our  3rd party provider Fiber infrastructure platform related to Cable Splicing
+
+ 
+
+SERVICE(S) AFFECTED:
+
+Planned Work Reference Number: NE-15882
+
+ 
+
+Circuit ID:  IPLC-20-12610 & IPLC-20-12609 & IPLC-20-12668 & IPLC-20-12669 &IPLC-22-15394 & IPLC-22-15395 & IPLC-22-15396 & IPLC-22-15397
+
+ 
+
+ 
+
+Shahar  Taitler 
+
+[Phone]  |  +972-39260226  |  data@bezeqint.co.il

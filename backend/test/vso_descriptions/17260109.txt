@@ -1,0 +1,26 @@
+Hi Microsoft Team,
+
+   This is to inform you that, As per OEM recommendation we are planning to upgrade the optical photonics node software for future enhancement. Activity involves Mumbai - Pune Microsoft networks. Kindly approve the same.
+ 
+
+  This activity involves NSA. In case of any software stuck or Hardware malfunction during software activation, it may require to warm / cold reset or hardware replacement.
+
+ 
+
+  Note: Mentioned Warm / Cold reset or hardware replacement activity will be service impact. In past history during similar kind of up-gradation, did not found any inconsistency. However, we are arranging spare during activity at nearby location.
+
+ 
+
+  Maintenance Window:  25/02/2023 00:00 to 08:00 IST.
+
+Circuit Details:
+
+S.No	Link Id
+1	2022156829 / 2022156830
+2	 2022157830 / 2022157833
+3	2022157834 / 2022157835
+4	2022157839 / 2022157840 
+5	2022157842 / 2022157851 
+6	2022157853 / 2022157855
+7	2022157856 / 2022157857
+8	2022157860 / 2022157861

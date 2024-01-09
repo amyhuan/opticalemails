@@ -1,0 +1,47 @@
+Change Reference Number:
+
+C168337
+ 	 
+Start Date & Time:
+
+31/01/2023 23:59:59
+
+ 	 
+Finish Date & Time:
+
+01/02/2023 06:59:59
+
+ 	 
+Time Zone:
+
+Australia/Victoria
+
+ 	 
+Change Description:
+
+Cable relocation work
+
+ 	 
+Location of Change:
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+07:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00001410"
+"SRVCKT00001483"	"Service Circuit"
+"Service Circuit"	"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"	"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"	
+
+ 
+
+Optus Planned Events

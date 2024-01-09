@@ -1,0 +1,39 @@
+(Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+UPDATE TO PW: Sorry for the back and forth. The aforementioned work will affect you as first notified. We have updated our documentation to avoid similar confusion going forward.
+
+Reason for the planned work activity: Planned maintenance on circuit between Rennesoy and Mariero.
+
+Start of PW: 14.02.2023 00:00 (Europe/Oslo)
+End of PW: 14.02.2023 06:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+
+Green:
+T200000048
+T200000049
+T200000050
+T200000051
+T200000052
+T200000053
+
+Green Enebakk:
+T200000675
+T200000676
+T200000677
+T200000678
+T200000679
+T200000680
+
+
+Best regards,
+
+Petter Herigstad
+Service Manager Carrier Operations
+Altibox Operations Center - Altibox AS
+415 00 411
+petter.herigstad@altibox.no

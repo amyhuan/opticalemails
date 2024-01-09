@@ -1,0 +1,48 @@
+_____
+
+(Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Planned maintenance on circuit between Hyllestad and Askvoll.
+
+Start of PW: 04.25.2023 01:00 (Europe/Oslo)
+End of PW: 04.25.2023 06:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+
+Red:
+T200000054
+T200000055
+T200000056
+T200000057
+T200000058
+T200000059
+
+
+Best regards,
+Altibox Operations Centre
+T: +47 51 90 81 10
+E: b2bops@altibox.no
+altibox.no
+
+Best regards,
+
+Simen Langseth Folkestad
+Operations engineer
+Altibox Operations Center - Altibox AS
+51 90 80 15
+
+
+
+CONFIDENTIAL
+The content of this e-mail is intended solely for the use of the individual or entity to whom it is addressed. If you have received this communication in error, be aware that forwarding it, copying it, or in any way disclosing its content to any other person, is strictly prohibited. If you have received this communication in error, please notify the author by replying to this e-mail immediately, deleting this message and destruct all received documents.
+Remember to keep the subject field on reply. Do not remove recipients when you reply
+
+
+Ticket Details
+Ticket ID: B2BO-829-48912
+Department: B2B Ops
+Status: Ferdig

@@ -1,0 +1,67 @@
+MW#6 from 21:00 UTC 13th Sep 2023 to 03:00 UTC 14th Sep 2023,  , Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+UMW Reference Number : U2548\23D-A1
+Date Time : 17/08/2023 21:00:00 to 25/08/2023 03:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : Please take notice of Maintenance activity
+
+Beginning:
+
+MW#1 17-Aug-2023 21:00 UTC
+MW#2 18-Aug-2023 21:00 UTC
+MW#3 19-Aug-2023 21:00 UTC
+MW#4 20-Aug-2023 21:00 UTC
+MW#5 21-Aug-2023 21:00 UTC
+
+End:
+
+18-Aug-2023 03:00 UTC
+19-Aug-2023 03:00 UTC
+20-Aug-2023 03:00 UTC
+21-Aug-2023 03:00 UTC
+22-Aug-2023 03:00 UTC
+
+Impact : At Risk
+Comments :
+Software upgrade on national network at Egypt
+
+
+********************** AMENDMENT *****************
+
+Kindly find updated MW time, all windows non-service affecting
+Beginning:
+
+MW#1 17-Aug-2023 21:00 UTC
+MW#2 18-Aug-2023 21:00 UTC
+MW#3 19-Aug-2023 21:00 UTC
+MW#4 20-Aug-2023 21:00 UTC
+MW#5 21-Aug-2023 21:00 UTC
+MW#6 22-Aug-2023 21:00 UTC
+MW#7 23-Aug-2023 21:00 UTC
+MW#8 24-Aug-2023 21:00 UTC
+
+End:
+
+18-Aug-2023 03:00 UTC
+19-Aug-2023 03:00 UTC
+20-Aug-2023 03:00 UTC
+21-Aug-2023 03:00 UTC
+22-Aug-2023 03:00 UTC
+23-Aug-2023 03:00 UTC
+24-Aug-2023 03:00 UTC
+25-Aug-2023 03:00 UTC
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,

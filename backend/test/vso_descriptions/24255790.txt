@@ -1,0 +1,84 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Tuesday 27th June 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                    :     ITEM-055343 NE-15479
+
+         
+
+Scheduled Date                             :     Tuesday 27th June 2023
+
+
+Maintenance Window                     :     27-06-2023 21:00 GMT on 28-06-2023 04:00 GMT
+
+ 
+
+Activity                                         :     Mandatory network maintenance to fix a strong degradation problem along the line
+
+ 
+
+Locations                                      :     Campo di Mare-Tarquinia (ITALY)
+
+ 
+
+Benefit of Change                          :     To avoid unplanned outage in near future
+
+
+Impact                                         :     Service Affecting
+                           
+Duration of Impact                        :     Circuit will get down for 300min during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+Customer Name
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shipranshu
+
+Global Services Management Center (GSMC)
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1

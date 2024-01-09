@@ -1,0 +1,52 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Wednesday 13th September 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID : QT2023GJJH010915
+
+ 
+
+Scheduled Date : Wednesday 13th September 2023
+
+
+Maintenance Window : 2023-09-13 22:00:00 - 2023-09-14 06:00:00 UTC
+
+ 
+
+Activity : Partner provider’s maintenance
+
+ 
+
+Location : International/Overseas
+
+ 
+
+Benefit of Change : To avoid unplanned outage in near future
+
+
+Impact : Service Affecting
+
+Duration of Impact : Circuit will be down 30Min during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Customer Name
+
+13854870
+
+Microsoft Operations Pte Ltd.

@@ -1,0 +1,35 @@
+Backup Date, 01-Jul-2023 00:01 to 01-Jul-2023 07:00 ( Eastern ), 01-Jul-2023 04:01 to 01-Jul-2023 11:00 ( GMT ),  , Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006815464
+
+Urgency: Emergency
+
+Date Notice Sent: 26-Jun-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+28-Jun-2023 00:01 to 29-Jun-2023 06:00 ( Eastern )
+28-Jun-2023 04:01 to 29-Jun-2023 10:00 ( GMT )
+
+Backup Date
+29-Jun-2023 00:01 to 30-Jun-2023 06:00 ( Eastern )
+29-Jun-2023 04:01 to 30-Jun-2023 10:00 ( GMT )
+
+Location of Maintenance: Atlanta, GA
+
+Reason for Maintenance: ***There are minimal customers affected by this work and all other customers will see No Impact during the maintenance timeframe. We are notifying all other Non Impacting customers to advise we have a technician in the splice enclosure working near live fiber***
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+FBDK/812212/008/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212//ZFS	No Expected Impact			
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

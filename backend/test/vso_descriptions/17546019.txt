@@ -1,0 +1,27 @@
+Dear Customer,
+
+You are receiving this message as an advance notice of Planned Maintenance which will impact the service provided to you at MICRMOD01LAX301A.
+
+Maintenance Date:
+Start:   2023-03-30     05:00 (UTC)
+End:    2023-03-30     07:00  (UTC)
+Duration:  2 hours.
+Expected Impact: Downtime - 2 hours
+
+Location:  Data Center - Los Angeles
+
+Reason: Equinix Engineers have identified an error condition on a device your services are connected to. As a preventive measure, Equinix Engineers will be replacing the affected card.
+
+We apologize for the inconvenience caused 
+
+Respectfully,
+ 
+
+
+
+Solaimani Balasubramanian
+
+MODMC Support
+support@modmc.net
+(877) 364-8080 24/7 NOC
+www.modmc.net

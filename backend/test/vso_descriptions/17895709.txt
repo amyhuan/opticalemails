@@ -1,0 +1,30 @@
+Dear Equinix Customer,
+
+DATE: 15-MAY-2023 - 17-MAY-2023
+
+SPAN: 15-MAY-2023 - 17-MAY-2023
+
+LOCAL: MONDAY, 15 MAY 06:00 - MONDAY, 15 MAY 18:00
+UTC: MONDAY, 15 MAY 11:00 - MONDAY, 15 MAY 23:00
+
+LOCAL: TUESDAY, 16 MAY 06:00 - TUESDAY, 16 MAY 18:00
+UTC: TUESDAY, 16 MAY 11:00 - TUESDAY, 16 MAY 23:00
+
+LOCAL: WEDNESDAY, 17 MAY 06:00 - WEDNESDAY, 17 MAY 18:00
+UTC: WEDNESDAY, 17 MAY 11:00 - WEDNESDAY, 17 MAY 23:00
+
+IBX: DA3
+
+DESCRIPTION: Equinix Critical Facility Engineers and generator service vendor personnel will perform routine preventative maintenance on Generators G1A & GSA. During the planned maintenance, only (1) generator will be removed from service at a time and the other will remain available to assume load as needed. No service impact is expected and all customer load will remain supplied by UPS conditioned power. This work requires operation with reduced generator redundancy.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+111379	010300	0312	1-7571390	Primary
+111379	010300	0312	1-7571414	Primary
+111379	010300	0312	1-7571390-R	Redundant
+111379	010300	0312	1-7571414-R	Redundant
+111379	010420	0101	20783652	Primary
+111379	010420	0101	20783656	Redundant
+111379	010420	0102	20783655	Primary
+111379	010420	0102	20783653	Redundant

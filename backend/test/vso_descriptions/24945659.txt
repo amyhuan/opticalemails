@@ -1,0 +1,49 @@
+Dear MCS,
+
+ 
+
+Viettel got information from IA cable. The details of maintenance activity are as below.
+
+ Planned Work Notification
+
+Service ID
+
+IPL004338
+
+ 
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+IA
+
+ 
+
+Activity Window (GMT)
+
+Sunday 10 Sep 02.00 GMT to 08.00 GMT
+
+Nature
+
+Service Affecting
+
+Expected Impact Duration(DD:HH:MM) :
+
+During the maintenance window
+
+ 
+
+Activity Description
+
+The Older DWDM equipment are being replaced by latest equipment to improve uptime and to support latest traffic cards. 
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,

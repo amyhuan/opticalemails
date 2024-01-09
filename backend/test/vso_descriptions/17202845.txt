@@ -1,0 +1,54 @@
+Planned  Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN296779
+
+         
+
+Scheduled Date                                    :     Monday, 27 Feb 2023
+
+
+Maintenance Window                            :     27 Feb 2023 22:00:00 (UTC) to 28 Feb 2023 04:00:00 (UTC)
+
+ 
+
+Activity                                                :     To perform the essential maintenance for the BBGupg4 soft node Mumbai-Penang FP2E insertion
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will face 50ms switch hits plus loss of protection during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.

@@ -1,0 +1,33 @@
+No services impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+ 	
+Maintenance details
+
+Southern Cross Hazardous Maintenance SR#249516_15
+
+Hazardous Condition - Integration of New Equipment at Alexandria, Sydney : SX supplier will be integrating the new shelf into the current network's management system. During this time, traffic carrying nodes will remain under a hazardous condition until the work is completed. This activity is expected to be non-service impacting and this advice is precautionary only
+
+
+Reference number
+PN300722
+
+
+Start time
+Sunday, 07 May 2023 22:00:00 (UTC)
+
+
+End time
+Monday, 08 May 2023 02:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 90015279
+LAX SYD EPL 90022027
+
+
+Expected impact
+0 minutes outage - No service impact expected

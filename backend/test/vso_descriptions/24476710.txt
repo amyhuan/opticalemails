@@ -1,0 +1,66 @@
+Dear Team,,  ,  ,  , Please be informed that the planned work in object has been rescheduled as following:,  ,  ,  , NEW TIME WINDOW:,  ,  ,  , NEW START TIME :     25/08/2023 20:00 UTC,  , NEW END TIME :       26/08/2023 04:00 UTC,  ,  ,  , Regards,,  ,  ,  , Shivam Kumar, Global Services Management Center,  , Bharti Airtel Limited,  , Changemgmt@airtel.com,  , 0124-4609696,  , Airtel for Business,  , On your side. By your side,  ,  ,  ,  , Dear Customer,,  ,  ,  , Please be informed that the planned work in object has been rescheduled as following:,  ,  ,  , NEW TIME WINDOW: between 20:00 UTC of 05/08/2023 up to 00:00 UTC of 06/08/2023,  ,  ,  , All remaining details are the same.,  ,  ,  ,  ,  , Regards,  ,  ,  , Shipranshu, Global Services Management Center,  , Bharti Airtel Limited,  , Changemgmt@airtel.com,  , Airtel for Business,  , On your side. By your side,  ,  ,  ,  ,  , Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Friday 21th July 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                                 :    ITEM-056790 NE-15815
+
+         
+
+Scheduled Date                                         :     Friday 21th July 2023
+
+
+Maintenance Window                                 :     21/07/2023 21:00 GMT to 22/07/2023 03:00 GMT
+
+ 
+
+Activity                                                     :    Maintenance to perform faulty board replacement
+
+ 
+
+Location                                                    :     Milan (ITALY)
+
+ 
+
+Benefit of Change                                      :     To avoid unplanned outage in near future
+
+
+Impact                                                     :     Service Affecting
+                           
+Duration of Impact                                    :     Circuit will be down for 120mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit Id
+
+Connection Id
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.

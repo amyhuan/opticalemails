@@ -1,0 +1,40 @@
+ATTENTION	MORATEL INTERNATIONAL PTE.LTD
+SUB CATEGORY
+
+Planned Network Maintenance - High Urgent Maintenance
+DESCRIPTION
+
+TT ID NUMBER
+
+WTD-23081033
+PLANNED START DATE/TIME
+
+Monday, Sep 04, 2023 00:00 (GMT+7)
+PLANNED END DATE/TIME
+
+Monday, Sep 04, 2023 05:00 (GMT+7)
+DURATION
+
+300 Minutes
+DOWN TIME
+
+300 Minutes
+ACTIVITY DESCRIPTION
+
+Upgrade NE Software Segment Tegineneng - SF Palembang
+SERVICES IMPACT
+
+DOWN
+LINK IMPACT
+
+SuperNAP Azure Cyber - Singapore 300 GBPS
+CID
+
+1711130200054446, 1711130200071837, 1711130200071839
+CONTACTS
+
+If you have any inquiry regarding this maintenance activity, please contact us to Moratel Hotline Customer Support +62 21 40700 700 or send email to cs@moratelindo.co.id
+
+
+
+Best Regards,

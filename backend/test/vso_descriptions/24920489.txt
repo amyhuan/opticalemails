@@ -1,0 +1,72 @@
+Circuit Designation	Account No
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES03 (M)	1444073320
+
+Regards,
+
+Khaja Azherullah 
+
+Business Care
+
+Tel: 8009111
+
+Email:  ESChangeMgt@etisalat.ae
+
+ 
+
+
+
+From: Azure Network Operations Center 
+Sent: Wednesday, August 23, 2023 1:35 PM
+To: noreply-onlineservices@etisalat.ae; Mohd Imran Manzoor; Asadhulla Hidayathulla; Microsoft NOC; Brandon Raciborski
+Cc: ESChangeMgt; Syed Shahid
+Subject: [EXTERNAL EMAIL]: Re: [EXTERNAL] Planned Outage Notification – CR-000000885637
+ 
+
+"EXTERNAL EMAIL: This is an external email received from the Internet. If you suspect that the email contains any malicious content, please forward the email to spamreport@eand.com "
+
+
+Hi Team,
+
+Please provide Circuit details of the activity
+
+Thanks & Regards,
+XXXXXX | Azure NOC
+NOC Hotline: +1 425-705-2686
+From: noreply-onlineservices@etisalat.ae 
+Sent: 23 August 2023 01:25
+To: Azure Network Operations Center ; Mohd Imran Manzoor ; Asadhulla Hidayathulla ; Microsoft NOC ; Brandon Raciborski 
+Cc: ESChangeMgt@etisalat.ae ; syshahid@etisalat.ae ; Asadhulla Hidayathulla 
+Subject: [EXTERNAL] Planned Outage Notification – CR-000000885637
+ 
+
+Outage Ref: CR-000000885637
+Date: 8/23/2023 12:25:53 PM
+
+Dear MICROSOFT COPORATION - ABU DHABI,
+
+Please note that there will be a Planned Critical Network Maintenance Activity by Engineering team which is expected to cause a Service interruption affecting the attached accounts. The planned Critical maintenance is scheduled to occur from Wednesday, September 06, 2023 12:00 AM to Wednesday, September 06, 2023 06:00 AM, which will affect the attached accounts. The services will be interrupted during the maintenance window based on the site conditions. All necessary precautions have been taken in order to minimize the impact on services.
+
+The activity is aimed to improve Etisalat network infrastructure, to ensure class leading services to our customers. Please note that the delay in carrying out the planned maintenance work can impose risk to the network and impact customer services.
+
+Kindly note that timing as per UAE local time (+4 GMT).
+
+Thanks for your usual cooperation and we apologize for this inconvenience.
+
+Regards,
+Etisalat Business Care
+
+ESChangeMgt@etisalat.ae
+
+نتمنى لك يومًا سعيدًا
+
+HAVE A GOOD DAY
+
+          
+© 2020 Etisalat. All Rights Reserved.
+
+
+Emirates Telecommunications Group Company PJSC (Etisalat Group, e&) is a Public Joint Stock Company registered in the UAE.
+The content of this email (including its attachments) is private and contains confidential information. If you are not the intended recipient and you have received this email in error, any disclosure, copying, distribution or use of its contents is strictly prohibited, and you should please notify the sender immediately and then delete it permanently (including any attachments) from your system. eand does not conclude agreements through email communications and nothing in this email shall be construed or interpreted as binding eand or creating any obligation on eand.
+eand has taken reasonable precautions to ensure no viruses are present in this email, however eand cannot accept liability and responsibility for any loss or damage sustained as a result of computer viruses or malwares. The recipient must ensure that the email (and its attachments) are virus free.
+
+Information on how we use personal data and about how data subject rights can be exercised is available on our website here [eand.com]. As a controller of personal data, we take great care over how we collect, use and protect that information. If you have any queries in relation to our processing of personal data you

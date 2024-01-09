@@ -1,0 +1,25 @@
+Dear Customer,
+
+Please be advised of below Planned Activity:
+
+Description: Our supplier will be performing Software upgradation
+
+PE Type: Service Affecting
+
+Associated Services:
+
+SO6085053694         JIOGIPLMUMSIN0249
+
+SO6084842330         JIOGIPLMUMSIN0248
+
+SO6084782506         JIOGIPLMUMSIN0223
+
+Start Time :23/Feb/2022 22:00:00 UTC
+
+End Time :24/Feb/2023 04:00:00 UTC
+
+Impact : Circuit will be down during activity window.
+
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+Please contact ILD NOC on +91 22 796 46434 / [mailto:Jio.NOCILDOperations@ril.com%3cmailto:Jio.NOCILDOperations@ril.com%3cmailto:Jio.NOCILDOperations@ril.com]Jio.NOCILDOperations@ril.com  should you require any additional information.

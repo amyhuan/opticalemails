@@ -1,0 +1,46 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00318996	2023-04-20 03:00:00	2023-04-20 08:00:00	0 Days 5 Hours 0 Minutes	20
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+*BACKUP* | MAINTENANCE | Mantenance Window, Reparación de fibras Ruta Metrotel
+
+ La fecha de la ventana se ha modificado debido a temas realcionados con tiempos del proveedor, las nuevas fechas seran las siguientes:
+
+
+
+Start Date/Time of Maintenance Window: 19-APR – 23:00 EST
+
+End Date/Time of Maintenance Window: 20-APR – 04:00 EST
+
+Duration of Maintenance Window: 5:00 hours
+
+Downtime: 20 min
+
+
+
+SERVICES IMPACTED
+Services IDs
+MIC8174E#33_100G
+On behalf of GlobeNet, we thank you in advance and apologize for any inconvenience. The GlobeNet NOC will confirm once the work has been completed.
+
+If we do not received notification from you in 24 hours from the moment we send the notification, we will assume that the maintenance was accepted.
+
+
+
+Thank you,
+
+Network Operations Center

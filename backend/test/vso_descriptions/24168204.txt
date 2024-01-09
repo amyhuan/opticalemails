@@ -1,0 +1,56 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Tuesday 13-June 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     CRQ000003230079
+
+         
+
+Scheduled Date                                   :      Tuesday 13-June 2023
+
+
+Maintenance Window                           :      00:00 UTC on 13-Jun-2023 to 06:00 UTC on 13-Jun-2023
+
+ 
+
+Activity                                               :     TE || Planned activity of S1-LON-BDE Channel addition and TOP adjustment
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                               :     Service Affecting
+                           
+Duration of Impact                              :     Below mentioned circuit will get down during the Maintenance Window.(protected circuits will get switching hits)
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit Id
+
+Customer Name
+
+14211010
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.

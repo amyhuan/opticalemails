@@ -1,0 +1,35 @@
+Vodafone E2E Service Change Management
+
+Planned Maintenance Notice
+
+ 
+
+Dear MICROSOFT,
+
+Please see below details of Planned Works: CRQ000001190436
+
+Detailed Description of Works:
+
+Vodafone are carrying out a software upgrade on the Juniper MX platform in Sofia Telepoint xcr1.sof(SOFN0151Z). This includes the core network router that provides your internet access service. Due to this work you will experience a downtime of up to 30 minutes during the maintenance window.
+
+
+Scheduled Start/End Date & Outage Window:
+
+17/05/2023 20:00 to 18/05/2023 02:00 UTC
+
+
+Impact Assessment:
+
+During the outage window there will be a 30-minute hit on Customer services. The impact to individual services will be either a Loss of Service or a Loss of Diversity as detailed below.
+
+
+Contingency Date:
+
+N/A
+
+
+Services Impacted:
+
+
+Services Affected	Customer	Service Impact	Address	Service Type	Service Model	Customer Reference	Node
+K0501572A	MICROSOFT	Loss of Service	XCR1.SOF;MX960;RK EX501;CGE E3,1ST FL,OVCHE POLE STREET,SOFIA,*BG >>> MICROSOFT PEERING @ SOFIA TELE,1ST FL,OVCHE POLE STREET,SOFIA,*BG	/ 100GE	N/A	N/A	SOFN01MC1 <> SOFN0151Z

@@ -1,0 +1,12 @@
+Ticket Number	wt 230414083225
+Status	INPROG
+Level	3
+Ticket Begin Time	27/04/2023 01:00:00
+Ticket End Time	27/04/2023 05:00:00
+Time Zone	GMT + 1
+Description	***UPDATE 1 - PLEASE NOTE NEW CIRCUITS ADDED - ALL OTHER DETAILS REMAIN THE SAME***Our provider will perform main optical cable repair works between Cecina - Piombino path, Italy.   Unprotected services will face a forecasted outage of 240 minutes.    Protected services are only at risk and might face protection switch(es).   
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33649b.100ge*fra-ist /comment: protected (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: protected (SupplierId:WL074836 )
+msn34964a.100ge*fra-ist /comment: unprotected (SupplierId:WL079712 )

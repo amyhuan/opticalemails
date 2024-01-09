@@ -1,0 +1,53 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C137884
+
+Description
+
+PW for channel insertion at DLS 1 in Segment S2.
+
+Location
+
+DLS 1 in Segment S2.
+
+Duration
+
+Nature : Non Service Affecting
+
+Impact : At Risk Only.
+
+Planned Start
+
+08 Mar 2023 04:00 GMT
+
+Planned End
+
+08  Mar 2023 07:00 GMT
+
+Affected service/link
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+Carrier References
+
+PW3246
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Abubaker Elsideg Elhaj
+
+Consultant

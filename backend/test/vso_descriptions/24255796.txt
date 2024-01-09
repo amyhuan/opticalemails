@@ -1,0 +1,38 @@
+JPNAP Tokyo Peer 各位
+
+いつもお世話になっております。
+CoralNet(AS18282)の宮本です。
+
+下記の日程にてメンテナンスを予定しております。
+作業期間中Peer Downが数回発生します。
+
+日時: 2023/06/21(水) 02:00 - 05:00 JST
+AS Number: 18282
+IPv4 Address: 210.173.176.77
+IPv6 Address: 2001:7FA:7:1:0:1:8282:1
+
+以上、よろしくお願いいたします。
+
+---------------------------------------------------------
+Dear JPNAP Tokyo peering partners,
+
+This is Miyamoto from CORALNET(AS18282).
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+We would appreciate your understanding and cooperation.
+
+Date: 2023/06/21(Wed) 02:00 - 05:00 JST
+AS Number: 18282
+IPv4 Address: 210.173.176.77
+IPv6 Address: 2001:7FA:7:1:0:1:8282:1
+
+Best regards,
+
+--
+!!----------------------------------------------------------
+Tonami System Solutions Co., Ltd.
+CoralNet(AS18282)
+Takuya Miyamoto
+Email: as18282@coralnet.or.jp
+t_miyamoto@coralnet.or.jp

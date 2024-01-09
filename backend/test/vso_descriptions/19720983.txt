@@ -1,0 +1,21 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Global Cloud Xchange will be carrying planned activity to clear temperature out of range alarm at Alexandria
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Impact : Unprotected services will face 02 Hours Outage & Protected services will be at risk.
+
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	11-May-2023 00:00	11-May-2023 04:00	12-May-2023 00:00	12-May-2023 04:00
+
+
+Service ID	Impact
+RGWLS16739	Outage
+RGBO4TA134	Outage
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards

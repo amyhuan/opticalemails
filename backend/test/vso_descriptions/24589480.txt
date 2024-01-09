@@ -1,0 +1,68 @@
+Scheduled Maintenance #: 27109502
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as URGENT. The nature of this work is to perform traffic affecting work in order to rectify a fault.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-07-19 07:11:42 GMT - This maintenance has been modified.
+
+Customer Impact:
+
+27109502-1
+
+Start	End
+2023-07-24 21:00 GMT (Greenwich Mean Time)	2023-07-25 02:00 GMT (Greenwich Mean Time)
+2023-07-25 00:00 EEST (Eastern European Summer Time)	2023-07-25 05:00 EEST (Eastern European Summer Time)
+
+Previously Scheduled for (2023-07-17 21:00 GMT to 2023-07-18 02:00 GMT)
+
+Maintenance Location(s): SOFYA, Bulgaria; SOFIA, Bulgaria
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	443595473	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443595469	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443595475	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443595471	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443595474	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443595472	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	4 hours	 
+
+
+Notes History:
+
+2023-07-19 07:11:42 GMT - This maintenance has been modified.
+2023-07-19 07:06:23 GMT - This maintenance has been modified.
+2023-07-13 15:28:37 GMT - This maintenance has been postponed for operational reasons. Once a new date is determined, updated notifications will be sent reflecting the date change.
+2023-07-13 12:54:54 GMT - This maintenance is scheduled.
+
+
+Click here for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+Should the date and time for the maintenance have passed without an updated notification communicated for it, please consider the work to have completed successfully. If you continue to experience any problems after the maintenance window has closed, please raise a ticket with the Lumen EMEA Service desk on 0800 496 5000 Within UK or 00800 5336 3273 Outside UK.
+
+Please be advised that the Lumen EMEA Change Management Desk core business hours are from 09:00 to 17:00 UK local time, Monday through Friday (except public holidays) and is not able to respond outside of these hours.
+
+Network Change Management Team
+Lumen
+0800 496 5000 Within UK or 00800 5336 3273 Outside UK
+Change.Management.EMEA@Lumen.com
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

@@ -1,0 +1,46 @@
+Dear Equinix Customer,
+
+DATE: 03-AUG-2023 - 04-AUG-2023
+
+SPAN: 03-AUG-2023 - 04-AUG-2023
+
+LOCAL: THURSDAY, 03 AUG 22:00 - FRIDAY, 04 AUG 02:00
+UTC: THURSDAY, 03 AUG 12:00 - THURSDAY, 03 AUG 16:00
+
+IBX(s): SY
+
+DESCRIPTION:Please be advised as part of an ongoing effort to improve reliability and security, Equinix will be performing a planned maintenance on one of our Internet Exchange (IX) route servers.
+Please ensure your BGP sessions to both route servers are operational before the start of the maintenance to avoid service interruption. The activity will be carried out one at a time on each route servers and BGP sessions to each route server will be down for approximately 60 minutes.
+This work will not cause a physical downtime to the peering port.
+
+BGP sessions to RS1 (AS24115) 45.127.172.122, 2001:de8:6::2:4115:1 will be impacted.
+
+BGP sessions to RS2 (AS24115) 45.127.172.123, 2001:de8:6::2:4115:2 will not be impacted.
+
+BGP sessions to RC1 (AS65517) 45.127.175.246, 2001:de8:6::2:4115:5 will not be impacted
+
+Expected length of outage: 60 minutes
+
+PRODUCTS: INTERNET EXCHANGE
+
+IMPACT: Loss of redundancy to your service
+
+
+Internet Exchange
+
+Account #	Product	IBX	Service Serial #
+116344	Internet Exchange	SY2	21927459-A
+116344	Internet Exchange	SY2	20590870-A
+116344	Internet Exchange	SY2	21927464-A
+116344	Internet Exchange	SY2	21234437-A
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-228155345509.
+
+Sincerely,
+Equinix SMC
+
+Contacts:

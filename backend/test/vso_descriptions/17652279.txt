@@ -1,0 +1,19 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-03-27 07:30 UTC
+End Time: 2023-03-27 12:30 UTC
+
+Fastly will be performing a maintenance during the above window. You may see BGP down during this time for the following service(s). Please take no action to remove or shift traffic, Fastly Engineers will automatically re-route traffic as needed. Questions about this event can be sent to techops@fastly.com.
+
+Peer Address: 2001:504:40:108::1:25	Fastly Address: 2001:504:40:108::1:76	Location: Miami
+Peer Address: 206.41.108.25	Fastly Address: 206.41.108.76	Location: Miami
+
+
+Thank you!
+
+Fastly Logo
+
+Fastly Network Engineering | techops@fastly.com
+fastly.com | AS54113 | Peering Policy

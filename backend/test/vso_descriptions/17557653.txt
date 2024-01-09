@@ -1,0 +1,25 @@
+Maintenance details
+
+Telstra Change Management Planned Maintenance Activity - 3709084
+
+Telstra Change Management will perform planned maintenance activity to planned Optic Fibre relocation/repair work - Australia
+
+
+Reference number
+PN298499
+
+
+Start time
+Monday, 27 Mar 2023 12:59:00 (UTC)
+
+
+End time
+Monday, 27 Mar 2023 19:00:00 (UTC)
+
+
+Service/s under maintenance
+MEL GIP 9602497
+
+
+Expected impact
+4 hours outage during the change window

@@ -1,0 +1,54 @@
+Dear Customer, due to unforeseen reason this work has been rescheduled to 7th May 23hrs, Sincere Apologies for any inconvenience caused.
+
+Change Reference Number:
+
+C184633
+ 	 
+Start Date & Time:
+
+07/05/2023 23:00:00
+
+ 	 
+Finish Date & Time:
+
+08/05/2023 07:00:00
+
+ 	 
+Time Zone:
+
+Australia/Victoria
+
+ 	 
+Change Description:
+
+Permanent Cable Repair Works
+
+ 	 
+Location of Change:
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+08:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00001314"
+"SRVCKT00001319"	"Service Circuit"
+"Service Circuit"	"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"	"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"	
+
+ 
+
+Optus Planned Events
+Network Management Centre
+Singtel Optus
+1 Lyonpark Road, Macquarie Park
+Phone: 1300 555 852 (Australia) +612 8085 8883 (International)
+Email: Optus.planned.events@optus.com.au Our Standard Business Hours are Monday to Friday 9:00AM to 5:00PM

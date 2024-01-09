@@ -1,0 +1,79 @@
+Dear All,
+
+
+This is to inform you about Emergency  Maintenance activity by ILD Service provider, which is scheduled on Wednesday 29th March 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+---------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN299424
+
+         
+
+Scheduled Date                                    :     Wednesday 29th March 2023
+
+
+Maintenance Window                            :     29-03-2023 16:01 UTC to 22:00 UTC
+
+ 
+
+Activity                                                :     CUT OVER FIBER UG on Segment QA Sector Q1 between Tapah and Tasek
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will be switching hit Less than 10 seconds during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854902
+
+Microsoft Operations Pte
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shreyansh Moghia
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+0124-4609696
+
+Airtel for Business
+
+On your side. By your side

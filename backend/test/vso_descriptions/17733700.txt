@@ -1,0 +1,16 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-03-31 00:00 UTC
+End Time: 2023-03-31 06:00 UTC
+
+We previously informed you that we would be conducting maintenance on the following circuits. Please be advised that this maintenance has been postponed. Notification will be sent once a new date has been decided.
+
+Peer Address: 2001:7f8:17::1f8b:1	Fastly Address: 2001:7f8:17::d361:2	Location: London, UK
+Peer Address: 5.57.81.17	Fastly Address: 5.57.81.60	Location: London, UK
+Peer Address: 2001:7f8:17::1f8b:2	Fastly Address: 2001:7f8:17::d361:2	Location: London, UK
+Peer Address: 5.57.81.18	Fastly Address: 5.57.81.60	Location: London, UK
+
+
+Thank you!

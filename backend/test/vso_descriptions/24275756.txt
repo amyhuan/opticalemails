@@ -1,0 +1,31 @@
+Customer Name
+
+Microsoft
+
+Reference
+
+Vodafone Reference Number:     INC000072785079
+
+Circuit ID:   
+
+MSAWDMMV2MUM002U
+
+Service Type: DWDM
+
+Summary:
+
+Please be informed that our International carrier partner is performing maintenance activity work on their network.
+
+This action is very important to be proceed in order to provide you stable services and avoid uncontrolled outage.
+
+Impact:
+
+Impact Analysis shows that during the activity the services will be unavailable for 2Hrs .  This activity is mandatory to be performed to ensure the service stability.
+
+Change Activity Window:
+
+Start Time: 23/June/2023 00:00 QLT
+
+End Time:    23/June/2023 8:00 QLT
+
+For any further concerns regarding this outage, please contact Vodafone Qatar – Service Operations Center at +974 7444 7124 or simply reply to this message.

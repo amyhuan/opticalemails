@@ -1,0 +1,35 @@
+Dear Equinix Customer,
+
+DATE: 01-NOV-2023 - 03-NOV-2023
+
+SPAN: 01-NOV-2023 - 03-NOV-2023
+
+LOCAL: WEDNESDAY, 01 NOV 06:00 - WEDNESDAY, 01 NOV 18:00
+UTC: WEDNESDAY, 01 NOV 13:00 - THURSDAY, 02 NOV 01:00
+
+LOCAL: THURSDAY, 02 NOV 06:00 - THURSDAY, 02 NOV 18:00
+UTC: THURSDAY, 02 NOV 13:00 - FRIDAY, 03 NOV 01:00
+
+LOCAL: FRIDAY, 03 NOV 06:00 - FRIDAY, 03 NOV 18:00
+UTC: FRIDAY, 03 NOV 13:00 - SATURDAY, 04 NOV 01:00
+
+IBX: LA1
+
+DESCRIPTION: Facilities Engineers alongside vendor services will perform annual preventative maintenance on the generator paralleling switchgear on the 6th floor. No customer loads will be transferred to perform this activity. While no unavailability is expected, the facility will operate at a reduced level of redundancy during this maintenance.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+103748	000255	0126	11778477	Primary
+103748	000255	0126	11778478	Redundant
+
+
+
+Equinix engineers will work to ensure the maintenance does not impact your operations. This activity is fully scripted and may include the use of equipment system vendors and service providers.
+
+During this period, all services (Smart Hands, installations, work visits, etc.) will continue in accordance with our normal procedures.
+
+The EOC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-229396393111.
+
+Sincerely,
+Equinix Operations Center

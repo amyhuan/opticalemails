@@ -1,0 +1,33 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Our provider will be carrying an emergency activity of ODF replacement at Banha CLS, Egypt. The traffic might be at risk during this activity.
+
+Impact: At risk
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	07-Jul-2023 00:00	07-Jul-2023 04:00	NA	NA
+
+
+Service ID	Impact
+RGWLS31146	At Risk
+RGWLS31145	At Risk
+RGWLS31144	At Risk
+RGWLS31143	At Risk
+RGWLS31142	At Risk
+RGWLS31130	At Risk
+RGWLS31148	At Risk
+RGWLS31147	At Risk
+RGWLS16746	At Risk
+RGWLS16739	At Risk
+RGBO4TA134	At Risk
+RGBO4TA133	At Risk
+This activity has been planned with lots of diligence, however in case there are concerns related to this event, please highlight it to GCX with receipt of this notification. GCX will make all endeavors to address the concerns, however there will be limitations to accommodate such requests because of network criticality, dependency on third party schedule and resources, availability of access permission and reasons beyond GCX’s control.
+
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Pradnya V Kokane

@@ -1,0 +1,33 @@
+UPDATE: The planned maintenance is taking longer than anticipated, we are hard at work to get your circuits back up as soon as possible. ETR 08:00 (Europe/Oslo),  , UPDATE: Error correction extends over the planned time due to complications. New ETR 15.00 (Europe/Oslo),  , (Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Planned maintenance on circuit between Røldal og Haukeli.
+
+Start of PW: 22.03.2023 00:00 (Europe/Oslo)
+End of PW: 22.03.2023 06:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+
+Blue:
+T200000060
+T200000061
+T200000062
+T200000063
+T200000064
+T200000065
+
+Best regards,
+Altibox Operations Centre
+T: +47 51 90 81 10
+E: b2bops@altibox.no
+altibox.no
+
+Best regards,
+
+Stian Hagen Tofte
+Operations engineer
+Altibox Operations Center - Altibox AS
+51 90 80 15

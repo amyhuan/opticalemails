@@ -1,0 +1,25 @@
+Dear Customer,
+
+ 
+
+Please be advised that a planned maintenance is scheduled as follows;
+
+ 
+
+1. Maintenance window : 14-June.  16:00 ~ 17:00 UTC
+
+2. Expected impact : 30 minutes down hard during the maintenance work
+
+3. Maintenance details : Fiber relocation work in Japanese backhaul
+
+4. Service impacted : 500175284002
+
+ 
+
+We apologize for the inconvenience caused.
+
+ 
+
+Best regards,
+
+KO

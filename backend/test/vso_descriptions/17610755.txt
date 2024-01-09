@@ -1,0 +1,41 @@
+Dear Equinix Customer,
+
+DATE: 26-APR-2023 - 27-APR-2023
+
+SPAN: 26-APR-2023 - 27-APR-2023
+
+LOCAL: WEDNESDAY, 26 APR 09:00 - WEDNESDAY, 26 APR 21:00
+UTC: WEDNESDAY, 26 APR 01:00 - WEDNESDAY, 26 APR 13:00
+
+LOCAL: THURSDAY, 27 APR 09:00 - THURSDAY, 27 APR 21:00
+UTC: THURSDAY, 27 APR 01:00 - THURSDAY, 27 APR 13:00
+
+IBX: SG3
+
+DESCRIPTION: Equinix and UPS Vendors will carry out an Annual Preventive Maintenance on UPS 4A2-01 to 03 system in SG3 IBX Level 4 supporting critical load in Level 4 Data Hall 5, 6, 7 and 8.
+
+We will start the maintenance on the UPS-4A2-01, followed by UPS-4A2-02 and UPS-4A2-03.(Servicing to be done on a single UPS at a time)
+
+During this preventive maintenance, critical load in Level 4 Hall 5, 6, 7 and 8 will remain at 2N redundancy with both A and B Feeds supported by UPS Sources at all time. There should be no impact to customer operation.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+115690	080010	0107	21656664	Primary
+115690	080010	0107	21656683	Redundant
+115690	080010	0108	21656668	Primary
+115690	080010	0108	21656676	Redundant
+115690	080010	0109	21656669	Primary
+115690	080010	0109	21656677	Redundant
+115690	080010	0110	21656670	Primary
+115690	080010	0110	21656678	Redundant
+115690	080010	0111	21656671	Primary
+115690	080010	0111	21656679	Redundant
+115690	080010	0112	21656672	Primary
+115690	080010	0112	21656680	Redundant
+115690	080010	0113	21656673	Primary
+115690	080010	0113	21656681	Redundant
+115690	080010	0114	21656674	Primary
+115690	080010	0114	21656682	Redundant
+115690	080010	0115	21656675	Primary
+115690	080010	0115	21656665	Redundant

@@ -1,0 +1,29 @@
+Planned Work Notification: 00299634 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Snartemo, Norway between Sun Sep 24 22:00:00 GMT 2023-Mon Sep 25 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Sun Sep 24 22:00:00 GMT 2023
+End	Mon Sep 25 04:00:00 GMT 2023
+Location	Snartemo, Norway
+
+Planned work Reason:
+Installation of new splice box on our partner network
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100598	Wavelength/01413359	Wavelength	360 min	No	4150 Rennesory - Green Mountain DC1 - Stavanger	1437 EM, Rozenburg - Interxion AMS8	00299635
+MICRSI/WAVE/U/100599	Wavelength/01413360	Wavelength	360 min	No	4150 Rennesory - Green Mountain DC1 - Stavanger	1437 EM, Rozenburg - Interxion AMS8	00299636
+MICRSI/WAVE/U/100600	Wavelength/01413361	Wavelength	360 min	No	4150 Rennesory - Green Mountain DC1 - Stavanger	1437 EM, Rozenburg - Interxion AMS8	00299637
+MICRSI/WAVE/U/100601	Wavelength/01413362	Wavelength	360 min	No	4150 Rennesory - Green Mountain DC1 - Stavanger	1437 EM, Rozenburg - Interxion AMS8	00299638
+MICRSI/WAVE/U/100602	Wavelength/01413363	Wavelength	360 min	No	4150 Rennesory - Green Mountain DC1 - Stavanger	1437 EM, Rozenburg - Interxion AMS8	00299639
+MICRSI/WAVE/U/100603	Wavelength/01413364	Wavelength	360 min	No	4150 Rennesory - Green Mountain DC1 - Stavanger	1437 EM, Rozenburg - Interxion AMS8	00299640
+MICRSI/WAVE/U/100628	GTT/001923776	Wavelength	360 min	No	Rogaland, Norway - Green Mountain DC1	Rozenburg - Interxion AMS8	00299641
+MICRSI/WAVE/U/100627	GTT/001923775	Wavelength	360 min	No	Rogaland, Norway - Green Mountain DC1	Rozenburg - Interxion AMS8	00299642
+MICRSI/WAVE/U/100626	GTT/001923774	Wavelength	360 min	No	Rogaland, Norway - Green Mountain DC1	Rozenburg - Interxion AMS8	00299643
+MICRSI/WAVE/U/100625	GTT/001923773	Wavelength	360 min	No	Rogaland, Norway - Green Mountain DC1	Rozenburg - Interxion AMS8	00299644
+MICRSI/WAVE/U/100624	GTT/001923772	Wavelength	360 min	No	Rogaland, Norway - Green Mountain DC1	Rozenburg - Interxion AMS8	00299645
+MICRSI/WAVE/U/100623	GTT/001923771	Wavelength	360 min	No	Rogaland, Norway - Green Mountain DC1	Rozenburg - Interxion AMS8	00299646
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.

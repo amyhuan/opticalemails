@@ -1,0 +1,77 @@
+hange Reference Number:
+
+C159042
+ 	 
+Start Date & Time:
+
+09/02/2023 23:00:00
+
+ 	 
+Finish Date & Time:
+
+10/02/2023 07:00:00
+
+ 	 
+Time Zone:
+
+Australia/West
+
+ 	 
+Change Description:
+
+Fibre splice & upgrade works
+
+ 	 
+Location of Change:
+
+0 Withers Rd,Kattanning,WA,6317
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+08:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00001314"
+"SRVCKT00001319"
+"SRVCKT00001327"
+"SRVCKT00001356"
+"SRVCKT00002016"
+"SRVCKT00002089"
+"SRVCKT00002647"
+"SRVCKT00002688"
+"SRVCKT00002704"
+"SRVCKT00002709"	"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"	"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"	"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"

@@ -1,0 +1,28 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2449\23D
+Date Time : 31/05/2023 10:00:00 to 31/05/2023 18:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 PW TT
+Description : Fibre maintenance work between Korymat – Ber Erida (KOR-BER) Span in Seg X1.2(South Route).
+Planned Work Schedule : 10:00 GMT to 18:00 GMT/31st May 2023
+Nature : Non Service Affecting
+Impact : Switching hits plus protection loss
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

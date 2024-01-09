@@ -1,0 +1,47 @@
+ears,
+
+Kindly be aware of Planned Activity with below details:
+
+ 
+
+Planned outage notification
+
+Peer IP/Circuit Impacted
+
+International circuit ID
+
+HWK-MIC-100G-0002
+
+HWK-MIC-100G-0001
+
+Requested outage reason
+
+planned activity for RS cable installation at Marseille, France.
+
+Outage Start time
+
+20-Apr-2023      19:30 UTC
+
+Outage End time
+
+21-Apr-2023      04:00 UTC
+
+Outage Duration
+
+8:30  hours
+
+Outage impact
+
+AT RISK.
+
+ 
+
+ 
+
+ 
+
+-------------------------------------------
+
+Thanks..
+
+Regards..

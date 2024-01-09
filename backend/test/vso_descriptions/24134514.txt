@@ -1,0 +1,22 @@
+Hi All,
+
+With respect to the maintenance activity, detailed in the below mail, we wish to inform you that the same has been Postponed till further notice.
+
+
+Details of Maintenance : -
+
+Change ID	1100074506
+Scheduled Date	11-JUN-2023 00:00:00 IST(GMT + 5:30)
+Maintenance Window   	11-JUN-2023 00:00:00 IST(GMT + 5:30) to 11-JUN-2023 06:00:00 IST(GMT + 5:30)
+Activity	Juniper ISP router upgrade
+Location  	LOGICAL ACTIVITY
+Benefit of Change 	To provide a better service up time in future
+Impact 	Service Affecting
+Duration of Impact   	Circuit will go down for 1 hrs 0 minutes during the maintenance window
+Comments	
+---------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+12823311: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.

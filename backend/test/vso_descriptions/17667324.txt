@@ -1,0 +1,68 @@
+DEUTSCHE TELEKOM TECHNIK GMBH
+Zentrum Core
+Network Infrastructure (NWI)
+Restoration Control Point (RCP)
+Frankfurt am Main (Germany)
+March 24, 2023
+ReferenceNo.: 3-23-00001171
+IP*
+
+* * * Planned Maintenance Notification * * *
+Emergency Maintenance
+If you receive this notice, you have entered into an agreement with Deutsche Telekom AG or it's affiliates (Relevant Agreement). Deutsche Telekom AG is authorised to send, and sends this notice for and on behalf of the relevant affiliate. This notice is effective for all purposes of the Relevant Agreement. If you have any questions or concerns, please contact your usual contact person under the Relevant Agreement.
+
+
+
+Dear NOC,
+
+If you have questions for this maintenance, please contact
+DEUTSCHE TELEKOM TECHNIK GMBH
+Global Network Factory
+Restoration Control Point (RCP)
+RCP.Frankfurt@telekom.de
+
+
+If you have any further questions, please contact your sales contact person
+Contact person : Michael C. Callahan
+Phone : +1 619 437 7266
+Mobil : +1 805 689 0005
+E-Mail : michael.callahan@telekom.com
+
+Please be advised of the following maintenance activities by external sub provider which may affect your service.
+We apologize for any inconvenience this may cause.
+Reason of maintenance:
+**Urgent** Circuit migration to an optimum path for improved network reliability.
+
+
+
+
+Start	End
+April 6, 2023 03:00 (CEST)	April 6, 2023 05:30 (CEST)
+April 6, 2023 01:00 (UTC)	April 6, 2023 03:30 (UTC)
+
+Company :	Microsoft Ireland Operations L (CIRE) Ireland	
+Following circuit(s)/service(s) will be affected by outage(s) during the maintenance work.
+The expected downtime is :
+10 Min
+
+List of circuit(s).
+00G/TOPBG/698233-698233/700652
+00G / 700652 Frankfurt a Main 8233(8GN) - Frankfurt a Main 8233(7Y54)
+Internationale IP-AnschluÃŸleitung 100G Ethernet	TGN-NMS-ID: 21-000060
+TSAM/VNR : 5903095574/100029
+Location A :
+Frankfurt a Main 8233(Germany)
+Microsoft
+POP Interxion Deutschland GmbH
+Hanauer Landstra?e 304-308
+60314 Frankfurt am Main
+Germany	Location B :
+Frankfurt a Main 8233(Germany)
+DTAG (F-ED12)
+POP
+Weismullerstra?e 36
+60314 Frankfurt am Main
+Germany
+
+Kind regards,
+Global Networks Operation RCP

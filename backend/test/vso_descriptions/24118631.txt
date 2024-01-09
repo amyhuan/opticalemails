@@ -1,0 +1,79 @@
+Dear Microsoft
+
+ 
+
+Please be informed that an activity is planned to be performed as  below:
+
+ 
+
+ 
+
+Change ID
+
+C142194
+
+Description
+
+Urgent fiber maintenance work.  Services will be running via Sub-Segments X1.1.
+
+Location
+
+Between Ber Erida-Zafarana (BER-ZFR) Span in Seg X1.2(South Route).
+
+Duration
+
+Nature : Non Service Affecting
+
+Impact : Switching hits plus protection loss
+
+Planned Start
+
+10:00 GMT / 7th June 2023
+
+Planned End
+
+16:00 GMT/ 7th June 2023
+
+Affected service/link
+
+ 
+
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353 
+
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille) 
+
+ 
+
+Carrier References
+
+PW3417
+
+ 
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+ 
+
+Ayub Oruko Ondoro
+
+ 
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 50366736
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

@@ -1,0 +1,35 @@
+Dear Microsoft Company,
+
+we want to inform you about a Planned Work that our Network Provider is going to carry out on its network with the following details:
+
+ 
+
+Our Planned Work Ref.: MED PW#8801
+
+ 
+
+Time window: 09/03/2023 22:00 GMT and 10/03/2023 04:00 GMT
+
+ 
+
+Reason of the work: urgent & mandatory network maintenance by our Network Provider, in order to solve an high attenuation problem along their line. Location: Thessaloniki – Veroia (Greece).
+
+ 
+
+Circuit List
+
+ 
+
+Services Affected for a forecasted Outage Time: 360 minutes.
+
+Microsoft:ETH-20148_100G (Cust ID:ATHENS/WED-WIEN/WED NP 0002,  TIS-00000081577)
+
+Microsoft:ETH-2055_100G (Cust ID:ATHENS/WED-WIEN/WED NP 0001, TIS-00000078765)
+
+ 
+
+We apologize for any inconvenience we may cause to you.
+
+ 
+
+Note: If we don't receive any feedback from you in the next two working days, we will assume you are in agreement.

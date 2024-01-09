@@ -1,0 +1,70 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C144175
+
+ 
+
+Description
+
+Our provider will be carrying planned activity for cable installation in Marseille, France.
+
+Location
+
+Marseille, France
+
+Duration
+
+At Risk Only
+
+Planned Start
+
+02-Aug-2023 19:30:00 GMT
+
+Planned End
+
+03-Aug-2023 04:00:00 GMT
+
+Backup Start
+
+-
+
+Backup End
+
+-
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351
+
+Carrier References
+
+PE2023071342192
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 70945621
+
+Follow us on Twitter and Facebook

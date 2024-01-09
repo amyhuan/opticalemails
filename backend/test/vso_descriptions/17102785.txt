@@ -1,0 +1,40 @@
+Scheduled Maintenance #: 25794529
+Summary:
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to relocate fiber cable on the Lumen network and is required in order to proactively avoid unplanned outages due to bridge construction.
+The estimated GPS location of work is:
+LAT: (39.664) LONG: (-79.451)
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 4 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 6 hours during the maintenance window.
+
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+
+Updates:
+
+2023-02-09 18:25:48 GMT - This maintenance has been modified. THIS MAINTENANCE IS STILL IN EFFECT AS ORIGINALLY SCHEDULED. WE HAD A SYSTEM ISSUE AND HAD TO RENOTIFY. WE ARE SORRY FOR THIS INCONVENIENCE.
+
+Customer Impact:
+
+25794529-1
+
+Start	End
+2023-02-23 05:00 GMT (Greenwich Mean Time)	2023-02-23 11:00 GMT (Greenwich Mean Time)
+2023-02-23 00:00 EST (Eastern Standard Time)	2023-02-23 06:00 EST (Eastern Standard Time)
+
+
+Maintenance Location(s): FRIENDSVILLE, MD USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	Fiber109	BFJL1567 - FIBER-1	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber110	BFJL1567 - FIBER-2	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441941859	N/A	100 GIG	CHEYENNE WY USA	MANASSAS VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441974363	N/A	10GIG-E LAN	ELKRIDGE MD USA	RESTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441202427	N/A	100 GIG	SAN ANTONIO TX USA	WARRENTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441202425	N/A	100 GIG	SAN ANTONIO TX USA	WARRENTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441974362	N/A	10GIG-E LAN	ELKRIDGE MD USA	RESTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441360868	10GLAN-23877487-DIV	10GIG-E LAN	REDMOND WA USA	WARRENTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442191976	N/A	100 GIG	CHEYENNE WY USA	MANASSAS VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442191977	N/A	100 GIG	CHEYENNE WY USA	MANASSAS VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443762641	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+Alternate Night:
+25794529-2
+
+Start	End
+2023-02-28 05:00 GMT (Greenwich Mean Time)	2023-02-28 11:00 G

@@ -1,0 +1,31 @@
+Dear Customer,
+
+Please be aware we need to carry out emergency maintenance which will affect the service we provide you as follows:
+
+Maintenance Ref CHG0071682
+
+
+ 
+Planned Start Date:	21/02/2023	Planned Start Time:	22:00
+Planned End Date:	23/02/2023	Planned End Time:	06:00
+Outage Start Date:	21/02/2023	Outage Start Time:	22:00
+Outage End Date:	22/02/2023	Outage End Time:	06:00
+Outage Start Date:	22/02/2023	Outage Start Time:	22:00
+Outage End Date:	23/02/2023	Outage End Time:	06:00
+
+Schedule Advised is Local UK Time
+
+Maintenance activity:
+**Emergency 3rd Party Engineering Works**  Hi there we need to inform you of urgent essential maintenance activity to carry out essential repairs to exposed and damaged fibre route between BT Chepstow to NEOS Bradley Stoke POP.  Provider has advised urgent fix is required - this repair is following on from MI – INC0030796.  Traffic Management is in place over night 21/2/23 23:00 ~06:00  & 22/2/23 23:00 ~ 06:00. Two evenings are booked in should night 1 works not complete.  NB: We do apologise for this short maintenance notification and appreciate your patience whilst this issue is resolved. Should you have any queries regarding this notification please contact the change team. 
+
+Services affected:
+
+Circuit Ref	Service/Product	Customer ref	Job No	Status	A end location	B end location	Impact*
+IDN136736GIG100			102772 4	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus Hayes London 2,Hayes Road,UB2 5XX	Affected
+IDN136997GIG100			103527 4	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN136995GIG100			103527 2	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN136996GIG100			103527 3	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN136733GIG100			102772 1	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus Hayes London 2,Hayes Road,UB2 5XX	Affected
+IDN136994GIG100			103527 1	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN136734GIG100			102772 2	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus Hayes London 2,Hayes Road,UB2 5XX	Affected
+IDN136735GIG100			102772 3	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus Hayes London 2,Hayes Road,UB2 5XX	Affected

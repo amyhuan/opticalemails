@@ -1,0 +1,22 @@
+Dear Equinix Customer,, The maintenance listed below has been rescheduled., Notes:,  , Equinix Engineers identified condition that require to postpone this work., Here is the new schedule:,  , DATE:,  , 26-MAR-2023, SPAN: 26-MAR-2023 - 26-MAR-2023, LOCAL:,  , SUNDAY, 26 MAR 02:00 - SUNDAY, 26 MAR 07:00, UTC:,  , SATURDAY, 25 MAR 15:00 - SATURDAY, 25 MAR 20:00, Dear Equinix Customer,, DATE:,  , 12-MAR-2023, SPAN: 12-MAR-2023 - 12-MAR-2023, LOCAL:,  , SUNDAY, 12 MAR 02:00 - SUNDAY, 12 MAR 07:00, UTC:,  , SATURDAY, 11 MAR 15:00 - SATURDAY, 11 MAR 20:00, IBX(s):,  , SY, DESCRIPTION:, Please be advised that Equinix engineers will be performing a software upgrade maintenance which will affect one of our Equinix Connect upstream links. There will be no service interruption but you may experience latency change during traffic re-routing to our alternate providers.,  , Dear Equinix Customer,
+
+DATE: 12-MAR-2023
+
+SPAN: 12-MAR-2023 - 12-MAR-2023
+
+LOCAL: SUNDAY, 12 MAR 02:00 - SUNDAY, 12 MAR 07:00
+UTC: SATURDAY, 11 MAR 15:00 - SATURDAY, 11 MAR 20:00
+
+IBX(s): SY
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a software upgrade maintenance which will affect one of our Equinix Connect upstream links. There will be no service interruption but you may experience latency change during traffic re-routing to our alternate providers.
+
+PRODUCTS: EQUINIX CONNECT
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+116344	Equinix Connect	SY2	20013989

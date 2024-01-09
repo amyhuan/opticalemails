@@ -1,0 +1,96 @@
+MOC-
+
+Start Time (PST): 9/5/2023 9:00:00 PM
+End Time (PST): 9/6/2023 3:00:00 AM
+Maintenance Length: 6 Hours
+Location: ATLDGAUYATL2IDMS056 <-> NSVNTNJYNVL2IDMS047
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to repair/replace fiber and is required in order to avoid unplanned outages from damages related to natural causes. The estimated GPS location of work is: LAT: (33.721) LONG: (-85.145) An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSIT Circuit Impacts
+
+MSFT-ATBA-CH2A-MSIT-0010-0::100GBE-1
+
+SWAN Circuit Impacts
+
+MSFT-ATBA-CH2A-SWAN-0033-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0032-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0031-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0030-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0029-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0019-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0018-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0017-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0016-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0015-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0014-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0013-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0012-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0011-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0009-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0008-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0007-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0006-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0005-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0003-0::100GBE-1
+MSFT-ATBA-CH2A-SWAN-0001-0::100GBE-1
+
+ITAR Circuit Impacts
+
+MSFT-BN6A-DM2B-ITAR-0004-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0003-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0002-0::100GBE-1
+MSFT-BN6A-DM2B-ITAR-0001-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0008-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0007-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0006-0::100GBE-1
+MSFT-BN6A-CY4B-ITAR-0005-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0037-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0036-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0035-0::100GBE-1
+MSFT-ATBA-CH2A-ITAR-0034-0::100GBE-1
+
+MSCG Circuit Impacts
+
+MSFT-ATBA-CH2A-MSCG-0028-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0027-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0026-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0025-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0024-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0023-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0022-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0021-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0020-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0004-0::100GBE-1
+MSFT-ATBA-CH2A-MSCG-0002-0::100GBE-1
+
+SLS Circuit Impacts
+
+SLS-211
+SLS-117
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com
+
+
+
+ 
+
+This communication is the property of Lumen Technologies and may contain confidential or privileged information. Unauthorized use of this communication is strictly prohibited and may be unlawful. If you have received this communication in error, please immediately notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

@@ -1,0 +1,31 @@
+Emergency maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+AJC Event Notification INC000103287135 - SOFX Card Replacement
+
+Please be advised that the SOFX card at Tanguisson 1-B-3 has an equipment degradation alarm. The card needs to be replaced at the earliest.
+
+
+Reference number
+PN300550
+
+
+Start time
+Thursday, 20 Apr 2023 18:00:00 (UTC)
+
+
+End time
+Thursday, 20 Apr 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+SYD TOK EPL 9231792

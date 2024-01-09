@@ -1,0 +1,32 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00300085	2023-02-20 05:00:00	2023-02-20 11:00:00	0 Days 6 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+La actividad se ejecutará con el fin de realizar cambio de ruta por solciitud de la conseción vial VIA40 Express, por la construcción del tercer carril  entre Bogotá y Girardot en Silvania en el sector de la cazuela PR 74+400. Previamente se realizará la instalación del nuevo cable por donde se migrarán los servicios actuales.
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G
+On behalf of GlobeNet, we thank you in advance and apologize for any inconvenience. The GlobeNet NOC will confirm once the work has been completed.
+
+If we do not received notification from you in 24 hours from the moment we send the notification, we will assume that the maintenance was accepted.
+
+
+
+Thank you,
+
+Network Operations Center

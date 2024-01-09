@@ -1,0 +1,35 @@
+, Reschedule Notification, Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times., Maintenance Ticket #:,  , TTN-0006784529, Urgency:,  , Planned, Date Notice Sent:,  , 13-Oct-2023, Customer:,  , Microsoft Corporation, Maintenance Window, 1, st,  , Activity Date, 25-Oct-2023 00:01 to 25-Oct-2023 05:00 ( Central ), 25-Oct-2023 05:01 to 25-Oct-2023 10:00 ( GMT ), Location of Maintenance:,  , 427 S La Salle St, Chicago, IL, Reason for Maintenance:,  , Zayo will perform a groom maintenance for a cage migration, Expected Impact:,  , Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities., Circuit(s) Affected:, Circuit Id, Expected Impact, A Location Address, Z Location Address, Legacy Circuit Id, /ACCX/274576/ /ZYO / , Hard Down - Duration of maintenance window , 427 S La Salle St Chicago, IL. USA , 700 S Federal St Chicago, IL. USA , ACCX/274576//ZYO , IDIA/274576//ZYO , Hard Down - Duration of maintenance window , 427 S La Salle St Chicago, IL. USA , 700 S Federal St Chicago, IL. USA , ACCX/274576//ZYO ,  , Reschedule Notification,  , Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times., Maintenance Ticket #:,  , TTN-0006784529, Urgency:,  , Planned, Date Notice Sent:,  , 20-Sep-2023, Customer:,  , Microsoft Corporation, Maintenance Window, 1, st,  , Activity Date, 11-Oct-2023 00:01 to 11-Oct-2023 05:00 ( Central ), 11-Oct-2023 05:01 to 11-Oct-2023 10:00 ( GMT ), Location of Maintenance:,  , 427 S La Salle St, Chicago, IL, Reason for Maintenance:,  , Zayo will perform a groom maintenance for a cage migration, Expected Impact:,  , Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities., Circuit(s) Affected:, Circuit Id, Expected Impact, A Location Address, Z Location Address, Legacy Circuit Id, /ACCX/274576/ /ZYO / , Hard Down - Duration of maintenance window , 427 S La Salle St Chicago, IL. USA , 700 S Federal St Chicago, IL. USA , ACCX/274576//ZYO , IDIA/274576//ZYO , Hard Down - Duration of maintenance window , 427 S La Salle St Chicago, IL. USA , 700 S Federal St Chicago, IL. USA , ACCX/274576//ZYO , Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.,  ,  ,  , 20-Sep-2023 05:01 to 20-Sep-2023 10:00 ( GMT ),  , 1, st,  , Activity Date - Rescheduled, 29-Aug-2023 23:00 to 30-Aug-2023 05:00 ( Central ), 30-Aug-2023 04:00 to 30-Aug-2023 10:00 ( GMT ), 1, st,  , Activity Date, 25-Jul-2023 23:00 to 26-Jul-2023 05:00 ( Central ), 26-Jul-2023 04:00 to 26-Jul-2023 10:00 ( GMT ),  , Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006784529
+
+Urgency: Planned
+
+Date Notice Sent: 13-Jun-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+29-Jun-2023 00:01 to 29-Jun-2023 05:00 ( Central )
+29-Jun-2023 05:01 to 29-Jun-2023 10:00 ( GMT )
+
+Backup Date
+30-Jun-2023 00:01 to 30-Jun-2023 05:00 ( Central )
+30-Jun-2023 05:01 to 30-Jun-2023 10:00 ( GMT )
+
+Location of Maintenance: 427 S La Salle St, Chicago, IL
+
+Reason for Maintenance: Zayo will perform a groom maintenance for a cage migration
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+/ACCX/274576/ /ZYO /	Hard Down - Duration of maintenance window	427 S La Salle St Chicago, IL. USA	700 S Federal St Chicago, IL. USA	ACCX/274576//ZYO
+IDIA/274576//ZYO	Hard Down - Duration of maintenance window	427 S La Salle St Chicago, IL. USA	700 S Federal St Chicago, IL. USA	ACCX/274576//ZYO
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling. ,  ,

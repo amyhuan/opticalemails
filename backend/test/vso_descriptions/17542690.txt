@@ -1,0 +1,33 @@
+Dear Equinix Customer,
+
+DATE: 29-MAR-2023 - 30-MAR-2023
+
+SPAN: 29-MAR-2023 - 30-MAR-2023
+
+LOCAL: WEDNESDAY, 29 MAR 22:00 - THURSDAY, 30 MAR 06:00
+UTC: THURSDAY, 30 MAR 02:00 - THURSDAY, 30 MAR 10:00
+
+IBX(s): NY4,NY9
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a planned software upgrade on our backbone device. No impact to your service is expected.
+
+PRODUCTS: METRO CONNECT
+
+IMPACT: No impact to your service
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+135593	Equinix Fabric	NY9	-	21170391-A	-	-	-	-	-	-	-	-	-	-
+135593	Equinix Fabric	NY9	-	21082454-A	-	-	-	-	-	-	-	-	-	-
+135593	Equinix Fabric	NY9	-	21082457-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-224825568129.
+
+Sincerely,
+Equinix SMC

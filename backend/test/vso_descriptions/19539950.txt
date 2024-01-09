@@ -1,0 +1,47 @@
+Dear Team , ,   , This is to inform you that the below activity  has been rescheduled due to some commercial quote approval pendency, and kindly refer new schedule as below. ,   , Revised Planned Work Schedule,  , : 07:00 GMT to 22:00 GMT/ 15th May 2023 ,  ,  , Dear Team,
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C140479
+
+Description
+
+Please be informed that our supplier will perform an Planned Work  for Infinera XTC-10 Shelf-5 replacement in Zafarana cable landing station to eradicate PIN bend issue on slot 5-B-2.
+
+ 
+
+Location
+
+Zafarana
+
+Duration
+
+Nature : Service Affecting
+
+Impact : 15 Hours downtime
+
+Planned Start
+
+09 – May  -2023 – 07  :00 :00 (GMT)
+
+Planned End
+
+09  -May -2023 -   22:00:00  (GMT)
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille)
+
+Carrier References
+
+PW3361
+
+ 
+
+ 
+
+Regards  & Thanks ,

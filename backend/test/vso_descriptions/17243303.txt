@@ -1,0 +1,33 @@
+Dear Valued Customer,
+
+ 
+
+Please be advised that our Equipment Provider has a Scheduled Maintenance Activity  on February 27st,  2023 starting at 05:00 GMT concluding at 11:00 GMT between USA and Bahamas
+
+ 
+
+The Following  services are involved in this activity:
+
+ 
+
+DESCRIPTION
+
+18401.CN - MICROSOFT HUMACAO - LIN 100G USA-NAP/PRI-DBTRE via ARCOS-E + BH LIBERTY PR CATV
+
+                                                                                                                                                                                                         
+
+The purpose of this activity is to execute a software upgrade. Please note that your linear services detailed above  will be affected up to thirty (30) minutes during this activity.
+
+ 
+
+On behalf of the entire C&W Networks executive management and operations team please accept our sincere apology for any inconvenience incurred by your organization and its customers as a result of this activity. Should you have questions or concerns regarding this activity please feel free to address them our 24/7 International Network Operation Center by referencing Trouble Ticket #RFC115667
+
+ 
+
+Have a great day,
+
+ 
+
+ 
+
+Natalia Florez Rippe

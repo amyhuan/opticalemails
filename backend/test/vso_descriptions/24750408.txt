@@ -1,0 +1,49 @@
+Dears,
+
+Kindly be aware of Planned Activity with below details:
+
+ 
+
+ 
+
+Planned outage notification
+
+Peer IP/Circuit Impacted
+
+International circuit ID
+
+                                  ABT/TEN-Marseilles/TEN100GE033
+
+ABT/TEN-Marseilles/TEN100GE034
+
+Requested outage reason
+
+Service upgrade.
+
+MW#1
+
+07-Aug-2023  23:00 UTC till     08-Aug-2023   03:00 UTC
+
+MW#2
+
+09-Aug-2023  23:00 UTC till     10-Aug-2023   03:00 UTC
+
+MW#3
+
+12-Aug-2023  23:00 UTC till    13-Aug-2023   03:00 UTC
+
+MW#4
+
+14-Aug-2023  23:00 UTC till     16-Aug-2023   03:00 UTC
+
+MW#5
+
+16-Aug-2023  23:00 UTC till    17-Aug-2023   03:00 UTC
+
+Duration
+
+4 hours / window
+
+Outage impact
+
+Service may be affected for 1 hour.

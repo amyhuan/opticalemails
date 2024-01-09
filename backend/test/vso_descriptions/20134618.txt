@@ -1,0 +1,21 @@
+Dear Valued customer,
+ 
+This notification is to inform you of scheduled Service affecting maintenance.
+Please find further details below.
+ 
+****************Maintenance Work detail****************
+[Service Affect]
+This work is expected to have a service affect.
+ 
+[Affected Circuit(s)]
+MNDL02J
+MNDL01I
+ 
+[Start Date&Time]
+5/19/2023 09:00 (UTC)
+ 
+[End Date&Time]
+5/19/2023 13:00 (UTC)
+ 
+[Work Location]
+Los Angeles

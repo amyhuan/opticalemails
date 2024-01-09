@@ -1,0 +1,25 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-08-30 00:00 UTC
+End Time: 2023-08-30 05:00 UTC
+
+Fastly will be performing a maintenance during the above window. You may see BGP down during this time for the following service(s). Please take no action to remove or shift traffic, Fastly Engineers will automatically re-route traffic as needed. Questions about this event can be sent to techops@fastly.com.
+
+Peer Address: 2001:7f8:17::1f8b:1	Fastly Address: 2001:7f8:17::d361:1	Location: London, UK
+Peer Address: 5.57.81.17	Fastly Address: 5.57.81.59	Location: London, UK
+Peer Address: 2001:7f8:17::1f8b:1	Fastly Address: 2001:7f8:17::d361:2	Location: London, UK
+Peer Address: 5.57.81.17	Fastly Address: 5.57.81.60	Location: London, UK
+Peer Address: 2001:7f8:17::1f8b:2	Fastly Address: 2001:7f8:17::d361:1	Location: London, UK
+Peer Address: 5.57.81.18	Fastly Address: 5.57.81.59	Location: London, UK
+Peer Address: 2001:7f8:17::1f8b:2	Fastly Address: 2001:7f8:17::d361:2	Location: London, UK
+Peer Address: 5.57.81.18	Fastly Address: 5.57.81.60	Location: London, UK
+
+
+Thank you!
+
+Fastly Logo
+
+Fastly Network Engineering | techops@fastly.com
+fastly.com | AS54

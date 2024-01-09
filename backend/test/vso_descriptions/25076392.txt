@@ -1,0 +1,34 @@
+Dear Valued Customer,
+
+Please be informed that we have received a service-affecting maintenance notification from our backhaul provider, which will impact your circuit.
+Details Below:
+
+****************Maintenance Work detail****************
+[Service Affect]
+This work is expected to have a Service Affect.
+
+[Start Date & Time]
+13-Sep-2023, 07:00 UTC 
+
+[End Date & Time]
+13-Sep-2023, 15:00 UTC
+
+[Work Location]
+LA POP, Makaha
+
+[Affected Circuits] 
+MNDL01I
+MNDL02J
+
+Event Summary]
+We are conducting planned network maintenance on our portion to resolve ongoing management reachability issues.
+
+[Expected Impact Duration]
+Services are in potential service-affecting conditions for 30 minutes.  However, we reserve the right to use the full duration of the MW in case of emergency.
+
+****************Maintenance Work detail****************
+
+We sincerely apologize for any inconvenience caused by this maintenance work.
+
+Kind Regards,
+Ibrahim | RTI NOC

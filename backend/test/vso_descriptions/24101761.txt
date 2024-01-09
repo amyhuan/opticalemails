@@ -1,0 +1,73 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Wednesday 7th June 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     CRQ000003221491
+
+         
+
+Scheduled Date                                   :      Wednesday 7th June 2023
+
+
+Maintenance Window                           :      07-06-2023  22:00 UTC to 08-06-2023  04:00 UTC
+
+ 
+
+Activity                                               :     Planned Maintenance Activity to clear High received span loss issue at EIG Segment S2.7 Rail Route
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                               :     Non Service Affecting
+                           
+Duration of Impact                              :     Circuit will be may observe switching hits during the Maintenance Window
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit Id
+
+Customer Name
+
+14211010
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Arpit Gangwar
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airte

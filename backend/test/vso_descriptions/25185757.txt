@@ -1,0 +1,75 @@
+Scheduled Maintenance #: 27510309
+
+Summary:
+
+Dear customer, we hereby inform you about this activity. We apologize for the inconvenience that this may cause.
+1. What is being done?
+Readjustment of the optical cable
+
+2. Why it is being done?
+Because the cable today goes through a different underground network
+
+3. In which site and address will the activity take place?
+Cuba Street, 336 and Cuba Street x Eliel Moreno Gomes Street - Hortolandia
+
+4. What is the benefit the clients being impacted (what do they get as a result)?
+For the customers involved in GCR no benefit, but for the company will be the activation of a new Node
+
+5. What is the actual impact (actual anticipated downtime)?
+6 hours
+
+If multiple devices, what is the anticipated downtime for each?
+1 hours
+
+cual es el riesgo que se produzca una afectacion mayor y cuanto es el tiempo de recuperaci�n?
+low risk, 1 hours
+
+6. What is the risk if it is not done on the date requested?
+The Node is not delivered on time
+
+We appreciate your understanding that allow us improve every day the supplying of the telecommunication services we provide you.
+
+
+Updates:
+
+2023-09-15 22:06:19 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27510309-1
+
+Start	End
+2023-09-23 03:00 GMT (Greenwich Mean Time)	2023-09-23 12:00 GMT (Greenwich Mean Time)
+2023-09-23 00:00 BRT (Brasilia Time)	2023-09-23 09:00 BRT (Brasilia Time)
+
+
+Maintenance Location(s): Hortolandia, sp Brazil
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION - 0204618249	500018889	81-138UWJ1	_	 	Avenida Pierre Simon de LaPlace,1211,Ascenty CP,CAMPINAS,SP-S�o Paulo,Brazil	Outage	6 hours	 
+MICROSOFT CORPORATION - 0204618249	'EON 1027494/88 - FRO006337859 - Dark Fiber - CID: 500018895'	N/A	_	 	Endere�o de Instala��o Avenida Pierre Simon de LaPlace, 1211 Campinas/SP CEP: 13069310	Outage	6 hours	 
+27510309-2
+
+Start	End
+2023-09-24 03:00 GMT (Greenwich Mean Time)	2023-09-24 12:00 GMT (Greenwich Mean Time)
+2023-09-24 00:00 BRT (Brasilia Time)	2023-09-24 09:00 BRT (Brasilia Time)
+
+
+Maintenance Location(s): Hortolandia, sp Brazil
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION - 0204618249	500018889	81-138UWJ1	_	 	Avenida Pierre Simon de LaPlace,1211,Ascenty CP,CAMPINAS,SP-S�o Paulo,Brazil	Outage	6 hours	 
+MICROSOFT CORPORATION - 0204618249	'EON 1027494/88 - FRO006337859 - Dark Fiber - CID: 500018895'	N/A	_	 	Endere�o de Instala��o Avenida Pierre Simon de LaPlace, 1211 Campinas/SP CEP: 13069310	Outage	6 hours	 
+
+
+Click here for immediate information on scheduled maintenances via the Customer Portal.
+
+Network Change Management Team
+Cirion
+Click here for Latin America contact numbers
+Change.Management@ciriontechnologies.com
+
+Cirion and its logos are registered trademarks of Cirion in the United States and other countries.
+Your privacy is important to us.
+Please review the Cirion Online Privacy Policy by clicking on:
+https://latam.my.level3.com/portal/assets/docs/termsandconditions_footer/en/Terms_and_Conditions.htm
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Cirion.

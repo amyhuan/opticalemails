@@ -1,0 +1,77 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019086
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to reconfigure network equipment. // Se realizará un trabajo programado con la finalidad de reconfigurar equipo de red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 150 MIN
+
+LOCATION // LOCALIDAD: Rio de Janeiro, Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+20-Apr-2023 03:00 - 20-Apr-2023 11:00 [Main Window]
+
+21-Apr-2023 03:00 - 21-Apr-2023 11:00 [Backup Window]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRM17621
+
+RIO/EQU-SAOPAULO/MSFT 100GB S001
+
+CRT-000687
+
+CRM18032
+
+RIO/EQU-SAOPAULO/MSFT 100GB S002
+
+CRT-000961
+
+RJ2/EQUINIX-SP2/MICROSOFT 100GB S003
+
+CRT-005247
+
+VIRGINIA/MSFT - RJ2/EQU 100GB S005
+
+CRT-006002
+
+VIRGINIA/MSFT - RJ2/EQU 100GB S006
+
+CRT-006003
+
+RJ2/EQU - ASCENTY/MSFT 100GB S003
+
+CRT-006086
+
+RJ2/EQU - ASCENTY/MSFT 100GB S004
+
+CRT-006087
+
+RIO /EQU SAOPAULO/MSFT 100GB S007
+
+CRT-007316
+
+RIO /EQU SAOPAULO/MSFT 100GB S008
+
+CRT-007317
+
+RIO/EQU SAOPAULO/MSFT 100GB S009
+
+CRT-010092
+
+RIO/EQU SAOPAULO/MSFT 100GB S010
+
+CRT-010093

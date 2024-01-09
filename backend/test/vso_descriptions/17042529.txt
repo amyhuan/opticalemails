@@ -1,0 +1,50 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Hardware Replacement (Line Module CHCC 1-A-2 SOFX) @ High Risk Due to Active Hardware Temperature Alarm
+
+The DWDM Card has been identified as High Priority (Recall Status) in High IXD Temperature Proactive Replacement during latest network scan by Infinera Vendor on 02-Feb-2023 and they recommend to replace as soon as practical due to a potential High IXD temperature alarm that may potentially cause circuits/hardware/circuit an Unplanned and longer outage anytime.
+
+
+Reference number
+PN296414
+
+
+Start time
+Thursday, 16 Feb 2023 09:00:00 (UTC)
+
+
+End time
+Thursday, 16 Feb 2023 11:30:00 (UTC)
+
+
+Service/s under maintenance
+SNG TOK EPL 9918488
+
+
+Expected impact
+20-30min outage within the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.

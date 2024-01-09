@@ -1,0 +1,54 @@
+PLANNED OUTAGE NOTIFICATION
+
+ 
+
+ 
+
+Service/s
+
+Voice, Data, Internet services will be affected
+
+Reason for outage
+
+One New Zealand is carrying out maintenance to its network
+
+Duration
+
+4x50msec switching breaks and up to 4 hours losss of diversity for protected circuits. Up to 4 hours loss of service for unprotected circuits, during the outage window and dates.
+
+Outage window START
+
+16/07/2023 22:00:00
+
+19/07/2023 22:00:00 - Back Up Day 1
+
+24/07/2023 22:00:00 - Back Up Day 2
+
+(dd/mm/yy  hh:mm)
+NZST
+
+Outage window END
+
+17/07/2023 02:00:00
+
+20/07/2023 02:00:00 - Back Up Day 1
+
+25/07/2023 02:00:00 - Back Up Day 2
+
+(dd/mm/yy  hh:mm)
+NZST
+
+Services Affected
+Circuit & Site
+
+INT23655647 - 5737 NE HUFFMAN STREET HILLSBRO HILLSBRO - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+INT23655648 - 5737 NE HUFFMAN STREET HILLSBRO HILLSBRO - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+INT23655649 - 5737 NE HUFFMAN STREET HILLSBRO HILLSBRO - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+INT23655650 - 7 PARKHEAD PLACE ROSEDALE NORTH SHORE CITY - Microsoft 6399 New Zealand Limited AP PO 100203114
+
+ 
+
+Please do not reply to this email. This mailbox is not monitored

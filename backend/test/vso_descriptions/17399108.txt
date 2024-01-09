@@ -1,0 +1,28 @@
+ervice/s
+
+Voice, Data, Internet services will be affected
+
+Reason for outage
+
+Vodafone is carrying out upgrades to its network
+
+Duration
+
+2x50msec switching breaks and up to 2 hours loss of diversity for protected circuits. Up to 2 hours loss of service for unprotected circuits, during the outage window.
+
+Outage window START
+
+17/03/2023 00:00:01
+
+24/03/2023 00:00:01 Back Up Start Date
+
+(dd/mm/yy  hh:mm)
+NZDT
+
+Outage window END
+
+17/03/2023 06:00:00
+
+24/03/2023 06:00:00 Back Up End Date
+
+(dd/mm/yy  hh:mm)

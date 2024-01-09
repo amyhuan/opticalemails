@@ -1,0 +1,20 @@
+[EXTERNAL] [GRIX-NOCS-ATH] Planned maintenance works on GR-IX backbone network [21/12/23]
+members-nocs-ath-request@lists.gr-ix.gr on behalf of Georgios Sotiriadis 
+​
+members-nocs@ath.gr-ix.gr;
+​
+​
+​
+helpdesk@gr-ix.gr
+​
+Dear GR-IX::Athens members,
+
+this is to inform you that there will be scheduled works on our fiber network that will cause interruption on the 2x10GE link between GR-IX nodes ATH01 (EIE) and ATH03 (TIS) and on the 200GE link between GR-IX nodes ATH02 (Digital Realty) and ATH03 (TIS). Due to over provision of our backbone links, we don't expect any issues regarding GR-IX traffic between the aforementioned nodes.
+
+Start date/time: 21/12/23, 09:00 (EET)
+End date/time: 21/12/23, 14:00 (EET)
+Should you have any questions, please do not hesitate to contact us.
+
+Kind regards,
+Georgios Sotiriadis
+GRNET Helpdesk

@@ -1,0 +1,23 @@
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00351085	2023-07-13 05:00:00	2023-07-13 23:00:00	0 Days 18 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+*MAINTENANCE RESCHEDULED*
+
+?En esta actividad se intervendrá el tramo Normandía - Fusagasugá, dado a la topología anillada de la red, no se presentará afectación de los servicios. La actividad se ejecutará con el fin de realizar certificación bidireccional del enlace Normandía - Fusagasugá correspondiente a las redes del anillo nacional y Globenet con el fin de realizar cambio de ruta (3.000m) por solicitud de la concesión vial VIA40 Express, por la construcción del tercer carril entre Bogotá y Girardot en el sector del Terminal de Transporte de Fusagasugá. Previamente se realizará la instalación del nuevo cable por donde se migrarán los servicios actuales. Certificación bidireccional del enlace Normandía - Fusagasugá correspondiente a las redes del anillo nacional y Globenet con el fin de identificar y corregir eventos altos (en caso de encontrarse) que están degradando los servicios actuales. 
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G

@@ -1,0 +1,36 @@
+Hello Team, ,                 Due to DCAT issues not allowing the correct room,   we are rescheduling this maintenance. Here is the new schedule, please update VSO 17583538. ,   ,   , Start Time (GMT):,  , 3/29/2023 7:00:00 AM, End Time (GMT):,  , 3/29/2023 12:00:00 PM, Maintenance Length:,  , 3 Hours , Start Time (PST):,  , 3/28/2023 11:00:00 PM, End Time (PST):,  , 3/29/2023 2:00:00 AM, Maintenance Length:,  , 3 Hours ,   , Thanks , Chris ,   , Hello Team, ,                 Due to DCAT issues not allowing the correct room,   we are rescheduling this maintenance. Here is the new schedule, please update VSO 17583538. ,   ,   , Start Time (GMT):,  , 3/22/2023 7:00:00 AM, End Time (GMT):,  , 3/22/2023 12:00:00 PM, Maintenance Length:,  , 3 Hours , Start Time (PST):,  , 3/21/2023 11:00:00 PM, End Time (PST):,  , 3/22/2023 2:00:00 AM, Maintenance Length:,  , 3 Hours ,   , Thanks , Chris , MOC-
+
+Start Time (PST): 3/19/2023 11:00:00 PM
+End Time (PST): 3/20/2023 2:00:00 AM
+Maintenance Length: 3 Hours
+Location: LSANCARCLAX6IDMS1681
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+We need to perform a maintenance to replace a failing AOLM We are requesting a 3-hour maintenance window. We have opened ticket 25168678 to track this work.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-BY21-SN6C-SWAN-0001-0::100GBE-1
+MSFT-BY21-SN6C-SWAN-0002-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0041-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0042-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0048-0::100GBE-1
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com

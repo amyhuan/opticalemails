@@ -1,0 +1,43 @@
+Mandatory Maintenance Window Notification
+
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on March 30, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-34343
+Notification date:	Tuesday, March 28, 2023
+Start date:	Thursday, March 30, 2023 - 12:00 am
+End date:	Thursday, March 30, 2023 - 6:00 am
+Time zone:	Central Daylight Time GMT-5
+Window time frame:	6 Hours
+Expected service outage:	6 Hours
+Event description:	Emergency repair of fiber segment in metropolitan area damaged and with detected degradation in order to prevent uncontrolled impacts on services and guarantee sustainability in the network. We will be working to give priority to reestablishing your services as soon as possible
+Location:	United States
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13807694
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13807695
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816933
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816934
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816935
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816936
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816937
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816938
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816939
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816940
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816941
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816942
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816943
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816944
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816945
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816946
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816947
+Private Line - Ethernet - 100 Gbps - Vymsa 1950 - ID:1-13816948
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net

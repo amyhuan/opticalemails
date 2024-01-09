@@ -1,0 +1,34 @@
+Equinix Fabric
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+134281	Equinix Fabric	CH1	-	14471974-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20776660	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21082373	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20776661	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21313698	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20455355-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	14472449-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20960315	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20455394-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	22181395-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21082997	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21815032	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20973381	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21324203	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21089741	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21089742	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21335406	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21335405	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21505629-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	14472454-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20776658-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21505703-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21196797	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21196731	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21505757	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	22181394	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21505755	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21930134-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	20776657-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21930135	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	21815035-A	-	-	-	-	-	-	-	-	-	-
+134281	Equinix Fabric	CH1	-	14471970-A

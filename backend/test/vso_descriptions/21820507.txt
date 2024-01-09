@@ -1,0 +1,51 @@
+[EXTERNAL] PARTNER PLANNED MAINTENANCE WORK : RFC-International_Partner-230510-0011 - MICROSOFT PAYMENTS
+Mohd Helmi Bin Khaidir
+Azure Network Operations Center;mocalert@microsoft.com;Amida Binti Othman
+INOC Data ;PMWNMCC 
+Dear ALL,
+ 
+
+Please take notice that our partner will perform maintenance work as below: 
+
+ 
+
+Event Type
+
+Fiber work due to 3rd Party/Public works.
+
+Date and Time
+
+Date Start: 21 MAY 2023 @ 0000 GMT+8 Date End: 21 MAY 2023 @ 0400 GMT+8
+
+Location Description
+
+SINGAPORE
+
+ 
+
+Maintenance Event No.:
+
+RFC-International_Partner-230126-0003
+
+ 
+
+Possible Outage:
+
+Downtime up to 180 minutes maximum
+
+ 
+
+Affected Customers:
+
+ 
+
+Service No
+
+Customer
+
+IE1042623732
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+IE1042623878
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD

@@ -1,0 +1,35 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018430
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to upgrade XTC-10 of the DTX-SNT-FP3-01 // Se realizará un trabajo programado con la finalidad de relizar la modernización de los XTC-10 del DTX-SNT-FP3-01.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 1 MIN
+
+LOCATION // LOCALIDAD: Santos, Brasil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+01-Mar-2023 03:00 - 01-Mar-2023 11:00 (MAIN)
+
+02-Mar-2023 03:00 - 02-Mar-2023 11:00 (BACKUP 1)
+
+03-Mar-2023 03:00 - 03-Mar-2023 11:00 (BACKUP 2)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+RIO/EQU SAOPAULO/MSFT 100GB S012
+
+CRT-010095

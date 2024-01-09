@@ -1,0 +1,73 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C137353
+
+ 
+
+Description
+
+Global Cloud Xchange will be carrying an emergency activity to clear network alarm at Dubai
+
+Location
+
+Dubai
+
+Duration
+
+At risk only
+
+Planned Start
+
+20-Feb-2023 04:00:00 GMT
+
+Planned End
+
+20-Feb-2023 12:00:00 GMT
+
+Back Up Start
+
+21-Feb-2023 04:00:00 GMT
+
+Back Up End
+
+21-Feb-2023 12:00:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5)
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351       
+
+Carrier References
+
+PE2023021740600
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 70945621
+ 
+
+Upgrade your world
+
+P Please consider the environment before printing this email.

@@ -1,0 +1,66 @@
+, Classification:,  , Internal,  ,   , Dear team, ,   , The activity has been rescheduled to 06:00 GMT to 10:00 GMT/ 01st August 2023 ,   ,   , Best Regards,,  ,  ,  , Saleem Abdulla,  , Consultant,  , Ooredoo Qatar,  , T:,  ,  ,  , M:,  , +974 70945621,  , Follow us on , Twitter,  and , Facebook,  , Ooredoo Supernet: The first 5G network in the world,  ,  ,  , P,  , Please consider the environment before printing this email.,  ,   ,   ,  ,  , Classification: Restricted
+
+ 
+
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C143758
+
+Description
+
+Planned work for card replacement to clear "Temperature out of range" alarm on SOFX 3-A-2 in Zafarana. (Ref NW TT : NW7275)
+
+Location
+
+Zafarana
+
+Duration/Impact
+
+Nature : Service Affecting
+
+Impact : Up to 2 Hours Downtime
+
+Planned Start
+
+07/19/23 06:00:00 GMT
+
+Planned End
+
+07/19/23 10:00:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille) 
+
+Carrier References
+
+PW3502
+
+ 
+
+Regards ,
+
+ 
+
+Fayis Neroth
+
+Consultant
+
+Ooredoo Qatar
+M: +974 74089340
+
+Follow us on Twitter and Facebook
+
+ 
+
+Upgrade your world
+
+This email has been classified as Restricted by Ooredoo GNOC Support on Wednesday, July 5, 2023 at 2:20:28 PM

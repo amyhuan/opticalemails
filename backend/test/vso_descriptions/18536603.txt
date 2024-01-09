@@ -1,0 +1,43 @@
+Change ID                                                 :    ITEM-052370
+
+         
+
+Scheduled Date                                         :     Thursday 11th May 2023
+
+
+Maintenance Window                                 :     11-05-2023 20:00 GMT to 12-05-2023 04:00 GMT
+
+ 
+
+Activity                                                     :     Cable replacement due to its damage
+
+ 
+
+Benefit of Change                                      :     To avoid unplanned outage in near future
+
+
+Impact                                                     :     Service Affecting
+                           
+Duration of Impact                                    :     Circuit will be down for 480min during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+12719838
+
+Microsoft Ireland Operations Ltd.

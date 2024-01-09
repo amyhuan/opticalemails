@@ -1,0 +1,30 @@
+Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Services & Operations Tel : +852-28291567
+Date : 03/08/2023 03:27:23 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3629\23C
+Date Time : 10/08/2023 15:00:00 to 10/08/2023 21:00:00 GMT (dd/mm/yyyy)
+Duration : 360 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+
+Outage Description : Telin to reconstruct of splicing joint and network upgrade at Kempas cabin
+
+Outage : hard down during the maintenance
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

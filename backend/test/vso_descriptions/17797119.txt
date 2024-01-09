@@ -1,0 +1,67 @@
+Dear Partners,
+
+ 
+
+Due to the constant improvement of the quality of our network, we would like to inform you that in the coming weeks we will update our network devices.
+
+ 
+
+We inform you about the planned work.
+
+ 
+
+Work details:
+ID:2290457
+Work title: Planned Work
+Break: 2023-04-18 01:00 UTC+2 - 2023-04-18 05:00 UTC+2
+Outage (min.): 120
+
+vlan
+
+idUslugi
+
+typ
+
+pasmo
+
+adresacjaV4
+
+AS
+
+adresacjaV6
+
+100
+
+H:MIC:IX:002
+
+ix
+
+100000
+
+195.149.232.50/23
+
+8075
+
+2001:7f8:27::8075:1
+
+ 
+
+H:MIC:PO:002
+
+port
+
+100000
+
+ 
+
+ 
+
+ 
+
+ 
+
+Please accept our apologies for any inconvenience caused. If you have any questions regarding the planned work, please contact us at spptp.swo@orange.com.
+
+ 
+
+Kind regard,

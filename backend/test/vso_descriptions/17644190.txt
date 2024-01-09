@@ -1,0 +1,31 @@
+Customer Name : MICROSOFT DATA CENTER HOLDINGS (HK)
+From : Global Services & Operations Tel : +852-28291567
+Date : 21/03/2023 06:28:32 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R1383\23C
+Date Time : 30/03/2023 17:00:00 to 30/03/2023 23:00:00 GMT (dd/mm/yyyy)
+Duration : 1 mins
+Service/Circuit Affected :
+SR153502 / HKG(PCG)-SEL(PCG) EP5639 /
+SR152897 / HKG(PCG)-SEL(PCG) EP5638 /
+
+Outage Description : SK Broadband Maintenance work
+
+Outage : < 01 min
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

@@ -1,0 +1,36 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft 1968 South Africa (Pty) Limited
+Ticket Number	WIOCCEW137977
+External Ref	
+Incident Start Date/Time	07/08/2023 0:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Rescheduled - Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C170-0031	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0032	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0033	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+Most Recent Message:
+
+Please take note of the scheduled maintenance activity detailed below:
+
+Maintenance Window
+Start Date / Time: 7th Aug 2023 00:00 UTC
+End Date / Time: 7th Aug 2023 06:00 UTC
+
+Backup Maintenance Window
+Start Date / Time: 8th Aug 2023 00:00 UTC
+End Date / Time: 8th Aug 2023 06:00 UTC
+
+Impact on Service(s)
+30 mins downtime
+
+Description of Works
+Traffic migration as part of the WACs system upgrade activity

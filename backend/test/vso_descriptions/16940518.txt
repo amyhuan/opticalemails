@@ -1,0 +1,126 @@
+Dear Valued Customer,
+
+ 
+
+Thank you for your continuous support towards TM.
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+ 
+
+cid:image001.png@01D719AF.9F452900
+
+TM Urgent Maintenance
+
+ 
+
+ 
+
+Title                            
+
+CONFIGURATION/MIGRATION SWAPPING CORE FOR ROUTE DWDM FOR MICROSOFT.
+
+ 
+
+Note : The maintenance need to be done as the cable/system at high risk and could cause serious breakdown and longer mean time to repair.
+
+ 
+
+ 
+
+  Location                      
+
+  JOHORE ( SOUTHERN )
+
+ 
+
+ 
+
+ 
+
+Urgent Event Number  
+
+RFC-CORE_Transmission-230120-0002
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maintenance Start Date        
+
+2023-02-07 19:00 MYT
+
+2023-02-07 11:00 GMT
+
+Maintenance End Date
+
+2023-02-08 02:00 MYT
+
+2023-02-07 18:00 GMT
+
+ 
+
+ 
+
+ 
+
+Possible Outage
+
+3 HOURS
+
+ 
+
+ 
+
+ 
+
+ 
+
+Circuit Involved 
+
+ 
+
+ 
+
+ 
+
+Customer
+
+Network Id
+
+MICROSOFT OPERATIONS PTE LTD
+
+IE1066951294  , IE1067189356,  ,  ,  We would like to apologize for any inconvenience this may cause.
+
+Please do not hesitate to share your queries about this planned maintenance activity by email to pmw.nmcc@tm.com.my  or 0383185731/0383179600/1-800-88-9947 or contact TM Wholesale Contact Centre at
+
+1-800-88-1090 or 60383182797 (for international)   
+
+ 
+
+Your cooperation and support is highly needed and appreciated.
+
+ 
+
+NOC Leading Change, Driving Transformation
+
+ 
+
+Thanks and best regards,  
+
+
+Nur Hasyikim Mat Yusop,
+Workteam CM Notification (International)
+
+Operation Performance & Change Management
+
+Section Operations Quality Assurance
+
+Network Operation Command Center, NOC.

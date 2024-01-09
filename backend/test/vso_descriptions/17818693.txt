@@ -1,0 +1,63 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned change scheduled between De Aar and Merriman on the 15th April 2023 from 09:00 - 16:00 (GMT: +02:00). To splice 4 fiber joints on 24 core fiber cable on the De Aar to Merriman section.
+
+ 
+
+IMPACT: Service will be down for a maximum duration of 4hrs.
+
+ 
+
+Affected  Service:
+
+ 
+
+027MIDR292013677915
+
+027CAPE292014221287
+
+027CAPE292014221297
+
+027CAPE292014221307
+
+027CAPE292014221292
+
+027CAPE292014221302
+
+027CAPE292014221312
+
+027MIDR292013956863
+
+027CAPE292014066891
+
+027CAPE292014066899
+
+027MIDR292014077302
+
+ 
+
+Reason for Change:
+
+ 
+
+To splice 4 fiber joints on 24 core fiber cable on the De Aar to Merriman section
+
+ 
+
+Implementation plan
+
+ 
+
+The technicians will prepare fibre and fibre joints.
+Splice the fibre as per service priority.
+The NOC will confirm service restoration.
+ 
+
+Rollback Plan:
+
+ 
+
+In the event of issues, technicians will re-splice the fibres.
+The NOC will confirm service restoration.

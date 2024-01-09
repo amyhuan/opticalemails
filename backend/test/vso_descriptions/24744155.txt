@@ -1,0 +1,22 @@
+Dear Change Fortaleza, 
+In order to increasingly improve the quality of our services, we will carry out a maintenance activity that can be monitored via ticket number CHG0172527.
+
+
+This is a corrective planned maintenance procedure on Ascenty's fiber optic network to replace the optical splice box.
+
+
+Does this maintenance predict any impact?
+ID ASCENTY	CUSTOMER	RATE (MBPS)	OPERATOR	OPERATOR ID	IMPACT
+ASCT-DF003/18.2	MICROSOFT	0			Offline circuit
+ASCT-DF003/71.1	MICROSOFT	0			Offline circuit
+ASCT-DF003/18.3	MICROSOFT	0			Offline circuit
+ASCT-DF003/79.1	MICROSOFT	0			Offline circuit
+ASCT-DF003/18.4	MICROSOFT	0			Offline circuit
+ASCT-DF003/18.1	MICROSOFT	0			Offline circuit
+ASCT-DF003/18.5	MICROSOFT	0			Offline circuit
+When will maintenance take place?
+START DATE	START TIME (GMT-3)	END DATE	END TIME (GMT-3)
+21-AUG-2023	22:00:00	22-AUG-2023	08:00:00
+Thanks in advance for your attention and understanding.
+
+Please note that this is a no-reply and automatic email. To talk to Ascenty about this maintenance, please contact us through our customer service channels.

@@ -1,0 +1,23 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018321
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to perform a node updgrade. // Se realizará un trabajo programado con el fin de realizar upgrade de nodos.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 15 MIN
+
+LOCATION // LOCALIDAD: Boca Raton, USA - Fortaleza, Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+28-Feb-2023 13:00 - 28-Feb-2023 21:00 (Main Window)
+
+01-Mar-2023 13:00 - 01-Mar-2023 21:00 (Backup Window 1)
+
+02-Mar-2023 13:00 - 02-Mar-2023 21:00 (Backup Window 2)

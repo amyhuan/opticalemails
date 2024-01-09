@@ -1,0 +1,63 @@
+Dear user, 
+
+It is a pleasure to greet you and at the same time we take the opportunity to notify you, that on February 24 of this year, a Maintenance Window will be being made, we include the details of the work to be done: 
+
+ 
+
+Objective: A scheduled work will be performed in order to relocate fiber cable. 
+
+
+Estimated time of service impairment:  04:00 hours.  
+
+Affected Services: 
+
+Work 
+
+Start Date 
+
+Start DCOMCNS@microsoft.com; moc@microsoft.com
+Hour 
+
+Finish Date 
+
+Finish Hour 
+
+Window Duration 
+
+Affected Service(s) 
+
+ 
+
+Scheduled 
+
+Maintenance Window 
+
+02/24/2023 
+
+ 
+
+23:00 hours (GMT-6) 
+
+02/25/2023 
+
+ 
+
+05:00 hours (GMT-6) 
+
+06:00 hours 
+
+COUSMIC10053789C | Microsoft Corporation 
+
+COUSMIC10053790C | Microsoft Corporation 
+
+ 
+
+ 
+
+“the information or answer is not received in 72 hours; the activity will be accepted as accepted.” 
+
+ 
+
+We thank you in advance to take note of the above and proceed with the notification to the final client. 
+
+On behalf of UFINET, we offer our sincerely apologize for any inconvenience this work may cause to your operations. We thank you in advance for your understanding.

@@ -1,0 +1,33 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Global Cloud Xchange will be carrying planned activity to clear the High fiber Loss alarm at Ramsis.
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	22-Mar-2023 09:00	22-Mar-2023 10:00	23-Mar-2023 09:00	23-Mar-2023 10:00
+
+
+Service ID	Impact
+RGBO4TA134	At Risk
+RGBO4TA133	At Risk
+RGWLS16746	At Risk
+RGWLS16739	At Risk
+RGWLS31148	At Risk
+RGWLS31147	At Risk
+RGWLS31146	At Risk
+RGWLS31145	At Risk
+RGWLS31144	At Risk
+RGWLS31143	At Risk
+RGWLS31142	At Risk
+RGWLS31130	At Risk
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Vishal Parab
+Change Management, Global Network Operations Center
+D +91-22 303 86074
+M:+91 9702427917
+vvparab@globalcloudxchange.com

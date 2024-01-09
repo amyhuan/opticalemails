@@ -1,0 +1,40 @@
+For Equinix customers,
+
+Date: 18-MAR-2023 - 19-MAR-2023
+
+SPAN: 18-MAR-2023 - 19-MAR-2023
+
+LOCAL : SATURDAY, 18 MAR 08:00 - SAT, 18 MAR 20:00
+UTC : FRIDAY, 17 MAR 23:00 - SATDAY, 18 MAR 11:00
+
+LOCAL : SUNDAY, 19 MAR 08:00 - SUNDAY, 19 MAR 20:00
+UTC: SATURDAY, 18 MAR 23:00 - SUNDAY, 19 MAR 11:00
+
+IBX: TY4
+
+Explanation: In the building where TY4 is located, periodic inspections of electrical equipment courts will be conducted. There will be no shutdown of air conditioning and lighting equipment used for the TY4 data center service. In addition, power supply to customer equipment continues from the UPS, and the generator can operate as usual. Therefore, customer service due to such maintenance will not be affected. Thank you for your understanding and cooperation.
+
+
+Perform maintenance work on the equipment to which the following circuits are connected.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+136451	000130	0101	14483348.1	Primary
+136451	000130	0101	14483346.1	Redundant
+136451	000130	0102	14483347.1	Primary
+136451	000130	0102	14483306.1	Redundant
+136451	000130	0103	22262482	Primary
+136451	000130	0103	22262486	Primary
+136451	000130	0103	22262487	Primary
+136451	000130	0103	22262478	Redundant
+136451	000130	0103	22262479	Redundant
+136451	000130	0103	22262483	Redundant
+136451	000130	0104	14482898.1	Primary
+136451	000130	0104	22262480	Primary
+136451	000130	0104	22262484	Primary
+136451	000130	0104	14482945.1	Redundant
+136451	000130	0104	22262481	Redundant
+136451	000130	0104	22262485	Redundant
+
+
+
+During this period, all services (Smart Hands, installation process, application for admission, etc.) will continue as usual.

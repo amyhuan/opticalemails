@@ -1,0 +1,89 @@
+Dear Customer,
+
+ 
+
+ 
+
+Please see the below-Planned maintenance:
+
+ 
+
+*Donghwa Statement
+
+Donghwa Planned Maintenance Notice
+
+東華計劃性維運通知單
+
+Circuit ID
+
+MS-0019
+
+MS-0020
+
+ Ticket Number
+
+MS20230323004
+
+ Start Date/Time
+
+Start Date (16/Apr/2023) Start Time (16:00) GMT
+
+Start Date (17/Apr/2023) Start Time (00:00) HKT
+
+ 開始時間
+
+ End Date/Time
+
+End Date (16/Apr/2023) End Time (22:00) GMT
+
+End Date (17/Apr/2023) End Time (06:00) HKT
+
+ 結束時間
+
+ Operate Time
+
+6 hrs
+
+ 維運時間
+
+ Impact / Location
+
+Within 15 mins / Network tech refresh
+
+ 影響地點
+
+ Maintenance Reason
+
+Provider will migrate existing services to new DWDM system for their network tech refresh
+
+ 維運原因
+
+ 
+
+ 
+
+    Please feel free to contact our NOC if you have any question and team will share the information at the earliest.
+
+    We seek your cooperation in completing this activity. We regret for any inconvenience this work may cause you and your customers.
+
+ 
+
+ 
+
+Best Regards,
+
+======================
+
+Hanson Leung
+
+Donghwa Telecom Co. Ltd
+
+Unit A, 7/F, Tower A, Billion Centre, 1 Wang Kwong Road,
+
+Kowloon Bay, Kowloon, Hong Kong.
+
+Tel: (+852) 3586 2622
+
+Fax: (+852) 3586 3936
+
+E-mail: hanson@donghwatele.com

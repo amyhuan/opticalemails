@@ -1,0 +1,52 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1632413
+
+
+Work Start Date/Time:  16-05-2023 00:01:00 AEST
+
+Work End Date/Time:     16-05-2023 06:00:00 AEST
+      
+
+Location:            Brisbane To Toowoomba, QLD
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+Planned Fibre works for Migration.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE190179	Vocus Wavelength (AUD)
+VWE190177	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

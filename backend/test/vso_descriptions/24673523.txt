@@ -1,0 +1,108 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Saturday 12th Aug 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                       :    CRQ000003306375
+
+         
+
+Scheduled Date                                :    Saturday 12th Aug 2023
+
+
+Maintenance Window 1                      :    20:00 UTC on 12-AUG-2023 to 6:00 UTC on 13-Aug-2023
+
+ 
+
+Backup Window                                :    20:00 UTC on 13-AUG-2023 to 6:00 UTC on 14-Aug-2023
+
+ 
+
+Activity                                            :    SWM4  || Planned work to implement the SMW4 UPG6 Traffic impacting Coupler insertion in JED-SUZ Express DLS activity
+
+ 
+
+Benefit of Change                             :    To avoid unplanned outage in near future
+
+
+Impact                                            :     Service Affecting
+                           
+Duration of Impact                           :     Below mentioned circuit will go down & protected services will get Switching hits during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+LSI
+
+Customer
+
+MIRL-IN-1824730
+
+14210994
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824739
+
+14211005
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824738
+
+14211006
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824741
+
+14211008
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824736
+
+14211010
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824737
+
+14211011
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824740
+
+14211009
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824742
+
+14211007
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.

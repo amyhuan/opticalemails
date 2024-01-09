@@ -1,0 +1,25 @@
+Dear Customer,
+
+You are receiving this message as an advance notice of Planned Maintenance which will impact the service provided to you at MICRMOD01SN071A.
+
+Maintenance Date:
+Start:  2023-06-06     05:00 ( GMT )
+End:   2023-06-06     11:00 ( GMT )
+Duration: 6 hours
+Impact:Downtime: 6 hours.
+
+Location: BRYAN, TX UNITED STATES
+
+Reason: Lumen's 3rd party provider will perform maintenance within their network. This has been designated as ESSENTIAL. The nature of this work is to implement a fiber maintenance and is required in order to improve network reliability.
+
+Apologize in advance for any inconvenience this might cause.
+
+Respectfully,
+
+
+
+Solaimani Balasubramanian
+
+MODMC Support
+support@modmc.net
+(877) 364-8080 24/7 NOC

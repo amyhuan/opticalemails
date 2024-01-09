@@ -1,0 +1,79 @@
+Dear Customer,
+
+ 
+
+ 
+
+Please see the below-Planned maintenance:
+
+ 
+
+*Donghwa Statement
+
+Donghwa Planned Maintenance Notice
+
+東華計劃性維運通知單
+
+Circuit ID
+
+MS-0041
+
+MS-0035
+
+MS-0036
+
+MS-0037
+
+ Ticket Number
+
+MS20230327005
+
+ Start Date/Time
+
+Start Date (10/Apr/2023) Start Time (02:00) GMT
+
+Start Date (10/Apr/2023) Start Time (10:00) HKT
+
+ 開始時間
+
+ End Date/Time
+
+End Date (27/Apr/2023) End Time (16:00) GMT
+
+End Date (28/Apr/2023) End Time (00:00) HKT
+
+ 結束時間
+
+ Operate Time
+
+17 days
+
+ 維運時間
+
+ Impact / Location
+
+All circuits will be down from 10 Apr to 28 Apr 23 / Tuas - Chikura
+
+ 影響地點
+
+ Maintenance Reason
+
+Partner will perform UG#4.3 DLS 3.1 PHASE 2.2 for the activities of New 22x400G channel insertion and Traffic Migration 52x100G + 100x10G.
+
+ 
+
+All existing DLS 3.1 channel 52x100G + 100x10G UG2.1/3.0/3.1/3.2/3.3 will be down/deactivated during this maintenance window from 10-28 April’23 10.00AM SGT to 00.00AM SGT.
+
+ 
+
+Action to be done
+
+Procedures:
+
+a.      Remove existing channel 52x100G + 100x10G (gradually*) and insert new 22x400G channels (gradually*) at Tuas and Chikura Hill. Gradually*  = By gradually, it means partner will replace/remove each existing four channels with one new 400G channel, one at a time.
+
+b.      Power Optimization of new 400G channels
+
+c.      Traffic Migration - Reconnect ODF client ports from existing channel to new 400G channel.
+
+ 維運原因

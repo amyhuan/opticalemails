@@ -1,0 +1,84 @@
+Dear All,, Dear Customer,, Please note that subject cable work has been rescheduled and will be carried out on August 20, 2023 @ 0100-1300 Hrs (UAE Time)., Activity Details ,  , CR-000000861405>POHC for M-422> SHD - BXT(WC) 200F ULL Cable (Rationalization Project) ,  , Maintenance Window ,  , Start: <04/06/2023 1:00 AM> (UAE Local time GMT+4), End: <04/06/2023 1:00 PM> (UAE Local time GMT+4) ,  , Service Impact ,  , Unprotected traffic working thru affected sections will remain out thru out activity. ,  , Emergency Contact ,  , IMC Contact: + 971 800 4762, +971 6 703 7119 ,  , Service Details ,  , Circuit Designation: JDC/MICROSOFT-KHI/PTCL/IMW 10GE02, Service ID: I60460, SOF: IS CC Lease ? 1528, Protection: Protected, Circuit Designation: BAH/FOG/BTC-FJN/SHB/GOOGLE 10GE02, Service ID: I62670, SOF: IS CC L 1648, Protection: Unprotected, Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE02, Service ID: I60187, SOF: IS SL 1504, Protection: Protected, Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES03 (M) - 1444057932, Service ID: N57967, SOF: IS Emix P 1320, Protection: Unprotected, Diversity Requirements: Yes, Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES04 (M) - 1444057933, Service ID: N57967, SOF: IS Emix P 1320, Protection: Unprotected, Diversity Requirements: Yes, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01, Service ID: I61529, SOF: IS SL 1587, Protection: Protected, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02, Service ID: I61529, SOF: IS SL 1587, Intl Submarine ID: FUJ/MAR/100GBE/006/M, Protection: Protected, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03, Service ID: I65366, SOF: IS SL 1784, Intl Submarine ID: FUJ/MAR/100GBE/009/M, Protection: Unprotected, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04, Service ID: I65366, SOF: IS SL 1784, Intl Submarine ID: FUJ/MAR/100GBE/010/M, Protection: Unprotected, Circuit Designation: JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02, Service ID: I60460, SOF: IS CC Lease ? 1528, Protection: Protected, Note: For any restoration request, please approach the below sales account owner., IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com),  ,  , Important Note ,  ,  ,  , Dear All,, Dear Customer,, Please note that subject cable work has been rescheduled and to be carried out on July 23, 2023 @ 0100-1300 Hrs., Activity Details ,  , CR-000000861405>POHC for M-422> SHD - BXT(WC) 200F ULL Cable (Rationalization Project) ,  , Maintenance Window ,  , Start: <04/06/2023 1:00 AM> (UAE Local time GMT+4), End: <04/06/2023 1:00 PM> (UAE Local time GMT+4) ,  , Service Impact ,  , Unprotected traffic working thru affected sections will remain out thru out activity. ,  , Emergency Contact ,  , IMC Contact: + 971 800 4762, +971 6 703 7119 ,  , Service Details ,  , Circuit Designation: JDC/MICROSOFT-KHI/PTCL/IMW 10GE02, Service ID: I60460, SOF: IS CC Lease ? 1528, Protection: Protected, Circuit Designation: BAH/FOG/BTC-FJN/SHB/GOOGLE 10GE02, Service ID: I62670, SOF: IS CC L 1648, Protection: Unprotected, Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE01, Service ID: I60187, SOF: IS SL 1504, Intl Submarine ID: FUJ/MUM/100G/0505, Protection: Protected, Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE02, Service ID: I60187, SOF: IS SL 1504, Protection: Protected, Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES03 (M) - 1444057932, Service ID: N57967, SOF: IS Emix P 1320, Protection: Unprotected, Diversity Requirements: Yes, Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES04 (M) - 1444057933, Service ID: N57967, SOF: IS Emix P 1320, Protection: Unprotected, Diversity Requirements: Yes, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01, Service ID: I61529, SOF: IS SL 1587, Protection: Protected, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02, Service ID: I61529, SOF: IS SL 1587, Intl Submarine ID: FUJ/MAR/100GBE/006/M, Protection: Protected, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03, Service ID: I65366, SOF: IS SL 1784, Intl Submarine ID: FUJ/MAR/100GBE/009/M, Protection: Unprotected, Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04, Service ID: I65366, SOF: IS SL 1784, Intl Submarine ID: FUJ/MAR/100GBE/010/M, Protection: Unprotected, Circuit Designation: JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02, Service ID: I60460, SOF: IS CC Lease ? 1528, Protection: Protected, Note: For any restoration request, please approach the below sales account owner., IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com),  ,  , Important Note ,  ,  ,  , Should you have any further enquiries about this activity, please let us know., We apologize for any disruption this activity may cause.,  ,  , Dear All,
+
+Please be informed that due to planned maintenance work in our network, below mentioned circuits will be affected as per below schedule.
+
+The details of the activity are provided below along with the possible effect on your services.
+
+Activity Details
+CR-000000861405>POHC for M-422> SHD - BXT(WC) 200F ULL Cable (Rationalization Project)
+Maintenance Window
+Start:  (UAE Local time GMT+4)
+End:  (UAE Local time GMT+4)
+Service Impact
+Unprotected traffic working thru affected sections will remain out thru out activity.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/IMW 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Circuit Designation: BAH/FOG/BTC-FJN/SHB/GOOGLE 10GE02
+Service ID: I62670
+SOF: IS CC L 1648
+Protection: Unprotected
+
+Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE01
+Service ID: I60187
+SOF: IS SL 1504
+Intl Submarine ID: FUJ/MUM/100G/0505
+Protection: Protected
+
+Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE02
+Service ID: I60187
+SOF: IS SL 1504
+Protection: Protected
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES03 (M) - 1444057932
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES04 (M) - 1444057933
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01
+Service ID: I61529
+SOF: IS SL 1587
+Protection: Protected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02
+Service ID: I61529
+SOF: IS SL 1587
+Intl Submarine ID: FUJ/MAR/100GBE/006/M
+Protection: Protected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03
+Service ID: I65366
+SOF: IS SL 1784
+Intl Submarine ID: FUJ/MAR/100GBE/009/M
+Protection: Unprotected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04
+Service ID: I65366
+SOF: IS SL 1784
+Intl Submarine ID: FUJ/MAR/100GBE/010/M
+Protection: Unprotected
+
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note
+
+Should you have any further enquiries about this activity, please let us know.
+
+We apologize for any disruption this activity may cause.

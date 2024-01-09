@@ -1,0 +1,39 @@
+Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noreply@exainfra.net,noreply@exainfra.net,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00172271 - Rescheduled
+Please note that the Planned Work is rescheduled. Please see details of the work and impact on your service below.
+
+
+Reschedule Reason:
+Dear customer , Please be advised that due to unforeseen condition, primary date is rescheduled . Rest details remain unchanged.
+
+
+Details:
+Start	- Wed Feb 01 23:00:00 GMT 2023
+End	- Thu Feb 02 05:00:00 GMT 2023
+Backup Start	- Thu Feb 09 23:00:00 GMT 2023
+Backup End	- Fri Feb 10 05:00:00 GMT 2023
+Location	Southport, UK
+
+Planned work Reason:
+Spectrum optimization works on our network in Southport, UK
+
+
+
+Affected Services :
+Service Id	Legacy Id	Service Type	Expected Impact to your service	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/121496	HI/Wavelength/00697199	Wavelength	60 min	No	Mnc-011_MAN1H	Slough - 13 Liverpool Rd	00172520
+MICRSI/WAVE/U/121503	GTT/002107753	Wavelength	60 min	No	Lon-256_LON256IR	Mnc-011_MAN1H	00172524
+MICRSI/WAVE/U/121502	GTT/002107744	Wavelength	60 min	No	Lon-256_LON256IR	Mnc-011_MAN1H	00172526
+
+
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

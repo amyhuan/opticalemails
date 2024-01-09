@@ -1,0 +1,21 @@
+[You don't often get email from hiroki-yamada@iij.ad.jp. Learn why this is important at https://aka.ms/LearnAboutSenderIdentification
+Protect yourself from phishing - Microsoft Support
+Learn how to identify a phishing scam, designed to steal money via fake emails.
+aka.ms
+]
+
+Dear noc,
+
+This is IIJ/AS2497 NOC.
+We will be performing a scheduled maintenance.
+During the window, BGP session and interface will be down.
+
+ASN        : 2497
+IP address : 198.32.160.42 (NYIIX)
+             2001:504:1::a500:2497:1 (NYIIX)
+Start time : 2023-08-03 09:00 (UTC)
+end time   : 2023-08-03 13:00 (UTC)
+
+We apologize for the inconvenience.
+
+Best regards,

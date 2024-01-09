@@ -1,0 +1,213 @@
+Dear team,
+
+ 
+
+Please be informed that we has received an planned activity from provider Omantel and the activity details are mentioned below.
+
+ 
+
+Impact
+
+Service Affecting
+
+Activity Details
+
+Interxion | PW to divert a cable hosting your services in Marseille between MRS1 & MRS2 due to civil works for the construction of the new tramway
+
+Circuit List
+
+Mentioned below
+
+Remarks
+
+Traffic will be Impacted for 2hr during each maintenance window.
+
+ 
+
+Circuit IDs
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+ 
+
+ 
+
+Location
+
+Provider ref
+
+Start Date
+
+End Date
+
+Impact duration
+
+MRS1
+
+PW3257
+
+27 MAR 2023 20:00 UTC
+
+28 MAR 2023 04:00 UTC
+
+2hr
+
+MRS2
+
+PW3258
+
+27 MAR 2023 20:00 UTC
+
+28 MAR 2023 04:00 UTC
+
+2hr
+
+MRS1
+
+PW3273
+
+28 MAR 2023 20:00 UTC
+
+29 MAR 2023 04:00 UTC
+
+2hr
+
+MRS2
+
+PW3272
+
+28 MAR 2023 20:00 UTC
+
+29 MAR 2023 04:00 UTC
+
+2hr
+
+MRS1
+
+PW3288
+
+29 MAR 2023 20:00 UTC
+
+30 MAR 2023 04:00 UTC
+
+2hr
+
+MRS2
+
+PW3289
+
+29 MAR 2023 20:00 UTC
+
+30 MAR 2023 04:00 UTC
+
+2hr
+
+MRS2
+
+PW3260
+
+03 APR 2023 21:00 UTC
+
+04 APR 2023 05:00 UTC
+
+2hr
+
+MRS1
+
+PW3285
+
+04 APR 2023 21:00 UTC
+
+05 APR 2023 05:00 UTC
+
+2hr
+
+MRS2
+
+PW3286
+
+04 APR 2023 21:00 UTC
+
+05 APR 2023 05:00 UTC
+
+2hr
+
+MRS1
+
+PW3287
+
+05 APR 2023 21:00 UTC
+
+06 APR 2023 05:00 UTC
+
+2hr
+
+MRS2
+
+PW3259
+
+05 APR 2023 21:00 UTC
+
+06 APR 2023 05:00 UTC
+
+2hr
+
+MRS1
+
+PW3270
+
+06 APR 2023 21:00 UTC
+
+07 APR 2023 05:00 UTC
+
+2hr
+
+MRS2
+
+PW3261
+
+06 APR 2023 21:00 UTC
+
+07 APR 2023 05:00 UTC
+
+2hr
+
+MRS1
+
+PW3269
+
+10 APR 2023 21:00 UTC
+
+11 APR 2023 05:00 UTC
+
+2hr
+
+MRS2
+
+PW3268
+
+10 APR 2023 21:00 UTC
+
+11 APR 2023 05:00 UTC
+
+2hr
+
+MRS2
+
+PW3267
+
+11 APR 2023 21:00 UTC
+
+12 APR 2023 05:00 UTC
+
+2hr
+
+MRS1
+
+PW3265
+
+12 APR 2023 21:00 UTC
+
+13 APR 2023 05:00 UTC
+
+2hr

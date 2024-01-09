@@ -1,0 +1,38 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006607042
+
+Urgency: Demand
+
+Date Notice Sent: 21-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+22-Mar-2023 00:01 to 22-Mar-2023 05:00 ( Pacific )
+22-Mar-2023 07:01 to 22-Mar-2023 12:00 ( GMT )
+
+2nd Activity Date
+23-Mar-2023 00:01 to 23-Mar-2023 05:00 ( Pacific )
+23-Mar-2023 07:01 to 23-Mar-2023 12:00 ( GMT )
+
+3rd Activity Date
+24-Mar-2023 00:01 to 24-Mar-2023 05:00 ( Pacific )
+24-Mar-2023 07:01 to 24-Mar-2023 12:00 ( GMT )
+
+Location of Maintenance: 55 Marietta St NW, Atlanta, GA
+
+Reason for Maintenance: Zayo to perform demand maintenance in order to clean out man hole affected by sewage in order to prevent damage to splice case and potential prolonged outage
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+FBDK/812212/008/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/009/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/2047722/001/ZFS	No Expected Impact	180 Peachtree St NW Atlanta, GA. USA	1101 Donnelly Ave SW Atlanta, GA. USA	
+OGYX/172008//ZYO	No Expected Impact	12012 Sunset Hills Rd Reston, VA. USA	9554 Westover Hills Blvd - SN6 San Antonio, TX. USA	OGYX/172008//ZYO

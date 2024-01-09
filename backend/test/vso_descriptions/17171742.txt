@@ -1,0 +1,13 @@
+Planned Outage Reschedule Notification
+ 
+Dear Sir or Madam,
+
+This announced maintenance has been rescheduled to a new start date and time as mentioned in the below notification. We apologize for any resulting inconvenience and assure you of our efforts to minimise any service disruption. To view this, and all other planned maintenance on your services, or if you require any assistance, please contact us via the Colt Online Portal http://online.colt.net. Alternatively, email us to PlannedWorks@colt.net, quoting the following reference number CRQ1-57038934985. Please retain this unique reference for the maintenance.
+ 
+
+Planned Works Details:
+
+Planned Work (PW) Ref.: CRQ1-57038934985
+Start Date & Time:   25/2/2023 23:00:00 (GMT)*
+End Date & Time:    26/2/2023 07:00:00 (GMT)*
+Outage Duration:     420 Minutes , Circuit ID , LON/NLD/WL-065923 , LON/NLD/WL-065925 , LON/NLD/WL-065928 , LON/NLD/WL-065924 , LON/NLD/WL-065936 , LON/NLD/WL-065919 , LON/NLD/WL-065911 , LON/NLD/WL-065933 , LON/NLD/WL-065880 , LON/NLD/WL-065883 , LON/NLD/WL-065932 , LON/NLD/WL-065912 , LON/NLD/WL-065927 , LON/NLD/WL-065881 , LON/NLD/WL-065916 , LON/NLD/WL-065938 , LON/NLD/WL-065915 , LON/NLD/WL-065935 , LON/NLD/WL-065913 , LON/NLD/WL-065917 , LON/NLD/WL-065941 , LON/NLD/WL-065922 , LON/NLD/WL-065920 , LON/NLD/WL-065934 , LON/NLD/WL-065882 , LON/NLD/WL-065926 , LON/NLD/WL-065921 , LON/NLD/WL-065931 , LON/NLD/WL-065939 , LON/NLD/WL-065918 , LON/NLD/WL-065930 , LON/NLD/WL-065940 , LON/NLD/WL-065914 , LON/NLD/WL-065937 , LON/NLD/WL-065929 , LON/NLD/WL-065910 ,  ,  ,

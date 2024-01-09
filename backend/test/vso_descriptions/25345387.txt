@@ -1,0 +1,26 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U3133\23B
+Date Time : 08/10/2023 15:00:00 to 08/10/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 420 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+
+Outage Description : Urgent Fiber Restoration Planned Event: To replace temporary overhead fiber cable 750 meter at Jalan Pontian, SRO-East.
+
+Impact: 7 hours outage
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Customer Service Center
+Global Services & Operations
+PCCW Global

@@ -1,0 +1,73 @@
+Dear Sir/Madam,
+
+ 
+
+RE: NOTIFICATION ON PLANNED EVENT MAINTENANCE
+
+ 
+
+We would like to bring to your attention of Planned Event (PE) exercise that we will be carrying out as per below. 
+
+ 
+
+Objective:
+
+ 
+
+Fault Restoration Planned Event: To troubleshoot and card reset due to recurring alarm at Pontian Kecil node. The details of this PE are as follows:
+
+ 
+
+Planned Event Start Date/Time
+
+09 March 2023 00:00hrs  (GMT+8)
+
+Planned Event End Date/Time
+
+09 March 2023 06:00hrs  (GMT+8)
+
+Downtime
+
+2 hours
+
+ 
+
+Service(s) Affected
+
+ 
+
+Service
+
+Customer Name
+
+LL034505
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD
+
+LL036158
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD
+
+ 
+
+We wish to express our regret for any inconvenience this planned event may cause.  We thank you for your cooperation and understanding in the matter.  We will continue to strive to improve our level of service and we look forward to your continued support of TIME dotcom. 
+
+ 
+
+Please do not hesitate to contact us at 1800-188-881 or +603 5033 8700 or email to soc@time.com.my for further assistance or clarification.
+
+ 
+
+Thank you.
+
+ 
+
+Regards,
+
+ 
+
+Siti Aishah Yosop
+
+Change Management
+
+TIME dotCom Berhad

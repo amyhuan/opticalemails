@@ -1,0 +1,22 @@
+Planned Work Notification: 00183685 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Southport UK / Peterborough between Wed Feb 22 23:00:00 GMT 2023-Thu Feb 23 05:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Wed Feb 22 23:00:00 GMT 2023
+End	Thu Feb 23 05:00:00 GMT 2023
+Backup Start	Wed Mar 01 23:00:00 GMT 2023
+Backup End	Thu Mar 02 05:00:00 GMT 2023
+Location	Southport UK / Peterborough
+
+Planned work Reason:
+Spectrum optimization works on our network between Southport, UK and Peterborough.
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/121502	GTT/002107744	Wavelength	60 mins	No	Lon-256_LON256IR	Mnc-011_MAN1H	00183974
+MICRSI/WAVE/U/121496	HI/Wavelength/00697199	Wavelength	60 mins	No	Mnc-011_MAN1H	Slough - 13 Liverpool Rd	00183967
+MICRSI/WAVE/U/121503	GTT/002107753	Wavelength	60 mins	No	Lon-256_LON256IR	Mnc-011_MAN1H	00183972
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.

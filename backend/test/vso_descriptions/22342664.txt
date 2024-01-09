@@ -1,0 +1,80 @@
+Dear Equinix Customer,
+
+DATE: 19-JUN-2023 - 23-JUN-2023
+
+SPAN: 19-JUN-2023 - 23-JUN-2023
+
+LOCAL: MONDAY, 19 JUN 09:00 - MONDAY, 19 JUN 21:00
+UTC: MONDAY, 19 JUN 01:00 - MONDAY, 19 JUN 13:00
+
+LOCAL: TUESDAY, 20 JUN 09:00 - TUESDAY, 20 JUN 21:00
+UTC: TUESDAY, 20 JUN 01:00 - TUESDAY, 20 JUN 13:00
+
+LOCAL: WEDNESDAY, 21 JUN 09:00 - WEDNESDAY, 21 JUN 21:00
+UTC: WEDNESDAY, 21 JUN 01:00 - WEDNESDAY, 21 JUN 13:00
+
+LOCAL: THURSDAY, 22 JUN 09:00 - THURSDAY, 22 JUN 21:00
+UTC: THURSDAY, 22 JUN 01:00 - THURSDAY, 22 JUN 13:00
+
+LOCAL: FRIDAY, 23 JUN 09:00 - FRIDAY, 23 JUN 21:00
+UTC: FRIDAY, 23 JUN 01:00 - FRIDAY, 23 JUN 13:00
+
+IBX: SG3
+
+DESCRIPTION: Equinix will be performing UPS-3-EPR A1-03 Battery Replacement & UPS Annual Shutdown Maintenance.
+
+During the replacement of Uninterruptible Power Supply (UPS) batteries string, UPS-3-EPR A1-03 will be shut down.
+
+During the battery replacement, both A and B feeds will be supported by UPS protected source with reduced autonomy time. No impact on customers' subscribed service is expected.
+
+Vendor will also be performing UPS Annual Shutdown Maintenance.
+
+After this maintenance and battery replacement work, all battery strings will be online, and UPS full autonomy time will be restored.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+115690	020520	0908	21092289	Primary
+115690	020520	0909	21092293	Primary
+115690	020520	0910	21092294	Primary
+115690	020520	1008	21092295	Primary
+115690	020520	1009	21092297	Primary
+115690	020520	1010	21092296	Primary
+115690	040110	0303	21089585	Primary
+115690	040110	0304	21089586	Primary
+115690	040110	0306	21089587	Primary
+115690	040110	0307	21089588	Primary
+115690	040110	0308	21089590	Primary
+115690	040110	0308	21259836	Primary
+115690	040110	0309	21089579	Primary
+115690	040110	0309	21259838	Primary
+115690	040110	0311	21089584	Primary
+115690	040110	0312	21089583	Primary
+115690	040110	0313	21089582	Primary
+115690	040110	0405	21089581	Primary
+115690	040110	0406	21089580	Primary
+115690	040110	0406	21259839	Primary
+115690	040110	0408	21089578	Primary
+115690	040110	0408	21259840	Primary
+115690	040110	0409	21089575	Primary
+115690	040110	0410	21089576	Primary
+115690	040110	0411	21089577	Primary
+115690	040110	0413	21089574	Primary
+115690	040110	0503	21089589	Primary
+115690	040110	0504	21089568	Primary
+115690	040430	0810	21091425	Primary
+115690	040430	0811	21091433	Primary
+115690	040430	0812	21091429	Primary
+115690	040430	0910	21091430	Primary
+115690	040430	0911	21091431	Primary
+115690	040430	0911	21685368	Primary
+115690	040430	0912	21091432	Primary
+115690	040430	0912	21685366	Primary
+
+
+
+Equinix engineers will work to ensure the maintenance does not impact your operations. This activity is fully scripted and may include the use of equipment system vendors and service providers.
+
+During this period, all services (Smart Hands, installations, work visits, etc.) will continue in accordance with our normal procedures.
+
+The AP EOC is available to provide up-to-date status information or additional details, shoul

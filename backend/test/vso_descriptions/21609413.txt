@@ -1,0 +1,117 @@
+VODAFONE QATAR PLANNED ACTIVITY NOTIFICATION
+
+Vodafone Qatar – Service Operations Center
+
+Customer Name
+
+Microsoft
+
+Reference
+
+Vodafone Reference Number:   INC000070640083
+
+Circuit ID:    MSAWDMMV2MUM001U,   MSAWDMMV2MUM002U
+
+Service Type: DWDM
+
+Summary:
+
+Please be informed that our International carrier partner is performing fibre maintenance activity work on their network.
+
+This action is very important to be proceed in order to provide you stable services and avoid uncontrolled outage.
+
+Impact:
+
+Impact Analysis shows that during the activity the services will be unavailable for 12Hrs .  This activity is mandatory to be performed to ensure the service stability.
+
+Change Activity Window:
+
+Start Time: 04/June/2023 00:00 QLT
+
+End Time:    04/June/2023 12:00 QLT
+
+For any further concerns regarding this outage, please contact Vodafone Qatar – Service Operations Center at +974 7444 7124 or simply reply to this message.
+
+ 
+
+This message and any files or documents attached are strictly confidential or otherwise legally protected. It is intended only for the individual or entity named. If you are not the named addressee or have received this email in error, please inform the sender immediately, delete it from your system and do not copy or disclose it or its contents or use it for any purpose.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Vodafone
+
+Erick Estrada
+Fixed L1 Technical Support Advisor
+Commercial Operations Support Team
++974 7444 7124
+john.estrada@vodafone.com

@@ -1,0 +1,54 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Thursday, 24 August 2023 and the details are as follows.
+
+-------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN311028
+
+         
+
+Scheduled Date                                    :     Thursday, 24 August 2023
+
+
+Maintenance Window                            :     24-08-2023 16:00 UTC to 24-02-2023 22:00 UTC
+
+ 
+
+Activity                                                :     BBG SEQ:FIBER RELOCATION FOC 48C GEMAS-GEMENCHEH T-A(CTW) DUE CHANGE NEW BRIDGE BY 3RD PARTY (JKR TAMPIN) on Segment Q Sector Q2 between GS- RU (Gemas - Rembau).
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will be down for less than 10 seconds during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.

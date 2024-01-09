@@ -1,0 +1,31 @@
+Dear Equinix Customer,
+
+DATE: 30-MAR-2023 - 31-MAR-2023
+
+SPAN: 30-MAR-2023 - 31-MAR-2023
+
+LOCAL: THURSDAY, 30 MAR 22:00 - FRIDAY, 31 MAR 02:00
+UTC: THURSDAY, 30 MAR 21:00 - FRIDAY, 31 MAR 01:00
+
+IBX(s): LD
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a maintenance which will affect one of our Equinix Connect upstream links. There will be no service interruption but you may experience latency change during traffic rerouting, during and after the activity. If you require further information or details to be used in your specific traffic engineering activities, please contact Equinix Service Management Centre.
+
+PRODUCTS: EQUINIX CONNECT
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+133451	Equinix Connect	LD5	20037837
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-224949560711.
+
+Sincerely,
+Equinix SMC

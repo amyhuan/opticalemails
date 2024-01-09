@@ -1,0 +1,33 @@
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000141554
+
+ 	 
+We would like to inform you that NT will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	BKK/CAT-SNG 100G2843ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	35 TAI SENG STREET SINGAPORE
+Address B:	BKK30, 91 MOO 1 TAMBON KHLONG NUNG THAILAND
+ 
+2. Circuit:	BKK/CAT-SNG 100G2844ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	35 TAI SENG STREET, SINGAPORE
+Address B:	BKK30, 91 MOO 1 TAMBON KHLONG NUNG THAILAND
+ 
+Date/ Time 1 (SGT):	24-May-2023 01:00 - 24-May-2023 04:00
+Date/ Time 1 (UTC):	23-May-2023 17:00 - 23-May-2023 20:00
+ 
+Impact :	The circuit will be interrupted for up to 3 hours during the maintenance window.
+ 
+Reason :	Upgrade Software DWDM HUAWEI 1800V equipment at Site NT Klong Luang, Tellus Data Center
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)

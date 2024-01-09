@@ -1,0 +1,66 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006739311
+
+Urgency: Planned
+
+Date Notice Sent: 30-May-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+19-Jun-2023 21:00 to 20-Jun-2023 05:00 ( Mountain )
+20-Jun-2023 03:00 to 20-Jun-2023 11:00 ( GMT )
+
+2nd Activity Date
+20-Jun-2023 21:00 to 21-Jun-2023 05:00 ( Mountain )
+21-Jun-2023 03:00 to 21-Jun-2023 11:00 ( GMT )
+
+3rd Activity Date
+21-Jun-2023 21:00 to 22-Jun-2023 05:00 ( Mountain )
+22-Jun-2023 03:00 to 22-Jun-2023 11:00 ( GMT )
+
+Location of Maintenance: 265 E 100 S, Salt Lake City, UT
+
+Reason for Maintenance: Zayo will perform maintenance to repair cable.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/167076//ZYO	Hard Down - Duration of maintenance window	2335 S Ellis St Chandler, AZ. USA	644 Logistics Dr Cheyenne, WY. USA	
+OQYX/167075//ZYO	Hard Down - Duration of maintenance window	2335 S Ellis St Chandler, AZ. USA	644 Logistics Dr Cheyenne, WY. USA	
+OQYX/167077//ZYO	Hard Down - Duration of maintenance window	2335 S Ellis St Chandler, AZ. USA	644 Logistics Dr Cheyenne, WY. USA	
+OQYX/167074//ZYO	Hard Down - Duration of maintenance window	2335 S Ellis St Chandler, AZ. USA	644 Logistics Dr Cheyenne, WY. USA	
+OGYX/268109//ZYO	Hard Down - Duration of maintenance window	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+OGYX/282366//ZYO	Hard Down - Duration of maintenance window	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+OQYX/252179//ZYO	Hard Down - Duration of maintenance window	7135 S Decatur Blvd Las Vegas, NV. USA	2220 De La Cruz Blvd Santa Clara, CA. USA	
+OQYX/282683//ZYO	Hard Down - Duration of maintenance window	2302 Presidents Dr - Bldg Lincoln West Valley City, UT. USA	644 Logistics Dr Cheyenne, WY. USA	
+OQYX/282684//ZYO	Hard Down - Duration of maintenance window	2302 Presidents Dr - Bldg Lincoln West Valley City, UT. USA	644 Logistics Dr Cheyenne, WY. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation
+
+Toll free/No sans frais: 1.866.236.2824
+
+United Kingdom Toll Free/No sans frais Royaume-Uni: 0800.169.1646
+
+Email/Courriel: mr@zayo.com 
+
+Website/Site Web: https://www.zayo.com
+
+Purpose | Network Map | Escalation List | LinkedIn | Twitter | Tranzact 
+
+ 
+
+This communication is the property of Zayo and may contain confidential or privileged information. If you have received this communication in error, please promptly notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

@@ -1,0 +1,22 @@
+Dears,
+
+            Kindly note that activity was rescheduled to be:
+
+ 
+
+Action 1 : Sunday 8/10/2023 from 2:00AM to 6:00AM
+
+Action 2 : Tuesday 10/10/2023 from 2:00AM to 6:00AM
+
+Action 3 : Thursday 12/10/2023 from 2:00AM to 6:00AM
+
+Action 4 : Sunday 15/10/2023 from 2:00AM to 6:00AM
+
+Action 5 : Wednesday 18/10/2023 from 2:00AM to 6:00AM
+
+ 
+
+
+
+
+Dears Kindly be informed that we will reschedule the MWs as the following: Planned outage notification Peer IP/Circuit Impacted International circuit ID ABT/TEN-Marseilles/TEN100GE033 ABT/TEN-Marseilles/TEN100GE034 Requested outage reason Service upgrade. MW#1 30-Sep-2023 23:00 UTC till 01-OCT-2023 03:00 UTC MW#2 01-OCT-2023 23:00 UTC till 02-OCT-2023 03:00 UTC MW#3 02-OCT-2023 23:00 UTC till 03-OCT-2023 03:00 UTC MW#4 03-OCT-2023 23:00 UTC till 04-OCT-2023 03:00 UTC MW#5 04-OCT-2023 23:00 UTC till 05-OCT-2023 03:00 UTC Duration 4 hours / window Outage impact At Risk. Best Regards,

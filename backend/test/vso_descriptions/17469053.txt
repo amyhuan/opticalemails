@@ -1,0 +1,29 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R1026\23C-A2
+Date Time : 13/03/2023 09:30:00 to 13/03/2023 14:30:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 channel insertion / removal at DLS1 in Seg S2 (Day 3)
+
+Outage : No service impact is expected, but a hazardous condition only.
+
+[Amendment-A1]
+as per AAE-1 NOC advised, the captioned maintenance will be slipped to 13 Mar-2023.
+
+[Amendment-A2]
+as per AAE-1 advised, the scheudle time will be started at 0930utc
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,

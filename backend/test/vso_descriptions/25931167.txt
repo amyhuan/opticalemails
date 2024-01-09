@@ -1,0 +1,68 @@
+[外部] [customers-notify-l: 702]  Resend【AS131937:Joetsu Cable Vision】 Network Maintenance Information
+
+Translated from: Japanese. Show original message | Turn on automatic translation 
+
+This sender customers-notify-l@lists.tokyo.jpnap.net is from outside your organization. Block sender
+Translated from: Japanese. This sender customers-notify-l@lists.tokyo.jpnap.net is from outside your organization.
+customers-notify-l  on behalf of JCV金井準一 via customers-notify-l 
+​
+customers-notify-l@lists.tokyo.jpnap.net
+​
+​
+jcv-ix-isp@jcv.co.jp
+​
+[English follows Japanese]
+
+JPNAP Peer 各位
+
+Thank you for your continued support.
+Joetsu Cablevision (AS131937) My name is Kanai.
+
+There was an error in the previous email. We will send you a modified version, so please send it first.
+Please replace it with a dry one.
+
+Due to the maintenance work of the line carrier, Peer down occurs during the following time periods. Sorry for the inconvenience
+We apologize for the inconvenience, but thank you for your understanding.
+
+Best regards.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Date: 2023/12/6(Wed) 03:00 - 2023/12/7(Thu)02:00(JST)
+
+AS Number:    131937
+
+IP Address    IPv4 210.173.176.117
+IPv6 2001:7fa:7:1:0:13:1937:1
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dear JPNAP peering partners,
+
+This is Jun Kanai Tech-Dept from Joetsu Cable Vision(AS131937).
+
+There was a mistake in the information in the previous email.
+We will send you a corrected version, so please replace it with the one we sent you
+earlier.
+
+We will be having a maintenance as follows.
+The BGP sessions will be down during this time.
+We appreciate your understanding and cooperation.
+
+Best regards,
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Date:         2023/12/6（Wed） 03:00 - 2023/12/7（Thu）02:00(JST)
+
+AS Number:    131937
+
+IP Address    IPv4 210.173.176.117
+IPv6 2001:7fa:7:1:0:13:1937:1
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Joetsu Cable Vision Co., LTD.
+Jun Kanai
+E-mail junkanai@jcv.co.jp
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7Caac2808dffcf4e3ca27908dbeb278388%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638362327176794186%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nXi4IE1AwyefngcUs8KsA0PjEr%2fE57QDC5MdNe0UkHQ%3D&reserved=0

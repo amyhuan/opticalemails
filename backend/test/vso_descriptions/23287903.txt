@@ -1,0 +1,51 @@
+MOC-
+
+Start Time (PST): 5/24/2023 11:00:00 PM
+End Time (PST): 5/25/2023 6:00:00 AM
+
+Start Time (GMT): 5/25/2023 6:00:00 AM
+End Time (GMT): 5/25/2023 15:00:00 AM
+
+And
+
+Start Time (PST): 5/25/2023 11:00:00 PM
+End Time (PST): 5/26/2023 6:00:00 AM
+
+Start Time (GMT): 5/26/2023 6:00:00 AM
+End Time (GMT): 5/26/2023 15:00:00 AM
+
+
+Maintenance Length: 7 Hours
+Location: SNTECAGKSJ56IDMS1631 <-> LSANCARCLAX6IDMS1681
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as URGENT. The nature of this work is to implement a fiber relocation maintenance and is required in order to mitigate the conflict with PG&E substructure upgrade and electric primary cable. The estimated GPS location of work is: GPS Location 1: 37.30203370286976, -121.93157628713597; GPS Location 2: 37.296115398711535, -121.9315067863026 3rd party provider advises the cable will be spliced one buffer tube at a time to minimize the outage duration. 3rd party provider advises due to safety reasons, the complexity of the maintenance, and the extensive work that is required, an extended 7 hour impacting multi night maintenance window is unfortunately necessary to complete all of required work. Every effort will be taken to complete this important work as quickly and as efficiently as possible.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SLS Circuit Impacts
+
+SLS-120
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com
+
+
+
+ 
+
+This communication is the property of Lumen Technologies and may contain confidential or privileged information. Unauthorized use of this communication is strictly prohibited and may be unlawful. If you have received this communication in error, please immediately notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

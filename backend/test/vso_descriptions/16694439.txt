@@ -1,0 +1,45 @@
+Dear Equinix Customer,
+
+DATE: 26-JAN-2023 - 27-JAN-2023
+
+SPAN: 26-JAN-2023 - 27-JAN-2023
+
+LOCAL: THURSDAY, 26 JAN 22:00 - FRIDAY, 27 JAN 06:00
+UTC: THURSDAY, 26 JAN 14:00 - THURSDAY, 26 JAN 22:00
+
+IBX(s): HK1,HK2,HK3,HK4,HK5,HP1
+
+DESCRIPTION:Please be advised that Equinix engineers identified a software bug and will perform a software upgrade on our Metro Connect devices.
+
+During the maintenance, the following impact are expected depending on your subscribed service:
+
+1. Unprotected Metro Connect circuits will experience service interruption of up to 60 minutes.
+
+2. Protected Metro Connect circuits will experience service interruption of up to 60 minutes.
+
+3. One of your Dual Diverse Metro Connect circuits will experience port downtime of up to 60 minutes but no service interruption due to redundancy.
+
+4. Equinix Fabric Metro Remote Port will experience service interruption of up to 60 minutes. If you have secondary circuit, please ensure to have redundant VC to avoid service interruption.
+
+5. Equinix Connect Single Homed customers will experience service interruption of up to 60 minutes
+
+6. Network Edge circuits will experience service interruption of up to 60 minutes. If you have secondary circuit, please ensure to have redundant VC to avoid service interruption.
+
+PRODUCTS: EQUINIX FABRIC, METRO CONNECT, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+116771	Equinix Fabric	HK1	20500763-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-222102819313.
+
+Sincerely,
+Equinix SMC

@@ -1,0 +1,33 @@
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on August 27, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-40636
+Notification date:	Tuesday, August 22, 2023
+Start date:	Sunday, August 27, 2023 - 2:00 pm
+End date:	Sunday, August 27, 2023 - 5:00 pm
+Time zone:	Central Daylight Time GMT-5
+Window time frame:	3 hours
+Expected service outage:	3 hours
+Event description:	An improvement will be carried out in our connections by replacing cables and connectors. This process will help optimize the efficiency and reliability of our systems.
+Location:	General Bravo, Matamoros
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799182
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799184
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808812
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808813
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net
+
+Flō Networks was formerly known as Transtelco / Flō Networks era anteriormente conocido como Transtelco.
+
+CONFIDENTIALITY NOTICE: This message is intended only for the individual or entity to whom it is addressed. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited.
+
+AVISO DE CONFIDENCIALIDAD:Esta comunicación es sólo para el uso de la persona o entidad a la que se dirige y puede contener información privilegiada, confidencial y exenta de divulgación bajo la legislación aplicable. Si no es el destinatario de esta información, se le notifica que cualquier uso, difusión, distribución o copia de la comunicación está estrictamente prohibido.

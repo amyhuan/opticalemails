@@ -1,0 +1,34 @@
+Dear Valued Customers
+ 
+This is a notification of scheduled SA maintenance to be performed on RTI network
+****************Maintenance Work detail****************
+ 
+[Start Date&Time]
+2023-08-06 16:00 UTC
+ 
+[End Date&Time]
+2023-08-06 18:00 UTC
+ 
+[Work Location]
+Piti, Guam & Minami-Boso, Japan
+ 
+[Affected Circuits]
+MNAJ02D
+MNAJ02H
+MNAJ05E
+MNAJ06F
+MNAJ01H
+MNAJ08H
+MNAJ02C
+MNAJ07G
+ 
+[Event Summary]
+System power will be normalized following the completion of cable supplier repair activities within the Piti beach manhole.
+ 
+[Expected Impact Duration]
+Services should be impacted for max 1H but we reserve the right to use the full duration of the window.
+*************************************************************
+Thank you for your patience and continued support
+Kind Regards
+RTI NOC
+This email is a service from RTI Cable. Deliv

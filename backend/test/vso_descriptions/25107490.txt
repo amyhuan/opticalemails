@@ -1,0 +1,58 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Tuesday 26th September 2023 and the details are as follows.
+
+-------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     ITEM-060480 NE-16666
+
+         
+
+Scheduled Date                                 :     Tuesday 26th September 2023
+
+
+Maintenance Window                     :     26/09/2023 23:00 (GMT+00:00) to 27/09/2023 05:00 (GMT+00:00)
+
+ 
+
+Activity                                                :     Main optical cable relocation
+
+ 
+
+Location                                              :     Ferrara and Padova (ITALY)
+
+ 
+
+Benefit of Change                              :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                            :     Circuit will be go down for240mins during the maintenance window
+
+ 
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit id
+
+Customer name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+12719838
+
+Microsoft Ireland Operations Ltd.

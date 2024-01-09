@@ -1,0 +1,41 @@
+Objective:
+
+ 
+
+Fiber Restoration Planned Event: Urgent overhead OFC96 cores replacement at Kg Pulai Sebatang. The details of this PE are as follows:
+
+ 
+
+Planned Event Start Date/Time
+
+6 July 2023 10:00hrs  (GMT+8)
+
+Planned Event End Date/Time
+
+6 July 2023 17:00hrs  (GMT+8)
+
+Downtime
+
+3 hours
+
+ 
+
+Service(s) Affected
+
+ 
+
+Service
+
+Customer Name
+
+ME021631
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD    
+
+076688800
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD    
+
+LL034505
+
+MICROSOFT OPERATIONS PRIVATE LIMITED

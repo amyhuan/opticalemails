@@ -1,0 +1,14 @@
+Ticket Reference Number: U0389\23D
+Date Time : 13/02/2023 10:00:00 to 13/02/2023 13:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR211308 / SNG(PCG)-MSL(PCG) EP7111 /
+
+Outage Description : Description : Emergency PW To Troubleshoot "Loss of Communication" alarm on 1-A-4-O1 at Ber Erida.
+Planned Work Schedule : 10:00 GMT to 13:00 GMT/ 13th February 2023
+Nature : Non-Service Affecting
+Impact : Services riding on Infinera Segment X1 will be at risk during the MW.
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)

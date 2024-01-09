@@ -1,0 +1,47 @@
+Activity Reference:
+
+C138820
+
+Activity Type:
+
+Network Optimization
+
+Customer Details:
+
+Microsoft
+
+Service Affected:
+
+PW: 616115 - PW 616116
+
+Location:
+
+MV2
+
+Activity Details:
+
+Network Optimization Activity
+
+Activity Date(s):
+
+29/05/2023
+
+Start Date/Time (AST):
+
+09:00
+
+Finish Date/Time (AST):
+
+13:00
+
+Maintenance Window:
+
+4 Hours
+
+Outage Duration:
+
+4 Hours
+
+Service Impact:
+
+Our implementations team will be conducting a network optimization activity for NID-On boarding for our AAE-1 link in MV2. As a result, the above mentioned services will incur a maximum of 4-hours downtime during the maintenance window.

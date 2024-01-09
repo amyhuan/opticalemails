@@ -1,0 +1,18 @@
+Dear JPNAP Tokyo peers,
+
+This is Utsunomiya Cable TV Corp(AS18274).
+
+We will be having a maintenance as follows.
+The BGP sessions will be down during this time.
+We appreciate your understanding and cooperation.
+
+----------------------------------
+Date : 2023/07/21 00:00-05:30(JST)
+       2023/07/20 15:00-20:30(UTC)
+ASN  : 18274
+IPv4 : 210.173.176.165
+----------------------------------
+
+Best regards,
+
+Utsunomiya Cable TV Corp.

@@ -1,0 +1,83 @@
+rgent Network Maintenance Activity CHG000000147461
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	DN0671726
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+2. Circuit:	DN0671727
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+3. Circuit:	DN0671728
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+4. Circuit:	DN0671729
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+5. Circuit:	DN0671730
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+6. Circuit:	DN0671731
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+7. Circuit:	DN0671732
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+8. Circuit:	DN0671733
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	8 YUNG HO ROAD MAIN SINGAPORE
+Address B:	35 TAI SENG STREET MAIN SINGAPORE
+ 
+Date/ Time 1 (SGT):	07-Sep-2023 00:00 - 07-Sep-2023 06:00
+Date/ Time 1 (UTC):	06-Sep-2023 16:00 - 06-Sep-2023 22:00
+ 
+Impact :	The circuit will be down within the entire maintenance window period.
+ 
+Reason :	To facilitate the diversion of fiber away from railway company road work activities vicinity. This is part of SingTel's ongoing effort in providing a stable network to our customers.
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com . 
+ 	 
+ 	 
+ 	 
+ 	 
+Request For Change Customer Contact
+ 	 
+( ) To Add	( ) To Amend
+ 	 
+Circuit:	DN0671726, DN0671727, DN0671728, DN0671729, DN0671730, DN0671731, DN0671732, DN0671733
+ 	 
+To: Change Notification, Fax: 67883791 or Email: g-chgnotifn@singtel.com
+ 	 
+Name:	__________________________
+Fax:	__________________________
+Email:	__________________________
+Telephone No:	__________________________

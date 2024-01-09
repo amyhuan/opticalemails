@@ -1,0 +1,42 @@
+Dear sirs,
+
+Since Telxius, we do not recognize these circuits, because those are Internal Microsoft IDs.
+
+mia.sao30--- dc codes
+
+devices ::   
+
+ibr02.mia
+
+ibr02.sao30
+
+ibr01.mia
+
+ibr01.sao30
+
+
+On the other hand, please consider there a is a an emergency work will be performed in order to recover fiber threads, as we mentioned lines below under the SWX0019418
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+11-May-2023 13:00 - 11-May-2023 20:00 (Main Window)
+12-May-2023 13:00 - 12-May-2023 20:00 (Backup Window)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+ 
+
+NAP/MICROSOFT SP2/MICROSOFT 100GB S001
+
+CRT-006004
+
+ 
+
+ 
+
+Best regards / Saludos cordiales,

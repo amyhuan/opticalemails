@@ -1,0 +1,18 @@
+Dear Customer
+
+We'd like to inform about Planned work.
+
+Work details:
+ID:2237565
+Work title: Planned Work
+Break: 2023-03-06 05:00 UTC+1 - 2023-03-06 06:00 UTC+1
+Outage (min.): 30
+
+ID Service:
+
+idUslugi	typ	adresacjaV4	adresacjaV6	AS
+
+H:MIC:IX:003	ix	195.149.232.105/23	2001:7f8:27::8075:3	8075
+
+Please accept our apologies for any inconvenience caused. If you have any questions regarding the planned work, please contact us at spptp.swo@orange.com.
+Regards

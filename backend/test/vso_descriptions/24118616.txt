@@ -1,0 +1,60 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C142197
+
+Description
+
+PW for card replacement to clear " Temperature Out Of Range " alarm at 3-A-4 in Zafarana. (Ref NW TT : NW7123)
+
+Location
+
+Zafarana
+
+Duration
+
+Nature : Service Affecting
+
+Impact : 2 Hours Downtime
+
+Planned Start
+
+06/12/23 06:00:00 GMT
+
+Planned End
+
+06/12/23 11:00:00 GMT
+
+Affected service/link
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+Carrier References
+
+PW3418
+
+ 
+
+Regards ,
+
+ 
+
+Fayis Neroth
+
+Consultant
+
+Ooredoo Qatar
+M: +974 74089340
+
+Follow us on Twitter and Facebook
+
+ 
+
+Upgrade your world

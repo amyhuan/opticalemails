@@ -1,0 +1,43 @@
+DATE: 23-MAY-2023
+
+SPAN: 23-MAY-2023 - 23-MAY-2023
+
+LOCAL: TUESDAY, 23 MAY 18:00 - TUESDAY, 23 MAY 22:00
+UTC: TUESDAY, 23 MAY 10:00 - TUESDAY, 23 MAY 14:00
+
+IBX(s): SG
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a planned configuration update to one of our backbone device. Your services might experience a change in latency but there will be no impact to your services, as traffic is automatically rerouted to our alternate backbone links.
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+115690	Equinix Fabric	SG1	-	21339482-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21339487-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	613040.1	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	613242.1	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21055345	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21339480-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	20940848	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	613038.1	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG4	-	21753888	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21974307-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG4	-	21753887	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21053519	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	20939185	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21068098	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	613243.1	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21969043-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	20948794	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21053088	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21339481-A	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	20948909	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.

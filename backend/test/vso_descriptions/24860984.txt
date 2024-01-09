@@ -1,0 +1,39 @@
+Scheduled Maintenance #: 27323555
+
+Summary:
+
+Lumen will perform scheduled maintenance to troubleshoot and clear network alarms in order to prevent future service interruptions to customer services.
+
+Updates:
+
+2023-08-16 17:03:35 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27323555-1
+
+Start	End
+2023-08-30 04:00 GMT (Greenwich Mean Time)	2023-08-30 09:00 GMT (Greenwich Mean Time)
+2023-08-30 00:00 EDT (Eastern Daylight Time)	2023-08-30 05:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): LOCUST GROVE, GA USA; COLLEGE PARK, GA USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442224865	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	442224867	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	2 hours	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

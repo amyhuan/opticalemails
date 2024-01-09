@@ -1,0 +1,39 @@
+Dear members and customers,
+
+On Friday 9rd of June 2023 between 00:01 - 05:00 CET, the following maintenance will be carried out. 
+
+• Due to the necessary optimization of the traffic flows we will be moving some customers from NIX2-acc3 to another switch: NIX2-acc4 and NIX2-acc5
+
+
+List of customers:
+
+Cetin 
+Web4U
+Activ24
+ITS
+Casablanca (one port)
+RSD
+
+
+An outage of affected ports will occur for approx. 60 minutes.
+Before the port gets disconnected, we are going to apply the BGP Culling ACL to force the shutdown of the BGP sessions of the affected clients (according to rfc8327).
+We apologize for any inconvenience and thank you for your understanding.
+
+
+Locality: Prague, Czech Republic
+ASN: 47000
+RS IP: 91.210.16.1/22, 2001:7f8:14::11/64
+RS IP: 91.210.16.2/22, 2001:7f8:14::12/64
+
+
+--
+S pozdravem / Best Regards
+
+Lukas Janas
+Network Specialist
+E-mail: lj@nix.cz
+
+NIX.CZ z.s.p.o.
+Americká 23, Praha 2, 130 52
+Czech Republic
+https://www.nix.cz

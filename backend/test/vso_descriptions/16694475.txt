@@ -1,0 +1,44 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000744143
+
+Start time (Y/M/D):
+
+2023-01-10 03:00:00 AM (ET)
+
+End time (Y/M/D):
+
+2023-01-10 09:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+2 hrs
+
+Status / Statute:
+
+APPROVED/ APPROVED
+
+Activity / Activity:
+
+Confirmed - We need to proceed with a central office maintenance in order to improve your service.
+Confirm - We need to perform maintenance at the plant to improve your service.
+
+Equipment / Equipment:
+
+CPL
+
+CLLI:
+
+HOPEBCAJO00
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KJXS802762-072BLCA-000      555 WEST HASTINGS ST FLR:MAIN LEVEL RM:MMR VANCOU   
+ 05KJXS802762-073BLCA-000      555 WEST HASTINGS ST FLR:MAIN LEVEL RM:MMR VANCOU   
+
+You may experience a failure(s) at any time during the above window.
+You may experience one or more service interruption(s) during the window above.

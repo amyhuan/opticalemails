@@ -1,0 +1,32 @@
+[EXTERNAL] Fastly Peering Maintenance Notification for AS8075 - IPS-3194 - Sao Paulo, Brazil
+
+Some content in this message has been blocked because the sender isn't in your Safe senders list. I trust content from techops@fastly.com. | Show blocked content
+
+This sender techops@fastly.com is from outside your organization. Attachments and pictures have been blocked. Block sender | Show blocked content
+Some content in this message has been blocked because the sender isn't in your Safe senders list. This sender techops@fastly.com is from outside your organization.
+Fastly Technical Operations 
+​
+Internet Operations Center;
+​
+​
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-11-07 05:00 UTC
+End Time: 2023-11-09 05:00 UTC
+
+Fastly will be performing a maintenance during the above window. You may see BGP down during this time for the following service(s). Please take no action to remove or shift traffic, Fastly Engineers will automatically re-route traffic as needed. Questions about this event can be sent to techops@fastly.com.
+
+Peer Address: 104.44.45.201	Fastly Address: 104.44.45.200	Location: Sao Paulo, Brazil
+Peer Address: 2a01:111:2000:1::2942	Fastly Address: 2a01:111:2000:1::2941	Location: Sao Paulo, Brazil
+Peer Address: 104.44.45.201	Fastly Address: 104.44.45.200	Location: Sao Paulo, Brazil
+Peer Address: 2a01:111:2000:1::2942	Fastly Address: 2a01:111:2000:1::2941	Location: Sao Paulo, Brazil
+
+
+Thank you!
+
+Fastly Logo
+
+Fastly Network Engineering | techops@fastly.com
+fastly.com | AS54113 | Peering Policy

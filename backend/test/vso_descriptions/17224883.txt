@@ -1,0 +1,36 @@
+Scheduled Maintenance #: 26020012
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a Network Element software upgrade.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-02-17 09:47:58 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26020012-1
+
+Start	End
+2023-03-01 23:00 GMT (Greenwich Mean Time)	2023-03-02 02:00 GMT (Greenwich Mean Time)
+2023-03-02 00:00 CET (Central European Time)	2023-03-02 03:00 CET (Central European Time)
+
+
+Maintenance Location(s): AMSTERDAM, Netherlands
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	BBBK73421	N/A	100BASE-T	AMSTERDAM NH NETHERLANDS	 	Outage	1 hour	 
+MICROSOFT	BBBP69245	N/A	10GIG-E	AMSTERDAM NH NETHERLANDS	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	BBDR6409	N/A	10GIG-E	AMSTERDAM NH NETHERLANDS	 	Outage	1 hour

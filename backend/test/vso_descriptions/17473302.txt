@@ -1,0 +1,37 @@
+Southern Cross Hazardous Planned Maintenance SR#247376_18
+
+Hazardous Condition - Software Upgrade on Ciena 6500-S Series - 8 Nodes between Modesto and Arvin, CA : There is a software upgrade to be carried out on their Ciena platform by their equipment vendor. The upgrade will be carried out in an 8-hour window. No impact is anticipated, and this notification is precautionary only
+
+
+Reference number
+PN298131
+
+
+Start time
+Thursday, 23 Mar 2023 16:00:00 (UTC)
+
+
+End time
+Friday, 24 Mar 2023 00:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 9932644
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9932644
+LAX SYD EPL 9253854
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9253854
+LAX SYD EPL 9696335
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9696335
+LAX SYD EPL 9441534
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9441534
+LAX SYD EPL 90010960
+LAX SYD EPL 90010963
+LAX SYD EPL 90015279
+LAX SYD EPL 90015276
+LAX SYD EPL 90022024
+LAX SYD EPL 90022027
+LAX SYD EPL 90022030
+LAX SYD EPL 90022021
+
+
+Expected impact

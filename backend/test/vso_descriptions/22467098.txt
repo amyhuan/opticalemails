@@ -1,0 +1,23 @@
+PARK PLANNED EVENT NOTIFICATION
+_____________________________________
+To        : Azure NOC
+From      : Spark Service Events
+Date      : 15/05/23 04:34:14 PM
+Subject   : PLANNED EVENT NOTIFICATION SED 124973
+Permit #  : 2305/1277
+
+Spark New Zealand wishes to advise of PLANNED work affecting
+Microsoft Nz Ltd.
+
+DATE                    : 17/05/23
+NZ Standard Time        : 12:01:00 AM
+DURATION (HR:MIN:SEC)   : 001:00:00
+
+PROBLEM
+Up to a 1 hour break in service between 00:01 17/05 and 02:00 17/05 due to planned work.
+
+CIRCUIT INFORMATION
+______________________________________________________________________________
+CircuitID     Site    Keycode        Address
+______________________________________________________________________________
+AUC-SYD_NP256 INTD                   7A PARKHEAD PLACE ALBANY AUCKLAND

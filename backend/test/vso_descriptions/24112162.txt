@@ -1,0 +1,26 @@
+(Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+Reason for the planned work activity: Emergency planned maintenance on circuit between Slough and Aberdeen. Our subprovider has detected damage on the fiber cable. Due to the severity of the damage our subprovider is currently gathering a team of technicians to fix the damage. Because of the extent of the planned work our subprovider are not quite able to estimate when they will be ready to begin fixing the damage. When they begin it is estimated that they will be hands-off within 8 hours, but your circuits may be up before 8 hours, but there is a chance of higher attenuation until the have completely spliced the damaged cables.
+
+Start of PW: 27.05.2023 23:0 (Europe/Oslo)
+End of PW: 28.05.2023 20:00 (Europe/Oslo)
+
+Estimated downtime: Less than 8 hours
+
+Affected service(s):
+
+London-Enebakk:
+T200000937
+T200000938
+T200000939
+T200000940
+
+
+Best regards
+Kristian Stangeland Waldeland
+Critical Incident Manager
+Altibox Operation Centre
+Tlf: +47 51 90 80 15
+altibox.no

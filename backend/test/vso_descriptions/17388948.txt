@@ -1,0 +1,17 @@
+ASR9K Code Upgrade Planned Network Maintenance
+
+Dear Cogent Customer,
+
+As a valued customer, Cogent is committed to keeping you informed about any changes in the status of your service with us. This email is to alert you regarding maintenance we will be performing on our network: 
+
+Start time: 12:00 am central 03/15/2023
+End time: 6:00 am central 03/15/2023
+Work order number: NC938-1
+Order ID(s) impacted: 3-000973771, 3-000973787, 3-001151296, 3-001151298, 3-001251589, 3-001251590
+Expected Outage/Downtime: 45-60 minutes
+
+Cogent customers receiving service in the greater Dallas, TX metro area will be affected by this maintenance. Only the Cogent Order ID(s) listed above will be impacted. The purpose of this work is to apply and activate software module upgrades on code running on the edge routers per the manufacturer's recommendations.
+
+During this maintenance window, you may experience up to two brief interruptions in service while we complete the maintenance activities. However, due to the complexity of the work, your downtime may be longer. Customers may also see some re-convergence during the maintenance window. Customers may experience latency and packet loss intermittently throughout the window.
+
+We encourage all our customers to please check our network status page

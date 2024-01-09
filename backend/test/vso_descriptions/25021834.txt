@@ -1,0 +1,46 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230831123345 ticket number has been opened.
+
+Details
+Ticket Number	wt 230831123345
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	07/09/2023 11:01 PM
+Ticket End Time	08/09/2023 4:00 AM
+Time Zone	(UTC+2:00) CEST
+Description	There will be planned maintenance in our network which will affect your service.Maintenance Reason: Wavelength and client service relocations from Istanbul Equinix 88-05 to Istanbul Equinix 98U32-01 Expected outage:  1 hour – an outage is possible during the whole announced timeframe Location: Istanbul Equinix
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 )
+msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 )
+msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 )
+msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.
+
+
+""
+
+
+
+
+
+ 
+NOC Türk Telekom International
+Türk Telekom International AT GmbH
+2345 Brunn am Gebirge, Campus21, Europaring F13, Ebene 3, Austria
+NOC@turktelekomint.com
+Phone:	  +43 1 699 94 08 211
+
+turktelekomint.com
+
+Türk Telekom International AT GmbH, Firmenbuchnummer: LG Wr. Neustadt/FN 99090 x - DVR-Nr. 0510505 - UID Nr. ATU 16967806, Gerichtsstand HG Wien

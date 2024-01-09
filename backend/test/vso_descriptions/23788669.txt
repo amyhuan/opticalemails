@@ -1,0 +1,65 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 27/05/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230523-0012 : FIBERAIL NETWORK INTERRUPTION NOTICE : CABLE MAINTENANCE DUE TO PROJECT MIGRATION WORK FOR NEW STATION.
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+Kelana Jaya ( Central) - Johor Bharu ( Southern)
+
+PLANNED START ( with time zone )  
+
+2023-05-25 00:00:00 (GMT +8 MYT)
+
+PLANNED END
+
+2023-05-25 06:00:00 (GMT +8 MYT)
+
+TIMEZONE
+
+GMT +8 MYT
+
+EXPECTED OUTAGE START
+
+2023-05-25 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-05-25 06:00:00
+
+EXPECTED OUTAGE DURATION
+
+3 Hours
+
+JUSTIFICATION
+
+FIBERAIL NETWORK INTERRUPTION NOTICE : CABLE MAINTENANCE DUE TO PROJECT MIGRATION WORK FOR NEW STATION
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1042623732
+
+3 Hours
+
+IE1049486802
+
+3 Hours

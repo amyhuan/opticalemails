@@ -1,0 +1,61 @@
+Planned maintenance to our network infrastructure
+No services impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Southern Cross Hazardous Maintenance SR#249516_9
+
+Hazardous Condition - DC Power Connection Alexandria, AU : SX cable landing station provider will undertake DC power supply expansion work to accommodate additional new 6500 nodes at Alexandria in Australia. This activity is targeted to connect the new equipment to 50v DC on the main BDFB. This is expected to be non-service impacting and this advice is precautionary only
+
+
+Reference number
+PN298616
+
+
+Start time
+Sunday, 26 Mar 2023 21:00:00 (UTC)
+
+
+End time
+Monday, 27 Mar 2023 06:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 9932644
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9932644
+LAX SYD EPL 9253854
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9253854
+LAX SYD EPL 9696335
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9696335
+LAX SYD EPL 9441534
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9441534
+LAX SYD EPL 90010960
+LAX SYD EPL 90010963
+LAX SYD EPL 90015279
+LAX SYD EPL 90015276
+LAX SYD EPL 90022024
+LAX SYD EPL 90022027
+LAX SYD EPL 90022030
+LAX SYD EPL 90022021
+AUC SYD EPL 9635575
+SYD/SXAL/TELSTRA/AUS - AUC/WHLS/TELSTRA/NZL 100GIGE BASE EPL 9635575
+AUC SYD EPL 90029933
+AUC SYD EPL 90029929
+AUC SYD EPL 90029928
+AUC SYD EPL 90029925
+
+Expected impact
+0 minutes outage - No service impact expected
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.

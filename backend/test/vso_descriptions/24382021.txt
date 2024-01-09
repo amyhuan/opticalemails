@@ -1,0 +1,17 @@
+Dear HKIX peering partners,
+
+BIGLOBE(AS2518) will be performing router maintenance as follows.
+Thank you for your cooperation.
+
+---------------------------------
+Date         : 2023/06/29 09:00 - 18:00 JST / 2023/06/29 00:00 - 09:00 UTC
+AS Number    : 2518
+IPv4 address : 123.255.90.157
+IPv6 address : 2001:7fa:0:1::ca28:a09d
+Impact       : BGP session will be down during the time
+---------------------------------
+
+Best Regards,
+------------------------------
+BIGLOBE NOC
+noc@mesh.ad.jp

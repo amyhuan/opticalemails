@@ -1,0 +1,31 @@
+Dear Team,
+
+
+
+We are going to perform a maintenance on our equipment  - tomorrow, 28th July, Friday at 00:15 UTC,
+
+to upgrade the softwares on them and you will notice the BGP sessions our AS3856 router go down during the
+
+maintenance period, which will last for about 2 hours. We will update as soon this is complete.
+
+
+
+## IP details:
+
+AS3856: 103.162.254.58, 2403:4ac0::58
+
+               103.119.232.58, 2001:df6:480::f10:0:1
+
+
+
+Looking forward to your support.
+
+
+
+Many thanks !
+
+
+
+Regards,
+Srijan Bhuju
+Packet Clearing House

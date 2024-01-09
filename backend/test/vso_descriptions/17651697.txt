@@ -1,0 +1,35 @@
+Dear MICROSOFT JAPAN CO. LTD.
+
+ Scheduled Work Notification
+
+We express our gratitude for using Arcstar Network Services.
+We would like to inform you that the following activity will be
+carried out on the International Circuit(s).
+We sincerely apologize for any inconvenience this may cause you.
+
+Details;
+
+
+1.Affect Circuit & Date(yyyy/mm/dd UTC) :
+   LE100041 (100G)
+
+   LE100038 (100G)
+
+   LE100039 (100G)
+
+   LE100040 (100G)
+
+   LE100052 (100G)
+
+   LE100053 (100G)
+
+
+2023/04/08(Sat) 16:00 - 2023/04/09(Sun) 00:00 UTC
+
+*  JST(Japan Time) = UTC(Universal Time) + 9 hours
+
+2.Outage Duration : Maximum 120 minutes down
+
+3.Reason : Network management carrier - SINGAPORE TELECOM will perform maintenance work to secure network reliability at the time listed above.
+
+4.Person in Charge : Sou, Kasahara

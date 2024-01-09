@@ -1,0 +1,45 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft 1968 South Africa (Pty) Limited
+Ticket Number	WIOCCEW130768
+External Ref	
+Incident Start Date/Time	26/02/2023 0:01 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C170-0058	1x100Gbps from Johannesburg, Liquid DC to Marseille Interxion via SEACOM	100	Johannesburg	Interxion - Marseille
+CA-MU-C170-0059	1x100Gbps from Johannesburg, Liquid DC to Marseille Interxion via SEACOM	100	Johannesburg	Interxion - Marseille
+CA-MU-C170-0065	1x100Gbps from Johannesburg, ADC Midrand to Marseille Interxion via SEACOM	100	Johannesburg	Interxion - Marseille
+Most Recent Message:
+
+Please take note of the emergency maintenance activities that will be carried out under 2 Maintenance windows as detailed below:
+
+1st Maintenance Window
+Start Date / Time: 26th Feb 2023 00:01 UTC
+End Date / Time: 26th Feb 2023 23:59 UTC
+
+Impact on Service(s) during 1st Activity
+Expected Downtime: 14 hours downtime
+
+2nd Maintenance Window
+Start Date / Time: 27th Feb 2023 22:59 UTC
+End Date / Time: 28th Feb 2023 6:00 UTC
+
+Impact on Service(s) during 2nd Activity
+Expected Downtime: 1 hour
+
+Description of Works
+For the 1st activity, SEACOM will be conducting equipment migration activity between Abu Talat and Marseilles. The provisional maintenance window is one (1) day, commencing from 00:01GMT on the 26th of February, 2023, until 23:59GMT on the 26th February, 2023. Once activity commences, transmission services with linear traffic routing from South and East Africa towards Europe and traversing Egypt will be affected for fourteen (14) hours during the maintenance window. Customers with IP/MPLS services from East Africa and Maputo towards Europe will have their traffic re-routed via alternative paths and could experience altered latency during this time.
+
+For the 2nd Activity, SEACOM will conduct fibre-swapping activities at Marseille that have arisen due to emergency tramway infrastructure work on the existing fibre route. The provisional maintenance window is seven (7) hours, from 22:59 GMT, 27th February 2023, until 06:00 GMT, 28th February 2023. Once the maintenance activity commences, linear transmission traffic routing from South and East Africa towards Europe traversing via Egypt will be affected for one (1) hour across the maintenance window. IP/MPLS customers with protected traffic in East Africa and Maputo to various destinations in Europe will have their traffic re-routed via alternative paths and could experience altered latency.
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket

@@ -1,0 +1,74 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following , Planned Outage has been scheduled by Vocus, .
+
+ 
+
+Change reference:            CHG1637629
+
+
+Work Start Date/Time:  05-07-2023 00:00:00 AEST
+
+Work End Date/Time:     05-07-2023 06:00:00 AEST
+      
+
+Location:            Strathdale, VIC
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 6 Hours
+ 
+
+Description of Work:  
+
+ 
+
+Planned Major Fibre works, the listed services may experience a break during the change window.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE128559	Vocus Etherwave (AUD)
+VWE160997	Vocus Wavelength (AUD)
+VWE296995	Vocus Wavelength (AUD)
+VWE296996	Vocus Wavelength (AUD)
+VWE296997	Vocus Wavelength (AUD)
+VWE297016	Vocus Wavelength (AUD)
+VWE297026	Vocus Wavelength (AUD)
+VWE297062	Vocus Wavelength (AUD)
+VWE297063	Vocus Wavelength (AUD)
+VWE297066	Vocus Wavelength (AUD)
+VWE297067	Vocus Wavelength (AUD)
+VWE297068	Vocus Wavelength (AUD)
+VWE283013	Vocus Wavelength (AUD)
+VWE283014	Vocus Wavelength (AUD)
+VWE283015	Vocus Wavelength (AUD)
+VWE283016	Vocus Wavelength (AUD)
+VWE160993	Vocus Wavelength (AUD)
+VWE160994	Vocus Wavelength (AUD)
+VWE160995	Vocus Wavelength (AUD)
+VWE160996	Vocus Wavelength (AUD)
+VWE123209	Vocus Etherwave (AUD)
+VWE224159	Vocus Wavelength (AUD)
+VWE224160	Vocus Wavelength (AUD)
+VWE243313	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

@@ -1,0 +1,31 @@
+Details:
+Start Time: 2023-10-26 02:55:00 +0000 UTC
+End Time: 2023-10-26 11:05:00 +0000 UTC
+Duration: 8h10m0s
+Google ASN:	15169	Peer ASN:	8075
+Google Neighbor Address(es):	104.44.56.94	Peer Neighbor Address(es):	104.44.56.95
+Google Neighbor Address(es):	2a01:111:2000:1::39cd	Peer Neighbor Address(es):	2a01:111:2000:1::39ce
+Google systems will automatically re-route the traffic away from the peering link(s) under maintenance.
+
+Depending on the nature of the work, your BGP session with Google may stay up through the maintenance window. Traffic may shift to alternate sessions with Google and/or your upstream provider(s).
+
+Questions about this event can be sent to noc@google.com.
+
+Thank you for peering with Google!Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC237891
+Action and Reason:	Urgent cable work to improve network stability.
+Location:	Furuvik, Sweden
+
+
+Service Window: PWIC237891.1 primary	Work Status: Confirmed
+Service window start:	2023-10-30 23:00 UTC
+Service window end:	2023-10-31 05:00 UTC
+Impacted Services	
+IC-363194 (TRIM.20201105.01)	IP Transit	1 x 6 hours
+
+
+
+Best Regards
+Customer Support Center

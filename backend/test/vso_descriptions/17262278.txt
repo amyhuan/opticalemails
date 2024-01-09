@@ -1,0 +1,40 @@
+Dear Equinix Customer,
+
+DATE: 09-MAR-2023
+
+SPAN: 09-MAR-2023 - 09-MAR-2023
+
+LOCAL: THURSDAY, 09 MAR 00:00 - THURSDAY, 09 MAR 06:00
+UTC: WEDNESDAY, 08 MAR 13:00 - WEDNESDAY, 08 MAR 19:00
+
+IBX(s): SY
+
+DESCRIPTION:Please be advised that one of our Equinix Connect upstream providers will be performing a planned software upgrade on their device.
+
+Your services might experience an increase in latency but there will be no impact to your services as traffic is automatically rerouted to our alternate providers.
+
+PRODUCTS: EQUINIX CONNECT
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+116344	Equinix Connect	SY2	20013989
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-224167786355.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-224167786355].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.

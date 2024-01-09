@@ -1,0 +1,50 @@
+Maintenance Announcement
+
+Dear Customer,
+
+Please be advised that euNetworks will perform a necessary hardware replacement on the dates and times shown below.
+
+Should you have any questions please contact our Change Management Team by replying to this e-mail.
+
+Best Regards,
+
+Your euNetworks Change Management Team
+
+Sehr geehrter Kunde,
+
+mit diesem Schreiben möchten wir Sie über einen notwendigen Hardwaretausch im Netz der euNetworks informieren.
+
+Bei Fragen antworten Sie bitte auf diese E-Mail. Unser Change Management Team ist Ihnen gerne behilflich.
+
+Mit freundlichen Grüßen
+
+Ihr euNetworks Change Management Team
+
+Ticket Number: 02119845
+
+Service Affecting: Yes
+Impact: 7 Hours Outage
+ 
+Reason for Request: Network Growth
+
+Additional Customer Information: Capable hardware replacements will be carried out.
+
+Location Description: Frankfurt and Hannover
+
+Start Time: 2023-04-10 20:00 GMT
+End Time: 2023-04-11 04:30 GMT
+
+Service:
+Number, ID, Name	Location A
+Location Z	Work
+Status
+S00321674, C35254-059,
+Frankfurt to Berlin, LH Wave, 100 Gbit/s	A: DRT Sossenheim (Digital Realty FRA10/Interxion FRA30), Wilhelm-Fay-Strasse 24, Frankfurt
+Z: NTT BER1, Nonnendammallee 15, Berlin	Planned
+S00321675, C35254-060,
+Frankfurt to Berlin, LH Wave, 100 Gbit/s	A: DRT Sossenheim (Digital Realty FRA10/Interxion FRA30), Wilhelm-Fay-Strasse 24, Frankfurt
+Z: NTT BER1, Nonnendammallee 15, Berlin	Planned
+
+
+
+ref:00D200000000A05.5004G00002XRtHS:ref

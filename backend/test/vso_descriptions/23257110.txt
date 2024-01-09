@@ -1,0 +1,54 @@
+Dear MICROSOFT JAPAN CO. LTD.
+
+ Scheduled Work Notification
+
+We express our gratitude for using Arcstar Network Services.
+We would like to inform you that the following activity will be
+carried out on the International Circuit(s).
+We sincerely apologize for any inconvenience this may cause you.
+
+Details;
+
+
+1.Affect Circuit & Date(yyyy/mm/dd UTC) :
+   LE100037 (100G)
+
+   LE100034 (100G)
+
+   LE100035 (100G)
+
+   LE100036 (100G)
+
+   LE100048 (100G)
+
+   LE100049 (100G)
+
+   LE100050 (100G)
+
+   LE100051 (100G)
+
+   LE100097 (100G)
+
+   LE100098 (100G)
+
+   LE100099 (100G)
+
+   LE100100 (100G)
+
+   LE100101 (100G)
+
+
+2023/06/03(Sat) 13:00 - 2023/06/08(Thu) 04:00 UTC
+
+*  JST(Japan Time) = UTC(Universal Time) + 9 hours
+
+2.Outage Duration : Maximum 4 days 15 hours down
+
+3.Reason : Submarine cable carrier - ASE will perform maintenance work to secure network reliability at the time listed above.
+
+4.Person in Charge : Sou, Kasahara
+
+
+Best regards,
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+Tokyo Operation Center

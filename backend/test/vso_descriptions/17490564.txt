@@ -1,0 +1,63 @@
+,  , ear Team,,  ,  ,  , The activity has been rescheduled as below.,  ,  ,  , Window,  ,  , Primary Start Date (GMT),  ,  , Primary End Date (GMT),  ,  , Backup Start Date (GMT),  ,  , Backup End Date (GMT),  ,  , 1,  ,  , 28-Mar-2023 21:00,  ,  , 29-Mar-2023 04:00,  ,  , NA,  ,  , NA,  ,  ,  ,  , Br,,  ,  ,  ,  ,  , Abubaker Elsideg Elhaj,  , Consultant,  , Ooredoo Qatar,  , T:,  ,  ,  , M:,  , +974 77392767,  , Follow us on , Twitter,  and , Facebook,  ,  ,  ,  , Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C138505
+
+Description
+
+Our provider will be carrying planned activity of cable installation.
+
+Location
+
+Marseilles ,France.
+
+Duration
+
+At Risk Only.
+
+Planned Start
+
+25 Mar 2023 22:00 GMT
+
+Planned End
+
+26 Mar 2023 04:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5) 
+
+Carrier References
+
+PE2023030140721
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Hossain Anowar
+
+Consultant
+
+Ooredoo Qatar
+
+T:  +974 44400673
+M: +974 66412976
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

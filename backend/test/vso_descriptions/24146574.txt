@@ -1,0 +1,68 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Sunday, 11 Jun 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN303893
+
+         
+
+Scheduled Date                                    :     Sunday, 11 Jun 2023
+
+
+Maintenance Window                            :     11 Jun 2023 16:00:00 (UTC)  to 12 Jun 2023 00:01:00 (UTC)
+
+ 
+
+Activity                                                :     Maintenance work for RELOCATION AIR BEMBAN - SIMPANG RENGAM 48C_J_B DUE TO DAMAGED TM INFRASTRUCTURE POOR QUALITY JUNCTION CABLES (FAULTY/HIGH LOSS) ALONG JLN AIR HITAM TO KULAI, JOHOR. Traffic via BBG path will be affected.
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will be down for less than 10 sec during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shipranshu

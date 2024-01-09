@@ -1,0 +1,62 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C141983
+
+Description
+
+Planned activity to clear the Critical alarm in Mumbai-Oman-Jaddah nodes within TGNEA network.
+
+Location
+
+Mumbai-Jeddha-Oman
+
+Duration
+
+5 Hours Outage.
+
+Planned Start
+
+28 May 2023 06:30:00 GMT
+
+Planned End
+
+28 May 2023 11:30:00 GMT
+
+Affected service/link
+
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114 (QDC5)
+
+Carrier References
+
+CHGP0590396
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Hossain Anowar
+
+Consultant
+
+Ooredoo Qatar
+
+T:  +974 44400673
+M: +974 66412976
+
+Follow us on Twitter and Facebook
+
+ 
+
+Ooredoo Supernet: The first 5G network in the world

@@ -1,0 +1,84 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Urgent Planned Change scheduled at Bloemfontein on the 13th August 2023 from 07:00 to 17:00 (GMT: +02:00). We need to do permanent repairs on the damaged cable between manholes NT069 and NT056.
+
+ 
+
+IMPACT: Services will be down for a maximum duration of 4Hrs.
+
+ 
+
+ 
+
+Affected Services:
+
+ 
+
+027JOHA292013677984
+
+027CAPE292014221327
+
+027CAPE292014221322
+
+027CAPE292014221317
+
+027CAPE292014221332
+
+027MIDR292013956867
+
+027CAPE292014066895
+
+027CAPE292014066903
+
+027MIDR292014077306
+
+ 
+
+Reason For Change
+
+ 
+
+To do permanent repairs on the damaged cable between manholes NT069 and NT056.
+
+ 
+
+Implementation Plan
+
+ 
+
+Fibre cable to be prepared.
+Two Technicians will be splicing, one on Manhole NT069 where the existing joint is.
+One technician on the Manhole NT056 where a new joint will be.
+Test and confirm with services restoration with NOC
+ 
+
+ROLL BACK PLAN
+
+ 
+
+Re-splice and test to ensure services restoration.
+
+                                                         
+
+ 
+
+Kind Regards
+
+Doreen Lesitla
+
+Change Control Administrator
+
+ 
+
+ 
+
+TECHNICAL SUPPORT DESK ESCALATION
+
+ 
+
+Immediate Technical Support +27 11 774 0045
+support@liquidtelecom.com 1 1-hrs Shift lead Hunt number: +27 11 774 0017
+Shiftleads@liquidtelecom.co.za 2 2-hrs Duty Manager Hunt number: +27 11 585 0041
+dutymanagers@liquidtelecom.co.za

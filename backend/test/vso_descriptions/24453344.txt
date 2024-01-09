@@ -1,0 +1,102 @@
+Dear All,,  ,  ,  , Please be informed that the planned work in object has been postponed according to the new following details:,  ,  ,  , NEW Start Date & Time: 25/08/2023, 00:00 UTC,  , NEW End Date & Time: 25/08/2023, 04:00 UTC,  ,  ,  , The other details remain the same.,  ,  ,  , Regards,,  ,  ,  , Shreyansh Moghia,  , Global Services Management Center (GSMC),  , Bharti Airtel Limited,  ,  ,  ,  , Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Thursday 03rd August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                   :     ITEM-056595 NE-15792
+
+         
+
+Scheduled Date                            :     Thursday 03rd August 2023
+
+
+Maintenance Window                    :     03-08-2023 22:00 GMT to 04-08-2023 04:00 GMT
+
+ 
+
+Activity                                        :     Main optical cable relocation due to some civil works.
+
+ 
+
+Location                                       :     Padova-Verona (ITALY)
+
+ 
+
+Benefit of Change                         :     To avoid unplanned outage in near future
+
+
+Impact                                         :     Service Affecting
+                           
+Duration of Impact                        :     Circuit will be down for 240 mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shreyansh Moghia
+
+Global Services Management Center (GSMC)
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1
+
+ 
+
+ 
+
+
+ 
+
+***********************************************************************************************************************************************************************
+This email and any files transmitted with it are confidential and intended solely for the use of the individual or entity to whom they are addressed. If you have received this email in error please notify the system manager. This message contains confidential information and is intended only for the individual named. If you are not the named addressee you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately by e-mail if you have received this e-mail by mistake and delete this e-mail from your system. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited . The information contained in this mail is propriety and strictly confidential.
+***********************************************************************************************************************************************************************
+
+
+“CONFIDENTIALITY NOTICE This e-mail message and any attachments are only for the use of the intended recipient and may contain information that is privileged, confidential or exempt from disclosure under applicable law. If you are not the intended recipient, any disclosure, distribution or other use of this e-mail message or attachments is prohibited. If you have received this e-mail message in error, please delete and notify the sender immediately. Thank you.”

@@ -1,0 +1,13 @@
+, Hi NOC, ,  , "On Thursday 29rd of June 2023 between 00:01 - 05:00 CET, the following,  , maintenance,  , will be carried out",  ,  , Lukas ,  ,  , Dear peering partners,
+on 12.07.2023 from 11:00 CEST we will perform security router maintenance at our peers
+91.210.16.234 / 2001: 7f8: 14 :: 7c: 1 (AS61296)
+91.210.16.224, 2001: 7f8: 14 :: 7c: 2 (AS61296)
+
+The maintenance window duration: max 30 minuts.
+
+We apologize for any inconvenience.
+-- 
+S pozdravem,
+Veselin Polichronov
+CTO, Network Management & Operation
+TechCom, s.r.o.

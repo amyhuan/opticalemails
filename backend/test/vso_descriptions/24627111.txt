@@ -1,0 +1,43 @@
+Hello ,   , Please be informed that our provider rescheduled the work to following date and time frame: ,   , Ticket Begin Time             18/09/2023 23:00:00 , Ticket End Time                19/09/2023 05:00:00 , Time Zone                           GMT + 1 ,   , We are sorry for the inconvenience! , KR , Marc ,   ,  ,  ,  , Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230721093402 ticket number has been opened.
+
+Details
+Ticket Number	wt 230721093402
+Status	INPROG
+Level	3
+Ticket Begin Time	07/09/2023 23:00:00
+Ticket End Time	08/09/2023 05:00:00
+Time Zone	GMT + 1
+Description	***UPDATE 1 - PLEASE NOTE NEW DATE ABOVE - ALL OTHER DETAILS REMAIN THE SAME***   Our provider will perform cable relocation due to civil works.   Location: Bagheria - Palermo, Italy.   Unprotected services will face a forecasted outage of 240 minutes.   Protected services are only at risk and might face protection switch(es).    
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33649b.100ge*fra-ist /comment: unprotected (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: unprotected (SupplierId:WL074836 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.
+
+
+""
+
+
+
+
+
+ 
+NOC Türk Telekom International
+Türk Telekom International AT GmbH
+2345 Brunn am Gebirge, Campus21, Europaring F13, Ebene 3, Austria
+NOC@turktelekomint.com
+Phone:	  +43 1 699 94 08 211
+
+turktelekomint.com
+
+Türk Telekom International AT GmbH, Firmenbuchnummer: LG Wr. Neustadt/FN 99090 x - DVR-Nr. 0510505 - UID Nr. ATU 16967806, Gerichtsstand HG Wien

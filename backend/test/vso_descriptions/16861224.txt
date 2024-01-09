@@ -1,0 +1,28 @@
+Dear Cogent Customer,
+
+Due to some maintenance works to improve the quality of the Cogent Network, the services with the following references:
+.
+1-300282800, 1-300282802
+
+will be interrupted during the following maintenance window:
+ 
+RESCHEDULED
+Date of  work: 29-JAN-2023
+Start time: 00:00 GMT
+End time: 02:00 GMT
+Place of work: Dublin
+Planned Work: HD302568724
+Work description: Card reload
+
+The  interruption to your service should not exceed Up to 30 minutes.
+
+Our network operations engineers closely monitor the work and will do everything possible to minimize any inconvenience to you.  If you have any problems with your connection after this time, or if you have any questions regarding the maintenance at any point, please call Customer Support at +34 91 102 2501 or send an email to eu-support@cogentco.com and refer to this Maintenance Ticket: HD302568724.
+
+While it is important for Cogent to perform maintenance such as this to ensure the quality of our network, we do everything possible to minimize any inconvenience to our customers.  We appreciate your patience and welcome any feedback.
+
+
+Sincerely,
+
+Customer Support
+Cogent Communications
+eu-support@cogentco.com

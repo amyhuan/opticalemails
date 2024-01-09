@@ -1,0 +1,22 @@
+CCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2037\23C
+Date Time : 20/05/2023 07:00:00 to 20/05/2023 07:30:00 GMT (dd/mm/yyyy)
+Duration : 10 mins
+Service/Circuit Affected :
+SR147408 / HKG(PCG)-OAS(PCG) EP5385 /
+
+Outage Description : Circuit migration work for HKG(PCG)-OAS(PCG) EP5385
+
+Outage : < 10 mins
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

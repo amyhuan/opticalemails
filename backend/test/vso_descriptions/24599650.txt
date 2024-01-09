@@ -1,0 +1,137 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 24/07/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230706-0004 :CABLE RELOCATION JALAN CHERAS BKT DUKONG DUE BREAKDOWN FOC KAJANG-CHERAS 96C 'A'
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+SELANGOR (CENTRAL)
+
+PLANNED START ( with time zone )  
+
+2023-07-23 23:00:00 (GMT +8 MYT)
+
+PLANNED END
+
+2023-07-24 07:00:00 (GMT +8 MYT)
+
+TIMEZONE
+
+GMT +8 MYT
+
+EXPECTED OUTAGE START
+
+2023-07-23 23:00:00
+
+EXPECTED OUTAGE END
+
+2023-07-24 07:00:00
+
+EXPECTED OUTAGE DURATION
+
+1 Hour
+
+JUSTIFICATION
+
+RELOCATION INFRA TM CABEL JUNCTION DUE TO PERMENANT CABLE JUNCTION PROJEK JLN CRHERAS BKT DUKONG FOC KAJANG-CHERAS 96C 'A'
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1050086349
+
+1 Hour
+
+IE1072879120
+
+1 Hour
+
+IE1049373761
+
+1 Hour
+
+IE1072876090
+
+1 Hour
+
+IE1072860061
+
+1 Hour
+
+IE1072855778
+
+1 Hour
+
+IE1072877490
+
+1 Hour
+
+IE1049374693
+
+1 Hour
+
+IE1072853135
+
+1 Hour
+
+IE1032150332
+
+1 Hour
+
+IE1072875331
+
+1 Hour
+
+IE1049060060
+
+1 Hour
+
+IE1032150256
+
+1 Hour
+
+IE1072858485
+
+1 Hour
+
+IE1049058912
+
+1 Hour
+
+IE1050085145
+
+1 Hour
+
+IE1042623063
+
+1 Hour
+
+IE1042622373
+
+1 Hour
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.

@@ -1,0 +1,36 @@
+Details:,  , Start, Mon Aug 28 21:00:00 GMT 2023,  , - Sun Aug 27 21:00:00 GMT 2023 , End, Tue Aug 29 05:00:00 GMT 2023,  , - Mon Aug 28 05:00:00 GMT 2023 , Location, Andancette <> Meysee, France. ,  , Planned Work Notification: 00279315 - Rescheduled
+Please note that the Planned Work is rescheduled. Please see details of the work and impact on your service below.
+
+
+Reschedule Reason:
+Reschedule - new date
+
+
+Details:
+Start	Tue Aug 22 20:00:00 GMT 2023 - Mon Aug 28 21:00:00 GMT 2023
+End	Wed Aug 23 04:00:00 GMT 2023 - Tue Aug 29 05:00:00 GMT 2023
+Location	Andancette <> Meysee, France.
+
+Planned work Reason:
+Fiber works on our network.
+
+
+
+Affected Services :
+Service Id	Legacy Id	Service Type	Expected Impact to your service	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MFSA5/WAVE/U/121929	Wavelength/01573826	Wavelength	240 min	No	Mrs-001_MRS1IR	Par-221_PAR221IR	00280994
+MFSA5/WAVE/U/121930	GTT/001815380	Wavelength	240 min	No	Mrs-001_MRS1IR	Par-221_PAR221IR	00280995
+MFSA5/WAVE/U/121932	GTT/001815636	Wavelength	240 min	No	Mrs-006_MRS1G	Par-221_PAR221IR	00280996
+MFSA5/WAVE/U/121928	IR/wavelength/01274930	Wavelength	240 min	No	Mrs-001_MRS1IR	Par-221_PAR221IR	00280997
+
+
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

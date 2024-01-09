@@ -1,0 +1,33 @@
+Dear Customer,
+
+Please be advised of the following maintenance activity as below:
+
+Start Date/Time:    2023-08-07 15:00:00 UTC / 2023-08-07 23:00:00 (GMT+8)
+
+End Date/Time:     2023-08-07 19:00:00 UTC / 2023-08-08 03:00:00 (GMT+8)
+
+Action and Reason: Provider will perform urgent maintenance work to secure network reliability in Mie area
+
+================================================
+
+Service Impact: 180 Minutes
+
+Affected circuit(s)ID: MICD0046,MICD0047
+
+/////////////////////////////////
+
+客户您好
+
+请注意以下计划性维护活动：　
+
+开始日期/时间:  2023-08-07 15:00:00 UTC / 2023-08-07 23:00:00 (GMT+8)
+
+结束日期/时间:  2023-08-07 19:00:00 UTC / 2023-08-08 03:00:00 (GMT+8)
+
+操作和原因：Provider will perform urgent maintenance work to secure network reliability in Mie area
+
+================================================
+
+服务影响时长：180 Minutes
+
+受影响电路ID：MICD0046,MICD0047

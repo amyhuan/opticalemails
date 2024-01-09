@@ -1,0 +1,51 @@
+Change Reference Number:
+
+C170875
+ 	 
+Start Date & Time:
+
+15/03/2023 23:59:00
+
+ 	 
+Finish Date & Time:
+
+16/03/2023 07:00:00
+
+ 	 
+Time Zone:
+
+Australia/Victoria
+
+ 	 
+Change Description:
+
+Relocate splice enclosure & cables at Shepparton due to third party request.
+
+ 	 
+Location of Change:
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+07:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00003817"
+"SRVCKT00001483"
+"SRVCKT00001410"	"Service Circuit"
+"Service Circuit"
+"Service Circuit"	"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"	"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"	
+
+ 
+
+Optus Planned Events

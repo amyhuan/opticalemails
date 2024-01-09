@@ -1,0 +1,26 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230822132529 ticket number has been opened.
+
+Details
+Ticket Number	wt 230822132529
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	05/09/2023 23:00
+Ticket End Time	06/09/2023 06:00
+Time Zone	(UTC+2:00) CEST
+Description	Please be informed that there will be a planned maintenance in our providers network, which will affect your service.Outage: no outage expected / at riskReason: urgent & mandatory main optical cable relocation (by our Provider) due to some civil works). Location: Karlsruhe-Kehl (GERMANY)
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33649b.100ge*fra-ist /comment: (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: (SupplierId:WL074836 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

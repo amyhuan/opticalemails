@@ -1,0 +1,61 @@
+Dear Microsoft Company,
+
+we want to inform you about a Planned Work that our Network Provider is going to carry out on its network with the following details:
+
+ 
+
+Our Planned Work Ref.: MED PW#8996
+
+ 
+
+Time window: 31/07/2023 21:00 GMT and 01/08/2023 03:00 GMT
+
+ 
+
+Reason of the work: urgent and mandatory network cable works place at Center of Grevena, by network provider.
+
+ 
+
+Circuit List
+
+ 
+
+Services Affected for a forecasted Outage Time: 360 minutes.
+
+Microsoft:ETH-20148_100G (Cust ID:ATHENS/WED-WIEN/WED NP 0002,  TIS-00000081577)
+
+Microsoft:ETH-2055_100G (Cust ID:ATHENS/WED-WIEN/WED NP 0001, TIS-00000078765)
+
+ 
+
+We apologize for any inconvenience we may cause to you.
+
+ 
+
+Note: If we don't receive any feedback from you in the next hours, we will assume you are in agreement.
+
+      If you are not the right person/department, please forward this message to whom it may concern.
+
+ 
+
+ 
+
+ 
+
+Best Regards,
+
+_________________________________________
+Sparkle
+
+ 
+
+Francesco Mansueto
+Operations
+Transport, PoP & Infrastructures
+
+Planned Engineering Works
+
+Telecom Italia Sparkle S.p.A.
+Via Ugo La Malfa, 99 – 90145 Palermo
++39 095 7281 452 / 443
+Linkedin Twitter tisparkle.com

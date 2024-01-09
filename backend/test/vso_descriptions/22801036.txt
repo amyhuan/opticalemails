@@ -1,0 +1,19 @@
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC231389
+Action and Reason:	Maintenance to perform software upgrade works on network device in order to ensure continued service reliability
+Location:	Miami/FL, US
+
+
+Service Window: PWIC231389.1 primary	Work Status: Confirmed
+Service window start:	2023-05-31 06:00 UTC
+Service window end:	2023-05-31 07:30 UTC
+Impacted Services	
+IC-356473	IP Transit	1 x 90 minutes
+IC-356472	IP Transit	1 x 90 minutes
+
+
+
+Best Regards
+Customer Support Center

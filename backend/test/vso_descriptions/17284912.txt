@@ -1,0 +1,41 @@
+Dears,
+
+Kindly be aware of Planned Activity with below details:
+
+ 
+
+Planned outage notification
+
+Peer IP/Circuit Impacted
+
+International circuit ID
+
+ALX/MAR/10GbE/029/M
+
+ALX/MAR/10GbE/030/M
+
+Requested outage reason
+
+Hardware Replacement
+
+Outage Start time
+
+08-Mar-2023      21:00 UTC
+
+Outage End time
+
+09-Mar-2023      03:00 UTC
+
+Outage Duration
+
+6 Hours
+
+Outage impact
+
+Outage 2 HRS
+
+ 
+
+Thanks & Best Regards ;
+
+         Ahmed Medhat

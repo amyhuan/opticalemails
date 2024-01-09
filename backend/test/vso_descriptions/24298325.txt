@@ -1,0 +1,72 @@
+MOC-
+
+Start Time (PST): 6/29/2023 9:00:00 PM
+End Time (PST): 6/30/2023 3:00:00 AM
+Maintenance Length: 6 Hours
+Location: ASBNVA38W115IAMS1213 <-> RSTNVAKLDC21IAMS1257
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+3rd party vendor SummitIG will be performing a cable replacement to replace a 96 count cable to a new 432 count cable. Lumen will be tracking this under ticket # 26900089
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSIT Circuit Impacts
+
+MSFT-BL7C-BLUC-MSIT-0008-0::100GBE-1
+MSFT-BL7C-BLUC-MSIT-0009-0::100GBE-1
+MSFT-BL7C-BLUC-MSIT-0010-0::100GBE-1
+MSFT-BL20-BLUC-MSIT-0080-0::100GBE-1
+MSFT-BL20-BLUC-MSIT-0081-0::100GBE-1
+MSFT-BL20-BLUC-MSIT-0082-0::100GBE-1
+
+MSAZ Circuit Impacts
+
+MSFT-BL20-BL7C-MSAZ-0152-0::100GBE-1
+
+SWAN Circuit Impacts
+
+MSFT-BL20-BL7C-SWAN-0237-0::100GBE-1
+MSFT-BL20-BL7C-SWAN-0238-0::100GBE-1
+MSFT-BL20-BL7C-SWAN-0239-0::100GBE-1
+MSFT-BL20-BL7C-SWAN-0240-0::100GBE-1
+
+MSCG Circuit Impacts
+
+MSFT-BL4C-BL7C-MSCG-0085-0::100GBE-1
+MSFT-BL4C-BL7C-MSCG-0086-0::100GBE-1
+MSFT-BL4C-BL7C-MSCG-0087-0::100GBE-1
+MSFT-BL4C-BL7C-MSCG-0088-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0002-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0003-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0004-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0005-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0006-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0007-0::100GBE-1
+MSFT-BL20-BLUC-MSCG-0074-0::100GBE-1
+MSFT-BL20-BLUC-MSCG-0075-0::100GBE-1
+MSFT-BL20-BLUC-MSCG-0076-0::100GBE-1
+MSFT-BL20-BLUC-MSCG-0077-0::100GBE-1
+MSFT-BL20-BLUC-MSCG-0078-0::100GBE-1
+MSFT-BL20-BLUC-MSCG-0079-0::100GBE-1
+
+SLS impact:
+
+ 
+
+SLS-223
+
+SLS-115
+
+SLS-216
+
+SLS-222
+
+Regards,
+
+Professional Services Control Center

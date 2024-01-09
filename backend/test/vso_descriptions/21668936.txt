@@ -1,0 +1,57 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+ 	
+Maintenance details
+
+Telstra Global will perform router software upgrade in Sydney - IW2212140148
+
+During the JUNOS upgrade, the IP router SYDO60 will be upgraded and reloaded - Oxford Falls, Sydney, AU
+
+
+Reference number
+PN301853
+
+
+Start time
+Saturday, 27 May 2023 14:00:00 (UTC)
+
+
+End time
+Saturday, 27 May 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+MEL GIP 9486876
+
+
+Expected impact
+3 hours outage within the maintenance window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.
+Need help?
+
+Our planned maintenance user guide might have the answers you're looking for.
+
+You also can email us at gpen@team.telstra.com or call +852 3192 7420 for help with:
+
+Any questions regarding this maintenance activity.
+Notifcation management for future planned maintenance.
+Access to Telstra Connect if you cannot contact your Telstra representative/s.

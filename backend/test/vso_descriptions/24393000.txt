@@ -1,0 +1,22 @@
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00351076	2023-07-21 11:00:00	2023-07-21 18:00:00	0 Days 7 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+La actividad se ejecutará con el fin de realizar migración de servicio a nuevo cable tendido por afectación con objeto corto punzante. Cortar cable actual y migrar los servicios a nuevo cable tendido.
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G
+On behalf of GlobeNet, we thank you in advance and apologize for any inconvenience. The GlobeNet NOC will confirm once the work has been completed.

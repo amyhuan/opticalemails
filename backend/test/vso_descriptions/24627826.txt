@@ -1,0 +1,60 @@
+telstra international logo
+Planned maintenance to our network infrastructure
+No services impacted
+
+Attention Microsoft Pty Ltd
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+ 	
+Maintenance details
+
+Southern Cross Hazardous Maintenance SR#251339_1
+
+Hazardous Condition - DC Power Connection Alexandria, AU : SX cable landing station provider will undertake DC power supply expansion work to accommodate additional new 6500 nodes at Alexandria in Australia. This activity is targeted to connect the new equipment to 50v DC on the main BDFB. This is expected to be non-service impacting and this advice is precautionary only
+
+
+Reference number
+PN309666
+
+
+Start time
+Monday, 07 Aug 2023 17:00:00 (UTC)
+
+
+End time
+Tuesday, 08 Aug 2023 01:00:00 (UTC)
+
+
+Service/s under maintenance
+AUC SYD EPL 9635575
+SYD/SXAL/TELSTRA/AUS - AUC/WHLS/TELSTRA/NZL 100GIGE BASE EPL 9635575
+
+
+Expected impact
+0 minutes outage - No service impact expected
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.
+Need help?
+
+Our planned maintenance user guide might have the answers you're looking for.
+
+You also can email us at gpen@team.telstra.com or call +852 3192 7420 for help with:
+
+Any questions regarding this maintenance activity.
+Notifcation management for future planned maintenance.
+Access to Telstra Connect if you cannot contact your Telstra representative/s.
+Please do not reply to this email. It's been sent from an automated system.

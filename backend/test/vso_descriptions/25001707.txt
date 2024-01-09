@@ -1,0 +1,35 @@
+Dear Team,
+
+ 
+
+As per MTCIL some work still pending which was not completed in previous outage.
+
+Considering the site conditions, MTCIL has requested for emergency outage to avoid any line tripping issues.
+
+ 
+
+following circuits bearing CKT-ID:
+
+ 
+
+·         17388100G01 to 17388100G08 (Capacity: 800GBPS)
+
+ 
+
+We are proposing downtime during 11:00 Hrs to 12:00 Hrs of 31st August'2023. (IST ZONE)
+
+ 
+
+It may affect circuits for a maximum of 60 MIN  though we will strive for minimal downtime, Traffic Affecting Activity .
+
+ 
+
+Kindly requested to confirm and provide go head for activity.
+
+ 
+
+ 
+
+सधन्यवाद
+
+पुष्पेंद्र कुमार यादव | Pushpendra Kumar Yadav

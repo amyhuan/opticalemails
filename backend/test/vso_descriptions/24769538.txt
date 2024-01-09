@@ -1,0 +1,18 @@
+Details
+Ticket Number	wt 230807092412
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	24/08/2023 2:00 AM
+Ticket End Time	24/08/2023 6:00 AM
+Time Zone	(UTC+2:00) CEST
+Description	Our provider will perform cable repair works which will affect your service.    Location: Bologna - Ravenna, Italy.    Unprotected services will face a forecasted outage of 240 minutes.    Protected services are only at risk and might face protection switch(es).  
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33649b.100ge*fra-ist /comment: protected (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: protected (SupplierId:WL074836 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

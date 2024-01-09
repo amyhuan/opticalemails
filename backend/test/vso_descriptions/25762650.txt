@@ -1,0 +1,39 @@
+Dear AS 8075 / 8068
+
+ 
+
+The timewindow within the mail is now corrected.
+
+Due to planned maintenance, BGP sessions towards your AS will be taken admin down.
+
+ 
+
+timewindow: Mon. 20.11.2023, 23:00 - 04:00 CET / UTC +1h
+
+location: SwissIX - Equinix ZH4
+
+peer IP: 91.206.52.152
+
+91.206.52.247 / 2001:7f8:24::98
+
+2001:7f8:24::f7
+
+ 
+
+For PNI peers: There will be a couple of port flaps within that timewindow.
+
+ 
+
+In case of questions, please don't hesitate to contact me.
+
+ 
+
+Kind regards
+
+Dani Ilg
+
+ 
+
+Daniel Ilg
+
+Network Engineer

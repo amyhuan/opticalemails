@@ -1,0 +1,47 @@
+Dear Team,,  ,  ,  , Activity has been rescheduled this maintenance to this new time window:,  ,  ,  , NEW STARTING TIME: 31-08-2023 22:00 UTC,  ,  ,  , NEW ENDING TIME:   01-09-2023 04:00 UTC,  ,  ,  ,  ,  ,  , Change ID                                            :        ITEM-056029 NE-15715
+
+         
+
+Scheduled Date                                    :        Monday 31th July 2023
+
+
+Maintenance Window                             :        31/07/2023 22:00 (GMT+00:00) to 01/08/2023 04:00 (GMT+00:00)
+
+ 
+
+Activity                                                :         To restore a cable previously diverted
+
+ 
+
+Location                                               :         Chambéry (FRANCE)
+
+ 
+
+Benefit of Change                                 :         To avoid unplanned outage in near future
+
+
+Impact                                                 :         Service Affecting
+                           
+Duration of Impact                                :         Circuit will be down for 360mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.

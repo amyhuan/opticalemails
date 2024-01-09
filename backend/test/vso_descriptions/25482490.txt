@@ -1,0 +1,38 @@
+Dear Customer,
+
+Planned Maintenance has been scheduled that is unlikely to impact your service. This is an information only Notice.
+
+This is an iCal notification for Telstra Planned Maintenance PN314348,which will insert a placeholder in your calendar as a reminder. This is for your convenience and information only, so no response from you is required.
+
+ To                                 : Microsoft Corporation (USA)
+
+Attention                       : moc, activations, Erik.Miller, F1800872
+
+Change Reference         : PN314348
+
+Maintenance Window   : 29/10/2023 21:00:00(UTC) to 29/10/2023 23:00:00(UTC)
+
+Expected Impact            : 0 minutes outage - No service impact expected
+
+Maintenance Details      :
+
+Southern Cross Hazardous Planned Maintenance SR#252991
+
+Planned Hazardous Condition: Investigate and Clear intermittent Timing source alarm/s : There is an alarm condition at Alexandria that although not currently traffic affecting, does require investigation and rectification. No traffic impact is anticipated, and this notification is precautionary only
+
+Service(s) Impacted       : LAX SYD EPL 9932644
+                                         SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9932644
+                                         LAX SYD EPL 9253854
+                                         SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9253854
+                                         LAX SYD EPL 9696335
+                                         SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9696335
+                                         LAX SYD EPL 9441534
+                                         SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9441534
+                                         LAX SYD EPL 90010960
+                                         LAX SYD EPL 90010963
+                                         LAX SYD EPL 90015279
+                                         LAX SYD EPL 90015276
+                                         LAX SYD EPL 90022024
+                                         LAX SYD EPL 90022027
+                                         LAX SYD EPL 90022030
+                                         LAX SYD EPL 90022021

@@ -1,0 +1,55 @@
+Dear Customer,
+
+ 
+
+Please be advised of below Planned activity:-
+
+ 
+
+PE Reference
+
+C3920275
+
+PE Category
+
+Planned Maintenance
+
+Description
+
+Our supplier will be performing activity at Mumbai-Penang FP2E Step8 insertion
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+JIOGIPLMUMSIN0223/ SO6084782506
+
+JIOGIPLMUMSIN0248 / SO6084842330
+
+JIOGIPLMUMSIN0249 / SO6085053694
+
+Start Time
+
+MAIN WINDOW
+
+02/Mar/2023 22:00:00 UTC
+
+BACKUP WINDOW
+
+06/Feb/2023 22:00:00 UTC
+
+End Time
+
+MAIN WINDOW
+
+03/Mar/2023 04:00:00 UTC
+
+BACKUP WINDOW
+
+07/Feb/2023 04:00:00 UTC
+
+Impact
+
+Service will be down during activity window

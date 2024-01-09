@@ -1,0 +1,29 @@
+Scheduled Maintenance #: 27637924
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to replace faulty hardware and is required in order to resolve a network condition and prevent potential unplanned service interruptions.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-09-21 13:15:46 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27637924-1
+
+Start	End
+2023-10-04 04:00 GMT (Greenwich Mean Time)	2023-10-04 09:00 GMT (Greenwich Mean Time)
+2023-10-04 00:00 EDT (Eastern Daylight Time)	2023-10-04 05:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): LOCUST GROVE, GA USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442224867	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442224865	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	1 hour	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.

@@ -1,0 +1,36 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230816140523 ticket number has been opened.
+
+Details
+Ticket Number	wt 230816140523
+Status	INPROG
+Level	3
+Emergency	H
+Ticket Begin Time	19/09/2023 02:00
+Ticket End Time	19/09/2023 06:00
+Time Zone	(UTC+3:00) Istanbul/EEST
+Description	 The work has been postponed to 19/09/2023 02:00 - 06:00 EEST There will be a planned maintenance on our network which will affect your service    REASON: Quality improvement with ODF work. OUTAGE: All time period    Location:  Istanbul
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 )
+msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 )
+msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 )
+msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )
+msn35897a.100ge*fra-ist /comment: (SupplierId:WL085751 )
+msn35898a.100ge*fra-ist /comment: (SupplierId:WL085770 )
+msn35899a.100ge*fra-ist /comment: (SupplierId:WL085771 )
+msn35900a.100ge*fra-ist /comment: (SupplierId:WL085772 )
+msn35901a.100ge*fra-ist /comment: (SupplierId:WL085773 )
+msn35902a.100ge*fra-ist /comment: (SupplierId:WL085774 )
+msn35903a.100ge*fra-ist /comment: (SupplierId:WL085775 )
+msn35904a.100ge*fra-ist /comment: (SupplierId:WL085776 )
+msn35906a.100ge*fra-ist /comment: (SupplierId:WL085778 )
+msn35905a.100ge*fra-ist /comment: (SupplierId:WL085777 )
+Click to see the details...
+
+Türk Telekom International

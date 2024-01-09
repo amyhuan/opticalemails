@@ -1,0 +1,41 @@
+Hello Team,
+
+ 
+
+Please refer below IP details and node details.
+
+Maintenance window is 01/06/2023, 00:00 06:00 BST.
+
+ 
+
+SKY IPv4
+
+SKY IPv6
+
+Microsoft Node Details
+
+2.127.241.50/31
+
+2a02:c7a:4:fffb::e/127
+
+IER03.LON32:ae63
+
+2.127.241.52/31
+
+2a02:c7a:4:fffb::10/127
+
+IER04.LON32:ae62
+
+195.66.225.234
+
+2001:7f8:4::15e7:1
+
+This is via LINX
+
+ 
+
+ 
+
+Regards,
+
+Bhagwan Patil

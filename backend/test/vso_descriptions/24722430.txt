@@ -1,0 +1,41 @@
+Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230802102038 ticket number has been opened.
+
+Details
+Ticket Number	wt 230802102038
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	11/08/2023 00:00
+Ticket End Time	11/08/2023 06:00
+Time Zone	(UTC+2:00) CEST
+Description	Please be informed, a maintenance will take place, which may affect your services.Outage: 4h during mentioned timeframeReason: works to prevent outage due to upcoming railway construction
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35906a.100ge*fra-ist /comment: (SupplierId:WL085778 )
+msn35905a.100ge*fra-ist /comment: (SupplierId:WL085777 )
+msn35904a.100ge*fra-ist /comment: (SupplierId:WL085776 )
+msn35903a.100ge*fra-ist /comment: (SupplierId:WL085775 )
+msn35902a.100ge*fra-ist /comment: (SupplierId:WL085774 )
+msn35901a.100ge*fra-ist /comment: (SupplierId:WL085773 )
+msn35900a.100ge*fra-ist /comment: (SupplierId:WL085772 )
+msn35899a.100ge*fra-ist /comment: (SupplierId:WL085771 )
+msn35898a.100ge*fra-ist /comment: (SupplierId:WL085770 )
+msn35897a.100ge*fra-ist /comment: (SupplierId:WL085751 )
+msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 )
+msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 )
+msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 )
+msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.
+
+
+""

@@ -1,0 +1,89 @@
+Start Date & Time:,  ,  , 05/09/2023 00:00:00 ,  ,   ,   , Finish Date & Time:,  ,  , 05/09/2023 06:00:00 ,  , Change Reference Number:
+
+C201301
+ 	 
+Start Date & Time:
+
+23/08/2023 00:00:00
+
+ 	 
+Finish Date & Time:
+
+23/08/2023 07:00:00
+
+ 	 
+Time Zone:
+
+Australia/West
+
+ 	 
+Change Description:
+
+Network Fault Fixing Activity
+
+ 	 
+Location of Change:
+
+0 Lake King-Norseman Rd,Norseman,WA,6356
+0 Biddy Camm Rd,Newdegate/Norseman,WA,6355
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+04:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00001314"
+"SRVCKT00001319"
+"SRVCKT00001327"
+"SRVCKT00001356"
+"SRVCKT00002016"
+"SRVCKT00002089"
+"SRVCKT00002647"
+"SRVCKT00002688"
+"SRVCKT00002704"
+"SRVCKT00002709"	"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"	"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"	"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"	
+
+ 
+
+Optus Planned Events
+Network Management Centre
+Singtel Optus
+1 Lyonpark Road, Macquarie Park
+Phone: 1300 555 852 (Australia) +612 8085 8883 (International)
+Email: Optus.planned.events@optus.com.au Our Standard Business Hours are Monday to Friday 9:00AM to 5:00PM
+
+This e-mail may contain confidential information. If you are not the intended recipient, please notify the sender immediately and delete this e-mail from your system. You must not disclose this email to anyone without express permission from the sender. The contents of all emails sent to, and received from, Optus may be scanned, stored, or disclosed to others by Optus at Optus' discretion. Optus has exercised care to avoid errors in the information contained in this e-mail but does not warrant that the information is error or omission free.

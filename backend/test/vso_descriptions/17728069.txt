@@ -1,0 +1,49 @@
+This email serves as official notification that FiberLight and/or its providers will be performing a SERVICE AFFECTING maintenance on the dates and times below.
+
+For questions or concerns regarding this maintenance please reply directly to your notification email.
+
+ 
+
+Start Date/Time  - 4/7/2023 @ 12:00 am CT
+
+End   Date/Time  - 4/7/2023 @ 6:00 am CT 
+
+ 
+
+Location: Texas  
+
+                     
+
+Reason: Circuit migrations to core network to improve redundancy  
+
+ 
+
+Affected Sites:
+
+402/ETHX/0017834
+
+402/ETHX/0017837
+
+ 
+
+Please forward  approval notification.
+
+ 
+
+While we have taken every precaution to minimize complications during this event, there exists a certain amount of risk and the possibility of extended service disruptions. If you have any questions or need additional information please feel free to contact us.
+
+ 
+
+FIBERLIGHT NOC
+
+ 
+
+FiberLight, LLC
+
+3000 Summit Pl. Ste 200
+
+Alpharetta, GA 30009
+
+Fiberlight, LLC NOC: 800.672.0181 opt. 1
+
+noc@fiberlight.com

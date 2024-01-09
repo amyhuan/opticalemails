@@ -1,0 +1,12 @@
+Dear Microsoft,
+
+We would like to inform you that our local service provider will conduct an emergency maintenance notification for the following detail
+
+Date & Time: 21 February, 00:01 - 05:00 UTC+7
+Activity Maintenance: Clearing High Fiber Loss Issue at DWDM TCS BSCS (MPO & FIM)
+Location: Telin-1 Changi - Singapore
+Downtime: 210 minutes
+Impacted CID :
+
+- TI-2000217-01 | Microsoft Link#1 TSG-CID: 033-00159 TI-2000217-01 (STT-1)
+- TI-2000217-02 | Microsoft Link#2 TSG-CID: 033-00161 TI-2000217-02 (STT-2)

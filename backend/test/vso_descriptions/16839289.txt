@@ -1,0 +1,29 @@
+Dear Comcast Customer,
+
+As a valued Customer, Comcast is committed to keeping you informed about any network maintenance that has the potential to affect your services. This email is to alert you regarding preventative maintenance we will be performing on our network in Illinois on the following date(s):
+
+Start date: 01-26-2023
+Start time: 12:00 AM Central
+End date: 01-26-2023
+End time: 06:00 AM Central
+Maintenance Ticket Number: CM004267062
+
+During this maintenance you may experience service disruption for approximately 360 minutes or less to your IP Transit service(s). If you encounter any problems with your services after the completion of our maintenance or you have questions regarding this maintenance at any point, please call the Comcast NOC at 888-262-7300 option 2 and refer to maintenance ticket # CM004267062.
+
+We appreciate your patience during this maintenance and welcome any feedback.
+
+Thank you for being a Loyal Comcast Customer.
+
+Note: While the specified maintenance window is 6 hour , maintenance may not require the use of this entire window.
+
+
+---------------------------------------------------------------------------------
+cid:15043/100G/CHCGILDT/CHCGILDTR45 cid:15044/100G/CHCGILDT/CHCGILDTR45
+---------------------------------------------------------------------------------
+
+
+Jeff Galitski
+
+"Confidentiality Notice
+
+This e-mail message, including any attachments, is for the sole use of intended recipients and may contain confidential and privileged information. Any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply e-mail and destroy all copies of the original message."

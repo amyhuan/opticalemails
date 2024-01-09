@@ -1,0 +1,35 @@
+** Please note revised Primary dates below **
+
+Reschedule Notification
+
+Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times.
+
+Maintenance Ticket #: TTN-0006466384
+
+Urgency: Planned
+
+Date Notice Sent: 06-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+29-Mar-2023 22:00 to 30-Mar-2023 06:00 ( Eastern )
+30-Mar-2023 02:00 to 30-Mar-2023 10:00 ( GMT )
+
+Location of Maintenance: 222 Delaware Ave, Wilmington, DE
+
+Reason for Maintenance: CSX mandated relocation
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/283655//ZYO	Hard Down - up to 5 hours	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+OQYX/283657//ZYO	Hard Down - up to 5 hours	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+OQYX/268481//ZYO	Hard Down - up to 5 hours	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+OQYX/268480//ZYO	Hard Down - up to 5 hours	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

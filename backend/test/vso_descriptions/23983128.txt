@@ -1,0 +1,51 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1642141
+
+
+Work Start Date/Time:  15-06-2023 00:00:03 AEST
+
+Work End Date/Time:     15-06-2023 06:00:00 AEST
+      
+
+Location:            Mascot, Baulkham Hills NSW
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 1 Hour
+ 
+
+Description of Work:  
+
+ 
+
+Network maintenance to rectify a fault condition on the network.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE226593	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

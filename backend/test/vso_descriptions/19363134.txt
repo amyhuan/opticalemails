@@ -1,0 +1,39 @@
+Dear Partner,
+
+
+We kindly inform that between 2023-05-09 23:00 UTC+2 - 2023-05-10 04:00 UTC+2 there will be maintenance works.
+During this period we expect (5 min.) break(s) in your service:
+
+ 
+
+ae19 up up STS=wds;NET=core;RTD=fra_ar4;RTI=ae0;BND=100g;INF=Frankfurt
+
+H:MIC:TP:004
+
+195.116.155.40/31
+ae19.100 up up TPNET fra_ar4
+ae19.222 up up ABO: MICROSOFT LINK 2 Frankfurt fra_ar4 0/0/5
+
+ 
+
+Please accept our apologies for any inconvenience caused. If you have any questions regarding the planned work, please contact us at spptp.swo@orange.com.
+
+ 
+
+ 
+
+Dzień dobry,
+
+ 
+
+Szanowni Państwo, pragniemy poinformować Państwa o pracy planowej. Szczegóły poniżej:
+
+ 
+
+Dane pracy:
+ID: 2302706
+Tytuł pracy: Migracja łączy MX->PTX - KRAKOW/P18
+Planowany czas pracy od - do: 2023-05-09 23:00 - 2023-05-10 04:00
+
+Przerwa do 5 minut.
+Wpływ na usługi:

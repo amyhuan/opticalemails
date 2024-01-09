@@ -1,0 +1,13 @@
+Hi,,  ,  ,  , Correction,  , Ticket Begin Time,  ,  , 30/03/2023 23:00:00,  ,  , Ticket End Time,  ,  , 31/03/2023 06:00:00,  ,  ,  ,   , Best regards,,  , Brigitta Salci, DI,  ,  ,  , Details
+Ticket Number	wt 230221095833
+Status	INPROG
+Level	3
+Ticket Begin Time	30/03/2023 00:00:00
+Ticket End Time	30/03/2023 06:00:00
+Time Zone	GMT + 1
+Description	Please be informed about a planned work which will affect your service.Reason: fiber works due to bridge demolition works STEP 2.Location: S. Michele/S (ITALY).Outage time: protection switches and higher latency
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33649b.100ge*fra-ist /comment: (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: (SupplierId:WL074836 )
+msn34964a.100ge*fra-ist /comment: (SupplierId:WL079712 )

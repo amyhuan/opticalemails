@@ -1,0 +1,22 @@
+Hi NOC NOC
+
+Please be advised that a maintenance event (CSS75403) will impact the services listed below.
+
+Purpose of Maintenance: To ensure uptime and stability of the Megaport network, we have scheduled an IOS upgrade for one of Megaport routers at Vocus Communications, Albany. Downtime is not expected to be any longer than 4 hours within the 6 hour period, with works starting as close to the beginning of the maintenance window as possible. Megaport always indicates a longer maintenance window than required, so that in the rare event of any issues, Megaport engineers can resolve them within the prescribed maintenance window. Megaport maintenance schedule start and finish time window includes the implementation and possible rollback time. Megaport encourages our customers to ensure they have diversity available for all services. If you require assistance in arranging diversity to mitigate the impact of this planned downtime, please contact your Megaport Account Manager. We thank you for your patience during this maintenance event.
+
+Impacted Service(s): Total of 4 hours of downtime during the 6 hour period.
+
+Service ID	 	Service Type	 	Service Name
+345354c8	 	MEGAPORT	 	10G AKL MegaIX LAG#2 Port#1
+536c1a2e	 	IX	 	Auckland_IX at Vocus, Albany
+
+Start Date and Time: Sat, 06 May 2023 10:00:00 UTC
+End Date and Time: Sat, 06 May 2023 16:00:00 UTC
+
+
+Got questions in relation to this maintenance activity? Did you know you can chat with us 24/7/365? Most support interactions are handled best via chat in our portal. Alternatively, reply to this email.
+
+
+Thank you for using Megaport’s services!
+
+The Megaport Team

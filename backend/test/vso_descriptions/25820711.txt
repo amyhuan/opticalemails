@@ -1,0 +1,36 @@
+[EXTERNAL] Emergency Planned Work PWIC239398 Notification from Arelion
+
+This sender ncm@arelion.com is from outside your organization. Attachments and pictures have been blocked. Block sender | Show blocked content
+ncm@arelion.com
+​
+Azure Network Operations Center
+​
+
+
+
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC239398
+Action and Reason:	Emergency maintenance due to network optimization.
+Location:	New york/NY, US
+
+
+Service Window: PWIC239398.1 primary	Work Status: Confirmed
+Service window start:	2023-11-14 05:00 UTC
+Service window end:	2023-11-14 10:00 UTC
+Impacted Services	
+IC-369728 (TRIM.20210614.03)	IP Transit	1 x 1 hours
+IC-369727 (TRIM.20210614.03)	IP Transit	1 x 1 hours
+
+
+
+Best Regards
+Customer Support Center
+
+linia
+
+Contact Us   |   My Arelion
+Follow us on LinkedIn & Twitter
+linkediID	 	twiter
+www.arelion.com  Privacy Policy

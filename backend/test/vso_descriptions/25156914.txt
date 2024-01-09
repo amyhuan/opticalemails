@@ -1,0 +1,73 @@
+Planned Work Notification.
+
+ 
+
+ Direct Line:  +972-765614739
+
+ E-mail:           CustomerMaintenanceNotification@bezeqint.co.il
+
+ 
+
+ 
+
+Dear Customer,
+
+ 
+
+We hope this planned work meets your approval and apologize in advance for any disruption to your operations. Should you have any further enquiries regarding this work please do not hesitate to contact us.
+
+ 
+
+Kind regards,
+
+ 
+
+Bezeq International Maintenance Team
+
+  
+
+FOR THE ATTENTION OF:
+
+CUSTOMER’S EMAIL:
+
+Microsoft Ireland Operations Limited
+
+ 
+
+ 
+
+Whaldo.Hall@microsoft.com
+
+moc@microsoft.com
+
+ 
+
+FROM (GMT+3):
+
+TO (GMT+3):
+
+EXPECTED IMPACT:
+
+15/09/2023    07:00
+
+15/09/2023 15:00
+
+30 mins of downtime
+
+ 
+
+PLANNED WORKS LOCATION & DESCRIPTION:
+
+Scope of work:
+
+ Emergency Maintenance on our  provider Fiber infrastructure platform related to Cable Splicing
+
+ 
+
+SERVICE(S) AFFECTED:
+
+Planned Work Reference Number: 506070
+
+ 
+
+Circuit ID:  IPLC-20-12667 & IPLC-20-12666

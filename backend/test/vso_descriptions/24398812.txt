@@ -1,0 +1,39 @@
+Details
+Ticket Number	wt 230626100652
+Status	INPROG
+Level	3
+Ticket Begin Time	07/07/2023 23:00:00
+Ticket End Time	08/07/2023 05:00:00
+Time Zone	GMT + 1
+Description	Our provider will perform cable repair works which will affect our DWDM BB between Ljubljana - Zagreb.  Unprotected services will face an outage during mentioned time frame.   Protected services are only at risk and might face protection switch(es).  
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35906a.100ge*fra-ist /comment: unprotected (SupplierId:WL085778 )
+msn35905a.100ge*fra-ist /comment: unprotected (SupplierId:WL085777 )
+msn35904a.100ge*fra-ist /comment: unprotected (SupplierId:WL085776 )
+msn35903a.100ge*fra-ist /comment: unprotected (SupplierId:WL085775 )
+msn35902a.100ge*fra-ist /comment: unprotected (SupplierId:WL085774 )
+msn35901a.100ge*fra-ist /comment: unprotected (SupplierId:WL085773 )
+msn35900a.100ge*fra-ist /comment: unprotected (SupplierId:WL085772 )
+msn35899a.100ge*fra-ist /comment: unprotected (SupplierId:WL085771 )
+msn35898a.100ge*fra-ist /comment: unprotected (SupplierId:WL085770 )
+msn35897a.100ge*fra-ist /comment: unprotected (SupplierId:WL085751 )
+msn34727a.100ge*fra-ist /comment: unprotected (SupplierId:WL079435 )
+msn33631a.100ge*fra-ist /comment: unprotected (SupplierId:WL074822 )
+msn33630a.100ge*fra-ist /comment: unprotected (SupplierId:WL074814 )
+msn34728a.100ge*fra-ist /comment: unprotected (SupplierId:WL079436 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.
+
+
+""
+
+
+
+
+
+ 
+NOC Türk Telekom Internationa

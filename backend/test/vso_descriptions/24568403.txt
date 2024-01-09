@@ -1,0 +1,65 @@
+Dear MCS,
+
+Viettel got information from AAE1. The details of maintenance activity are as below.
+
+ 
+
+ Planned Work Notification
+
+Service ID
+
+All ccts to Singapore via AAE1
+
+IPL004401
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+AAE1
+
+ 
+
+Activity Window (GMT)
+
+02:00 GMT to 09:00 GMT/ 31st July 2023
+
+Nature
+
+Non Service Affecting
+
+Expected Impact Duration(DD:HH:MM) :
+
+Switching hits plus protection loss
+
+ 
+
+Activity Description
+
+PW To replace fiber cable to rectify high loss at Tanjung Labuh, Pontian in Tg. Segenting- Pontian Kecil (TGS-PNK) span within Segment- L.2. Services will be running via Sub-Segments L.1.
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,
+
+ 
+
+ 
+
+******************************************************************************************************
+
+cid:image005.png@01D7B9F7.3A4B8F10
+
+Nguyễn Thị Thanh Trà | NOC Dept | Global Operation Center
+
+Add: 3F, Viettel Building, Hoa Lac High Tech, Thach That District, Tan Xa Commune, Ha Noi
+
+Fix: +84.246.2800025
+
+Email: thanhtra@viettel.com.vn

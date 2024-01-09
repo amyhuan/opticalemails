@@ -1,0 +1,42 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006625955
+
+Urgency: Planned
+
+Date Notice Sent: 29-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+18-Apr-2023 21:00 to 19-Apr-2023 06:00 ( Eastern )
+19-Apr-2023 01:00 to 19-Apr-2023 10:00 ( GMT )
+
+2nd Activity Date
+19-Apr-2023 21:00 to 20-Apr-2023 06:00 ( Eastern )
+20-Apr-2023 01:00 to 20-Apr-2023 10:00 ( GMT )
+
+3rd Activity Date
+20-Apr-2023 21:00 to 21-Apr-2023 06:00 ( Eastern )
+21-Apr-2023 01:00 to 21-Apr-2023 10:00 ( GMT )
+
+Location of Maintenance: 180 Peachtree St NW, Atlanta, GA
+
+Reason for Maintenance: Routine Fiber splice - NO Impact is Expected to your services. This notification is to advise you that we will be entering a splice case that houses live traffic.
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+F18M-0077739 | FBDK/1163304//ZFS	No Expected Impact	56 Marietta St NW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+OGYX/267721//ZYO	No Expected Impact	881 Peachtree St NE Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/008/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/007/ZFS	No Expected Impact	180 Peachtree St NW Atlanta, GA. USA	1100 White St SW Atlanta, GA. USA	
+FBDK/812212/009/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

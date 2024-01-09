@@ -1,0 +1,66 @@
+,  , Dear Team,,  ,  ,  , Please find backup window for subjected maintenance ,,  ,  ,  , Backup window,  ,  , 2023-09-13 22:00 UTC- 2023-09-14 06:00 UTC,  ,  ,  ,  ,  ,  , Start Date/Time: 2023-09-11 22:00:00 UTC/2023-09-12 06:00:00 UTC+8, End Date/Time: 2023-09-12 06:00:00 UTC/2023-09-12 14:00:00 UTC+8,  ,  , Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Monday 28th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     QT2023GJJH009877
+
+         
+
+Scheduled Date                                    :     Monday 28th August 2023
+
+
+Maintenance Window                             :     28-08-2023 22:00 UTC to 29-08-2023 06:00 UTC
+
+ 
+
+Activity                                                :     Partner provider’s maintenance
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will go down for 30mins during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854870
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+ 
+
+Regards,

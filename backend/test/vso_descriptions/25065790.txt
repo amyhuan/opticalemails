@@ -1,0 +1,29 @@
+Scheduled Maintenance #: 27183376
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to replace faulty hardware and is required in order to improve network reliability and continue providing optimal service for our clients.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-09-05 15:32:41 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27183376-1
+
+Start	End
+2023-09-13 07:00 GMT (Greenwich Mean Time)	2023-09-13 12:00 GMT (Greenwich Mean Time)
+2023-09-13 03:00 EDT (Eastern Daylight Time)	2023-09-13 08:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): TAMPA, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442067421	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442435170	N/A	100 GIG	ATLANTA GA USA	TAMPA FL USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442224867	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442435176	N/A	100 GIG	ATLANTA GA USA	TAMPA FL USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442224865	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442247054	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	1 hour

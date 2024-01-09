@@ -1,0 +1,27 @@
+Dear Equinix Customer,
+
+DATE: 10-MAY-2023 - 11-MAY-2023
+
+SPAN: 10-MAY-2023 - 11-MAY-2023
+
+LOCAL: WEDNESDAY, 10 MAY 22:00 - THURSDAY, 11 MAY 06:00
+UTC: THURSDAY, 11 MAY 05:00 - THURSDAY, 11 MAY 13:00
+
+IBX(s): SE
+
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade work on our Equinix Fabric backbone routers in Seattle. We do not anticipate any outages of your service, but a loss of redundancy and possible latency change during the work.
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: Loss of redundancy to your service
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+135594	Equinix Fabric	SE3	-	22422760	MICROSOFT-SE3-CX-SEC-02-10GLAB	Azure ExpressRoute	SEA-GBB154-ER-sec	38f2c1e7-5d65-46e1-9f2b-150eabb5eb56	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422758-A	MICROSOFT-SE3-CX-PRI-02-10GLAB	Azure ExpressRoute	SEA-GBB151-ER-pri	66aabd8b-22c0-4989-bc05-592e0c3251b3	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422758-A	MICROSOFT-SE3-CX-PRI-02-10GLAB	Azure ExpressRoute	SEA-GBB154-ER-pri	87ef6789-a57e-4431-9a7b-a6b89bcb659a	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422760	MICROSOFT-SE3-CX-SEC-02-10GLAB	Azure ExpressRoute	SEA-GBB151-ER-sec	9d4e4c3c-244e-4e12-98af-161df82e3c78	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422760	MICROSOFT-SE3-CX-SEC-02-10GLAB	Azure ExpressRoute	SEA-GBB151-MSFT-sec	50c3999c-0aa6-40a0-89ec-98683e89b16c	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422758-A	MICROSOFT-SE3-CX-PRI-02-10GLAB	Azure ExpressRoute	SEA-GBB151-MSFT-pri	b1e4c9c9-2d31-49cb-a4ac-4b4fcaeb4291	-	-	-	-	-	-

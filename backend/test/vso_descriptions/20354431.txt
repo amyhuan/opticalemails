@@ -1,0 +1,25 @@
+Dear Equinix Customer,
+
+DATE: 06-JUN-2023
+
+SPAN: 06-JUN-2023 - 06-JUN-2023
+
+LOCAL: TUESDAY, 06 JUN 05:00 - TUESDAY, 06 JUN 23:00
+UTC: TUESDAY, 06 JUN 10:00 - WEDNESDAY, 07 JUN 04:00
+
+IBX: CH1
+
+DESCRIPTION: Equinix Engineering staff and the UPS vendor will be performing annual preventive maintenance on UPS-2. Customer loads will be transferred to an alternate protected source and redundancy will be reduced during this work.
+
+The equipment being maintained supports your circuits indicated in the table.
+
+Account#	Cage #	Cabinet #	Serial #	Circuit Type
+3807	000970	0105	1312777	Primary
+3807	000970	0105	1312780	Primary
+3807	000970	0106	2074672	Primary
+3807	000970	0106	9708636	Primary
+3807	000970	0109	1018154	Primary
+3807	000970	0109	1018155	Primary
+3807	000970	0110	1018162	Primary
+3807	000970	0110	1032978	Primary
+3807	000970	0114	1018157	Primary

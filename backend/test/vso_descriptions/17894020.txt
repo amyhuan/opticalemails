@@ -1,0 +1,43 @@
+Maintenance Window   ,  , 24-APR-2023 00:00:00 IST(GMT + 5:30) to 24-APR-2023 06:00:00 IST(GMT + 5:30) , Hi All,
+
+With respect to the Planned Maintenance activity, please find the details below- 
+
+Details of Maintenance : -
+
+Change ID	1100070566
+Scheduled Date	17-APR-2023 00:00:00 IST(GMT + 5:30)
+Maintenance Window   	17-APR-2023 00:00:00 IST(GMT + 5:30) to 17-APR-2023 06:00:00 IST(GMT + 5:30)
+Activity	Mumbai Layer-1 Upgrade - SA threat approval & CRQ for live DIA migraiton at Versova
+Location  	Mumbai
+Benefit of Change 	To provide better service uptime in future
+Impact 	Service Affecting
+Duration of Impact   	Circuit will go down for 1 hrs 0 minutes during the maintenance window
+Comments	
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+14209371: Microsoft Ireland Operations Ltd.
+14209360: Microsoft Ireland Operations Ltd.
+12719839: Microsoft Ireland Operations Ltd.
+12719838: Microsoft Ireland Operations Ltd.
+ 
+
+We request you to kindly take the necessary steps or re-schedule sensitive operations at your end to ensure minimal impact on your services. We apologize for any inconvenience due to this event and resulting impact.
+
+We look forward to your co-operation and a long term synergic association.
+
+ 
+
+Regards,
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

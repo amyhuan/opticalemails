@@ -1,0 +1,37 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0020767
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be carried out in order to card replacement.// Se realizará un trabajo programado con la finalidad de realizar un reemplazo de tarjeta.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 60 MIN
+
+LOCATION // LOCALIDAD: Lurin, Peru
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+22-Aug-2023 05:00 - 22-Aug-2023 08:00 [Cancelled]
+
+25-Aug-2023 05:00 - 25-Aug-2023 08:00 [Main Window]
+
+26-Aug-2023 05:00 - 26-Aug-2023 08:00 [Backup Window]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009823
+
+[English]

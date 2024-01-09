@@ -1,0 +1,27 @@
+With respect to the Emergency maintenance activity, please find the details below - 
+
+Details of Maintenance : -
+
+Change ID	1100079167
+Scheduled Date	07-JUN-2023 15:30:00 IST(GMT + 5:30)
+Maintenance Window	07-JUN-2023 15:30:00 IST(GMT + 5:30) to 07-JUN-2023 21:30:00 IST(GMT + 5:30)
+Activity	ODF replacement at Zafrana CLS and replace patch cords with new one
+Location  	Egypt
+Benefit of Change 	To provide better service uptime in future
+Impact 	Non Service Affecting
+Duration of Impact   	Circuit will go down for NaN hrs NaN minutes during the maintenance window
+Comments	Circuit will get Switching Hits during the maintenance window
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+14209360: Microsoft Ireland Operations Ltd.
+14209371: Microsoft Ireland Operations Ltd.
+12719838: Microsoft Ireland Operations Ltd.
+12719839: Microsoft Ireland Operations Ltd.
+ 
+
+We request you to kindly take the necessary steps or re-schedule sensitive operations at your end to ensure minimal impact on your services. We apologize for any inconvenience due to this event and resulting impact.
+
+We look forward to your co-operation and a long term synergic association.

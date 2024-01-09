@@ -1,0 +1,68 @@
+lassification : Restricted
+
+
+Dear Team,
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C148944
+
+Description
+
+Please be informed that our supplier TATA  will  perform an planned activity to perform BU switching between Mumbai-Oman in TGN Gulf Network.
+
+ 
+
+ 
+
+Location
+
+Mumbai-Oman
+
+Duration
+
+30 Minutes Outage
+
+Planned Start
+
+13 -Oct-2023 – 00 : 01 :00 (GMT)
+
+Planned End
+
+13 -Oct-2023 – 01 : 00 :00 (GMT)
+
+Affected service/link
+
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114    (QDC5)
+
+ DOH-MUM/MICROSOFT/TGN-100G05-PW618348/PW618349 ||
+
+Carrier References
+
+CHGP0660281
+
+ 
+
+ 
+
+Regards  & Thanks ,
+
+ 
+
+Mohamed Youssef
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 66153596
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

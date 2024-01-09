@@ -1,0 +1,33 @@
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on June 14, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-37459
+Notification date:	Thursday, June 8, 2023
+Start date:	Wednesday, June 14, 2023 - 1:00 am
+End date:	Wednesday, June 14, 2023 - 7:00 am
+Time zone:	Eastern Daylight Time GMT-4
+Window time frame:	6 hours
+Expected service outage:	2 hours
+Event description:	Maintenance on fiber segment in order to prevent uncontrolled impacts on services and guarantee sustainability in the network.
+Location:	STREET ADDRESS, SAN ANTONIO, TX
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13799183
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13799185
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13807694
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13807695
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13807743
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13807744
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816740
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816741
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816742
+Private Line - Ethernet - 100 Gbps - KIO Cyrus One Westover Hills - ID:1-13816743
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net

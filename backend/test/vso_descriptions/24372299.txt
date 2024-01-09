@@ -1,0 +1,47 @@
+Dear Microsoft Team
+
+ 
+
+The said activity is very critical and required utmost Priority to be completed at the earliest to avoid any major breakdown.
+
+ 
+
+We are proposing downtime during 05:00 Hrs to 07:00 Hrs of 28th June'2023. (IST ZONE)
+
+ 
+
+It may affect circuits for a maximum of Two (02) Hours though we will strive for minimal downtime, Traffic Affecting Activity .
+
+ 
+
+ Circuit names are as follows:
+
+ 
+
+·         Circuit ID: 17993100G01 to 17993100G08 (Capacity: 800GBPS) between TCL Ambattur Chennai to Nxtra Oceanic Tower Chennai
+
+·         Circuit ID: 12550100G01 to 12550100G04 (Capacity: 400GBPS) between TCL Ambattur Chennai to Bharti Santhome Chennai
+
+·         Circuit ID: 14147100G01 to 14147100G04 (Capacity: 400GBPS) between TCL Ambattur Chennai to Bharti Santhome Chennai
+
+·         Circuit ID: 19534100G01 to 19534100G02 (Capacity: 200GBPS) between TCL Ambattur Chennai to TCL Greater Kailash-1 Delhi
+
+ 
+
+ 
+
+If any other timing is as per convenience of Microsoft team, we will do activity at that time .
+
+ 
+
+ 
+
+ 
+
+With Regards
+
+ 
+
+Harish Gupta
+
++ 919650080962

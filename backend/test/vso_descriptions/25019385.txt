@@ -1,0 +1,22 @@
+We would like to inform you that Orange will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G3097ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	(SG2) 1 WOODLANDS INDUSTRIAL PARK E9, SINGAPORE
+Address B:	(MRS 20) 40 AVENUE ROGER SALENGRO, MARSEILLE INTERXION FRANCE
+ 
+Date/ Time 1 (SGT):	19-Sep-2023 23:00 - 20-Sep-2023 01:00
+Date/ Time 1 (UTC):	19-Sep-2023 15:00 - 19-Sep-2023 17:00
+ 
+Impact :	The circuit will be interrupted for up to 2 hour(s) during the maintenance window.
+ 
+Reason :	Improving the quality of our infrastructures,
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com .

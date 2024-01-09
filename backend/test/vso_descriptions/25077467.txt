@@ -1,0 +1,24 @@
+Dear Customer
+
+We'd like to inform about Planned work.
+
+Work details:
+ID:2413750
+Work title: Planned Work
+Break: 2023-09-14 02:00 UTC+2 - 2023-09-14 06:00 UTC+2
+Outage (min.): 180
+
+et-0/0/5 up up STS=wds;CUS=abo;LAG=ae10;LID=_;SVC=pk-o;CID=microsoft;BND=100g;INF=H_Klucz_I:CAS-24086-W4B1F0
+ae10 up up STS=wds;CUS=abo;SVC=pk-0;CID=microsoft;BND=100g;INF=H_Klucz_I
+BGP sessions will fail as below (IP addresses):
+217.96.44.182 8075 337316 671174 0 0 15w6d 14:41:54 Establ
+2a01:1140:2000:100::101 8075 336488 358745 0 0 15w6d 14:41:45 Establ
+
+Please accept our apologies for any inconvenience caused. If you have any questions regarding the planned work, please contact us at spptp.swo@orange.com.
+Regards
+
+
+Natalia Rybka
+Technical Support for Carriers "SPP TP"
+Tel.: + 48 22 627 00 55 SPPTP.SWO@orange.com
+Orange Polska Teofila Lenartowicza 22 /108, 41-219 Sosnowiec

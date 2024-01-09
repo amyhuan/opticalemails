@@ -1,0 +1,29 @@
+Scheduled Maintenance #: 27136581
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to relocate fiber cable on the Lumen network and is required in order to proactively avoid unplanned outages due to Department of Transportation (DoT) mandated construction.
+
+The estimated GPS location of work is:
+LAT: 28.3329 LONG: -81.2232
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-08-02 17:57:03 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27136581-1
+
+Start	End
+2023-08-15 04:00 GMT (Greenwich Mean Time)	2023-08-15 10:00 GMT (Greenwich Mean Time)
+
+
+Maintenance Location(s): Altamonte Springs , Florida UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442224867	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442224865	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442067421	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442247054	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	4 hours

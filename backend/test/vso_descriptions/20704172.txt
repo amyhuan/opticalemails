@@ -1,0 +1,28 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2090\23D
+Date Time : 15/05/2023 16:00:00 to 15/05/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 PW TT
+Description : Fiber restoration works at Seremban in Seremban - UPM (SRB-UPM) span in Segment- L.1. Services will be running via Sub-Segments L.2.
+Planned Work Schedule : 16:00 GMT to 22:00 GMT/ 15th May 2023
+Nature : Non Service Affecting
+Impact : Switching hits
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

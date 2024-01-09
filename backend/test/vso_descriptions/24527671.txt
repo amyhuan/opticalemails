@@ -1,0 +1,119 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Planned Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 17/07/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230705-0014 NORMAL CA FIBER Fiber_Central2 Project PROJEK JALAN CHERAS AT BUKIT DUKONG DUE BREAKDOWN FOC CHERAS-KAJANG 96C_J_B.
+
+REGION                     
+
+SELANGOR (CENTRAL)
+
+PLANNED START ( with time zone )  
+
+2023-07-22 23:00:00 (GMT +8)
+
+PLANNED END
+
+2023-07-23 07:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-07-22 23:00:00
+
+EXPECTED OUTAGE END
+
+2023-07-23 07:00:00
+
+EXPECTED OUTAGE DURATION
+
+2 HOURS
+
+JUSTIFICATION
+
+PENGALIHAN INFRA TM KABEL JUNCTION DUE TO PERMENANT CABLE JUNCTION PROJEK JLN CHERAS BKT DUKONG FOC CHERAS-KAJANG 96C_J_B.
+
+CIRCUIT INVOLVED 
+
+ 
+
+NETWORK ID	Expected Outage
+IE1050086349
+
+2 HOURS
+
+IE1072879120
+
+2 HOURS
+
+IE1072876090
+
+2 HOURS
+
+IE1072860061
+
+2 HOURS
+
+IE1072855778
+
+2 HOURS
+
+IE1072877490
+
+2 HOURS
+
+IE1072853135
+
+2 HOURS
+
+IE1032150332
+
+2 HOURS
+
+IE1072875331
+
+2 HOURS
+
+IE1049060060
+
+2 HOURS
+
+IE1032150256
+
+2 HOURS
+
+IE1072858485
+
+2 HOURS
+
+IE1049058912
+
+2 HOURS
+
+IE1050085145
+
+2 HOURS
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.

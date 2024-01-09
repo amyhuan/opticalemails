@@ -1,0 +1,36 @@
+Dear MICROSOFT IRELAND OPERATIONS LTD,
+
+Our provider will be carrying planned activity of hardware removing at GPX & Versova
+
+Impact : 06 Hours Outage
+
+The following schedule is provided as a guide, which is subject to change depending on conditions encountered during the activity:
+
+
+
+
+
+
+Window	Primary Start Date (GMT)	Primary End Date (GMT)	Backup Start Date (GMT)	Backup End Date (GMT)
+1	11-Aug-2023 18:30	15-Aug-2023 00:30	NA	NA
+
+
+Service ID	Impact
+RGWLS31144	Outage
+RGWLS31147	Outage
+RGWLS31146	Outage
+RGWLS31145	Outage
+RGWLS31148	Outage
+RGWLS31143	Outage
+RGWLS31142	Outage
+RGWLS31130	Outage
+We hope that you will accept our apology for any inconvenience this work may cause you and your customers.
+
+Please contact the Global Cloud Xchange GNOC on +44(0) 208 282 1599/ gnoc@globalcloudxchange.com should you require any additional information.
+
+Regards
+Shraddha R Naik
+Change Management, Global Network Operations Center
+D: +91 9867799634  
+M: +91 9867799634
+SRNaik@globalcloudxchange.com

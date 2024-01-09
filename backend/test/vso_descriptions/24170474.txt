@@ -1,0 +1,93 @@
+ange ID                                       :    CRQ000003229778
+
+         
+
+Scheduled Date                                :    Tuesday 06th June 2023
+
+
+Maintenance Window     1                 :    06-06-2023 20:00 UTC to 07-06-2023 04:00 UTC
+
+ 
+
+Maintenance Window     2                 :    07-06-2023 20:00 UTC to 08-06-2023 04:00 UTC
+
+ 
+
+Maintenance Window     3                 :    08-06-2023 20:00 UTC to 09-06-2023 04:00 UTC
+
+ 
+
+Activity                                            :    ITMC|| MRS InterCity || Planned Maintenance for Fiber relocation works due to road work at Marseille
+
+ 
+
+Benefit of Change                             :    To avoid unplanned outage in near future
+
+
+Impact                                            :     Service Affecting
+                           
+Duration of Impact                           :     Circuit will be down during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Circuit ID
+
+Customer Name
+
+MIRL-IN-1824740
+
+14211009
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824742
+
+14211007
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824741
+
+14211008
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824739
+
+14211005
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824741
+
+14211008
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824736
+
+14211010
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824740
+
+14211009
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824742
+
+14211007
+
+Microsoft Ireland Operations Ltd.

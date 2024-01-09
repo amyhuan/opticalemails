@@ -1,0 +1,66 @@
+Dear Customer,,  ,  ,  , Please be informed that the planned work in subject has been rescheduled to the following time window:,  ,  ,  , Start 12/09/2023 00:00 UTC,  , End 12/09/2023 04:00 UTC,  , Thanks & Regards,  ,  ,  ,  ,  ,  ,  , Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Thursday 03rd August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                       :    ITEM-057593 NE-15955
+
+         
+
+Scheduled Date                                :    Thursday 03rd August 2023
+
+
+Maintenance Window 1                     :    03/08/2023 00:00 (GMT+00:00) to 03/08/2023 04:00 (GMT+00:00)
+
+ 
+
+Activity                                            :    Maintenance main optical cable repair
+
+ 
+
+Location                                           :    Brancaleone-Locri (ITALY)
+
+ 
+
+Benefit of Change                             :    To avoid unplanned outage in near future
+
+
+Impact                                            :     Service Affecting
+                           
+Duration of Impact                           :     Below mentioned circuit will go down 240mins during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.

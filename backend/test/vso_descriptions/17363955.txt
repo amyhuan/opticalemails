@@ -1,0 +1,25 @@
+MOC-
+
+Start Time (PST): 2/27/2023 7:00:00 PM
+End Time (PST): 2/28/2023 12:00:00 AM
+Maintenance Length: 5 Hours
+Location: SNBZTXAGSAT3IDMS1709
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+The OTM2-500 card on MS1709 1-A-4 is registering Backplane Unreachable and will not clear with a warm reset of the card. Need to replace the card.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSCG Circuit Impacts
+
+MSFT-DM5A-SN1A-MSCG-0014-0::100GBE-1
+MSFT-DM5A-SN1A-MSCG-0019-0::100GBE-1
+MSFT-DM5A-SN1A-MSCG-0026-0::100GBE-1
+MSFT-DM5A-SN1A-MSCG-0028-0::100GBE-1
+MSFT-DM5A-SN1A-MSCG-0030-0::100GBE-1

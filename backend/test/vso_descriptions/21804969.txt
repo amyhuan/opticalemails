@@ -1,0 +1,22 @@
+Reason	Due to works on fibre optic cables, an interruption of your service will occur.
+Start	31.05.2023 00:01 (CEST)
+End	31.05.2023 06:00 (CEST)
+Duration in minutes	359
+
+Service	Location	Customer ref.	Remarks
+SAP@356.0382355	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0382357	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0382359	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0382361	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0415384	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0415385	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0463608	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0463609	WHS GigaClass	Gland, Route des Avouillons 32		Only North Path will be impacted!
+SAP@356.0382354	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0382356	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0382358	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0382360	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0415381	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0415382	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0463601	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!
+SAP@356.0463602	WHS GigaClass	Rümlang, Hofwisenstrasse 56		Only North Path will be impacted!

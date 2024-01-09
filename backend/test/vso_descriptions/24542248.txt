@@ -1,0 +1,74 @@
+Classification: Internal
+
+ 
+
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C144173
+
+ 
+
+Description
+
+CR-000000659781>POHC for D-971> AUC - M2S 200F ULL Cable
+
+Location
+
+UAE
+
+Duration
+
+At Risk Only
+
+Planned Start
+
+04-Aug-2023 21:00:00 GMT
+
+Planned End
+
+05-Aug-2023 09:00:00 GMT
+
+Backup Start
+
+-
+
+Backup End
+
+-
+
+Affected service/link
+
+DOH-UAE/MICROSOFT/GCCIA-100G07-PW621130
+
+DOH-UAE/MICROSOFT/GCCIA-100G08-PW621142
+
+Carrier References
+
+153962
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 70945621
+
+Follow us on Twitter and Facebook

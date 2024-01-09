@@ -1,0 +1,41 @@
+[EXTERNAL] 12/12/2023 Planned Network Maintenance - Seattle, WA, and  Boise, ID	3-001013725, 3-001013726, 3-000973797, 3-000973798, 3-001038275
+
+This message was sent with High importance.
+
+This sender Cogent-NoReply@cogentco.com is from outside your organization. Block sender
+This message was sent with High importance. This sender Cogent-NoReply@cogentco.com is from outside your organization.
+Cogent-NoReply@cogentco.com
+​
+Internet Operations Center
+​
+ASR9K Code Upgrade Planned Network Maintenance
+
+Dear Cogent Customer,
+
+As a valued customer, Cogent is committed to keeping you informed about any changes in the status of your service with us. This email is to alert you regarding maintenance we will be performing on our network: 
+
+Start time: 12:00 am pacific  12/12/2023
+End time: 4:00 am pacific 12/12/2023
+Work order number: NC942-1
+Order ID(s) impacted: 3-001013725, 3-001013726, 3-000973797, 3-000973798, 3-001038275
+Expected Outage/Downtime: 45-60 minutes
+
+Cogent customers receiving service in the greater Seattle, WA, and  Boise, ID metro area will be affected by this maintenance. Only the Cogent Order ID(s) listed above will be impacted. The purpose of this work is to apply and activate software module upgrades on code running on the edge routers per the manufacturer's recommendations.
+
+During this maintenance window, you may experience up to two brief interruptions in service while we complete the maintenance activities. However, due to the complexity of the work, your downtime may be longer. Customers may also see some re-convergence during the maintenance window. Customers may experience latency and packet loss intermittently throughout the window.
+
+We encourage all our customers to please check our network status page https://nam06.safelinks.protection.outlook.com/?url=http%3A%2f%2fstatus.cogentco.com%2f&data=05%7C02%7Cmoc%40microsoft.com%7Cc99852627603410bf04908dbf8042b09%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638376469024044461%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=foYoIOUSNew8vgFfO8ehsmCAaauj0LJZGkzCZfSkTug%3D&reserved=0 which includes any code upgrades that are occurring in the next 48hrs.
+
+Our network operations engineers closely monitor the work and will do everything possible to minimize any inconvenience to you. If you have any problems with your connection after this time, or if you have any questions regarding the maintenance at any point, please call Customer Support at 1-877-7-COGENT and refer to this Maintenance Ticket: NC942-1.
+
+We appreciate your patience during this work and welcome any feedback. Please send all questions and concerns to mailto:support@cogentco.com
+
+Thank you for being a Cogent customer.
+
+
+Sincerely,
+
+Customer Support
+Cogent Communications
+support@cogentco.com
+877-7COGENT

@@ -1,0 +1,52 @@
+Dear Equinix Customer,
+
+DATE: 14-FEB-2023 - 15-FEB-2023
+
+SPAN: 14-FEB-2023 - 15-FEB-2023
+
+LOCAL: TUESDAY, 14 FEB 22:00 - WEDNESDAY, 15 FEB 03:00
+UTC: WEDNESDAY, 15 FEB 04:00 - WEDNESDAY, 15 FEB 09:00
+
+IBX(s): DA1,DA2
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a routine configuration update on our platform Equinix Fabric. There will be no service interruption due to the activity.
+
+PRODUCTS: EQUINIX FABRIC
+
+IMPACT: No impact to your service
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+111379	Equinix Fabric	DA3	21341190-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21673279-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20805743-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	14472010-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA2	20326604-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA2	22112245	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21331776-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	14472006-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20805790-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	22314791-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21181699-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20754519-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20624478-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21331779-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20624649-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21100276-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20400104-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20805872-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	22011047-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20754382-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21343513-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20754517-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	14472426-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21100275-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20400107-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21223229-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	21673281-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	14472431-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA2	20328830-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20805683-A	-	-	-	-	-	-	-	-	-	-
+111379	Equinix Fabric	DA3	20754383-A	-	-	-	-	-	-	-	-	-	-

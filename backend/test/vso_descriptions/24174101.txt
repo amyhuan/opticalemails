@@ -1,0 +1,17 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U1656\23C
+Date Time : 07/06/2023 16:00:00 to 07/06/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR211308 / SNG(PCG)-MSL(PCG) EP7111 /
+
+Outage Description : AAE-1 urgent fiber relocation in Penang –Kuala Kurau(PNG-KKR) span within Segment L.2
+
+Outage : No service impact is expected, but a less than 50 ms sw hits maybe experienced
+
+PCCW Global apologies for all inconveniences caused.

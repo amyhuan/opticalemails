@@ -1,0 +1,63 @@
+Dear Valued Customer,,  ,  ,  , Please kindly be informed that,  ,  ,  , As per the latest update received from our provider, this activity has been rescheduled to below window due to some identified provisioning issues in the new network. Affected services and duration will be remained unchanged. ,  ,  ,  , Activity description: Service migration to a new network in Singapore Location Singapore ,  ,  ,  , Primary window: 2023-09-11 22:00 UTC- 2023-09-12 06:00 UTC,  ,  ,  , Backup window: 2023-09-13 22:00 UTC- 2023-09-14 06:00 UTC.,  ,  ,  , Regards,,  ,  ,  , Shreyansh Moghia,  , Global Services Management Center (GSMC),  , Bharti Airtel Limited,  , Changemgmt@airtel.com,  , Airtel for Business,  , On your side. By your side,  ,  ,  ,  ,  , Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Monday 28th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :     33293704
+
+         
+
+Scheduled Date                                  :     Monday 28th August 2023
+
+
+Maintenance Window                          :     2023-08-28 22:00 UTC- 2023-08-29 06:00 UTC
+
+ 
+
+Activity                                             :      Service migration to a new network in Singapore
+
+  
+
+Benefit of Change                              :      To avoid unplanned outage in near future
+
+Impact                                             :      Service Affecting
+                           
+Duration of Impact                            :      Circuit will be Go down for 30mins during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854870
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+Regards?
+
+Arpit Gangwar

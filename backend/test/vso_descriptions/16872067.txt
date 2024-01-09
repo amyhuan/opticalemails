@@ -1,0 +1,82 @@
+Dear Customer,
+
+Please be advised of below Planned Activity:-
+
+PE Reference
+
+C3855429
+
+PE Category
+
+Planned Activity
+
+Description
+
+Our supplier will be performing Fiber works in their network.
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+SO6084822091/JIOGIPLMUMSIN0224
+
+Start Time
+
+13-02-2023 16:00 UTC
+
+End Time
+
+13-02-2023 22:00 UTC
+
+Impact
+
+Service will be down for 180 MIN during maintenance window.
+
+
+                                        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+
+Please contact ILD NOC on +91 22 796 46434 / Jio.NOCILDOperations@ril.com should you require any additional information
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+      jio-logo-03
+
+ 
+
+Aditya Pashte.
+
+NOC-International Long Distance,
+
+Reliance Jio Infocomm Ltd.,
+
+RCP, Opp. Ghansoli Rly Station, Navi Mumbai, India
+
+Phone- +912279646434
+
+E-mail-  Aditya.pashte@ril.com

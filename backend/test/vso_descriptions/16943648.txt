@@ -1,0 +1,18 @@
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC227173
+Action and Reason:	Rerouting due to network expansion
+Location:	Dallas/TX, US
+
+
+Service Window: PWIC227173.1 primary	Work Status: Confirmed
+Service window start:	2023-02-16 06:00 UTC
+Service window end:	2023-02-16 12:00 UTC
+Impacted Services	
+IC-323368	IP Transit	1 x 10 minutes
+
+
+
+Best Regards
+Customer Support Center

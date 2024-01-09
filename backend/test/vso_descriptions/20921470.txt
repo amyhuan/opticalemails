@@ -1,0 +1,30 @@
+Hi Team,
+
+ 
+
+Please be advised that there will be maintenance work by our International Provider. Below are the details:
+ 
+Circuit ID:                                                             
+
+MPI02-052020-49552
+
+MICROSOFT (1st 100G) - PASIG via ASE (HK)
+
+ETHERNET IPL, 100G
+
+ 
+
+
+Customer:                                                             PLDT Limited
+
+Maintenance Window start date & time:      20 May 2023 16:01 UTC
+Maintenance Window end date & time:        20 May 2023 22:00 UTC
+Service Impact:                                                    30 minutes x 2 downtime
+Description:                                                          Node upgrade by International Provider at Hong Kong
+
+
+ 
+
+ 
+
+Thank you and keep well.

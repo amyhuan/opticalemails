@@ -1,0 +1,27 @@
+Planned Work Notification: 00210615 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in France between Sat May 13 21:00:00 GMT 2023-Sat May 13 23:30:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Sat May 13 21:00:00 GMT 2023
+End	Sat May 13 23:30:00 GMT 2023
+Backup Start	Thu May 18 21:00:00 GMT 2023
+Backup End	Thu May 18 23:30:00 GMT 2023
+Location	France
+
+Planned work Reason:
+Services migration works on our network in France
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100612	Wavelength/01641719	Wavelength	120 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00210952
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

@@ -1,0 +1,41 @@
+----------------------------------------------------------------
+
+ 
+
+ 
+
+ 
+
+Planned Work Description
+
+Mandatory maintenance by our vendor for equipment software upgrade to improve network reliability and service quality. Locations: Athens-Koropi (Greece), Rome (Italy), London (England)-New York (USA)-Paris (France).
+
+Service ID
+
+Int. Circuit Designation
+
+PEW Impact
+
+ATHENS/WED-MARSEILLE/WED NP 0001
+
+TIS-00000078761
+
+Asset at risk
+
+ATHENS/WED-MARSEILLE/WED NP 0002
+
+TIS-00000081576
+
+Asset at risk
+
+ATHENS/WED-WIEN/WED NP 0002
+
+TIS-00000081577
+
+Asset at risk
+
+ATHENS/WED-WIEN/WED NP 0001
+
+TIS-00000078765
+
+Asset at risk

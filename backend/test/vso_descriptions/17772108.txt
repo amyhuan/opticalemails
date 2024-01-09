@@ -1,0 +1,43 @@
+MOC-
+
+Start Time (PST): 4/5/2023 10:00:00 PM
+End Time (PST): 4/6/2023 3:00:00 AM
+Maintenance Length: 5 Hours
+Location: WDMNIAQSDEM5IDMS660
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Planned maintenance window to perform the SK_CRC_ERROR work around for the following equipment:
+
+WDMNIAQSDEM5IDMS660~EQPT~5-B-2
+SW: R20.0.1.0186
+SN: MA3314521379
+PN: 8000636001
+PON: OTM2-500
+Equipment partial failure
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-CH1B-DM5B-SWAN-0035-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0036-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0037-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0038-0::100GBE-1
+MSFT-CH1B-DM5B-SWAN-0039-0::100GBE-1
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com

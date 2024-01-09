@@ -1,0 +1,48 @@
+Scheduled Maintenance #: 26318925
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as EMERGENCY. The nature of this work is to implement a fiber enclosure repair maintenance which is required in order to improve network reliability.
+
+The estimated GPS location of work is: 41.3010270, -72.9294040
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen would like to apologize for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-04-18 19:59:01 GMT - This maintenance has been rescheduled by the 3rd party provider
+
+Customer Impact:
+
+26318925-1
+
+Start	End
+2023-04-20 04:00 GMT (Greenwich Mean Time)	2023-04-20 10:00 GMT (Greenwich Mean Time)
+2023-04-20 00:00 EDT (Eastern Daylight Time)	2023-04-20 06:00 EDT (Eastern Daylight Time)
+
+Previously Scheduled for (2023-04-19 04:00 GMT to 2023-04-19 10:00 GMT)
+
+Maintenance Location(s): NEW HAVEN, CT UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number	Status
+MICROSOFT CORPORATION MCIO	440878959	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	1 hour	 	Postponed
+MICROSOFT CORPORATION MCIO	440849937	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	1 hour	 	Postponed
+26318925-2
+
+Start	End
+2023-04-21 04:00 GMT (Greenwich Mean Time)	2023-04-21 10:00 GMT (Greenwich Mean Time)
+2023-04-21 00:00 EDT (Eastern Daylight Time)	2023-04-21 06:00 EDT (Eastern Daylight Time)
+
+Previously Scheduled for (2023-04-20 04:00 GMT to 2023-04-20 10:00 GMT)
+
+Maintenance Location(s): NEW HAVEN, CT UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number	Status
+MICROSOFT CORPORATION MCIO	440878959	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	1 hour	 	Postponed
+MICROSOFT CORPORATION MCIO	440849937	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	1 hour	 	Postponed
+
+
+Notes History:
+
+2023-04-18 19:59:01 GMT - This maintenance has been rescheduled by the 3rd party provider
+2023-03-29 16:27:19 GMT - This maintenance is scheduled.

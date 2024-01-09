@@ -1,0 +1,42 @@
+Dear all,
+
+please take in consideration the following notification.
+We apologize for any inconvenience this may cause.
+If you do not respond within 24 hours we consider the planned work to be accepted.
+
+------------------------------------------------------------------------------
+TTI Ticket-Number: wt230113133437  Customer Ticket-Number:
+Status:open,  Level:major scheduled
+ 
+From: NOC Türk Telekom International (Türk Telekom International)
+To:   KUMAR Shivesh, CC ON ALL  Notifications, NOC , PARKER Todd,  (Microsoft Ireland Operations Ltd.)
+Start: 20.01.2023  00:00:00 (CET) 19.01.2023 23:00 (GMT)
+End:   20.01.2023  06:00:00 (CET) 20.01.2023 05:00 (GMT)
+ 
+Description:
+We need to perform cable works in Sofia area, Bulgaria in order to move it to new duct.
+
+An outage is expected during mentioned time frame - our team tries to keep outage as short as possible.
+ 
+Services:
+msn35906a.100ge*fra-ist (WL085778 )
+msn35905a.100ge*fra-ist (WL085777 )
+msn35904a.100ge*fra-ist (WL085776 )
+msn35903a.100ge*fra-ist (WL085775 )
+msn35902a.100ge*fra-ist (WL085774 )
+msn35901a.100ge*fra-ist (WL085773 )
+msn35900a.100ge*fra-ist (WL085772 )
+msn35899a.100ge*fra-ist (WL085771 )
+msn35898a.100ge*fra-ist (WL085770 )
+msn35897a.100ge*fra-ist (WL085751 )
+msn34728a.100ge*fra-ist (WL079436 )
+msn34727a.100ge*fra-ist (WL079435 )
+msn33631a.100ge*fra-ist (WL074822 )
+msn33630a.100ge*fra-ist (WL074814 )
+
+
+ 
+
+------------------------------------------------------------------------------
+ 
+Best Regards

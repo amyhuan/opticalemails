@@ -1,0 +1,67 @@
+[EXTERNAL] Ooredoo - Global Planned Maintenance || C147268
+
+This sender gnoc.support@ooredoo.qa is from outside your organization. Block sender
+This sender gnoc.support@ooredoo.qa is from outside your organization.
+Ooredoo GNOC Support 
+Robert Sugrue;
+Whaldo Hall;HCL Azure NOC;
+Azure Network Operations Center
+GNOC.PA ;GNOC-BO ;NOC-Fixed ;Network_SOC ;Ooredoo GNOC Support ;Mosab Najeh K H Khalil ;Wadie Faidi ;
+Hi Microsoft
+
+ 
+
+Please be informed that activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C147268
+
+ 
+
+Description
+
+Mandatory planned activity for utility maintenance work in Marseille 1 data center.
+
+Location
+
+Marseille 1 data center.
+
+Duration
+
+Nature : Non Service Affecting
+
+Impact : traffic will be At Risk
+
+Planned Start
+
+06:00 GMT / 28th September 2023
+
+Planned End
+
+18:00 GMT/ 28th September 2023
+
+Backup Start
+
+_
+
+Backup End
+
+_
+
+Affected service/link
+
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353 
+
+ 
+
+ 
+
+ 
+
+Carrier References
+
+PW3551

@@ -1,0 +1,40 @@
+Hi All,
+
+With respect to the maintenance activity, detailed in the below mail, we wish to inform you that the same has been Rescheduled for "18-FEB-2023 00:00:00" IST(GMT + 5:30).
+
+Details of Maintenance : -
+
+Change ID	1100057303
+Scheduled Date	18-FEB-2023 00:00:00 IST(GMT + 5:30)
+Maintenance Window   	18-FEB-2023 00:00:00 IST(GMT + 5:30) to 18-FEB-2023 06:00:00 IST(GMT + 5:30)
+Activity	WLAi to WL5e Channel migration & OPS, Direction & Frequency migration
+Location  	Santhome and VSNL
+Benefit of Change 	To provide better service uptime in future
+Impact 	Service Affecting
+Duration of Impact   	Circuit will go down for 1 hrs 0 minutes during the maintenance window
+Comments	
+----------------------------------------------------
+
+Circuit Detail: Circuits as per the particular activity-
+
+Impacted LSI : Party Name
+13863717: MICROSOFT CORPORATION (INDIA) PRIVATE LIMITED.
+ 
+
+We request you to kindly take the necessary steps or re-schedule sensitive operations at your end to ensure minimal impact on your services. We apologize for any inconvenience due to this event and resulting impact.
+
+We look forward to your co-operation and a long term synergic association.
+
+ 
+
+Regards,
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

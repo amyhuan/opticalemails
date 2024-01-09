@@ -1,0 +1,71 @@
+Please see the below-Planned maintenance:
+
+ 
+
+*Donghwa Statement
+
+Donghwa Planned Maintenance Notice
+
+東華計劃性維運通知單
+
+Circuit ID
+
+MS-0055
+
+MS-0056
+
+ Ticket Number
+
+MS20230419001
+
+ Start Date/Time
+
+Day 1:
+
+Start Date (26/Apr/2023) Start Time (14:00) GMT
+
+Start Date (26/Apr/2023) Start Time (22:00) HKT
+
+ 
+
+Day 2:
+
+Start Date (27/Apr/2023) Start Time (14:00) GMT
+
+Start Date (27/Apr/2023) Start Time (22:00) HKT
+
+ 開始時間
+
+ End Date/Time
+
+Day 1:
+
+End Date (26/Apr/2023) End Time (22:00) GMT
+
+End Date (27/Apr/2023) End Time (06:00) HKT
+
+ 
+
+Day 2:
+
+Start Date (27/Apr/2023) Start Time (22:00) GMT
+
+Start Date (28/Apr/2023) Start Time (06:00) HKT
+
+ 結束時間
+
+ Operate Time
+
+8 hrs X 2 days
+
+ 維運時間
+
+ Impact / Location
+
+At risk / DLS 5.1+5.2/5.3
+
+ 影響地點
+
+ Maintenance Reason
+
+Due to the increased error count in SLTE DLS 5.1/5.2+5.3 after the cable repair, vendor requested for a Maintenance Window to optimize the power on the channel and power adjustment on the Subcom CW Idler.

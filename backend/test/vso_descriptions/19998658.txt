@@ -1,0 +1,31 @@
+Customer Name : Microsoft Japan Co. Ltd.
+From : Global Services & Operations Tel : +852-28291567
+Date : 28/04/2023 06:53:34 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2050\23D
+Date Time : 13/05/2023 06:00:00 to 13/05/2023 09:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR153547 / TOK(PCG)-SEL(PCG) EP5637 /
+
+Outage Description : - Reason: Planned maintenance for troubleshooting DWDM ASE module in Wada CLS
+- Date/Time: 13th May 2023 / 06:00-09:00 GMT
+- Expect outage: Hazardous condition
+This work is non service affecting
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

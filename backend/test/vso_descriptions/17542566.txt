@@ -1,0 +1,72 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Emergency change scheduled between Kroonstad to Koppies on the 18th March 2023 from 12:00 - 17:00 (GMT: +02:00) Transnet Freight Rail  Emergency change to replace damaged Optic Fibre Cable fibres. The TFR Projects Telecoms department is busy doing soak test on DWDM and the project must be concluded by the end of the financial year.
+
+ 
+
+ 
+
+IMPACT: Service will be down for a maximum duration of 3hrs.
+
+ 
+
+Affected  Service:
+
+ 
+
+027JOHA292013677984
+
+027CAPE292014221327
+
+027CAPE292014221322
+
+027CAPE292014221317
+
+027CAPE292014221332
+
+027MIDR292013956867
+
+027CAPE292014066895
+
+027CAPE292014066903
+
+027MIDR292014077306
+
+ 
+
+Reason for Change:
+
+ 
+
+Transnet Freight Rail  Emergency change to replace damaged Optic Fibre Cable fibres. The TFR Projects Telecoms department is busy doing soak test on DWDM and the project must be concluded by the end of the financial year.
+
+ 
+
+ 
+
+Implementation plan
+
+ 
+
+The technicians will prepare fibre and fibre joints.
+Splice the fibre as per service priority.
+The NOC will confirm service restoration.
+ 
+
+Rollback Plan:
+
+ 
+
+In the event of issues, technicians will re-splice the fibres.
+The NOC will confirm service restoration.
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator

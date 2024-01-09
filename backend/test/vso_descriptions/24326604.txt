@@ -1,0 +1,94 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000800759
+
+Start time (Y/M/D):
+
+2023-07-10 12:00:00 AM (ET)
+
+End time (Y/M/D):
+
+2023-07-10 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+15 min
+
+Status / Statute:
+
+APPROVED/ APPROVED
+
+Activity / Activity:
+
+We need to carry out work on cables and fibers in order to improve your service.
+We need to work on cables and fibers to improve your service.
+
+Equipment / Equipment:
+
+SECTION CUT OVER
+
+CLLI:
+
+MTRLPQ43
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KGXS802762-108BLCA-000         
+ 05KJXS802762-000BLCA-000         
+ 05KJXS802762-050BLCA-000         
+ 05KJXS802762-057BLCA-000         
+ 05KJXS802762-058BLCA-000         
+ 05KJXS802762-059BLCA-000         
+ 05KJXS802762-060BLCA-000         
+ 05KJXS802762-061BLCA-000         
+ 05KJXS802762-062BLCA-000         
+ 05KJXS802762-063BLCA-000         
+ 05KJXS802762-064BLCA-000         
+ 05KJXS802762-084BLCA-000         
+ 05KJXS802762-085BLCA-000         
+ 05KJXS802762-086BLCA-000         
+ 05KJXS802762-087BLCA-000         
+ 05KJXS802762-088BLCA-000         
+ 05KJXS802762-089BLCA-000         
+ 05KJXS802762-090BLCA-000         
+ 05KJXS802762-091BLCA-000         
+ 05KJXS802762-092BLCA-000         
+ 05KJXS802762-093BLCA-000         
+ 05KJXS802762-094BLCA-000         
+ 05KJXS802762-095BLCA-000         
+ 05KJXS802762-109BLCA-000         
+ 05KJXS802762-110BLCA-000         
+ 05KJXS802762-111BLCA-000         
+ 05KJXS802762-113BLCA-000         
+ 05KJXS802762-124BLCA-000         
+ 05KJXS802762-125BLCA-000         
+ 05KJXS802762-126BLCA-000         
+ 05KJXS802762-127BLCA-000         
+ 05KJXS802762-131BLCA-000         
+ 05KJXS802762-132BLCA-000         
+ 05KJXS802762-249BLCA-000         
+ 05KJXS802762-250BLCA-000         
+ 05KJXS802762-251BLCA-000         
+ 05KJXS802762-252BLCA-000         
+ 05KJXS802762-253BLCA-000         
+ 05KJXS802762-254BLCA-000         
+ 05KJXS802762-255BLCA-000         
+ 05KJXS802762-256BLCA-000         
+ 05KJXS802762-257BLCA-000         
+ 05KJXS802762-258BLCA-000         
+ 05KJXS802762-259BLCA-000         
+ 05KJXS802762-261BLCA-000         
+ 05KJXS802762-263BLCA-000         
+ 05KJXS802762-264BLCA-000         
+ 05KJXS802762-265BLCA-000         
+ 05KJXS802762-266BLCA-000         
+
+You may experience a failure(s) at any time during the above window.
+You may experience one or more service interruption(s) during the window above.
+
+
+cid:Bell.jpg

@@ -1,0 +1,36 @@
+Account #	Product	IBX	Service Serial #
+138258	Internet Exchange	TY4	21257284
+138258	Internet Exchange	TY4	21395868
+
+お客様のご協力とご理解をお願いいたします。
+
+この作業についてご質問がある場合は、Equinix SMC から最新のステータスや追加の詳細情報をご入手いただけます。5-226187606116 をご参照ください。
+
+**************************************************************************************
+
+Dear Equinix Customer,
+
+DATE: 03-MAY-2023
+
+SPAN: 03-MAY-2023 - 03-MAY-2023
+
+LOCAL: WEDNESDAY, 03 MAY 00:00 - WEDNESDAY, 03 MAY 01:00
+UTC: TUESDAY, 02 MAY 15:00 - TUESDAY, 02 MAY 16:00
+
+IBX(s): TY
+
+DESCRIPTION:Equinix is expecting an increase in prefix announcements from AS6939, one of the Internet Exchange participants within the Tokyo Equinix Internet Exchange (EIE) platform. As such, we would strongly recommend that you increase your prefix-limit by 200000 for IPv4 and 190000 for IPv6 by 3rd of May 2023 at 00:00hrs site local time as a preventive measure to avoid disruption to your BGP peering with our Route Servers.
+
+Primary IPv4 RS : 203.190.230.254
+Secondary IPv4 RS : 203.190.230.253
+
+There is no impact to your subscribed services as long as the change indicated above has been carried out.
+
+PRODUCTS: INTERNET EXCHANGE
+
+IMPACT: No impact to your service
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226187606116.

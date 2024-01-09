@@ -1,0 +1,85 @@
+Dear Customer ,   , Please be advised that the times have been amended to,  , 18, th,  ,  March 2023 from 07:00 - 12:00 (GMT: +02:00).,  ,  ,  ,   , Kind Regards,  , Ntombeningi Phakathi,  , Change Control Administrator,  ,  ,  , Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned change scheduled between Kroonstad to Sasolburg on the 18th March 2023 from 09:00 - 13:00 (GMT: +02:00). Transnet Freight Rail  change to replace damaged Optic Fibre Cable fibres. Working fibres are having high losses.
+
+ 
+
+ 
+
+IMPACT: Services will be down for a maximum duration of 3hrs.
+
+ 
+
+Affected  Service:
+
+ 
+
+027JOHA292013677984
+
+027CAPE292014221327
+
+027CAPE292014221322
+
+027CAPE292014221317
+
+027CAPE292014221332
+
+027MIDR292013956867
+
+027CAPE292014066895
+
+027CAPE292014066903
+
+027MIDR292014077306
+
+ 
+
+Reason for Change:
+
+ 
+
+Transnet Freight Rail  change to replace damaged Optic Fibre Cable fibres. Working fibres are having high losses.
+
+ 
+
+ 
+
+Implementation plan
+
+ 
+
+The technicians will prepare fibre and fibre joints.
+Splice the fibre as per service priority.
+The NOC will confirm service restoration.
+ 
+
+Rollback Plan:
+
+ 
+
+In the event of issues, technicians will re-splice the fibres.
+The NOC will confirm service restoration.
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi
+
+Change Control Administrator
+
+ 
+
+ 
+
+TECHNICAL SUPPORT DESK ESCALATION
+
+ 
+
+Immediate Technical Support +27 11 774 0045
+support@liquidtelecom.com 1 1-hrs Shift lead Hunt number: +27 11 774 0017
+Shiftleads@liquidtelecom.co.za 2 2-hrs Duty Manager Hunt number: +27 11 585 0041
+dutymanagers@liquidtelecom.co.za

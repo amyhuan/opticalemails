@@ -1,0 +1,45 @@
+65, Daehak-ro, Jongno-gu, Seoul,
+Republic of Korea 7F
+KT Global Telecommuncation Service Center
+Global Network Operation Team	TEL : 02-725-4330
+e-mail : ktidmc@kt.com	Person in charge :
+Park Ga Young
+Doc. NO. :	
+GNOC 2023-00112
+
+Enforcement Date :	
+2023/03/27
+
+Customer :	
+Microsoft
+
+Addressee :	Dear person in charge of international leased line.
+Title :	Network Maintenance
+1. Thank you for using our services.
+2. We'd like to inform you of the upcoming Network Maintenance.
+   We'll try to complete the job asap to minimize any inconvenience from it.
+   The details are as following.
+
+   a. Duration/Date :	
+2023/03/30 00:00 GMT ~ 2023/04/05 23:59 GMT
+
+   b. Issue :	
+[Schedule Change] Please be informed that submarine cable FNAL Seg.E (between Pusan & Wada) repair work is scheduled.
+** It can be changed depending on weather conditions/rough sea/permits/hostile waters.
+
+   c. Service ID Info :
+
+No	Service ID	Service Location(From)	Service Location(To)	Time required
+1	08887007-0133	SEL21	HKG31	whole down during repair period (since APG S6 is down currently)
+2	08887007-0134	SEL21	HKG31	상기 작업시간 내 순단 발생 및 응답속도 증가 - 데이콤크로싱
+3	08887007-0147	PUS20	HKG31	whole down during repair period (since APG S6 is down currently)
+4	08887007-0148	PUS20	HKG31	whole down during repair period (since APG S6 is down currently)
+5	08887007-0149	PUS20	HKG31	whole down during repair period (since APG S6 is down currently)
+6	08887007-0150	PUS20	HKG31	whole down during repair period (since APG S6 is down currently)
+7	08887007-0163	PUS20	HKG31	whole down during repair period (since APG S6 is down currently)
+8	08887007-0164	PUS20	HKG31	whole down during repair period (since APG S6 is down currently)
+3. We apologize for the inconvenience.
+   We'll do the best to provide the customers with high quality services.
+   Thank you.
+KT Global Telecommuncation Service Center
+Global Network Operation Team

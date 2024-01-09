@@ -1,0 +1,28 @@
+Dear Equinix Customer,
+
+DATE: 22-MAY-2023 - 23-MAY-2023
+
+SPAN: 22-MAY-2023 - 23-MAY-2023
+
+LOCAL: MONDAY, 22 MAY 22:00 - TUESDAY, 23 MAY 05:00
+UTC: TUESDAY, 23 MAY 02:00 - TUESDAY, 23 MAY 09:00
+
+IBX(s): DC11,DC12,DC2,DC6
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a configuration update. There will be no service interruption due to the activity. It is expected that you might experience re-routing.
+
+PRODUCTS: EQUINIX CONNECT, EQUINIX FABRIC
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+103749	Equinix Fabric	DC2	-	22144441-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	21736354-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	22144440-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	20713819-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	20732701-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	20675926-A	-	-	-	-	-	-	-	-	-	-
+103749	Equinix Fabric	DC2	-	21736353-A	-	-	-	-	-	-	-	-	-	-

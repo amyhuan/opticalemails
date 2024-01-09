@@ -1,0 +1,51 @@
+Scheduled Maintenance #: 25854135
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as ESSENTIAL. The nature of this work is to implement a fiber repair/replacement maintenance and is required in order to improve network reliability.
+
+The estimated GPS location of work is: GPS LOCATION 1: 27.434785, -97.854509; GPS LOCATION 2: 27.328430, -97.823297; GPS LOCATION 3: 27.380182, -97.838403
+
+3rd party provider partner advises due to the complexity of the maintenance, and the extensive work that is required, an extended 6 hour impacting maintenance window is unfortunately necessary to complete all of required work. Every effort will be taken to complete this important work as quickly and as efficiently as possible.
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen would like to apologize for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-01-23 14:50:16 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+25854135-1
+
+Start	End
+2023-02-16 06:00 GMT (Greenwich Mean Time)	2023-02-16 12:00 GMT (Greenwich Mean Time)
+2023-02-16 00:00 CST (Central Standard Time)	2023-02-16 06:00 CST (Central Standard Time)
+
+
+Maintenance Location(s): KINGSVILLE, TX UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	443762639	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611824	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611823	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611825	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	441254213	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	443762638	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	6 hours	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

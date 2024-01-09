@@ -1,0 +1,45 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019568
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to reduce noise in core network section.// Se realizará un trabajo programado con la finalidad eliminar señal de ruido de una sección de la red central.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HITS
+
+LOCATION // LOCALIDAD: San Juan - Rio, Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+22-May-2023 19:00 - 22-May-2023 21:00
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - SP2/MSFT 100GB S005
+
+CRT-007378
+
+NAP/MSFT - SP2/MSFT 100GB S006
+
+CRT-007379
+
+NAP/MSFT - SP2/MSFT 100GB S007
+
+CRT-007380
+
+NAP/MSFT - SP2/MSFT 100GB S008
+
+CRT-007381
+
+[English]

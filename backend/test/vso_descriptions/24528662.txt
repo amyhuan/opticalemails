@@ -1,0 +1,36 @@
+Planned Work Schedule : 09:00 GMT to 15:00 GMT/ 13th July 2023,  , Customer Name : MICROSOFT DATA CENTER HOLDINGS (HK)
+From : Global Services & Operations Tel : +852-28291567
+Date : 13/07/2023 10:51:33 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3213\23D-A1
+Date Time : 02/08/2023 09:00:00 to 02/08/2023 15:00:00 GMT (dd/mm/yyyy)
+Duration : 360 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 PW TT
+Description : PW To troubleshoot "Input Signal Power Low" alarm in Fiber pair F2F and F5F at Marseille-2.
+Planned Work Schedule : 09:00 GMT to 15:00 GMT/ 13th July 2023
+Nature : Service Affecting
+Impact : Up to 6 Hrs. downtime
+
+******************* AMENDMENT **************
+Rescheduled to 02/08/2023
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

@@ -1,0 +1,47 @@
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on February 19, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-32934
+Notification date:	Thursday, February 16, 2023
+Start date:	Sunday, February 19, 2023 - 7:00 am
+End date:	Sunday, February 19, 2023 - 6:00 pm
+Time zone:	Mountain Standard Time GMT-7
+Window time frame:	11 hours
+Expected service outage:	4 hours
+Event description:	Emergency repair of damaged long-distance fiber segment and with detected degradation in order to prevent uncontrolled impacts on services and guarantee sustainability in the network. We will be working to prioritize reestablishing your services as soon as possible. The expected impact will be effective from 8:00 am to 1:00 pm GMT-6. We will be attentive to share any progress and update of the end of activities accordingly.
+Location:	Reynosa, Tamaulipas
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799182
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799184
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808812
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808813
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13816923
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13816924
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13816925
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13816926
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816949
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816950
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816951
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816952
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816953
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816954
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816955
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816956
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816957
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816958
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816959
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816960
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816961
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816962
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816963
+Private Line - Ethernet - 100 Gbps - Vesta Industrial Park DC Rogers - ID:1-13816964
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net

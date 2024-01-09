@@ -1,0 +1,32 @@
+Dear Valued Customer
+ 
+This notification is to inform you of scheduled SA Maintenance that will impact your service.
+Please view further details below.
+ 
+****************Maintenance Work detail****************
+[Service Affect]
+This work is expected to have a Service Affect.
+ 
+[Start Date&Time]
+31-Aug-2023, 08:00 UTC
+ 
+[End Date&Time]
+31-Aug-2023, 14:00 UTC
+ 
+[Work Location]
+LA POP
+ 
+[Affected Circuits]
+MNDL01I
+MNDL02J
+ 
+[Event Summary]
+We are conducting planned network maintenance on our portion to resolve ongoing management reachability issues.
+ 
+[Expected Impact Duration]
+Services are in potential service-affecting conditions for 60 minutes.  However, we reserve the right to use the full duration of the MW in case of emergency.
+ 
+We sincerely apologize for any inconvenience caused by this maintenance work.
+ 
+Kind regards,
+Kazuya Kishimoto | RTI NOC

@@ -1,0 +1,75 @@
+MAINTENANCE WORK
+
+ 
+
+Time:                            28.02.2023 22:00 - 01.03.2023 05:00 (UTC)
+
+ 
+
+Description:                  Cinia’s partner will perform cable maintenance work
+
+                                                                                               
+
+Location:                       Germany
+
+ 
+
+Service Impact:             C27676 MS HamVan 100GE
+
+C27677 MS HamVan 100GE
+
+C27678 MS HamVan 100GE
+
+C27679 MS HamVan 100GE
+
+C27680 MS HamVan 100GE
+
+C27681 MS HamVan 100GE
+
+C27682 MS HamVan 100GE
+
+C27683 MS HamVan 100GE
+
+C28172 MS HamVan 100GE
+
+C28173 MS HamVan 100GE
+
+C28174 MS HamVan 100GE
+
+C28175 MS HamVan 100GE
+
+C29497 MS HamVan 100G
+
+C29498 MS HamVan 100G
+
+C29499 MS HamVan 100G
+
+C29500 MS HamVan 100G
+
+ 
+
+Downtime:                     Downtime is max. 7 hours during the maintenance work window
+
+ 
+
+ 
+
+Cinia Service Desk
+
++358 293 008 708
+
+servicedesk@cinia.fi
+
+ 
+
+ 
+
+Cinia Oy
+
+Pohjoinen asemakatu 5
+
+11130 Riihimäki
+
+Finland
+
+cinia.fi

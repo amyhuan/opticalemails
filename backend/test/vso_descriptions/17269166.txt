@@ -1,0 +1,25 @@
+Scheduled Maintenance #: 26061892
+
+Summary:
+
+Lumen will perform scheduled maintenance to replace faulty equipment in order to prevent future service interruptions to customer services.
+
+Updates:
+
+2023-02-21 15:07:38 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26061892-1
+
+Start	End
+2023-02-23 05:00 GMT (Greenwich Mean Time)	2023-02-23 10:00 GMT (Greenwich Mean Time)
+2023-02-23 00:00 EST (Eastern Standard Time)	2023-02-23 05:00 EST (Eastern Standard Time)
+
+
+Maintenance Location(s): NEWARK, NJ USA; PHILADELPHIA, PA USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	443879246	N/A	100 GIG	NEWARK NJ USA	PHILADELPHIA PA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	443879247	N/A	100 GIG	NEWARK NJ USA	PHILADELPHIA PA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	443879242	N/A	100 GIG	NEWARK NJ USA	PHILADELPHIA PA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	443879248	N/A	100 GIG	NEWARK NJ USA	PHILADELPHIA PA USA	Outage	1 hour

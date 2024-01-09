@@ -1,0 +1,57 @@
+Dear Customer,
+
+ 
+
+Please be informed the planned maintenance work as follows:
+
+ 
+
+(1) Date:  3 May 2023 (Wed)
+
+(2) Time: 01:30 - 02:00  HK Time (GMT +8Hours)
+
+(3) Reason: Fiber Maintenance at Lohas Park Road
+
+(4) Interruption: All circuits will suffer a  30 minutes interruption.
+
+(5) Location: Tseung Kwan O
+
+(6) Response Person: Benny So (Tel:9207-5994)
+
+(7) Affected Circuit:
+
+ 
+
+ Customer
+
+Circuit ID
+
+MIC
+
+TR172-9017
+
+MIC
+
+TR172-9015
+
+MIC
+
+TR172-9021
+
+MIC
+
+TR172-9019
+
+ 
+
+ 
+
+Best Regards,
+
+Daswin Chan
+
+TRAXCOMM NOC
+
+NOC Hot Line: (852) 2377 8833
+
+MTR - caring for life's journeys

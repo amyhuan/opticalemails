@@ -1,0 +1,34 @@
+Dear JPNAP Peering partners,
+
+This is Masaya Ito, Naganoken Kyodo Densan Co.,Ltd.(AS18268).
+Please be informed that we will perform a maintenance
+as scheduled below;
+
+Total：1 Cases
+---------------------------------------------------------
+ASN   : 18268
+IX    : JPNAP Tokyo
+IP    : 210.173.176.222
+         2001:7fa:7:1:0:1:8268:1/64
+Start : Jul. 30, 2023, 09:00 JST
+End   : Jul. 30, 2023, 18:00 JST
+---------------------------------------------------------
+
+Our peering connections will go down during the above period.
+Thank you for your understanding and cooperation.
+
+Best regards,
+
+
+--
+-----------------------------------------------------
+Masaya Ito
+Naganoken Kyodo Densan Co.,Ltd.  Operation part
+  T E L : +81-26-225-8159
+  F A X : +81-26-225-8167
+  E-mail: as18268@nkd.nn-ja.or.jp
+  U R L : https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fwww.janis.jp%2f&data=05%7C01%7Cmoc%40microsoft.com%7C8fe7d5c191474e9eadd908db8cf2af84%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638258746188742578%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Z%2BrSWYksr8senpeJz8sVYBkd1r9DBtQmYoji9nHvbZE%3D&reserved=0
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7C8fe7d5c191474e9eadd908db8cf2af84%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638258746188742578%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oHl4J04PWBBsZtCGhLKBvCxcxXDO7cqdHL7K9ScJNQ8%3D&reserved=0

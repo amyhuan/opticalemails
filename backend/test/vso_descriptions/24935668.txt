@@ -1,0 +1,46 @@
+Customer name:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000820999
+
+Start time (Y/M/D):
+
+2023-08-31 12:00:00 AM (ET)
+
+End time (Y/M/D):
+
+2023-08-31 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+1 hour
+
+Status / Statute:
+
+APPROVED/ APPROVED
+
+Activity / Activity:
+
+We need to proceed with a central office maintenance in order to avoid a loss of service.
+We need to do maintenance at the plant to avoid a loss of service.
+
+Equipment / Equipment:
+
+OME6500PL
+
+CLLI:
+
+TOROON47
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KGXS802762-003BLCA-000         
+ 05KGXS802762-005BLCA-000         
+ 05KGXS802762-007BLCA-000         
+ 05KJXS802762-050BLCA-000         
+
+You may experience a failure(s) at any time during the above window.
+You may experience one or more service interruption(s) during the window above.

@@ -1,0 +1,35 @@
+Emergency maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Emergency Hardware Replacement in Philippines (Line Module PNMA 15-B-1 SOFX @ High Risk due to Active Temperature Related Issue)
+
+The DWMD Card has been identified as High Priority (RECALL Status) in High IXD Temperature Proactive Replacement during latest network scan conducted by Vendor on 17-Apr-2023. Equipment Vendor recommends to replace as soon as practical due to that it has already breached the Hardware Temperature Threshold and this may potentially cause circuits/hardware/circuit an Unplanned longer outage anytime. This Card that is heating up now exhibiting alarms and will be replaced with latest manufactured card with improved heat sink design that can withstand better against heat/temperature and prevent potential hardware failures in the future. Please be advised that the maintenance cannot be rescheduled as it is classified as emergency works to maintain our network stability and multiple customers are being impacted. Our sincere apologies for the short notice and inconvenience caused.
+
+
+Reference number
+PN300482
+
+
+Start time
+Thursday, 20 Apr 2023 09:00:00 (UTC)
+
+
+End time
+Thursday, 20 Apr 2023 11:30:00 (UTC)
+
+
+Service/s under maintenance
+HKG TOK EPL 9636236
+
+
+Expected impact
+up to 30 minutes outage within the change window

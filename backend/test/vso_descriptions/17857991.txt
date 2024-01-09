@@ -1,0 +1,33 @@
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+135594	Equinix Fabric	SE3	-	22422760	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20547093-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	14472648-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422758-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21453360-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	22035251	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	14472651-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21331733-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422760	MICROSOFT-SE3-CX-SEC-02-10GLAB	Azure ExpressRoute	SEA-GBB151-MSFT-sec	50c3999c-0aa6-40a0-89ec-98683e89b16c	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	14473495-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20978994-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21472718-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20547095-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20974256-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20978989-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21472719-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21453365-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21331736-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20974208-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21331735-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20978986-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422760	MICROSOFT-SE3-CX-SEC-02-10GLAB	Azure ExpressRoute	SEA-GBB151-ER-sec	9d4e4c3c-244e-4e12-98af-161df82e3c78	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	14473497-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	22035252-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21781124-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21781129-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422758-A	MICROSOFT-SE3-CX-PRI-02-10GLAB	Azure ExpressRoute	SEA-GBB151-ER-pri	66aabd8b-22c0-4989-bc05-592e0c3251b3	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	20978996-A	-	-	-	-	-	-	-	-	-	-
+135594	Equinix Fabric	SE3	-	22422758-A	MICROSOFT-SE3-CX-PRI-02-10GLAB	Azure ExpressRoute	SEA-GBB151-MSFT-pri	b1e4c9c9-2d31-49cb-a4ac-4b4fcaeb4291	-	-	-	-	-	-
+135594	Equinix Fabric	SE2	-	21331734-A	-	-	-	-	-	-	-	-	-	-

@@ -1,0 +1,74 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance Activity by ILD Service provider, which is scheduled on Wednesday, 23th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                         :    CRQ000003324531
+
+         
+
+Scheduled Date                              :    Wednesday, 23th August 2023
+
+
+Maintenance Window (1)             :     23/08/2023 21:00 UTC to 24/08/2023 05:00 UTC
+
+ 
+
+Maintenance Window  (2)            :     28/08/2023 21:00 UTC to 29/08/2023 05:00 UTC
+
+ 
+
+Activity                                              :     Channel insertion at MAZ-ZAF upgrade
+
+ 
+
+Benefit of Change                           :     To avoid unplanned outage in near future
+
+
+Impact                                                :     Service Affecting
+                           
+Duration of Impact                          :     Below mentioned circuit will get down 8hours during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit id
+
+LSI
+
+Customer Name
+
+EMEA-IN-1708833  
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+EMEA-IN-1708832  
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824149
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824148
+
+14209360
+
+Microsoft Ireland Operations Ltd.

@@ -1,0 +1,45 @@
+Dear Equinix Customer,
+
+DATE: 16-MAY-2023 - 17-MAY-2023
+
+SPAN: 16-MAY-2023 - 17-MAY-2023
+
+LOCAL: TUESDAY, 16 MAY 22:00 - WEDNESDAY, 17 MAY 06:00
+UTC: TUESDAY, 16 MAY 14:00 - TUESDAY, 16 MAY 22:00
+
+IBX(s): SG1,SG3
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a configuration update on our device. It is estimated that your services may experience intermittent interruption of up to 5 minutes due to the activity.
+
+Expected length of outage: 5
+
+PRODUCTS: EQUINIX FABRIC, NETWORK ED
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+115690	Equinix Fabric	SG1	-	613040.1	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21053519	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	613243.1	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	21055345	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	20948909	-	-	-	-	-	-	-	-	-	-
+115690	Equinix Fabric	SG1	-	20940848	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226166731072.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-226166731072].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.

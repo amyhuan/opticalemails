@@ -1,0 +1,36 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Essential Maintenance - Japan Infinera CKSE-OLA-0101 1-A-1 IAM
+
+Telstra to replace card replacement due to Equipment Degradation alarm.
+
+
+Reference number
+PN301185
+
+
+Start time
+Thursday, 11 May 2023 09:30:00 (UTC)
+
+
+End time
+Thursday, 11 May 2023 11:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG TOK EPL 9698386
+HKG TOK EPL 9576673
+
+
+Expected impact
+30-45 mins outage within the change window

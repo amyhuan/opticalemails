@@ -1,0 +1,24 @@
+Maintenance Window Notification
+
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00311923	2023-03-25 05:00:00	2023-03-25 11:00:00	0 Days 6 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+En esta actividad se intervendrá el tramo Barranquilla Norte - Globenet Ruta Corta - Luruaco, dado a la topología anillada de la red, no se presentará afectación de los servicios. La actividad se ejecutará con el fin de realizar tecnificación de 1300 spam 200 sobre la cra 43metros de cable 48 hilos. 
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G
+On behalf of GlobeNet, we thank you in advance and apologize for any inconvenience. The GlobeNet NOC will confirm once the work has been completed.

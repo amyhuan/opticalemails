@@ -1,0 +1,33 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0021084
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to rollback services.// Se realizará un trabajo trabajos con el fin de realizar rollback de servicios.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 15 MIN
+
+LOCATION // LOCALIDAD: SAN JUAN - BOCA RATON, PUERTO RICO - USA
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+12-Sep-2023 14:00 - 12-Sep-2023 17:00 [MAIN]
+
+13-Sep-2023 14:00 - 13-Sep-2023 17:00 [BACKUP]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - SP2/MSFT 100GB S006
+
+CRT-007379

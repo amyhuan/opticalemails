@@ -1,0 +1,57 @@
+Scheduled Maintenance #: 26060533
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to relocate fiber cable on the Lumen network and is required in order to proactively avoid unplanned outages due to building construction.
+The estimated GPS location of work is at Madison at Owls Head US331 at US 331 Business in Freeport, FL. LAT: 30.55617 LONG: -86.10699
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 5 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 5 hours during the maintenance window.
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-03-06 21:56:36 GMT - This maintenance has been modified.
+
+Customer Impact:
+
+26060533-1
+
+Start	End
+2023-03-28 04:00 GMT (Greenwich Mean Time)	2023-03-28 10:00 GMT (Greenwich Mean Time)
+2023-03-28 00:00 EDT (Eastern Daylight Time)	2023-03-28 06:00 EDT (Eastern Daylight Time)
+
+Previously Scheduled for (2023-03-22 04:00 GMT to 2023-03-22 10:00 GMT)
+
+Maintenance Location(s): FREEPORT, FL USA; DEFUNIAK SPRINGS, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442067423	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6656	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	440687861	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	441225922	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553405	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6655	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442247056	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553404	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442138486	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442138497	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	440687861	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553404	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6656	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553405	N/A	100 GIG	MIAMI FL USA	SAN ANTONIO TX USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442067423	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	BCXR6655	N/A	100 GIG	SAN ANTONIO TX USA	MIAMI FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442247056	N/A	100 GIG	TALLAHASSEE FL USA	ATLANTA GA USA	Outage	5 hours	 
+Alternate Night:
+26060533-2
+
+Start	End
+2023-03-29 04:00 GMT (Greenwich Mean Time)	2023-03-29 10:00 GMT (Greenwich Mean Time)
+2023-03-29 00:00 EDT (Eastern Daylight Time)	2023-03-29 06:00 EDT (Eastern Daylight Time)
+
+
+
+Notes History:
+
+2023-03-06 21:56:36 GMT - This maintenance has been modified.
+2023-03-06 21:04:08 GMT - This maintenance has been postponed due to a vendor issue. Once a new date is determined, updated notifications will be sent reflecting the date change.

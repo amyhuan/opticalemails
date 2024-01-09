@@ -1,0 +1,45 @@
+Time:                            15.03.2023 20:00 - 16.03.2023 01:00 (UTC)
+
+ 
+
+Description:                  Cinia will perform network changes during the maintenance work
+
+                                                                                               
+
+Location:                       Finland
+
+ 
+
+Service Impact:             Changes will be made one service at a time:
+
+                                            C28172 MS HamVan 100GE
+
+C28173 MS HamVan 100GE
+
+C28174 MS HamVan 100GE
+
+C28175 MS HamVan 100GE
+
+C29497 MS HamVan 100G
+
+C29498 MS HamVan 100G
+
+C29499 MS HamVan 100G
+
+C29500 MS HamVan 100G
+
+ 
+
+Downtime:                     Downtime is approx. 15 minutes per service during the maintenance work window
+
+ 
+
+ 
+
+ 
+
+Cinia Service Desk
+
++358 293 008 708
+
+servicedesk@cinia.fi

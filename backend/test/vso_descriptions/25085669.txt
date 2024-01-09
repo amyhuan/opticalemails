@@ -1,0 +1,38 @@
+19-Sep-2023 02:00 to 19-Sep-2023 09:00 ( GMT ),  , Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006982382
+
+Urgency: Emergency
+
+Date Notice Sent: 06-Sep-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+06-Sep-2023 22:00 to 07-Sep-2023 05:00 ( Eastern )
+07-Sep-2023 02:00 to 07-Sep-2023 09:00 ( GMT )
+
+Location of Maintenance: 115 Caron, Windsor, Ontario
+
+Reason for Maintenance: Zayo will perform emergency maintenance to replace bad cable to prevent further damage.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+FBDK/1333153/001/ZFS	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	22 Selby Rd Brampton, ON. Canada	
+OQYX/244405//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244416//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244431//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244434//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244414//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244410//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244426//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+OQYX/244430//ZYO	Hard Down - Duration of maintenance window	905 King St W Toronto, ON. Canada	15248 Neo Pkwy Cleveland, OH. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

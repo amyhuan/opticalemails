@@ -1,0 +1,54 @@
+PLANNED OUTAGE NOTIFICATION
+
+ 
+
+ 
+
+Service/s
+
+Voice, Data, Internet services will be affected
+
+Reason for outage
+
+Vodafone is carrying out upgrades to its network
+
+Duration
+
+Up to 4x40msec switching breaks and up to 6 hours loss of diversity for protected circuits. Up to 6 hours loss of service for unprotected circuits, during the outage window.
+
+Outage window START
+
+21/03/2023 00:00:01
+
+04/04/2023 00:00:01 - Back Up Start Date
+
+
+(dd/mm/yy  hh:mm)
+NZDT
+
+Outage window END
+
+21/03/2023 06:00:00
+
+04/04/2023 06:00:00 - Back Up End Date
+
+
+(dd/mm/yy  hh:mm)
+NZDT
+
+Services Affected
+Circuit & Site
+
+INT21890814/1 - 90 PETER BROCK DRIVE EASTERN CREEK NEW SOUTH WALES - Microsoft NZ Limited 6399- AP PO 100203114
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Please do not reply to this e-mail.  This is a non-monitored address.

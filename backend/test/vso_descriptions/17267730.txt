@@ -1,0 +1,104 @@
+cid:image001.png@01D719AF.9F452900
+TM Urgent Maintenance
+
+ 
+
+ 
+
+Title                            
+
+RELOCATION CABLE FOC AT GEMENCHEH - GEMAS 96C_J_A.
+
+ 
+
+Note : The maintenance need to be done as the cable/system at high risk and could cause serious breakdown and longer mean time to repair.
+
+ 
+
+ 
+
+  Location                      
+
+  NEGERI SEMBILAN (SOUTHERN)
+
+ 
+
+ 
+
+ 
+
+Urgent Event Number  
+
+RFC-FIBER-230217-0007
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maintenance Start Date        
+
+2023-02-25 00:00 MYT
+
+2023-02-24 16:00 GMT
+
+Maintenance End Date
+
+2023-02-25 06:00 MYT
+
+2023-02-24 22:00 GMT
+
+ 
+
+ 
+
+ 
+
+Possible Outage
+
+1 HOUR
+
+ 
+
+ 
+
+ 
+
+ 
+
+Circuit Involved 
+
+ 
+
+ 
+
+ 
+
+Customer
+
+Network Id
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+IE1033104610
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+IR1033213076
+
+ 
+
+ 
+
+ 
+
+We would like to apologize for any inconvenience this may cause.
+
+Please do not hesitate to share your queries about this planned maintenance activity by email to pmw.nmcc@tm.com.my  or 0383185731/0383179600/1-800-88-9947 or contact TM Wholesale Contact Centre at
+
+1-800-88-1090 or 60383182797 (for international)

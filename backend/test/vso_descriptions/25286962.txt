@@ -1,0 +1,24 @@
+Dear Customer,
+
+TFN Planned Maintenance Notification
+
+Ticket Number: 10862884
+
+Reason: Circuit Path Optimization Maintenance.
+
+Maintenance Time: 2023/10/06 00:00 ~ 2023/10/06 06:00 (UTC+8) 
+
+Service Outage Time: No service impact is expected, but a less than 50ms switch hits maybe experienced. 
+
+Services Type: METRO
+
+Circuit ID: L4425959、L4425958、L4425960、L4425961
+
+ 
+
+Should you have any queries, please don't hesitate to contact us at any time.
+
+Taiwan Fixed Network Corp.
+Customer Service Dept.
+0809-000-365 +886-2-6626-0550
+EBGDUTY@taiwanmobile.com

@@ -1,0 +1,51 @@
+Dear MCS,
+
+Viettel got information for Channel insertion activity in Segment S1H. The details of maintenance activity are as below.
+
+ 
+
+ Planned Work Notification
+
+Service ID
+
+All ccts to HKG and Singapore via AAE1
+
+IPL004488
+
+IPL004401
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+AAE1
+
+ 
+
+Activity Window (GMT)
+
+04:00 GMT to 13:00 GMT/ 14-16th June 2023
+
+Nature
+
+Non Service Affecting
+
+Expected Impact Duration(DD:HH:MM) :
+
+Attached traffic will be At Risk.
+
+ 
+
+Activity Description
+
+PW for channel insertion at DLS 1,3,5,8,9,12,14,15 in Songkhla within Segment S1H.
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,

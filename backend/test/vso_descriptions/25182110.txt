@@ -1,0 +1,35 @@
+-Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006992616
+
+Urgency: Demand
+
+Date Notice Sent: 15-Sep-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+19-Sep-2023 00:01 to 19-Sep-2023 06:00 ( Pacific )
+19-Sep-2023 07:01 to 19-Sep-2023 13:00 ( GMT )
+
+2nd Activity Date
+20-Sep-2023 00:01 to 20-Sep-2023 06:00 ( Pacific )
+20-Sep-2023 07:01 to 20-Sep-2023 13:00 ( GMT )
+
+Location of Maintenance: Deschutes, OR
+
+Reason for Maintenance: Service provider intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to repair/replace fiber and is required in order to avoid unplanned outages from damages related to a previous fiber incident. The estimated GPS location of work is LAT: 44.166745 LONG: -121.254676
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/268109//ZYO	Hard Down - up to 5 hours	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+OGYX/282366//ZYO	Hard Down - up to 5 hours	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

@@ -1,0 +1,28 @@
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-36065
+Notification date:	Tuesday, May 9, 2023
+Start date:	Monday, May 15, 2023 - 12:00 am
+End date:	Tuesday, May 16, 2023 - 6:00 am
+Time zone:	Central Daylight Time GMT-5
+Window time frame:	6 Hours
+Expected service outage:	6 Hours
+Event description:	Emergency repair of fiber segment in metropolitan area damaged and with detected degradation in order to prevent uncontrolled impacts on services and guarantee sustainability in the network. We will be working to give priority to reestablishing your services as soon as possible
+Location:	Bryan, TX
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13807694
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13807695
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816933
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816934
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816935
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816936
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816937
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816938
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816939
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816940
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816941
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816942
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816943
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816944
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816945
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816946
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816947
+PL-ETH - 100 Gbps - Vymsa 1950 - ID:1-13816948

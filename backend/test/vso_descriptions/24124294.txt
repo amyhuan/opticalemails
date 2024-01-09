@@ -1,0 +1,142 @@
+Dear Customer,
+
+ 
+
+***Do take note in the change of dates below***
+
+ 
+
+Amended – Revised by cable consortium :
+
+ 
+
+Please note that ASE NOC has revised the repair schedule. Kindly refer to the revised date below.
+
+ 
+
+Start Date/Time: 05 June 2023 at 19:00 SGT
+
+End Date/Time: 10 June 2023 at 04:00 SGT
+
+ 
+
+Thank You
+
+ 
+
+Alan
+
+Customer Operations - Business Technical Support | Managed Service Operation Centre
+
+ 
+
+ 
+
+ 
+
+ 
+
+From: CS Service Support SMN 
+Sent: Friday, 26 May 2023 11:30 AM
+To: 'moc@microsoft.com' ; 'Adeline.Ng@microsoft.com' ; 'opticaldri@microsoft.com' 
+Cc: Eric LEE Siong Kiat ; Dennis WONG Kin Heng ; CS Service Support SMN 
+Subject: Service Maintenance on3 to 8 June 2023 for StarHub Services: MICROSOFT OPERATIONS PTE LTD - NCR: 38442
+
+ 
+
+Dear Customer,
+
+In our continual effort to provide your company with quality service, we will be performing the following network maintenance:
+
+ 
+
+Date of Maintenance                      : 3 to 8 June 2023
+Maintenance Window Period       : 3 June at 2100rs to 8 June at 0600hrs (Singapore Time)
+
+Affected Circuit IDs                    :
+
+ 
+
+ 
+
+ 
+
+Service ID
+
+Service Type
+
+1080010148
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010122
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010120
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010150
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010151
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010121
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010149
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010119
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+[mailto:moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com]moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010118
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+ 
+
+Reason                                           : Very Urgent – Cable Consortium fiber maintenance work activity
+
+Impact and Duration                     : Service Downtime of up to 5 DAYS (subject to prevailing sea / weather changes) .

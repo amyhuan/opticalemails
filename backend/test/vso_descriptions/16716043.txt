@@ -1,0 +1,26 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R0062\23
+Date Time : 17/01/2023 10:30:00 to 17/01/2023 13:30:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/ , Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / , SR211308 / SNG(PCG)-MSL(PCG) EP7111 /,  ,  ,  , SLID/CCSD CPON / Client Item Label Service Type Expected Impact to your Service Site Address HI/IP Transit/00695871 434730-2043988 DUB_DUB_ATR_4323 IP,  ,  ,  Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / , SR164498 / SNG(PCG)-MSL(PCG) EP6000 / SR164499 / MSL(PCG)-SNG(PCG) EP6001,  ,  ,  Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : AAE-1 channel insertion at DLS 1 in ABU-MRS in Seg S2
+
+Outage : No service impact is expected, but a hazardous condition only.
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & O

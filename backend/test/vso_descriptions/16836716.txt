@@ -1,0 +1,59 @@
+From: TELECOM ITALIA SPARKLE
+
+To: Microsoft Ireland Operations Limited ()
+
+PEW Number: NE-13495 (Please take note the PEW Number that should be referred to in all your future communication)
+
+PEW Type: PEW
+
+Ticket Reference Number: WO0000000004625
+
+For Telecom Italia Sparkle: Enzo
+
+
+
+The following to inform you that due to an emergency maintenance work the service will be suspended for less than 0 minutes, affecting your services described below.
+
+-------------------------------------------------------------------
+
+Planned Work Description
+
+urgent & mandatory SW Upgrade on Equipment in Catania, Italy *** CIRCUITS WILL BE NO SERVICE AFFECTING ONLY AT RISK,***:
+
+Service ID
+
+Int. Circuit Designation
+
+PEW Impact
+
+ATHENS/WED-MARSEILLE/WED NP 0002
+
+TIS-00000081576
+
+Asset at risk
+
+These works will take place between 24/01/2023 21:00 (GMT+00:00) Greenwich Mean Time (Europe/London) and 25/01/2023 03:00 (GMT+00:00) Greenwich Mean Time (Europe/London) with an estimate downtime of 0 minutes maximum.
+
+We apologize for any inconvenience we may have caused to you.
+
+Note:
+
+In case any problems after the scheduled maintenance action we invite you to contact our Contact Center, which is available for 24 hours a day, 7 days a week, and reachable through the channels below.
+
+Thank you.
+
+-------------------------------------------------------------------
+
+Note: If we don't receive any feedback from you in the next two working days, we will assume you are in agreement. If you are not the right person/department, please forward this message to whom it may concern.
+
+
+
+Please be advised that the Sparkle Planned Works Change Management Desk core business hours are from 09:00 to 16:30 CET local time, Monday through Friday (except public holidays) and is not able to respond outside of these hours.
+
+
+
+Phone numbers:
+
+Phone: +39 06 321000
+
+Fax: +39 06 5274 4560

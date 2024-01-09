@@ -1,0 +1,36 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft Ireland Operations Ltd
+Ticket Number	WIOCCEW127906
+External Ref	
+Incident Start Date/Time	28/03/2023 14:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Rescheduled - Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C208-0012	1x100Gbps from Lagos, Rack Centre to SADC, Cape Town.	100	Rack Centre - Lagos	SADC, Cape Town
+Most Recent Message:
+
+Please note that this maintenance activity has been rescheduled as follows;
+
+Maintenance Window
+Start Date / Time: 28th Mar 2023 14:00 UTC
+End Date / Time: 28th Mar 2023 16:00 UTC
+
+Impact on Service(s)
+No downtime expected, service at risk
+
+Description of Works
+Maintenance activity to resolve protection switching issue and to improve service resiliency in Lagos. This is only an advisory notification.
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket.
+
+Sincerely,

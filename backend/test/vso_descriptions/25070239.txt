@@ -1,0 +1,53 @@
+Scheduled Maintenance #: 27313292
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to relocate fiber cable on the Lumen network and is required in order to relocate off of private property.
+
+The estimated GPS location of work is: GPS LOCATION 1: 31.551611, -97.132092; GPS LOCATION 2: 31.558018, -97.124645; GPS LOCATION 3: 31.552033, -97.131704; GPS LOCATION 4: 31.553300, -97.129968
+
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 4 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 4 hours during the maintenance window.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-09-05 17:15:26 GMT - This maintenance has been modified.
+
+Customer Impact:
+
+27313292-1
+
+Start	End
+2023-09-13 05:00 GMT (Greenwich Mean Time)	2023-09-13 11:00 GMT (Greenwich Mean Time)
+2023-09-13 00:00 CDT (Central Daylight Time)	2023-09-13 06:00 CDT (Central Daylight Time)
+
+Previously Scheduled for (2023-09-01 05:00 GMT to 2023-09-01 11:00 GMT)
+
+Maintenance Location(s): ITASCA, TX USA; WACO, TX USA; WACO, TX USA; WACO, TX USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	Fiber36	BGWG4206 - FIBER-2	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber35	BGWG4206 - FIBER-1	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber61	BCQF3413 - FIBER-1	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber62	BCQF3413 - FIBER-2	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber54	No Associated SID	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber53	BBHC6933 - FIBER-1	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	BBHC7579 - FIBER-1	BBHC7579-BBCC63721 XSC0000M12AXE MSA AND IRU BTWN L3 AND MICROSOFT 6-4-09	FIBER	SAN ANTONIO TX USA	AUSTIN TX USA	Outage	4 hours	000562108
+MICROSOFT CORPORATION MCIO	441202425	N/A	100 GIG	SAN ANTONIO TX USA	WARRENTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441429784	N/A	100 GIG	DALLAS TX USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444315212	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442036444	N/A	100 GIG	DALLAS TX USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441429783	N/A	100 GIG	DALLAS TX USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442191789	N/A	100 GIG	SAN ANTONIO TX USA	CHEYENNE WY USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441198693	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442191788	N/A	100 GIG	SAN ANTONIO TX USA	CHEYENNE WY USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444315213	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441202427	N/A	100 GIG	SAN ANTONIO TX USA	WARRENTON VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441383823	10GLAN-23879238-DIV	10GIG-E LAN	REDMOND WA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443762644	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442036442	N/A	100 GIG	DALLAS TX USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	440600100	N/A	100 GIG	SAN ANTONIO TX USA	MANASSAS VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	440600095	N/A	100 GIG	SAN ANTONIO TX USA	MANASSAS VA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	443762641	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	441694114	N/A	100 GIG	DALLAS TX USA	SAN ANTONIO TX USA	Outage	4 hours

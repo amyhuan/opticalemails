@@ -1,0 +1,75 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned Change scheduled between Neovate and Mega Watt Park on the 21st May 2023 from 08:00-12:00(GMT: +02:00). We need to migrate traffic to the new fibre as the current fibre has high losses.
+
+ 
+
+IMPACT:Services will be down for a maximum duration of 2hrs.
+
+ 
+
+Impacted Services
+
+ 
+
+027MIDR292013677915
+
+027CAPE292014221287
+
+027CAPE292014221297
+
+027CAPE292014221307
+
+027CAPE292014221292
+
+027CAPE292014221302
+
+027CAPE292014221312
+
+027MIDR292013956863
+
+027CAPE292014066891
+
+027CAPE292014066899
+
+027MIDR292014077302
+
+ 
+
+Reason For Change
+
+ 
+
+To migrate traffic to the new fibre as the current fibre has high losses.
+
+ 
+
+Implementation Plan
+
+ 
+
+To be completed before the change.
+
+Step 1 : Do bidirectional test to confirm that the fibres are through.
+
+Step 2 : Please collect OTDR traces in TRC format.
+
+Step 3 : Run 4 x Dual patch leads between the new ODF and the equipment and label the accordingly. Leave the hanging on the DWDM.
+
+ 
+
+During the Planned Work
+
+Step 1: Migrate one system at a time starting with the Huawei .Remove the fibres from the equipment and connect the new patch leads connecting to the new ODF.
+
+Step 2 : NOC to do necessary configurations and confirm if link status.
+
+ 
+
+Roll Back Plan
+
+ 
+
+In the event of issues, revert back to the old path.

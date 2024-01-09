@@ -1,0 +1,60 @@
+Dear Customer ,
+
+ 
+
+To ensure an optimal service and stability, maintenance activities need to be performed that will affect your network connections.
+
+ 
+
+ 
+
+Reason for maintenance: software upgrade on our Border Router at Amsterdam NIKHEF
+
+Details:
+
+Start Time: 2023-09-21 01:00:00 Amsterdam (GMT+1)
+
+End Time: 2023-90-21 06:00:00 Amsterdam (GMT+1)
+
+Duration: 5h00m0s
+
+ 
+
+ODIDO  ASN:   50266                                                           
+
+Peer ASN: 8075
+
+ipv4 address 104.44.44.44/31
+
+
+104.44.44.45
+
+ipv6 address 2a01:111:2000:1::31a5/126
+
+2a01:111:2000:1::31a6
+
+ 
+
+Please note that this maintenance cannot be rescheduled.
+
+Don’t hesitate to contact us if any questions arise by replying to this email.
+
+We apologize for any inconvenience this may cause.
+
+Thank you for your understanding.
+
+ 
+
+ 
+
+ 
+
+Kind Regards,
+
+ 
+
+Danny Geraerts
+
+Senior Engineer IP & Digital Operations
+
+Mobile: +31 629051764

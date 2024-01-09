@@ -1,0 +1,18 @@
+Dear JPNAP peering partners,
+
+This is akiyama at i-TEC (AS7524).
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+We would appreciate your understanding and cooperation.
+Best Regards,
+
+　Purpose : Maintenance of network equipment
+　Date : 2023/3/10 11:00 - 13:00 (JST)
+　AS number : 7524
+　IP address : 210.173.184.45
+
+Best Regards,
+
+
+--

@@ -1,0 +1,48 @@
+Reminder: Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+ 	
+Maintenance details
+
+AAG Essential Maintenance Notification [Ref: AAG PW-221126-002] Backup Window
+
+Please be informed AAG will carry out circuit migration maintenance activity prior to AAG upgrade 14 in S42 (TAN-KEA)
+
+
+Reference number
+PN292769
+
+
+Start time
+Tuesday, 10 Jan 2023 22:00:00 (UTC)
+
+
+End time
+Tuesday, 10 Jan 2023 22:30:00 (UTC)
+
+
+Service/s under maintenance
+HKG SCA EPL 9670304
+HKG/HKGG/TELSTRA/HKG - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9670304
+
+
+Expected impact
+30 minutes outage during the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.

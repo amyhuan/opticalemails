@@ -1,0 +1,38 @@
+Dear all,
+
+please take in consideration the following notification.
+We apologize for any inconvenience this may cause.
+If you do not respond within 24 hours we consider the planned work to be accepted.
+
+------------------------------------------------------------------------------
+TTI Ticket-Number: wt230125132721  Customer Ticket-Number:
+Status:open,  Level:major scheduled
+ 
+From: NOC Türk Telekom International (Türk Telekom International)
+To:   KUMAR Shivesh, CC ON ALL  Notifications, NOC , PARKER Todd,  (Microsoft Ireland Operations Ltd.)
+Start: 31.01.2023  00:01:00 (CET) 30.01.2023 23:01 (GMT)
+End:   31.01.2023  02:00:00 (CET) 31.01.2023 01:00 (GMT)
+ 
+Description:
+We would like to inform you about a maintenance work on power supply of our rack in Vienna, Austria where our BB equipment is located.
+
+There is no any impact expected on customer services.
+ 
+Services:
+msn35833a.100ge*vie-ist (WL085760 )
+msn35832a.100ge*vie-ist (WL085759 )
+msn35831a.100ge*vie-ist (WL085758 )
+msn35830a.100ge*vie-ist (WL085757 )
+msn35829a.100ge*vie-ist (WL085756 )
+msn35828a.100ge*vie-ist (WL085755 )
+msn35827a.100ge*vie-ist (WL085754 )
+msn35826a.100ge*vie-ist (WL085753 )
+msn35825a.100ge*vie-ist (WL085752 )
+msn35824a.100ge*vie-ist (WL085747 )
+
+
+ 
+
+------------------------------------------------------------------------------
+ 
+Best Regards

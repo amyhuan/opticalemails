@@ -1,0 +1,26 @@
+Emergency Maintenance Notification
+
+Windstream has identified a network fault and must perform emergency maintenance in order to restore our network services to their full capabilities. This maintenance is required to resolve current service impacts or remove the risk for potential impacts. We understand the challenges this may present and are working to minimize disruptions. The details of the planned maintenance are listed below along with descriptions and planned impact timeframes.
+
+DESCRIPTION OF MAINTENANCE
+Repair: Troubleshooting Degraded Service
+
+MAINTENANCE INFORMATION
+WMT:	485190
+Maintenance Address:	
+55 MARIETTA ST NW,ATLANTA,GA
+1003 DONNELLY AVE SW,ATLANTA,GA
+Service Affecting:	YES
+Event Start Date & Time:	07/06/23 00:00 ET
+Event End Date & Time:	07/06/23 05:00 ET
+Impact Type:	Duration	Impact Start	Impact End
+Switch Hit	50 msec	07/06/23 00:00 ET	07/06/23 05:00 ET
+Outage	299 minute(s)	07/06/23 00:00 ET	07/06/23 05:00 ET
+Note: Service impact may be experienced at varying times throughout the implementation window.
+
+
+Name	Account	Circuit ID	Rate Code	Cust Ckt ID	A-Loc	A-Loc Address	Z-Loc	Z-Loc Address
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425418/ /WXN /	100G	18393283	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425419/ /WXN /	100G	18393284	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425416/ /WXN /	100G	18393278	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW
+MICROSOFT CORPORATION-56 MARIETTA ST NW	*****7070	GA/KJGS/425417/ /WXN /	100G	18393279	ATLDGA10	1003 DONNELLY SW AVE	ATLNGAMQ	56 MARIETTA ST NW

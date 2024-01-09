@@ -1,0 +1,38 @@
+Scheduled Maintenance #: 26307903
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a Network Element software upgrade.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-03-31 11:03:35 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26307903-1
+
+Start	End
+2023-04-12 01:00 GMT (Greenwich Mean Time)	2023-04-12 04:00 GMT (Greenwich Mean Time)
+2023-04-12 03:00 CEST (Central European Summer Time)	2023-04-12 06:00 CEST (Central European Summer Time)
+
+
+Maintenance Location(s): COPENHAGEN, Denmark
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT	38972G/10GIG/CPNHDKAP/CPNHDKBA	N/A	10GIG	 	 	Outage	1 hour	 
+MICROSOFT	38971G/10GIG/CPNHDKAP/CPNHDKBA	N/A	10GIG	 	 	Outage	1 hour	 
+
+
+Click here for assistance on this scheduled maintenance via Email.

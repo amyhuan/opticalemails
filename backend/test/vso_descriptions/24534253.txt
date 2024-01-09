@@ -1,0 +1,33 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0020285
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to carry out a migration for network optimization.// Se realizará un trabajo programado con el fin de realizar una migración por optimización de red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 90 MIN
+
+LOCATION // LOCALIDAD: Barracas- Las Toninas, Buenos Aires - Argentina
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+25-Jul-2023 03:00 - 25-Jul-2023 11:00 [MAIN WINDOW]
+
+26-Jul-2023 03:00 - 26-Jul-2023 11:00 [BACKUP WINDOW]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009825

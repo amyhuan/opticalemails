@@ -1,0 +1,51 @@
+Dear Sirs // Estimados Señores, , MICROSOFT,  , Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado: , NOTIFICATION NUMBER // NUMERO DE NOTIFICACION:,  , SWX0018380 , NOTIFICATION TYPE // TIPO DE NOTIFICACION:,  , Normal , DESCRIPTION // DESCRIPCION:,  , A schedule work will performed in order to implement network optimization. // Se realizara un trabajo programado con la finalidad de implementar optimizaciones en la red. , SERVICE IMPACT // IMPACTO EN SERVICIOS:,  , OUTAGE UP TO 10 MIN , LOCATION // LOCALIDAD:,  , RIO ALOG2 y RIO LS , SCHEDULE // VENTANA(S) DE TRABAJO (UTC):,  , 21-Feb-2023 14:00 - 21-Feb-2023 22:00 (BACKUP 1),  , 22-Feb-2023 14:00 - 22-Feb-2023 22:00 (BACKUP 2),  , 23-Feb-2023 14:00 - 23-Feb-2023 22:00 (BACKUP 3),  , AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:,  , CRM Number,  ,  , CRM Name,  ,  , CRT,  ,  , CRM17621,  ,  , RIO/EQU-SAOPAULO/MSFT 100GB S001,  ,  , CRT-000687,  ,  , CRM18032,  ,  , RIO/EQU-SAOPAULO/MSFT 100GB S002,  ,  , CRT-000961,  ,  ,  , RJ2/EQUINIX-SP2/MICROSOFT 100GB S003,  ,  , CRT-005247,  ,  ,  , RJ2/EQU - ASCENTY/MSFT 100GB S001,  ,  , CRT-006050,  ,  ,  ,  ,  , [English], If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com., We would like to apologize for any inconvenience caused by this maintenance to you and your customers. If any additional question appears, do not hesitate to contact us. Our personnel will be permanently available for you.,  , Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018380
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: A schedule work will performed in order to implement network optimization. // Se realizara un trabajo programado con la finalidad de implementar optimizaciones en la red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 10 MIN
+
+LOCATION // LOCALIDAD: RIO ALOG2 y RIO LS
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+16-Feb-2023 14:00 - 16-Feb-2023 22:00 (MAIN)
+
+17-Feb-2023 14:00 - 17-Feb-2023 22:00 (BACKUP 1)
+
+18-Feb-2023 03:00 - 18-Feb-2023 08:00 (BACKUP 2)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRM17621
+
+RIO/EQU-SAOPAULO/MSFT 100GB S001
+
+CRT-000687
+
+CRM18032
+
+RIO/EQU-SAOPAULO/MSFT 100GB S002
+
+CRT-000961
+
+RJ2/EQUINIX-SP2/MICROSOFT 100GB S003
+
+CRT-005247
+
+RJ2/EQU - ASCENTY/MSFT 100GB S001
+
+CRT-006050

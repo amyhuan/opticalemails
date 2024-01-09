@@ -1,0 +1,21 @@
+Planned Work Notification: Master 7745416 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Ireland, Dublin between 2023-10-30 02:00:00 - 2023-10-30 06:00:00 GMT. Please see details of the work and impact on your service below.
+
+Detail:
+Start	2023-10-30 02:00:00 GMT
+End	2023-10-30 06:00:00 GMT
+Location	Ireland, Dublin
+Planned work Reason:
+Maintenance on our IP platform related to Junos software upgrade
+
+Child Tickets	Services Affected	SLID/CCSD	CPON / Client Item Label	Service Type	Expected Impact to your Service	Site Address
+7747137	03110-013-01	03110-013-01		IP Transit	90 min	4027 Kingswood Rd,Unit 4027 Kingswood Road,Cheevestown,99999,Ireland
+7747157	GTT/001940329	1666671-9395438		IP Transit	90 min	4027 KINGSWOOD RD, CITY WEST BUSINESS CAMPUS,DUBLIN,IE,D24,Ireland
+7747155	GTT/002217834	1884072-10549544		IP Transit	90 min	Unit 4027 Kingswood Road,City West Business Campus Saggart,Dublin,D24,Ireland
+7747153	GTT/002217835	1884073-10549546		IP Transit	90 min	Unit 4027 Kingswood Road,City West Business Campus Saggart,Dublin,D24,Ireland
+
+Comments (Color explanation) :
+Service interruption	Service will experience interruption lasting maximum the duration value in the service row
+Resiliency Loss	Primary or backup circuit will be impacted only. Service will remain operational throughout the maintenance
+Non-Service Affecting	No Service is affected. Service will remain operational throughout the maintenance
+If you have any questions regarding the planned work, please login to EtherVision or contact our Change

@@ -1,0 +1,37 @@
+Dear Sirs // Dear Sirs,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Below you will find our Scheduled Work Notification:
+
+NOTIFICATION NUMBER // NOTIFICATION NUMBER: SWX0020390
+
+NOTIFICATION TYPE // NOTIFICATION TYPE: Normal
+
+DESCRIPTION // DESCRIPTION: A scheduled work willl be performed in order to test switching. Scheduled work will be performed for the purpose of switching tests.
+
+SERVICE IMPACT // IMPACT ON SERVICES: 50 MS SWITCH HITS
+
+LOCATION // LOCATION: Puerto San José - Lurin, Guatemala - Peru
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+25-Aug-2023 06:00 - 25-Aug-2023 11:00 (MAIN WINDOW)
+
+26-Aug-2023 06:00 - 26-Aug-2023 11:00 (BACKUP WINDOW)
+
+AFFECTED CIRCUITS // AFFECTED CIRCUITS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009823
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S006
+
+CRT-009824

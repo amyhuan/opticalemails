@@ -1,0 +1,133 @@
+Date:                        	25-May-2023
+Customer:    	MICROSOFT OPERATIONS PTE LTD
+Attention:	Azure Network Operations Center,Adeline Ng,Imelda Yang . ,Optical DRI,Niall Toh
+Email:	moc@microsoft.com,Adeline.Ng@microsoft.com,imyang@microsoft.com,opticalDRI@microsoft.com,nialltoh@microsoft.com
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000142273
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	DN0658905
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	21 DEFU AVENUE 1 MAIN SINGAPORE
+ 
+2. Circuit:	DN0658907
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	21 DEFU AVENUE 1 MAIN SINGAPORE
+ 
+3. Circuit:	DN0658923
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+4. Circuit:	DN0658928
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+5. Circuit:	DN0658931
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+6. Circuit:	DN0658933
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+7. Circuit:	DN0658935
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+8. Circuit:	DN0658938
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+9. Circuit:	DN0658940
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+10. Circuit:	DN0658942
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+11. Circuit:	DN0658973
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+12. Circuit:	DN0658975
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+13. Circuit:	DN0658979
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+14. Circuit:	DN0658982
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+15. Circuit:	DN0658984
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+16. Circuit:	DN0658998
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+17. Circuit:	DN0659005
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+18. Circuit:	DN0659030
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+Date/ Time 1 (SGT):	10-Jun-2023 00:00 - 10-Jun-2023 06:00
+Date/ Time 1 (UTC):	09-Jun-2023 16:00 - 09-Jun-2023 22:00
+ 
+Impact :	The circuit will be down during the entire maintenance window.
+ 
+Reason :	To facilitate the diversion of fiber away from railway company road work activities vicinity. This is part of SingTel's ongoing effort in providing a stable network to our customers.
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)

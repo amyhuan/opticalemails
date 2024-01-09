@@ -1,0 +1,48 @@
+Dear Team,
+ 
+Below you can find more details about services affected by maintenance works.
+Service ID: Microsoft.4
+Description: Transit Global  DC Equinix (Microsoft)
+Service Type: Internet - Transit.Global
+Bandwith: 10000,0 Mb
+
+vlan-id: 933  
+
+IP Addresses: 193.111.37.132/30
+    Atman: 193.111.37.133
+   CUSTOMER: 193.111.37.134
+DNS:  dns.atman.pl (217.17.34.10),  dns2.atman.pl (217.17.34.68)
+
+ASN:   24724
+
+Demarcation Point A:n
+localization: w13z-LIM3pcentrala, LIM Center, ul. Aleje Jerozolimskie 65/79 Warszawa, 3 piętro, centrala 
+rack: w13z-c
+patch panel: w13z-c-s2
+port: 36
+
+---------------------------------
+
+Service ID: Microsoft.5
+Description: DC WAW-2 szafa Microsoft
+Service Type: Internet - Transit.Global
+Bandwith: 10000,0 Mb
+
+vlan-id: 936  
+
+IP Addresses: 193.111.37.184/30
+    Atman: 193.111.37.185
+   CUSTOMER: 193.111.37.186
+DNS:  dns.atman.pl (217.17.34.10),  dns2.atman.pl (217.17.34.68)
+
+ASN:   24724
+
+Demarcation Point A:n
+localization: w13bb-LIM-2_b2029, LIM Center, ul. Aleje Jerozolimskie 65/79 Warszawa, Equinix room b2 029, level -2 
+rack: w13bb-B2029.05
+patch panel: w13bb-B2029.05-Shelf6
+port: 3.1 3.2
+
+
+ 
+Z poważaniem / Best Regards,

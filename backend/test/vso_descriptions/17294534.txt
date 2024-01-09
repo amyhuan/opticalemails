@@ -1,0 +1,35 @@
+Dear Customer,
+
+Please be aware we need to carry out essential maintenance which will affect the service we provide you as follows:
+
+Maintenance Ref CHG0071726
+
+
+ 
+Planned Start Date:	24/03/2023	Planned Start Time:	22:00
+Planned End Date:	25/03/2023	Planned End Time:	04:00
+Outage Start Date:	24/03/2023	Outage Start Time:	22:00
+Outage End Date:	25/03/2023	Outage End Time:	04:00
+
+Schedule Advised is Local UK Time
+
+Maintenance activity:
+Please be advised of engineering works required on our transmission platform to resolve fault INC0031486 - NEOS BRADSK-WSS-52 SHELF Shelf:53 Member Shelf Unknown Ciena C10591684 To rectify this, we have arranged for engineers to attend site to carry out further investigations and effective repair under controlled change activity to ensure fault is resolved in a timely manner, the network will be monitored throughout via the NOC who will work in conjunction with all teams on site and external. Outage work will not commence until post 23:00. Though a large outage window has been specified, it is not expected that the whole window will be required, and the engineer will endeavour to complete as quickly as possible. We apologise for any inconvenience that this may cause and thank you for your support in this resolution.  
+
+Services affected:
+
+Circuit Ref	Service/Product	Customer ref	Job No	Status	A end location	B end location	Impact*
+IDN146864GIG100			110702 3	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN146863GIG100			110702 2	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN146862GIG100			110702 1	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN146865GIG100			110702 4	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+
+
+Impact*
+Affected	Services marked "Affected" will be subject to an outage during the times specified in the outage window and should be considered "At risk" for the remainder of the maintenance window
+At Risk	Services have been deemed "At Risk" for the duration of the maintenance window
+
+If you have any queries please reply to this mail or contact us on +44 (0) 3453 053337
+ 
+
+* Schedule Advised is Local UK Time

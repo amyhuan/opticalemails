@@ -1,0 +1,42 @@
+Vodafone E2E Service Change Management
+
+Planned Maintenance Notice
+
+ 
+
+Dear MICROSOFT,
+
+Please see below details of Planned Works: CRQ000001183501
+
+Detailed Description of Works:
+
+Vodafone are carrying out the software upgrade on the Juniper MX960 platform Milano Via Caldera.
+This includes the core network router that provides your internet access service. Due to this work you will experience a downtime of up to 30 minutes during the maintenance window.
+Please accept our apologies for any inconvenience this may cause.
+
+Scheduled Start/End Date & Outage Window:
+
+30/03/2023 21:00 to 31/03/2023 03:00 UTC
+
+Impact Assessment:
+
+There will be a loss of service of up to 30 minutes to all services during the outage window
+
+Fall Back Plan:
+
+Within the window times, we will have regression time accounted for to ensure that if new any issues are found after the upgrade we are then able to downgrade the router and restore customer service back to the original software release.
+
+
+
+Services Impacted:
+
+
+Services Affected	Customer	Service Impact	Address	Service Type	Service Model	Customer Reference	Node
+K0519039A	MICROSOFT	Loss of Service	J'PER MX960 XCR1.MLU RK 8,21,VIA CALDERA,MILAN,*IT >>> MICROSOFT@CALDERA MILAN N04,21,VIA CALDERA,MILAN,*IT	/ 100GE	N/A	N/A	MILN04MC1 <> MILN0451Z
+
+
+
+For any questions or concerns regarding this maintenance please contact Vodafone E2E Service Change Management using the email address below. If your service remains affected upon the conclusion of the planned maintenance window provided, please contact the appropriate Vodafone Service Desk to report a fault.
+
+Best regards
+E2E Service Change Management

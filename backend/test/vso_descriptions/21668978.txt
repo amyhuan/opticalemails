@@ -1,0 +1,42 @@
+Dear Customer ,
+This is informed to you that we are observing errors on the fiber connecting hardware of our equipment at GPX2 node , therefore we are planning to replace the hardware in the below Maintenace window .We are kindly requesting you to review and approve the activity.
+
+
+
+Impact -Service affecting
+MW- 10-05-2023 00:00hrs to 05:00hrs
+Backup MW-11-05-2023 00:00hrs to 05:00hrs
+
+
+Please find Microsoft XC ID, Order ID & Link ID below
+
+
+
+Order ID	Microsoft Cross Connect ID	Link ID A End	Site Code	Link ID B End	Site Code
+111097944	22298161 	2022156829	1 - BOM32	2022156830	1 - PNQ21
+111098348	22298078 	2022157830	2 - BOM32	2022157833	2 - PNQ21
+111098349	22363627	2022157834	3 - BOM32	2022157835	3 - PNQ21
+111098350	22363628	2022157839	4 - BOM32	2022157840	4 - PNQ21
+111098351	22408164	2022157842	5 - BOM32	2022157851	5 - PNQ21
+111098352	22408165	2022157853	6 - BOM32	2022157855	6 - PNQ21
+111098353	22412814	2022157856	7 - BOM32	2022157857	7 - PNQ21
+111098354	22412815	2022157860	8 - BOM32	2022157861	8 - PNQ21
+
+
+Thanks & Regards
+
+MUGUNDHAN
+
+GNOC
+
+
+Sify Technologies Limited-Chennai, India
+
+Email - netopstx@sifycorp.com/TX.NOC@sifycorp.com
+
+Board - 044-66235600(Direct) Extn-1414/1416/1418/1419
+
+
+DISCLAIMER: The information contained in this electronic message and any attachments to this message are intended for the exclusive use of the addressee(s) and may contain proprietary, confidential or privileged information. If you are not the intended recipient, you should not disseminate, distribute or copy this e-mail. Please notify the sender immediately and destroy all copies of this message and any attachments. Please note that intercepting or any unauthorized use of this message or any attachment can be treated as infringement of person’s right of privacy under the Human Rights Act 1993 and also is a Criminal Offence under the Information and Technology Act, 2008.
+
+WARNING: Computer viruses can be transmitted via email. The recipient should check this email and any attachments for the presence of viruses. The company accepts no liability for any damage caused by any virus transmitted by this email. Thank you for your cooperation.

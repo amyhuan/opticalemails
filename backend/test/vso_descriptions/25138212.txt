@@ -1,0 +1,30 @@
+Start Time (PST): 9/14/2023 9:00:00 PM
+End Time (PST): 9/15/2023 3:00:00 AM
+Maintenance Length: 6 Hours
+Location: ASBNVA38W115IAMS1635 <-> GSVLVAAYMNZ3IAMS1637
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Replacing a section of cable NVADF052-Span117-01 Microsoft, NVADF052-Span117-02 Microsoft, NVADF052-Span117-03 Microsoft, NVADF052-Span117-04 Microsoft, NVADF052-Span117-05 Microsoft, NVADF052-Span117-06 Microsoft, NVADF052-Span117-07 Microsoft, NVADF052-Span117-08 Microsoft, NVADF052-Span189T-001 Microsoft, NVADF052-Span189T-002 Microsoft, NVADF052-Span189T-003 Microsoft, NVADF052-Span189T-004 Microsoft, NVADF052-Span193T-001 Microsoft, NVADF052-Span193T-002 Microsoft, NVADF052-Span193T-003 Microsoft, NVADF052-Span193T-004 Microsoft, NVADF052-Span197T-001 Microsoft, NVADF052-Span197T-002 Microsoft, NVADF052-Span197T-003 Microsoft, NVADF052-Span197T-004 Microsoft, NVADF052-Span20-001 Microsoft, NVADF052-Span20-002 Microsoft, NVADF052-Span20-003 Microsoft, NVADF052-Span20-004 Microsoft, NVADF052-Span20-005 Microsoft, NVADF052-Span20-006 Microsoft, NVADF052-Span20-007 Microsoft, NVADF052-Span20-008 Microsoft, NVADF052-Span20-009 Microsoft, NVADF052-Span20-010 Microsoft, NVADF052-Span226-001 Microsoft, NVADF052-Span226-002 Microsoft, NVADF052-Span226-003 Microsoft, NVADF052-Span226-004 Microsoft, NVADF052-Span226-005 Microsoft, NVADF052-Span226-006 Microsoft, NVADF052-Span24-001 Microsoft, NVADF052-Span24-002 Microsoft, NVADF052-Span24-003 Microsoft, NVADF052-Span24-004 Microsoft, NVADF052-Span24-005 Microsoft, NVADF052-Span24-006 Microsoft, NVADF052-Span24-007 Microsoft, NVADF052-Span24-008 Microsoft, NVADF052-Span24-009 Microsoft, NVADF052-Span24-010 Microsoft, NVADF052-Span26-001 Microsoft, NVADF052-Span26-002 Microsoft, NVADF052-Span26-003 Microsoft, NVADF052-Span26-004 Microsoft, NVADF052-Span26-005 Microsoft, NVADF052-Span26-006 Microsoft, NVADF052-Span26-007 Microsoft, NVADF052-Span26-008 Microsoft, NVADF052-Span26-009 Microsoft, NVADF052-Span26-010 Microsoft, NVADF052-Span26-011 Microsoft, NVADF052-Span26-012 Microsoft, NVADF052-Span26-013 Microsoft, NVADF052-Span26-014 Microsoft, NVADF052-Span26-015 Microsoft, NVADF052-Span26-016 Microsoft, NVADF052-Span26-017 Microsoft, NVADF052-Span26-018 Microsoft, NVADF052-Span26-019 Microsoft, NVADF052-Span26-020 Microsoft, NVADF052-Span26-021 Microsoft, NVADF052-Span26-022 Microsoft, NVADF052-Span26-023 Microsoft, NVADF052-Span26-024 Microsoft, NVADF052-Span26-025 Microsoft, NVADF052-Span26-026 Microsoft, NVADF052-Span28-001 Microsoft, NVADF052-Span28-002 Microsoft, NVADF052-Span28-003 Microsoft, NVADF052-Span28-004 Microsoft, NVADF052-Span28-005 Microsoft, NVADF052-Span28-006 Microsoft, NVADF052-Span28-007 Microsoft, NVADF052-Span28-008 Microsoft, NVADF052-Span28-009 Microsoft, NVADF052-Span28-010 Microsoft, NVADF052-Span28-011 Microsoft, NVADF052-Span28-012 Microsoft, NVADF052-Span28-013 Microsoft, NVADF052-Span28-014 Microsoft, NVADF052-Span28-015 Microsoft, NVADF052-Span28-016 Microsoft, NVADF052-Span28-017 Microsoft, NVADF052-Span28-018 Microsoft, NVADF052-Span43-01 Microsoft, NVADF052-Span43-02 Microsoft, NVADF052-Span43-03 Microsoft, NVADF052-Span43-04 Microsoft, NVADF052-Span43-05 Microsoft, NVADF052-Span43-06 Microsoft, NVADF052-Span48-01 Microsoft, NVADF052-Span48-02 Microsoft, NVADF052-Span48-03 Microsoft, NVADF052-Span48-04 Microsoft, NVADF052-Span48-05 Microsoft, NVADF052-Span48-06 Microsoft, NVADF052-Span48-07 Microsoft, NVADF052-Span48-08 Microsoft, NVADF052-Span48-09 Microsoft, NVADF052-Span48-10 Microsoft, NVADF052-Span48-11 Microsoft, NVADF052-Span48-12 Microsoft, NVADF052-Span48-13 Microsoft, NVADF052-Span48-14 Microsoft, NVADF052-Span48-15 Microsoft, NVADF052-Span48-16 Microsoft
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+MSIT Circuit Impacts
+
+MSFT-BL7C-BLUC-MSIT-0008-0::100GBE-1
+MSFT-BL7C-BLUC-MSIT-0009-0::100GBE-1
+MSFT-BL7C-BLUC-MSIT-0010-0::100GBE-1
+
+MSCG Circuit Impacts
+
+MSFT-BL7C-BLUC-MSCG-0002-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0003-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0004-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0005-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0006-0::100GBE-1
+MSFT-BL7C-BLUC-MSCG-0007-0::100GBE-1

@@ -1,0 +1,43 @@
+Planned Work Notification
+
+Service ID
+
+All ccts to Singapore via AAE1
+
+IPL004401
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+AAE1
+
+ 
+
+Activity Window (GMT)
+
+01:00 GMT to 10:00 GMT/ 04th July 2023
+
+Nature
+
+Non Service Affecting
+
+Expected Impact Duration(DD:HH:MM) :
+
+Switching hits plus protection loss
+
+ 
+
+Activity Description
+
+PW to rectify fiber degradation issue at Taiping- Kuala Kangsar in Taiping –Ipoh (TPG-IPH) span within Segment L.1. Services will be running via Sub-Segments L.2.
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,

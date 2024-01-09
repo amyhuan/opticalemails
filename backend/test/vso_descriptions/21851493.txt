@@ -1,0 +1,56 @@
+Scheduled Maintenance #: 26584879
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a fiber maintenance activity and is required in order to proactively avoid unplanned outages.
+
+The estimated GPS location of work is: 32.574720, -96.805385; 32.569328, -96.805362
+
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 4 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 6 hours during the maintenance window.
+
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-05-10 13:48:49 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26584879-1
+
+Start	End
+2023-05-31 05:00 GMT (Greenwich Mean Time)	2023-05-31 11:00 GMT (Greenwich Mean Time)
+2023-05-31 00:00 CDT (Central Daylight Time)	2023-05-31 06:00 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): WAXAHACHIE, TX USA; FORT WORTH, TX USA; DALLAS, TX USA; Lancaster UNITED STATES; Lancaster UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORP	ETH100-17650052	N/A	5MBPS	999 WESTOVER HLS SAN ANTONIO TX USA	 	Outage	4 minutes	 
+MICROSOFT CORP	ETH1000-23735803	N/A	10MEG	9554 WESTOVER HILLS BLVD SAN ANTONIO TX USA	 	Outage	4 minutes	 
+MICROSOFT CORP	ETH100-17509023	N/A	5MBPS	3823 WISEMAN BLVD SAN ANTONIO TX USA	 	Outage	4 minutes	 
+Alternate Night:
+26584879-2
+
+Start	End
+2023-06-01 05:00 GMT (Greenwich Mean Time)	2023-06-01 11:00 GMT (Greenwich Mean Time)
+2023-06-01 00:00 CDT (Central Daylight Time)	2023-06-01 06:00 CDT (Central Daylight Time)
+
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

@@ -1,0 +1,56 @@
+Dear Customer,,  ,  ,  , Please be informed that we had to postpone the work until tomorrow due to some technical problems. Please let me know if this poses a problem for you.,  ,  ,  , We seek your understanding and apologize for any inconvenience.,  ,  ,  , Ticket Begin Time,  ,  , 26/04/2023 22:00:00,  ,  , Ticket End Time,  ,  , 27/04/2023 04:00:00,  ,  , Time Zone,  ,  , GMT + 1,  ,  ,  , Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230420115203 ticket number has been opened.
+
+Details
+Ticket Number	wt 230420115203
+Status	INPROG
+Level	3
+Ticket Begin Time	25/04/2023 22:00:00
+Ticket End Time	26/04/2023 04:00:00
+Time Zone	GMT + 1
+Description	There will be planned a maintenance on our network which will affect your service. REASON: Cable routing quality improvement OUTAGE: All time period ß 
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35839a.100ge*fra-ist /comment: (SupplierId:WL085765 )
+msn35838a.100ge*fra-ist /comment: (SupplierId:WL085764 )
+msn35837a.100ge*fra-ist /comment: (SupplierId:WL085763 )
+msn35836a.100ge*fra-ist /comment: (SupplierId:WL085762 )
+msn35835a.100ge*fra-ist /comment: (SupplierId:WL085761 )
+msn35834a.100ge*fra-ist /comment: (SupplierId:WL085750 )
+msn35833a.100ge*vie-ist /comment: (SupplierId:WL085760 )
+msn35832a.100ge*vie-ist /comment: (SupplierId:WL085759 )
+msn35831a.100ge*vie-ist /comment: (SupplierId:WL085758 )
+msn35830a.100ge*vie-ist /comment: (SupplierId:WL085757 )
+msn35829a.100ge*vie-ist /comment: (SupplierId:WL085756 )
+msn35828a.100ge*vie-ist /comment: (SupplierId:WL085755 )
+msn35827a.100ge*vie-ist /comment: (SupplierId:WL085754 )
+msn35826a.100ge*vie-ist /comment: (SupplierId:WL085753 )
+msn35825a.100ge*vie-ist /comment: (SupplierId:WL085752 )
+msn35824a.100ge*vie-ist /comment: (SupplierId:WL085747 )
+msn35906a.100ge*fra-ist /comment: (SupplierId:WL085778 )
+msn35905a.100ge*fra-ist /comment: (SupplierId:WL085777 )
+msn35904a.100ge*fra-ist /comment: (SupplierId:WL085776 )
+msn35903a.100ge*fra-ist /comment: (SupplierId:WL085775 )
+msn35902a.100ge*fra-ist /comment: (SupplierId:WL085774 )
+msn35901a.100ge*fra-ist /comment: (SupplierId:WL085773 )
+msn35900a.100ge*fra-ist /comment: (SupplierId:WL085772 )
+msn35899a.100ge*fra-ist /comment: (SupplierId:WL085771 )
+msn35898a.100ge*fra-ist /comment: (SupplierId:WL085770 )
+msn35897a.100ge*fra-ist /comment: (SupplierId:WL085751 )
+msn35843a.100ge*fra-ist /comment: (SupplierId:WL085769 )
+msn35842a.100ge*fra-ist /comment: (SupplierId:WL085768 )
+msn35841a.100ge*fra-ist /comment: (SupplierId:WL085767 )
+msn35840a.100ge*fra-ist /comment: (SupplierId:WL085766 )
+msn34964a.100ge*fra-ist /comment: (SupplierId:WL079712 )
+msn33649b.100ge*fra-ist /comment: (SupplierId:WL074837 )
+msn33648b.100ge*fra-ist /comment: (SupplierId:WL074836 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

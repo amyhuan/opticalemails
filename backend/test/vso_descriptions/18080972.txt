@@ -1,0 +1,14 @@
+Dear Sirs,
+
+With this notification we would like to send you our cordial greetings and, at the same time, we would like to notify you of a scheduled work.
+
+Work ID	Description	Start	End	Impact
+CRQ000001140387	NTE–Provider	2023-04-21 04:00:00 (GMT)	2023-04-21 12:00:00 (GMT)	5 min
+Affected Circuits:
+
+Id	Customer	Device	Interface	IP	AS
+ITS-0001050191 - GRTVAPEM4 - et-14/0/0 - IPv4	Microsoft	GRTVAPEM4	et-14/0/0	84.16.7.101	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4	Microsoft	GRTVAPEM1	ae70	84.16.7.79	8075
+For further information or concerns regarding this maintenance, please do not hesitate to contact us.
+
+Best regards.

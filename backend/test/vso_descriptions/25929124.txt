@@ -1,0 +1,71 @@
+[EXTERNAL] NetNam-Maintenance | 22/11/2023 | Netnam Planned Maintenance Notification
+phu.dc 
+​
+Internet Operations Center
+​
+​
+net@netnam.vn
+​
+You don't often get email from phu.dc@netnam.vn. Learn why this is important
+Dear Microsoft,
+
+Please be advised of the following Maintenance activity as below:
+
+Details:
+
+Start Time: 2023-11-22 09:00:00 +7 UTC
+End Time: 2023-11-22 17:30:00 +7 UTC
+Duration: 3h10m0s
+Microsoft ASN
+
+8075
+
+Microsoft Neighbor Address(es) IPv4
+
+101.53.57.7
+
+101.53.57.5
+
+Microsoft Neighbor Address(es) IPv6
+
+2401:e800:8000:1::9
+
+2401:e800:8000:1::7
+
+
+NetNam ASN
+
+24173
+
+NetNam Neighbor Address(es) IPv4
+
+101.53.57.6/31
+
+101.53.57.4/31
+
+NetNam Neighbor Address(es) IPv6
+
+2401:e800:8000:1::8/127
+
+2401:e800:8000:1::6/127
+
+
+- Related circuit(s)ID:
+MSFT-CAS-108457-H8D4F5
+MSFT-CAS-108456-W4H4Q4
+--
+Thanks & Best Regards,
+
+Dao Cong Phu (Mr.) | Network Dept
+
+NETNAM CORPORATION
+
+3-4th Floor, 10A Nguyen Thi Minh Khai Str, District 1, HCMC, Vietnam
+
+(T)+84-77-361 8525 Ext 241, (E) phu.dc@netnam.vn
+
+NetNam - one of the best ISPs and Solutions Providers in Vietnam,
+
+specialized in corporate networks, managed services & security solutions.
+
+Your Net, We Care!

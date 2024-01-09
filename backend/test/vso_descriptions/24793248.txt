@@ -1,0 +1,72 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance Activity by ILD Service provider, which is scheduled on Friday 11th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                   :     CRQ000003322266
+
+         
+
+Scheduled Date                            :     Friday 11th August 2023
+
+
+Maintenance Window                    :     22:00 UTC on 11-08-2023 to 05:00 UTC on 12-08-2023
+
+ 
+
+Activity                                        :     Emergency maintenance for OLO EXA to investigate a degradation on the MRS AIX fiber span
+
+         
+
+Benefit of Change                         :     To avoid unplanned outage in near future
+
+
+Impact                                         :     Non-Service Affecting
+                           
+Duration of Impact                        :     Circuit will get switching hits during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit id
+
+Customer name
+
+14211010
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards?
+
+Arpit Gangwar
+
+7303874360
+
+Change_Management
+
+(Bharti Airtel)
