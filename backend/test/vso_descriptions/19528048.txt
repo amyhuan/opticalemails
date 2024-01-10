@@ -1,0 +1,28 @@
+Dear Customer,
+
+Planned Maintenance has been scheduled that will impact your service.We are unable to provide 14 calendar days notice.Telstra wishes to apologise for the short notice and any inconvenience caused.
+
+This is an iCal notification for Telstra Planned Maintenance PN300844,which will insert a placeholder in your calendar as a reminder.This is for your convenience and information only, so no response from you is required.
+
+ To                                 : Microsoft Corporation (USA)
+
+Attention                       : moc, activations, Erik.Miller, F1800872
+
+Change Reference         : PN300844
+
+Maintenance Window   : 05/05/2023 14:00:00(UTC) to 05/05/2023 20:00:00(UTC)
+
+Expected Impact            : 1 hour outage within the change window
+
+Maintenance Details      :
+
+TEC/AAG FP3 Event Notification 2023050500 (INC000103333340) - MW#3
+
+Please be advised that we plan to migrate and upgrade on Telstra Endeavour MW#3.
+
+Service(s) Impacted       : SCA SYD EPL 9601000
+                                         SCA SYD EPL 9774722
+                                         SCA SYD EPL 9822118
+                                         SCA SYD EPL 9926103
+
+Please email gpen@team.telstra.com If you have any questions, comments or concerns regarding this maintenance activity. We aim to answer your query within 24 hours, Monday through to Friday (01:00 - 16:30 UTC) and answer all emails in the order they are received, please avoid sending chaser emails as these will be answered after your initial query and only delays responses. For urgent queries or requests, please Call Global 800: +800 8448 8888* or direct: +852 3192 7420

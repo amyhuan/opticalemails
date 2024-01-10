@@ -1,0 +1,25 @@
+Dear microsoft,
+
+The following maintenance has been scheduled as below.
+
+If you have any questions, please contact us.
+
+
+
+====================================================
+a. Date : 2023-03-26 00:00 ~ 06:00 [KST]
+b. Circuit : 500215016907 (Pyeongchon Mega Center - MS Busan Autonomous Center/100 G)
+              500215016908 (Pyeongchon Mega Center - MS Busan Autonomous Center/100 G)
+
+              500215016909 (Pyeongchon Mega Center - MS Busan Autonomous Center/100 G)
+              500215016910 (Pyeongchon Mega Center - MS Busan Autonomous Center/100 G)
+              500215016978 (KT MOK-DONG2 - LG CNS Mieum/100 G)
+
+              500252559291 (LGUPLUS - MS Busan Center /100 G)
+              500252559292 (LGUPLUS - MS Busan Center /100 G)
+              500252559293 (LGUPLUS - MS Busan Center /100 G)
+              500252588303 (LGUPLUS - MS Busan Center /100 G)
+c. Expected outage : switch hit
+d. Reason of outage : relocation of the optical cable
+
+E. Emergency Contact: (+82-2-2089-8284) & qadesk@lguplus.co.kr

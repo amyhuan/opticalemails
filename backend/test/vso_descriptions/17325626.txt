@@ -1,0 +1,28 @@
+Dear Equinix Customer,
+
+DATE: 18-MAR-2023
+
+SPAN: 18-MAR-2023 - 18-MAR-2023
+
+LOCAL: SATURDAY, 18 MAR 00:01 - SATURDAY, 18 MAR 05:00
+UTC: SATURDAY, 18 MAR 07:01 - SATURDAY, 18 MAR 12:00
+
+IBX(s): CH1,SE3
+
+DESCRIPTION:Please be advised that an Equinix upstream provider will perform a planned maintenance activity between CH1 and SE3 Metro.
+
+Your services might experience an increase in latency, but there will be no impact on your services as traffic is automatically rerouted to our alternate backbone links.
+
+PRODUCTS: EQUINIX FABRIC
+
+IMPACT: Traffic will be re-routed
+
+20334776-A
+20334775-A
+18560213-A
+18006681-A
+22422760
+20263750
+20263751
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.

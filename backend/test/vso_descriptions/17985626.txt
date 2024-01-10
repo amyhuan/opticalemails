@@ -1,0 +1,64 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1634339
+
+
+Rescheduled from: CHG1632135                                
+
+Work Start Date/Time:  21-04-2023 02:01:00 AEST
+
+Work End Date/Time:     25-04-2023 22:00:00 AEST
+      
+
+Location:            Perth - Singapore
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+The integration of the ASC to the new Darwin Jakarta Singapore Cable system is planned to take place during the rescheduled window of the 21st to 25th April 2023. The work needed to be postponed to these new dates due to Cyclone Ilsa. As was previously indicated, the precise date and time is not able to be easily predicted, as there are many variables experienced by the cable laying ship; including weather and ocean currents. The purpose of this hazardous change notification is to let you know the window of this activity. We do not expect any impact to services during this 5-day change window, but wanted to let you know in advance of the activity being undertaken on the ASC system.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VWE283019	Vocus Wavelength (AUD)
+VWE296992	Vocus Wavelength (AUD)
+VWE268037	Vocus Wavelength (AUD)
+VWE283020	Vocus Wavelength (AUD)
+VWE268036	Vocus Wavelength (AUD)
+VWE296987	Vocus Wavelength (AUD)
+VWE178005	Vocus Wavelength (AUD)
+VWE189513	Vocus Wavelength (AUD)
+VWE297072	Vocus Wavelength (AUD)
+VWE189515	Vocus Wavelength (AUD)
+VWE178006	Vocus Wavelength (AUD)
+VWE297017	Vocus Wavelength (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

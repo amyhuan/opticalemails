@@ -1,0 +1,50 @@
+Scheduled Maintenance #: 27335961
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to repair fiber and is required in order to avoid unplanned outages from damages related to a previous fiber incident.
+The estimated GPS location of work is at 77 Bryant Avenue in Westchester, NY LAT: 41.06360 LONG: -73.80855
+The maintenance consists of multiple nights and customers will only receive notification for the night their services will be impacted.
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-08-22 18:55:41 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27335961-1
+
+Start	End
+2023-09-13 04:00 GMT (Greenwich Mean Time)	2023-09-13 10:00 GMT (Greenwich Mean Time)
+2023-09-13 00:00 EDT (Eastern Daylight Time)	2023-09-13 06:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): NEW YORK, NY USA; STAMFORD, CT USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	444156293	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156295	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444805611	N/A	100 GIG	BOSTON MA USA	NEWARK NJ USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444805600	N/A	100 GIG	BOSTON MA USA	NEWARK NJ USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156299	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156288	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156296	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156298	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156297	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	444156294	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber54	BBGL4646 - FIBER-2	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber53	BBGL4646 - FIBER-1	FIBER	 	 	Outage	4 hours	 
+27335961-3
+
+Start	End
+2023-09-15 04:00 GMT (Greenwich Mean Time)	2023-09-15 10:00 GMT (Greenwich Mean Time)
+2023-09-15 00:00 EDT (Eastern Daylight Time)	2023-09-15 06:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): NEW YORK, NY USA; STAMFORD, CT USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	Fiber127	BBGL4649 - FIBER-1	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	Fiber128	BBGL4649 - FIBER-2	FIBER	 	 	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442860305	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442860307	N/A	100 GIG	NEWARK NJ USA	BOSTON MA USA	Outage	4 hours

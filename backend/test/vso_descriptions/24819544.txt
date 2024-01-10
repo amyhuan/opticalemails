@@ -1,0 +1,47 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1660620
+
+
+Work Start Date/Time:  30-08-2023 00:00:01 AEST
+
+Work End Date/Time:     30-08-2023 06:00:01 AEST
+      
+
+Location:            Millmerran, QLD
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 1 Hour
+ 
+
+Description of Work:  
+
+ 
+
+Planned Fibre works, the listed services will experience a break during the change window.
+
+ 
+
+Services List: 
+
+
+Service	Product	Site-A Address	Site-B Address
+VWE190179	Vocus Wavelength (AUD)	20 Wharf St, Brisbane City QLD 4000, Australia	90 Peter Brock Drive, Eastern Creek Nsw
+VCT271377	IP Transit (AS4826)		Burraway Rd, Brocklehurst NSW 2830, Australia
+VWE190177	Vocus Wavelength (AUD)	20 Wharf St, Brisbane City QLD 4000, Australia	90 Peter Brock Drive, Eastern Creek Nsw
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288.

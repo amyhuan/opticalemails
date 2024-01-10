@@ -1,0 +1,36 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006725562
+
+Urgency: Planned
+
+Date Notice Sent: 16-May-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+06-Jun-2023 22:00 to 07-Jun-2023 05:00 ( Central )
+07-Jun-2023 03:00 to 07-Jun-2023 10:00 ( GMT )
+
+2nd Activity Date
+07-Jun-2023 22:00 to 08-Jun-2023 05:00 ( Central )
+08-Jun-2023 03:00 to 08-Jun-2023 10:00 ( GMT )
+
+3rd Activity Date
+08-Jun-2023 22:00 to 09-Jun-2023 05:00 ( Central )
+09-Jun-2023 03:00 to 09-Jun-2023 10:00 ( GMT )
+
+Location of Maintenance: Lexington Ave S & Gemini Rd, Eagen, MN
+
+Reason for Maintenance: Full Case audit
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/266111//ZYO	No Expected Impact	6875 Shady Oak Rd Eden Prairie, MN. USA	511 11th Ave S Minneapolis, MN. USA	
+OQYX/266113//ZYO	No Expected Impact	6875 Shady Oak Rd Eden Prairie, MN. USA	511 11th Ave S Minneapolis, MN. USA

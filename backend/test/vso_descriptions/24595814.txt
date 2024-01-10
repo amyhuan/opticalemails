@@ -1,0 +1,33 @@
+Customer Name
+
+Microsoft
+
+Reference
+
+Vodafone Reference Number: INC000075125609
+
+Circuit ID:   
+
+MSAWDMMV2MUM001U
+
+MSAWDMMV2MUM002U
+
+Service Type: DWDM
+
+Summary:
+
+Please be informed that our International carrier partner is performing maintenance activity work on their network.
+
+This action is very important to be proceed in order to provide you stable services and avoid uncontrolled outage.
+
+Impact:
+
+Impact analysis shows that during the activity the services may face Switching Hit. during the maintenance window.
+
+This activity is mandatory to be performed to ensure the service stability
+
+Change Activity Window:
+
+Start Time:  05/August/2023 04:00 QLT
+
+End Time:   05/August/2023 16:00 QLT

@@ -1,0 +1,67 @@
+Dear ALL,
+ 
+
+Please take notice that our partner will perform maintenance work as below: 
+
+ 
+
+Event Type
+
+To facilitate the diversion of fiber away from railway company road work activities
+
+Date and Time
+
+Date Start: 27 AUG 2023 @ 0000 GMT+8 Date End: 27 AUG 2023 @ 0800 GMT+8
+
+Location Description
+
+SINGAPORE
+
+ 
+
+Maintenance Event No.:   
+
+RFC-International_Partner-230815-0003
+
+ 
+
+Possible Outage:
+
+The circuit will be down during the entire maintenance window.
+
+ 
+
+Affected Customers:
+
+ 
+
+Service No
+
+Customer
+
+IE1031381556
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+IE1031371299
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+ 
+
+
+DC Code
+
+
+
+KUL01 to SG3	KUL01	SG3
+
+If you need any assistance during this maintenance work, kindly e-mail to pmw.nmcc@tm.com.my  and quote the PMW No.TM apologizes for any inconvenience caused to you and your customers. We would like to thank you for your cooperation and understanding.
+
+ 
+
+Thank you.
+
+ 
+
+Helmi Khaidir
+
+Workteam Change Management 1,

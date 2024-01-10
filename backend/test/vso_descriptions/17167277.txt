@@ -1,0 +1,39 @@
+Dear Customer,
+
+ 
+
+Please be advised of below Planned Activity for backup window:-
+
+ 
+
+PE Reference
+
+C3916643
+
+PE Category
+
+Planned Maintenance
+
+Description
+
+Our Supplier will be performing Upgrade#4 soft node Mumbai-Penang FP2E Step7 insertion.
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+JIOGIPLMUMSIN0224 / SO6084822091
+
+Start Time
+
+27 February 2023 at 22:00 UTC
+
+End Time
+
+28 February 2023 at 04:00 UTC
+
+Impact
+
+Traffic Affecting

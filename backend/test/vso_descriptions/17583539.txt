@@ -1,0 +1,18 @@
+Action and Reason:,  , Software upgrade of a network device to improve network stability. Work has been moved to start one hour earlier due to daylight savings. , Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC229042
+Action and Reason:	Software upgrade of a network device to improve network stability.
+Location:	Hammarby, Sweden
+
+
+Service Window: PWIC229042.1 primary	Work Status: Confirmed
+Service window start:	2023-04-01 03:00 UTC
+Service window end:	2023-04-01 05:00 UTC
+Impacted Services	
+IC-363195	IP Transit	1 x 2 hours
+
+
+
+Best Regards
+Customer Support Center

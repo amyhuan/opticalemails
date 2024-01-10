@@ -1,0 +1,164 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Saturday ,19th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :      CRQ000003330550
+
+         
+
+Scheduled Date                                :      Saturday ,19th August 2023
+
+
+Maintenance Window                    :      19-08-2023 02:00 UTC to 20-08-2023 08:00 UTC
+
+ 
+
+Activity                                               :     DCW ( ITMC ) || Emergency maintenance for DC West Feed A Low Tension (LT-1 & LT-2) Servicing and 66KV Transformer Oil Leak Rectification Works.
+
+ 
+
+Benefit of Change                            :      To avoid unplanned outage in near future
+
+
+Impact                                               :       Non-Service Affecting
+                           
+Duration of Impact                          :      Below mentioned circuits are HIGH RISK during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit id
+
+Customer Name
+
+13918275
+
+Microsoft Operations Pte Ltd.
+
+13918352
+
+Microsoft Operations Pte Ltd.
+
+14149430
+
+Microsoft Operations Pte Ltd.
+
+14149435
+
+Microsoft Operations Pte Ltd.
+
+14149434
+
+Microsoft Operations Pte Ltd.
+
+14149422
+
+Microsoft Operations Pte Ltd.
+
+14149432
+
+Microsoft Operations Pte Ltd.
+
+14149431
+
+Microsoft Operations Pte Ltd.
+
+14149427
+
+Microsoft Operations Pte Ltd.
+
+14149426
+
+Microsoft Operations Pte Ltd.
+
+14149425
+
+Microsoft Operations Pte Ltd.
+
+14149424
+
+Microsoft Operations Pte Ltd.
+
+14149423
+
+Microsoft Operations Pte Ltd.
+
+14149421
+
+Microsoft Operations Pte Ltd.
+
+14149420
+
+Microsoft Operations Pte Ltd.
+
+14149419
+
+Microsoft Operations Pte Ltd.
+
+14148733
+
+Microsoft Operations Pte Ltd.
+
+14149429
+
+Microsoft Operations Pte Ltd.
+
+14149428
+
+Microsoft Operations Pte Ltd.
+
+13559225
+
+Microsoft Operations Pte Ltd.
+
+13559223
+
+Microsoft Operations Pte Ltd.
+
+13555731
+
+Microsoft Operations Pte Ltd.
+
+12932920
+
+Microsoft Operations Pte Ltd.
+
+13559227
+
+Microsoft Operations Pte Ltd.
+
+13559226
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+Regards?
+
+Arpit Gangwar
+
+7303874360
+
+Change_Management
+
+(Bharti Airtel)

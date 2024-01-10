@@ -1,0 +1,40 @@
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Telstra Planned Maintenance Activity - 3763075
+
+Telstra will perform planned maintenance activity for transmission work - Australia
+
+
+Reference number
+PN302735
+
+
+Start time
+Tuesday, 30 May 2023 13:59:00 (UTC)
+
+
+End time
+Tuesday, 30 May 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 9932644
+LAX SYD EPL 9253854
+LAX SYD EPL 90010963
+LAX SYD EPL 90022024
+LAX SYD EPL 90022027
+LAX SYD EPL 90022030
+LAX SYD EPL 90022021
+
+
+Expected impact
+20 minutes outage during the change window

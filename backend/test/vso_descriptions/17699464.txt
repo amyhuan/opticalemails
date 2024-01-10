@@ -1,0 +1,29 @@
+Planned Work Notification: 00208184 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Oxspring/Lowdham/Peterborough between Tue Apr 11 22:00:00 GMT 2023-Wed Apr 12 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Tue Apr 11 22:00:00 GMT 2023
+End	Wed Apr 12 04:00:00 GMT 2023
+Backup Start	Tue Apr 18 22:00:00 GMT 2023
+Backup End	Wed Apr 19 04:00:00 GMT 2023
+Location	Oxspring/Lowdham/Peterborough
+
+Planned work Reason:
+Card installation on our network at multiple location Oxspring/Lowdham/Peterborough to regain comms to transmission equipment
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/121503	GTT/002107753	Wavelength	60 mins	No	Lon-256_LON256IR	Mnc-011_MAN1H	00209784
+MICRSI/WAVE/U/121502	GTT/002107744	Wavelength	60 mins	No	Lon-256_LON256IR	Mnc-011_MAN1H	00209786
+MICRSI/WAVE/U/121496	HI/Wavelength/00697199	Wavelength	60 mins	No	Mnc-011_MAN1H	Slough - 13 Liverpool Rd	00209779
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

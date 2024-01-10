@@ -1,0 +1,113 @@
+Hi team,
+
+ 
+
+I’m sharing circuit details of the activity conducting on next Thursday as shown below.
+
+Please let us know if you need anything else other than them.
+
+ 
+
+Total of 4 circuit
+
+## MS_Interphone(1F_SOC, 6AS, 6BS) ##
+
+## C19000183_MS_EDGE_OOB_06AB-12AS ##    
+
+## MS_F06C01_OOB ##
+
+## MS_F06C02_OOB ##
+
+ 
+
+Best Regards
+
+ 
+
+From: Azure Network Operations Center 
+Sent: Friday, June 16, 2023 10:24 AM
+To: 양주성(IDC글로벌고객팀) 
+Cc: SEL21 Site Services Team ; 이창호(IDC글로벌고객팀) ; 장인석(목동2IDC운용팀) ; 목동2IDC운용팀 ; 글로벌DC고객팀 
+Subject: Re: [SEL21] Notice of Cross Connect switch PM works (19:00~20:00, 06.22.2023)
+
+ 
+
+Hi Team,
+
+ 
+
+Please provide Circuit details of the activity
+
+ 
+
+Thanks & Regards,
+
+XXXXXX | Azure NOC
+
+NOC Hotline: +1 425-705-2686
+
+From: 양주성(IDC글로벌고객팀) 
+Sent: 15 June 2023 18:11
+To: Azure Network Operations Center 
+Cc: SEL21 Site Services Team ; 이창호(IDC고객2팀) ; 장인석(목동2IDC운용팀) ; 목동2IDC운용팀 ; 글로벌DC고객팀 
+Subject: [EXTERNAL] [SEL21] Notice of Cross Connect switch PM works (19:00~20:00, 06.22.2023)
+
+ 
+
+You don't often get email from joey.yang@kt.com. Learn why this is important
+
+Dear team,
+
+ 
+
+I would like to announce that will be replacement of interface module in Console as a part of preventive maintenance work in SEL21 at 19:00 on June 22nd, 2023.
+
+Please refer to the notification details below.
+
+ 
+
+Thank you for your cooperation in advance,
+
+ 
+
+Best Regards,
+
+ 
+
+ 
+
+[Notice of Cross Connect switch PM works]
+
+ 
+
+Dear all,
+
+ 
+
+KT cloud operation team at Mokdong2 IDC would like to announce that there will be PM(Preventive Maintenance) works as shown below.
+
+ 
+
+o Work Schedule
+
+1. Time : 19:00~20:00, June. 22nd,, 2023
+
+2. Purpose : Replacement of interface module in Console
+
+3. To whom : Customers who use Cross Connect service
+
+4. Status of impact : No service impact based on Act/Standby structure
+
+ 
+
+☎ Inquiry : Mokdong2 IDC operation team (1577-7348 #2 ~ #5)
+
+ 
+
+We will put our best concentration on stable work to ensure that there will be no service impact.
+
+Thank you for your cooperation in advance.
+
+ 
+
+KT Cloud Mokdong2 IDC Operation team

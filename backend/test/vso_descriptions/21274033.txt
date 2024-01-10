@@ -1,0 +1,35 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft South Africa
+Ticket Number	WIOCCEW136503
+External Ref	
+Incident Start Date/Time	13/05/2023 5:00 HRS UTC
+Priority	Planned - Advisory
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-ZA-C013-0019	New Protected 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0020	New Protected 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+Most Recent Message:
+
+Please take note of the scheduled maintenance activity below;
+
+Maintenance Window 
+Start Date / Time: 13th May. 2023 05:00 UTC
+End Date / Time: 13th May. 2023 15:00 UTC
+
+Impact on Service(s)
+No downtime expected; service at risk
+
+Description of Works
+Maintenance activity to repair damaged cables on African network to enhance service resilience.
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket.

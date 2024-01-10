@@ -1,0 +1,32 @@
+Dear customer,
+
+Please kindly be informed that there will be an planned maintenance and more information as below.
+
+Time window (Date/Time):
+2023-08-25 16:00:00 - 2023-08-25 22:00:00 UTC
+
+Maintenance Description:
+Hidden-faulty troubleshooting
+
+Maintenance Location:
+Guangdong province, China
+
+Service Impact:
+The circuit might experience flapping or short interruption during the maintenance window.
+
+Affected Circuit(s):
+BEI/CT-HKG/CTHK EP219(BEI/CT-HKG/CTHKI 64V4C002)
+BEI/CT-HKG/CTHK EP263
+
+Please take necessary steps to minimize impact to your business. China Telecom Americas goal is to successfully complete the task and restore service within the stated time frame.
+
+Should you have any query regarding this maintenance event, please feel free to contact us at csc@ctamericas.com or +1-213-6278889.
+
+NOTE: if service is experiencing any fault symptoms after planned maintenance window, please report fault to our Global Customer Service Center (GCSC) with China Telecom circuit ID and detailed fault description by email global.noc@chinatelecomglobal.com.
+
+Best regards,
+Customer Service Center
+China Telecom Americas
+______________________________________________________________________
+This email has been scanned by the Symantec Email Security.cloud service.
+For more information please visit http://www.symanteccloud.com

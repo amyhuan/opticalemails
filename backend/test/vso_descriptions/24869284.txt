@@ -1,0 +1,21 @@
+Dear Customer,
+
+[New reference no.: BD2023GDJH002137]
+
+Please kindly be informed that the mentioned maintenance work has rescheduled. Please find below for updated information.
+
+Event Details:
+Start Date/Time: 2023-08-31 16:00:00 UTC
+End Date/Time: 2023-08-31 22:00:00 UTC
+
+Impact:
+The circuit might experience flapping or short interruption during the maintenance window.
+
+Should you have any query regarding this maintenance event, please feel free to contact us at csc@ctamericas.com or +1-213-6278889.
+
+NOTE: if service is experiencing any fault symptoms after planned maintenance window, please report fault to our Global Customer Service Center (GCSC) with China Telecom circuit ID and detailed fault description by email global.noc@chinatelecomglobal.com.
+
+
+Best regards,
+Customer Service Center
+China Telecom Americas

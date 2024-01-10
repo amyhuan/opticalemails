@@ -1,0 +1,94 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Thursday 04th May 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     3173011
+
+         
+
+Scheduled Date                                   :     Thursday 04th May 2023
+
+
+Maintenance Window                           :     04-05-2023 11:00 UTC to 04-05-2023 16:00 UTC
+
+         
+
+Activity                                               :     EIG || Planned Maintenance to reroute terrestrial Seg-3  south route between 3S2ILA (Wabi-Alnatroun) and 3S3ILA
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                               :     Non Service Affecting
+                           
+Duration of Impact                              :     Circuit will be may observe switching hits during the Maintenance Window
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit Id
+
+Customer Name
+
+14210994
+
+Microsoft Ireland Operations Ltd.
+
+14211005
+
+Microsoft Ireland Operations Ltd.
+
+14211006
+
+Microsoft Ireland Operations Ltd.
+
+14211008
+
+Microsoft Ireland Operations Ltd.
+
+14211010
+
+Microsoft Ireland Operations Ltd.
+
+14211011
+
+Microsoft Ireland Operations Ltd.
+
+14211009
+
+Microsoft Ireland Operations Ltd.
+
+14211007
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Arpit Gangwar

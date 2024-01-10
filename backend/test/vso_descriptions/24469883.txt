@@ -1,0 +1,39 @@
+Scheduled Maintenance #: 27002028, Summary:, What?, Lumen intends to carry out internal maintenance within its network. This has been designated as URGENT. The nature of this work is to perform a traffic-affecting circuit re-route., Why?, Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below., Where?, See Maintenance Location(s) below, When?, See Customer Impact table below, Lumen would like to apologise for any inconvenience caused by this maintenance, ., Updates:, 2023-08-08 13:34:57 GMT - This maintenance has been modified., Customer Impact:, 27002028-1,  , Start , End , 2023-08-24 23:00 GMT (Greenwich Mean Time) , 2023-08-25 01:00 GMT (Greenwich Mean Time) , Previously Scheduled for (2023-07-27 22:00 GMT to 2023-07-28 00:00 GMT), Maintenance Location(s):,  , PETERBOROUGH, United Kingdom,  , Customer Name , Circuit ID , Alt Circuit ID , Bandwidth , A Location , Z Location , Impact Type , Maximum Duration , Order Number , MICROSOFT CORPORATION MCIO , 444104538 , N/A , 100 GIG , MANCHESTER LA UNITED KINGDOM , WEST DRAYTON LN UNITED KINGDOM , Outage , 2 hours ,   , MICROSOFT CORPORATION MCIO , 444104527 , N/A , 100 GIG , MANCHESTER LA UNITED KINGDOM , WEST DRAYTON LN UNITED KINGDOM , Outage , 2 hours ,   , MICROSOFT CORPORATION MCIO , 444104537 , N/A , 100 GIG , MANCHESTER LA UNITED KINGDOM , WEST DRAYTON LN UNITED KINGDOM , Outage , 2 hours ,   , MICROSOFT CORPORATION MCIO , 444104536 , N/A , 100 GIG , MANCHESTER LA UNITED KINGDOM , WEST DRAYTON LN UNITED KINGDOM , Outage , 2 hours ,   ,  , Notes History:, 2023-08-08 13:34:57 GMT - This maintenance has been modified., 2023-07-27 21:59:10 GMT - This maintenance has been,  , postponed,  , due to vendor issue. Once a new date is determined, updated notifications will be sent reflecting the date change., 2023-07-21 12:15:16 GMT - This maintenance has been modified., 2023-07-21 12:09:52 GMT - This maintenance has been modified., 2023-07-21 08:05:54 GMT - This maintenance has been,  , postponed,  , due to vendor issues. Once a new date is determined, updated notifications will be sent reflecting the date change., 2023-07-06 09:39:57 GMT - This maintenance is scheduled., Click here,  , for assistance on this scheduled maintenance via Email., Click here,  , for immediate information on scheduled maintenances via the Lumen Customer Portal., Click here,  , to manage your notification subscriptions via the Lumen Portal., Click here,  , to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal., Should the date and time for the maintenance have passed without an updated notification communicated for it, please consider the work to have completed successfully. If you continue to experience any problems after the maintenance window has closed, please raise a ticket with the Lumen EMEA Service desk on 0800 496 5000 Within UK or 00800 5336 3273 Outside UK., Please be advised that the Lumen EMEA Change Management Desk core business hours are from 09:00 to 17:00 UK local time, Monday through Friday (except public holidays) and is not able to respond outside of these hours., Network Change Management Team, Lumen, 0800 496 5000 Within UK or 00800 5336 3273 Outside UK, Change.Management.EMEA@Lumen.com, The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.,  ,  ,  , Scheduled Maintenance #: 27002028
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as URGENT. The nature of this work is to perform a traffic-affecting circuit re-route.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-07-06 09:39:57 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27002028-1
+
+Start	End
+2023-07-20 23:00 GMT (Greenwich Mean Time)	2023-07-21 05:00 GMT (Greenwich Mean Time)
+
+
+Maintenance Location(s): PETERBOROUGH, United Kingdom
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	444104538	N/A	100 GIG	MANCHESTER LA UNITED KINGDOM	WEST DRAYTON LN UNITED KINGDOM	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	444104527	N/A	100 GIG	MANCHESTER LA UNITED KINGDOM	WEST DRAYTON LN UNITED KINGDOM	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	444104537	N/A	100 GIG	MANCHESTER LA UNITED KINGDOM	WEST DRAYTON LN UNITED KINGDOM	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	444104536	N/A	100 GIG	MANCHESTER LA UNITED KINGDOM	WEST DRAYTON LN UNITED KINGDOM	Outage	2 hours	 
+
+
+Click here for assistance on this scheduled maintenance via Email.

@@ -1,0 +1,67 @@
+Dear customer, Good day to you!
+
+Thank you for using CHTI service. We (our partner) will perform a network maintenance operation
+in an effort to provide you with the best service. The detail information is as following：
+
+Reason
+
+Essential maintenance for fiber optimization and reconnection due to relocation of Wu Qing telecom room at Kaohsiung city in Taiwan.(50ms switch hits Plus Loss of protection)
+
+Maintenance
+Start Date/Time
+
+2023-05-04 00:00(Taipei Time, UTC +8)
+
+2023-05-03 16:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-05-04 05:00(Taipei Time, UTC +8)
+
+2023-05-03 21:00(UTC Time)
+
+Possible Impact
+
+Your circuit will be having 50 ms switch hits Plus Loss of protection.
+
+Maintenance
+Location
+
+TAIWAN,－HK,
+
+Circuit Type
+
+IPLC
+
+Event ID
+
+A792352
+
+Circuit Impacted
+
+Customer Name
+
+Circuit ID
+
+Bandwidth
+
+Microsoft Operations Taiwan Limited
+
+2UB12270(HKG TPE EPL 9996208)
+
+100G
+
+    
+
+2UB12271(HKG TPE EPL 9828251)
+
+100G
+
+ 
+
+ 
+
+We sincerely apologize for any inconvenience this may cause you.
+
+Thank you for your understanding.

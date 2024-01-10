@@ -1,0 +1,27 @@
+Dear Customer,
+
+Planned Maintenance has been scheduled that will impact your service.We are unable to provide 14 calendar days notice.Telstra wishes to apologise for the short notice and any inconvenience caused.
+
+This is an iCal notification for Telstra Planned Maintenance PN306239,which will insert a placeholder in your calendar as a reminder.This is for your convenience and information only, so no response from you is required.
+
+ To                                 : Microsoft Corporation (USA)
+
+Attention                       : moc, activations, Erik.Miller, F1800872
+
+Change Reference         : PN306239
+
+Maintenance Window   : 27/06/2023 01:00:00(UTC) to 27/06/2023 03:30:00(UTC)
+
+Expected Impact            : 20-30 min outage within the change window
+
+Maintenance Details      :
+
+Telstra Hardware Replacement (Line Module in USA at SLOA Site 1-B-3 AOFX @ High Risk due to Active Temperature Related Alarm)
+
+The DWMD Card has been identified as High Priority Status (RECALL Status) in High IXD Temperature Proactive Replacement during latest network scan conducted by Vendor on 16-Jun-2023. Equipment Vendor recommends to replace as soon as practical as this may potentially cause circuits/hardware/circuit an Unplanned longer outage anytime. This Card that is heating up and will be replaced with latest manufactured card with improved heat sink design.
+
+Service(s) Impacted       : LAX SYD EPL 9696335
+
+Please email gpen@team.telstra.com If you have any questions, comments or concerns regarding this maintenance activity. We aim to answer your query within 24 hours, Monday through to Friday (01:00 - 16:30 UTC) and answer all emails in the order they are received, please avoid sending chaser emails as these will be answered after your initial query and only delays responses. For urgent queries or requests, please Call Global 800: +800 8448 8888* or direct: +852 3192 7420
+
+You can manage your notification subscription & contacts via the Telstra portal (https://portal.telstrainternational.com) or email us about updates to your preference and contact details via gpen@team.telstra.com

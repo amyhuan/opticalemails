@@ -1,0 +1,29 @@
+Hello,
+
+Fastly Network Engineering would like to inform you of the following:
+
+Start Time: 2023-06-14 00:00 UTC
+End Time: 2023-06-14 06:00 UTC
+
+Fastly will be performing a maintenance during the above window. You may see BGP down during this time for the following service(s). Please take no action to remove or shift traffic, Fastly Engineers will automatically re-route traffic as needed. Questions about this event can be sent to techops@fastly.com.
+
+Peer Address: 140.248.127.111	Fastly Address: 140.248.127.110	Location: Frankfurt, Germany
+Peer Address: 2620:11a:c000:952:fa57::1	Fastly Address: 2620:11a:c000:952:fa57::	Location: Frankfurt, Germany
+Peer Address: 2001:7f8::1f8b:0:1	Fastly Address: 2001:7f8::d361:0:1	Location: Frankfurt, Germany
+Peer Address: 80.81.194.52	Fastly Address: 80.81.195.54	Location: Frankfurt, Germany
+Peer Address: 2001:7f8::1f8b:0:1	Fastly Address: 2001:7f8::d361:0:2	Location: Frankfurt, Germany
+Peer Address: 80.81.194.52	Fastly Address: 80.81.195.55	Location: Frankfurt, Germany
+Peer Address: 140.248.127.111	Fastly Address: 140.248.127.110	Location: Frankfurt, Germany
+Peer Address: 2620:11a:c000:952:fa57::1	Fastly Address: 2620:11a:c000:952:fa57::	Location: Frankfurt, Germany
+Peer Address: 2001:7f8::1f8b:0:1	Fastly Address: 2001:7f8::d361:0:1	Location: Frankfurt, Germany
+Peer Address: 80.81.194.52	Fastly Address: 80.81.195.54	Location: Frankfurt, Germany
+Peer Address: 2001:7f8::1f8b:0:1	Fastly Address: 2001:7f8::d361:0:2	Location: Frankfurt, Germany
+Peer Address: 80.81.194.52	Fastly Address: 80.81.195.55	Location: Frankfurt, Germany
+
+
+Thank you!
+
+Fastly Logo
+
+Fastly Network Engineering | techops@fastly.com
+fastly.com | AS54113 | Peering Policy

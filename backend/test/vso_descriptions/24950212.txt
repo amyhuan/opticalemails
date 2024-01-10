@@ -1,0 +1,134 @@
+MOC- 3 night maintenance
+
+Start Time (PST): 8/28/2023 10:00:00 PM
+End Time (PST): 8/29/2023 4:00:00 AM
+
+05:00 to 11:00 UTC
+
+ 
+
+2nd night
+
+Start Time (PST): 8/29/2023 10:00:00 PM
+End Time (PST): 8/30/2023 4:00:00 AM
+
+ 
+
+3rd night
+
+Start Time (PST): 8/30/2023 10:00:00 PM
+End Time (PST): 8/31/2023 4:00:00 AM
+
+ 
+
+ 
+
+ 
+
+Maintenance Length: 6 Hours
+Location: ATLDGAUYATL2IDMS056 <-> HSTQTX02HOU1IDMS025
+Maintenance Severity: Service Affecting(SA)
+
+Maintenance Description:
+Summary: Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a configuration change within the Lumen network and is required in order to improve network reliability and continue providing optimal service for our clients. The maintenance consists of multiple nights and customers will only receive notification for the night their services will be impacted. An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below. Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-ATBA-SN4B-SWAN-0001-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0002-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0004-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0005-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0006-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0007-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0008-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0009-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0010-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0011-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0012-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0013-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0014-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0015-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0016-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0017-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0018-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0019-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0024-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0025-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0026-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0027-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0028-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0029-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0030-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0031-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0032-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0033-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0044-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0062-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0063-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0064-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0065-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0074-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0077-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0078-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0079-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0081-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0082-0::100GBE-1
+MSFT-ATBA-SN4B-SWAN-0083-0::100GBE-1
+
+ITAR Circuit Impacts
+
+MSFT-ATBA-SN4B-ITAR-0045-0::100GBE-1
+MSFT-ATBA-SN4B-ITAR-0046-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0009-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0010-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0011-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0012-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0013-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0014-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0015-0::100GBE-1
+MSFT-BN6A-SN4B-ITAR-0016-0::100GBE-1
+
+MSCG Circuit Impacts
+
+MSFT-ATBA-SN4B-MSCG-0020-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0021-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0022-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0023-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0043-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0061-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0066-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0067-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0068-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0069-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0070-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0071-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0072-0::100GBE-1
+MSFT-ATBA-SN4B-MSCG-0073-0::100GBE-1
+
+SLS Circuit Impacts
+
+SLS-41109 and SLS-209
+
+
+
+Regards,
+
+Professional Services Control Center
+Lumen
+1025 Eldorado Blvd
+Broomfield, CO 80021
+p: 1-877-453-8353 Opt 1,2,4,2
+e: ProfessionalServices@lumen.com
+
+
+
+ 
+
+This communication is the property of Lumen Technologies and may contain confidential or privileged information. Unauthorized use of this communication is strictly prohibited and may be unlawful. If you have received this communication in error, please immediately notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

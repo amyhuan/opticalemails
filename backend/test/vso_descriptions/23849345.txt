@@ -1,0 +1,48 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft Ireland Operations Ltd
+Ticket Number	WIOCCEW138071
+External Ref	
+Incident Start Date/Time	25/05/2023 22:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C208-0014	100Gbps from Nairobi to Johannesburg.	100	East Africa Data Centre	Teraco Isando
+Most Recent Message:
+
+Please take note of the scheduled maintenance activity below
+
+Maintenance Window
+Start Date / Time: 25th May 2023 22:00 UTC
+End Date / Time: 26th May 2023 04:00 UTC
+
+Backup  Maintenance Window
+Start Date / Time: 26th May 2023 22:00 UTC
+End Date / Time: 27th May 2023 04:00 UTC
+
+Impact on Service(s)
+All traffic terminating and passing through Dar Es Salaam will be affected for the duration of activity
+
+Description of Works
+EASSy Dar Es Salaam(DES) staff will be replacing the Earth Isolation Board(EIB) on the Power Feeding Equipment. PFE is giving incorrect earth readings.
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+ 
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

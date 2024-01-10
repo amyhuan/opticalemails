@@ -1,0 +1,80 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Tuesday 01st August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                       :    ITEM-056722 NE-15804
+
+         
+
+Scheduled Date                             :    Tuesday 01st August 2023
+
+
+Maintenance Window                 :    01-08-2023 22:00 (GMT+00:00) to 02-08-2023 04:00 (GMT+00:00
+
+ 
+
+Activity                                            :    Mandatory main optical cable relocation, due to civil works. 
+
+ 
+
+Location                                         :    NOLA-PIGNATARO MAGGIORE (ITALY)
+
+ 
+
+Benefit of Change                         :    To avoid unplanned outage in near future
+
+
+Impact                                            :     Service Affecting
+                           
+Duration of Impact                       :     Circuit will be down during the Maintenance Window
+
+               
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+Regards,
+
+ 
+
+Kumar Rakshit
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

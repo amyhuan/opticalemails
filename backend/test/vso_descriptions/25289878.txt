@@ -1,0 +1,37 @@
+Scheduled Maintenance #: 27644961
+
+Summary:
+
+Lumen will implement scheduled maintenance as part of a large scale project to upgrade code on the IP platform. This maintenance activity is one of several maintenances taking place across various locations in multiple regions. The code upgrade will promote reliability enhancements, access to new features and correct issues that could lead to future unplanned outages. This upgrade is considered essential to maintain stability on the network and provide optimal service for our clients.
+
+Updates:
+
+2023-09-27 16:43:35 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27644961-1
+
+Start	End
+2023-10-07 04:00 GMT (Greenwich Mean Time)	2023-10-07 07:00 GMT (Greenwich Mean Time)
+2023-10-07 00:00 EDT (Eastern Daylight Time)	2023-10-07 03:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): NEW YORK, NY USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	BCYZ3889	N/A	100BASE-T	MONTREAL QC CANADA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	444010524	N/A	GIG-E	SAN ANTONIO TX USA	 	Outage	1 hour	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1

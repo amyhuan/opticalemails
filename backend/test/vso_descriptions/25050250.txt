@@ -1,0 +1,53 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0021000
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: An emergency work will be performed in order to equalize the DWDM spectrum between SAN JUAN - BOCA RATON. // Se realizará un trabajo de emergencia con la finalidad de ecualizar espectro DWDM entre SAN JUAN - BOCA RATON.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HITS UP TO 30 MIN
+
+LOCATION // LOCALIDAD: SAN JUAN, PUERTO RICO - BOCA RATON, USA
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+05-Sep-2023 03:00 - 05-Sep-2023 07:00 (Main Window)
+
+06-Sep-2023 03:00 - 06-Sep-2023 07:00 (Backup Window)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRM14592
+
+MIAMI/NAP-SPO/MSFT 100GB S001
+
+CRT-004154
+
+CRM14593
+
+MIAMI/NAP-SPO/MSFT 100GB S002
+
+CRT-004155
+
+NAP/MICROSOFT SP2/MICROSOFT 100GB S001
+
+CRT-006004
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.
+We would like to apologize for any inconvenience caused by this maintenance to you and your customers. If any additional question appears, do not hesitate to contact us. Our personnel will be permanently available for you.
+
+[Español]
+Si experimenta algún problema con su servicio debido a la realización de esta actividad programada, por favor comuníquese a nuestro NOC de Capacity Services vía el +511 411 0070 o al correo customerservice.capacity@telxius.com.
+Lamentamos los inconvenientes que este mantenimiento pueda causarle a usted o sus clientes. Si una nueva consulta surgiera, no dude en comunicarse con nosotros, nuestro personal estará permanentemente disponible para usted.

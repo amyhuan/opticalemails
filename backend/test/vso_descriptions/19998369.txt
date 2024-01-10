@@ -1,0 +1,9 @@
+Date Time : 15/05/2023 07:00:00 to 15/05/2023 22:00:00 GMT (dd/mm/yyyy) Rescheduled,  ,  , RPO Reference Number : R2021\23B
+Date Time : 09/05/2023 07:00:00 to 09/05/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 900 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+
+Outage Description : AAE-1: Planned work for Infinera XTC-10 Shelf-5 replacement in Zafarana cable landing station to eradicate PIN bend issue on slot 5-B-2.
+
+Impact : 15 Hours downtime

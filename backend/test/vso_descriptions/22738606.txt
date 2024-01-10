@@ -1,0 +1,41 @@
+Estimados Señores,
+
+A través de la presente les hacemos llegar nuestro cordial saludo y, la vez, les remitimos la notificación de trabajo programado.
+
+24-May-2023 04:00 - 24-May-2023 09:00 GMT [Backup]
+
+ID Trabajo	Descripción	Inicio	Fin	Afectación
+CRQ000001150610	NTE–Provider	2023-05-23 04:00:00 (GMT)	2023-05-23 09:00:00 (GMT)	60 min
+Afectará a los siguientes servicios:
+
+Id	Cliente	Equipo	Interfaz	IP	AS
+ITS-0001050191 - GRTVAPEM2 - HundredGigE0/2/0/12 - IPv4	Microsoft	GRTVAPEM2	HundredGigE0/2/0/12	84.16.7.101	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4	Microsoft	GRTVAPEM1	ae70	84.16.7.79	8075
+ITS-0001050191 - GRTVAPEM2 - ae72 - IPv4	Microsoft	GRTVAPEM2	ae72	84.16.7.101	8075
+ITS-0001050191 - GRTVAPEM2 - ae72 - IPv6	Microsoft	GRTVAPEM2	ae72	2001:1498:1:966:0:0:0:1702	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv6	Microsoft	GRTVAPEM1	ae70	2001:1498:1:966:0:0:0:1692	8075
+Por favor, no duden en comunicarse con nosotros en caso de tener cualquier consulta adicional.
+
+Saludos cordiales.
+
+Dear Sirs,
+
+With this notification we would like to send you our cordial greetings and, at the same time, we would like to notify you of a scheduled work.
+
+24-May-2023 04:00 - 24-May-2023 09:00 GMT [Backup]
+
+Work ID	Description	Start	End	Impact
+CRQ000001150610	NTE–Provider	2023-05-23 04:00:00 (GMT)	2023-05-23 09:00:00 (GMT)	60 min
+Affected Circuits:
+
+Id	Customer	Device	Interface	IP	AS
+ITS-0001050191 - GRTVAPEM2 - HundredGigE0/2/0/12 - IPv4	Microsoft	GRTVAPEM2	HundredGigE0/2/0/12	84.16.7.101	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4	Microsoft	GRTVAPEM1	ae70	84.16.7.79	8075
+ITS-0001050191 - GRTVAPEM2 - ae72 - IPv4	Microsoft	GRTVAPEM2	ae72	84.16.7.101	8075
+ITS-0001050191 - GRTVAPEM2 - ae72 - IPv6	Microsoft	GRTVAPEM2	ae72	2001:1498:1:966:0:0:0:1702	8075
+ITS-0001050189 - GRTVAPEM1 - ae70 - IPv6	Microsoft	GRTVAPEM1	ae70	2001:1498:1:966:0:0:0:1692	8075
+For further information or concerns regarding this maintenance, please do not hesitate to contact us.
+
+Best regards.
+
+Footer CustomerB2B Sign

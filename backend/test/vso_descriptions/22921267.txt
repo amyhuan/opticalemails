@@ -1,0 +1,24 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2144\23C-A1
+Date Time : 23/05/2023 16:00:00 to 23/05/2023 22:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : AAE-1 fiber migration work at (MLK-PDK) span in Segment L
+
+Outage : No service impact is expected, but a less than 50ms sw hits maybe experienced
+
+[Amendment-A1]
+amend the schedule to 23 May
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by ca

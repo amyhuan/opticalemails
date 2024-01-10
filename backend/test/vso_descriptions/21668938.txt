@@ -1,0 +1,25 @@
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC231241
+Action and Reason:	Hardware upgrade on a network device. We need to replace the fan on the device.
+Location:	Vienna, Austria
+
+
+Service Window: PWIC231241.1 primary	Work Status: Confirmed
+Service window start:	2023-05-25 22:00 UTC
+Service window end:	2023-05-26 01:00 UTC
+Impacted Services	
+IC-310363	IP Transit	1 x 2 hours
+IC-311071	IP Transit	1 x 2 hours
+IC-311072	IP Transit	1 x 2 hours
+IC-311070	IP Transit	1 x 2 hours
+IC-310361	IP Transit	1 x 2 hours
+IC-131528	IP Transit	1 x 2 hours
+IC-311069	IP Transit	1 x 2 hours
+IC-311073	IP Transit	1 x 2 hours
+
+
+
+Best Regards
+Customer Support Center

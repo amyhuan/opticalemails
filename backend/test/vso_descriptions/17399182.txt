@@ -1,0 +1,25 @@
+Dear Customer,
+
+ 
+
+Please be advised that a planned maintenance is scheduled as follows;
+
+ 
+
+1. Maintenance window : 6-Mar.  22:00 ~ 23:00 UTC
+
+2. Expected impact : 60 minutes down hard during the maintenance work
+
+3. Maintenance details : Replacing DTX-X AOFX module to clear threshold alarm
+
+4. Service impacted : 500175284001, 500175284002
+
+ 
+
+We apologize for the inconvenience caused.
+
+ 
+
+Best regards,
+
+Jo.

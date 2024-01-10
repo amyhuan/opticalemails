@@ -1,0 +1,55 @@
+Start time, Monday, 03 Apr 2023 17:00:00 (UTC) ,  , End time, Monday, 03 Apr 2023 20:00:00 (UTC) ,  , Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+ 	
+Maintenance details
+
+TEC/AAG FP3 Hazardous Event Notification - Telstra Endeavour FP1 - Upgrade Infinera LMM2 Insertion (Coupler) [Ref: 2023040200 & INC000103009950]
+
+Please be advised that the Telstra Endeavour FP1 will be upgraded by Infinera to increase capacity. As part of the upgrade Infinera needs to insert a coupler on the line at Paddington and Keawaula
+
+
+Reference number
+PN298625
+
+
+Start time
+Sunday, 02 Apr 2023 17:00:00 (UTC)
+
+
+End time
+Sunday, 02 Apr 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+SCA SYD EPL 9883755
+SCA SYD EPL 9194138
+SCA SYD EPL 9332080
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9332080
+SCA SYD EPL 9294316
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9294316
+SCA SYD EPL 9601000
+SCA SYD EPL 9774722
+SCA SYD EPL 9822118
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9601000
+SCA SYD EPL 9926103
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9774722
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9822118
+SYD/SYDP/TELSTRA/AUS - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9926103
+SCA SYD EPL 90022336
+
+
+Expected impact
+60 minutes outage during the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.

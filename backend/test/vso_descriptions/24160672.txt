@@ -1,0 +1,127 @@
+Dear customer, Good day to you!,  ,                                                Please note that the activity was rescheduled as below:,  , Maintenance, Start Date/Time,  ,  , 2023-06-07 17:00(Taipei Time, UTC +8),  ,  , 2023-06-07 09:00(UTC Time),  ,  , Maintenance, End Date/Time,  ,  , 2023-06-07 19:30(Taipei Time, UTC +8),  ,  , 2023-06-07 11:30(UTC Time),  ,  ,  ,  , We sincerely apologize for any inconvenience this may cause you.,  , Thank you for your understanding.,  ,  ,  , Best wishes and regards,, ChungHwa Telecom International Business Group,  , Kathy Yang,  , International Transmission Maintenance Center,  , Office No.:+886-2-2344-3761/Mobile No.:886-0910-077277,  ,  ,  ,  ,  ,  , Dear customer, Good day to you!
+
+                                               Please note that the activity was rescheduled as below:
+
+Maintenance
+Start Date/Time
+
+2023-06-07 00:00(Taipei Time, UTC +8)
+
+2023-06-06 16:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-06-07 05:00(Taipei Time, UTC +8)
+
+2023-06-06 21:00(UTC Time)
+
+ 
+
+We sincerely apologize for any inconvenience this may cause you.
+
+Thank you for your understanding.
+
+ 
+
+Best wishes and regards,
+ChungHwa Telecom International Business Group
+
+Kathy Yang
+
+International Transmission Maintenance Center
+
+Office No.:+886-2-2344-3761/Mobile No.:886-0910-077277
+
+ 
+
+ 
+
+From: 楊雪芳
+Sent: Thursday, June 1, 2023 5:38 PM
+To: Azure Network Operations Center ; Niall Toh ; Adeline Ng 
+Cc: 國分網路處計畫性維運通知信箱 ; 梁中彥 Jason Liang 
+Subject: Microsoft Operations Taiwan Limited_TAIWAN,－HK, IPLC_06-02_CHTI Planned Network Maintenance Notification_Evenet ID：A800176
+
+ 
+
+Dear customer, Good day to you!
+
+Sorry for this urgent notification.
+
+Thank you for using CHTI service. We (our partner) will perform a network maintenance operation
+in an effort to provide you with the best service. The detail information is as following：
+
+Reason
+
+DCT/APT will perform mandatory maintenance to optimize optical fiber between Tainan Railway Station to Daqiaotou Station to improve reliability and prevent future service interruptions to customer services.
+
+Maintenance
+Start Date/Time
+
+2023-06-02 00:00(Taipei Time, UTC +8)
+
+2023-06-01 16:00(UTC Time)
+
+Maintenance
+End Date/Time
+
+2023-06-02 05:00(Taipei Time, UTC +8)
+
+2023-06-01 21:00(UTC Time)
+
+Possible Impact
+
+Your each circuit will be in outage less than 60 minutes during the activity.
+
+Maintenance
+Location
+
+TAIWAN,－HK,,
+
+Circuit Type
+
+IPLC
+
+Event ID
+
+A800176
+
+Circuit Impacted
+
+Customer Name
+
+Circuit ID
+
+Bandwidth
+
+Microsoft Operations Taiwan Limited
+
+2UB12270(HKG TPE EPL 9996208)
+
+100G
+
+    
+
+2UB12271(HKG TPE EPL 9828251)
+
+100G
+
+ 
+
+ 
+
+We sincerely apologize for any inconvenience this may cause you.
+
+Thank you for your understanding.
+
+ 
+
+Best wishes and regards,
+ChungHwa Telecom International Business Group
+
+Kathy Yang
+
+International Transmission Maintenance Center
+
+Office No.:+886-2-2344-3761/Mobile No.:886-0910-077277

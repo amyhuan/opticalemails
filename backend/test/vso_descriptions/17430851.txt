@@ -1,0 +1,61 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018571
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: An emergency work will be performed in order to upgrade from 5T to 12T of the XTC-10 of the DTX-FLA- FP3-01. // Se realizará un trabajo de emergencia con la finalidad de relizar la modernización de 5T a 12T del XTC-10 del DTX-FLA-FP3-01.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 1 MIN
+
+LOCATION // LOCALIDAD: Fortaleza , Brasil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+08-Mar-2023 03:00 - 08-Mar-2023 11:00 (MAIN)
+
+09-Mar-2023 03:00 - 09-Mar-2023 11:00 (BACKUP)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+CRM14592
+
+MIAMI/NAP-SPO/MSFT 100GB S001
+
+CRT-004154
+
+CRM14593
+
+MIAMI/NAP-SPO/MSFT 100GB S002
+
+CRT-004155
+
+NAP/EQUINIX - GLOBENET/MSFT 100GB S006
+
+CRT-007917
+
+RJ2/EQU - ASCENTY/MSFT 100GB S011
+
+CRT-010150
+
+RJ2/EQU - ASCENTY/MSFT 100GB S013
+
+CRT-010152
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.
+We would like to apologize for any inconvenience caused by this maintenance to you and your customers. If any additional question appears, do not hesitate to contact us. Our personnel will be permanently available for you.
+
+[Español]
+Si experimenta algún problema con su servicio debido a la realización de esta actividad programada, por favor comuníquese a nuestro NOC de Capacity Services vía el +511 411 0070 o al correo customerservice.capacity@telxius.com.
+Lamentamos los inconvenientes que este mantenimiento pueda causarle a usted o sus clientes. Si una nueva consulta surgiera, no dude en comunicarse con nosotros, nuestro personal estará permanentemente disponible para usted.

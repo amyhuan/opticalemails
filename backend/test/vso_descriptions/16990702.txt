@@ -1,0 +1,34 @@
+(Please do not change the subject line upon replying to this message)
+
+Altibox AS hereby announces planned work which affects your circuit(s).
+
+UPDATE: The Time for PW has been updated
+
+Reason for the planned work activity: Planned maintenance on circuit between Innset og Alvdal.
+
+Start of PW: 16.02.2023 00:00 (Europe/Oslo)
+End of PW: 16.02.2023 06:00 (Europe/Oslo)
+
+Estimated downtime: Less than 6 hours
+
+Affected service(s):
+
+Red:
+T200000054
+T200000055
+T200000056
+T200000057
+T200000058
+T200000059
+
+Best regards
+Kristian Stangeland Waldeland
+Operations Engineer
+Altibox Operation Centre
+Tlf: +47 51 90 80 15
+altibox.no
+
+
+CONFIDENTIAL
+The content of this e-mail is intended solely for the use of the individual or entity to whom it is addressed. If you have received this communication in error, be aware that forwarding it, copying it, or in any way disclosing its content to any other person, is strictly prohibited. If you have received this communication in error, please notify the author by replying to this e-mail immediately, deleting this message and destruct all received documents.
+Remember to keep the subject field on reply. Do not remove recipients when you reply

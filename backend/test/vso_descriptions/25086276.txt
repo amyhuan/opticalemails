@@ -1,0 +1,29 @@
+Ticket Number	wt 230904161649
+Status	INPROG
+Level	3
+Emergency	N
+Ticket Begin Time	28/09/2023 1:00 AM
+Ticket End Time	28/09/2023 5:00 AM
+Time Zone	(UTC+2:00) CEST
+Description	There will be planned maintenance in our network which will affect your service.Maintenance Reason: Expected outage: all time periodLocation: T01_HADIMKOY_T03_ESENYURT
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn35906a.100ge*fra-ist /comment: (SupplierId:WL085778 )
+msn35905a.100ge*fra-ist /comment: (SupplierId:WL085777 )
+msn35904a.100ge*fra-ist /comment: (SupplierId:WL085776 )
+msn35903a.100ge*fra-ist /comment: (SupplierId:WL085775 )
+msn35902a.100ge*fra-ist /comment: (SupplierId:WL085774 )
+msn35901a.100ge*fra-ist /comment: (SupplierId:WL085773 )
+msn35900a.100ge*fra-ist /comment: (SupplierId:WL085772 )
+msn35899a.100ge*fra-ist /comment: (SupplierId:WL085771 )
+msn35898a.100ge*fra-ist /comment: (SupplierId:WL085770 )
+msn35897a.100ge*fra-ist /comment: (SupplierId:WL085751 )
+msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 )
+msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 )
+msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )
+msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

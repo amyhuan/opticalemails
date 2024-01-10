@@ -1,0 +1,78 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity ILD, which is scheduled on Friday 3rd March 2023 and the details, are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                             :    ITEM-048950
+
+ 
+
+Scheduled Date                                   :     Friday 3rd March 2023
+
+ 
+
+Maintenance Window 1                     :    03/03/2023 20:00 (GMT+00:00) to 04/03/2023 06:00 (GMT+00:00)
+
+ 
+
+Benefit of Change                               :    Equipment software upgrade to improve network reliability and service quality
+
+ 
+
+Location                                                :    London (England), Paris (France).
+
+ 
+
+Impact                                                   :    service Affecting
+                           
+Duration of Impact                             :     20mint Circuit will be go down during the maintenance window
+
+ 
+
+-------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail:   
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long-term synergic association.
+
+ 
+
+Regards,
+
+ 
+
+Ravi Jha
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

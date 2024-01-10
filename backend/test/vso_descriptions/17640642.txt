@@ -1,0 +1,39 @@
+Hello,  ,  ,  , Please be informed that our provider rescheduled the work to following date and time frame:,  , Start:     18.04.2023, 23:00 GMT+2,  , End:       19.04.2023, 06:00 GMT+2,  ,  ,  , Everything else remains unchanged.,  ,  ,  , KR,  , Marc,  , Türk Telekom International Ticket Details
+
+
+
+
+
+wt 230321132233 ticket number has been opened.
+
+Details
+Ticket Number	wt 230321132233
+Status	INPROG
+Level	3
+Ticket Begin Time	04/04/2023 22:00:00
+Ticket End Time	05/04/2023 05:00:00
+Time Zone	GMT + 1
+Description	Our provider will perform cable replacement works which will affect our DWDM BB between Timisoara - Lugoj (Romania). Unprotected services will face a forecasted outage of 4 hours. Protected services are only at risk and might face protection switch(es).
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn34074a.100ge*vie-sof /comment: unprotected (SupplierId:WL078188 )
+msn34073a.100ge*vie-sof /comment: unprotected (SupplierId:WL078187 )
+msn34072a.100ge*vie-sof /comment: unprotected (SupplierId:WL078186 )
+msn34071a.100ge*vie-sof /comment: unprotected (SupplierId:WL078185 )
+msn32128a.100ge*vie-sof /comment: unprotected (SupplierId:WL070318 )
+msn32127a.100ge*vie-sof /comment: unprotected (SupplierId:WL070317 )
+msn35833a.100ge*vie-ist /comment: unprotected (SupplierId:WL085760 )
+msn35832a.100ge*vie-ist /comment: unprotected (SupplierId:WL085759 )
+msn35831a.100ge*vie-ist /comment: unprotected (SupplierId:WL085758 )
+msn35830a.100ge*vie-ist /comment: unprotected (SupplierId:WL085757 )
+msn35829a.100ge*vie-ist /comment: unprotected (SupplierId:WL085756 )
+msn35828a.100ge*vie-ist /comment: unprotected (SupplierId:WL085755 )
+msn35827a.100ge*vie-ist /comment: unprotected (SupplierId:WL085754 )
+msn35826a.100ge*vie-ist /comment: unprotected (SupplierId:WL085753 )
+msn35825a.100ge*vie-ist /comment: unprotected (SupplierId:WL085752 )
+msn35824a.100ge*vie-ist /comment: unprotected (SupplierId:WL085747 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

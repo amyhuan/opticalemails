@@ -1,0 +1,35 @@
+Scheduled Maintenance #: 25980435
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to insert a node into an existing ring configuration and roll customer traffic to the new path and is required in order to expand existing network infrastructure by adding capacity to allow for improved service features and to pave the way for future service expansion.
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-02-09 20:39:44 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+25980435-1
+
+Start	End
+2023-02-24 05:00 GMT (Greenwich Mean Time)	2023-02-24 11:00 GMT (Greenwich Mean Time)
+2023-02-24 00:00 EST (Eastern Standard Time)	2023-02-24 06:00 EST (Eastern Standard Time)
+
+
+Maintenance Location(s): CHEPACHET, RI USA; MARLBOROUGH, MA USA; NEEDHAM, MA USA; CAMBRIDGE, MA USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442289163	N/A	GIG-E	NEEDHAM MA USA	 	Outage	4 hours	 
+Alternate Night:
+25980435-2
+
+Start	End
+2023-03-01 05:00 GMT (Greenwich Mean Time)	2023-03-01 11:00 GMT (Greenwich Mean Time)
+2023-03-01 00:00 EST (Eastern Standard Time)	2023-03-01 06:00 EST (Eastern Standard Time)
+
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.

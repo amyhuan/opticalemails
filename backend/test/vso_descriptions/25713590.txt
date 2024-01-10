@@ -1,0 +1,64 @@
+[EXTERNAL] [Its] Notificación de Trabajo Programado  - CRQ001000037227 (2023-11-13 07:00:00 GMT)
+
+Translate message to: English | Never translate from: Spanish | (Internal) This isn't Spanish
+
+This sender netwSchedWorksNotif.businesssolutions@telefonica.com is from outside your organization. Manage sender
+This message is in Spanish
+Network Scheduled Works Notifications Business Solutions
+​
+​
+​
+​
+​
+​
+Telefónica Logo
+Estimados Señores,
+
+A través de la presente les hacemos llegar nuestro cordial saludo y, la vez, les remitimos la notificación de trabajo programado.
+
+ID Trabajo	Descripción	Inicio	Fin	Afectación
+CRQ001000037227	Upgrade	2023-11-13 07:00:00 (GMT)	2023-11-13 13:00:00 (GMT)	60 min
+Afectará a los siguientes servicios:
+
+Id	Cliente	Equipo	Interfaz	IP	AS
+ITS-0001087096 - GRTRIOTW2 - HundredGigE0/1/0/13 - IPv4	Microsoft	GRTRIOTW2	HundredGigE0/1/0/13	216.184.112.147	8075
+ITS-0001087096 - GRTRIOTW2 - ae22 - IPv4	Microsoft	GRTRIOTW2	ae22	216.184.112.147	8075
+ITS-0001087096 - GRTRIOTW2 - HundredGigE0/1/0/13 - IPv6	Microsoft	GRTRIOTW2	HundredGigE0/1/0/13	2001:1498:1:966:0:0:0:9812	8075
+ITS-0001087096 - GRTRIOTW2 - ae22 - IPv6	Microsoft	GRTRIOTW2	ae22	2001:1498:1:966:0:0:0:9812	8075
+ITS-0001087095 - GRTRIOTW2 - HundredGigE0/0/0/13 - IPv4	Microsoft	GRTRIOTW2	HundredGigE0/0/0/13	216.184.112.145	8075
+ITS-0001087095 - GRTRIOTW2 - ae21 - IPv4	Microsoft	GRTRIOTW2	ae21	216.184.112.145	8075
+ITS-0001087095 - GRTRIOTW2 - HundredGigE0/0/0/13 - IPv6	Microsoft	GRTRIOTW2	HundredGigE0/0/0/13	2001:1498:1:966:0:0:0:9802	8075
+ITS-0001087095 - GRTRIOTW2 - ae21 - IPv6	Microsoft	GRTRIOTW2	ae21	2001:1498:1:966:0:0:0:9802	8075
+Por favor, no duden en comunicarse con nosotros en caso de tener cualquier consulta adicional.
+
+Saludos cordiales.
+
+Dear Sirs,
+
+With this notification we would like to send you our cordial greetings and, at the same time, we would like to notify you of a scheduled work.
+
+Work ID	Description	Start	End	Impact
+CRQ001000037227	Upgrade	2023-11-13 07:00:00 (GMT)	2023-11-13 13:00:00 (GMT)	60 min
+Affected Circuits:
+
+Id	Customer	Device	Interface	IP	AS
+ITS-0001087096 - GRTRIOTW2 - HundredGigE0/1/0/13 - IPv4	Microsoft	GRTRIOTW2	HundredGigE0/1/0/13	216.184.112.147	8075
+ITS-0001087096 - GRTRIOTW2 - ae22 - IPv4	Microsoft	GRTRIOTW2	ae22	216.184.112.147	8075
+ITS-0001087096 - GRTRIOTW2 - HundredGigE0/1/0/13 - IPv6	Microsoft	GRTRIOTW2	HundredGigE0/1/0/13	2001:1498:1:966:0:0:0:9812	8075
+ITS-0001087096 - GRTRIOTW2 - ae22 - IPv6	Microsoft	GRTRIOTW2	ae22	2001:1498:1:966:0:0:0:9812	8075
+ITS-0001087095 - GRTRIOTW2 - HundredGigE0/0/0/13 - IPv4	Microsoft	GRTRIOTW2	HundredGigE0/0/0/13	216.184.112.145	8075
+ITS-0001087095 - GRTRIOTW2 - ae21 - IPv4	Microsoft	GRTRIOTW2	ae21	216.184.112.145	8075
+ITS-0001087095 - GRTRIOTW2 - HundredGigE0/0/0/13 - IPv6	Microsoft	GRTRIOTW2	HundredGigE0/0/0/13	2001:1498:1:966:0:0:0:9802	8075
+ITS-0001087095 - GRTRIOTW2 - ae21 - IPv6	Microsoft	GRTRIOTW2	ae21	2001:1498:1:966:0:0:0:9802	8075
+For further information or concerns regarding this maintenance, please do not hesitate to contact us.
+
+Best regards.
+
+Footer CustomerB2B Sign
+
+
+Este mensaje y sus adjuntos se dirigen exclusivamente a su destinatario, puede contener información privilegiada o confidencial y es para uso exclusivo de la persona o entidad de destino. Si no es usted. el destinatario indicado, queda notificado de que la lectura, utilización, divulgación y/o copia sin autorización puede estar prohibida en virtud de la legislación vigente. Si ha recibido este mensaje por error, le rogamos que nos lo comunique inmediatamente por esta misma vía y proceda a su destrucción.
+
+The information contained in this transmission is confidential and privileged information intended only for the use of the individual or entity named above. If the reader of this message is not the intended recipient, you are hereby notified that any dissemination, distribution or copying of this communication is strictly prohibited. If you have received this transmission in error, do not read it. Please immediately reply to the sender that you have received this communication in error and then delete it.
+
+Esta mensagem e seus anexos se dirigem exclusivamente ao seu destinatário, pode conter informação privilegiada ou confidencial e é para uso exclusivo da pessoa ou entidade de destino. Se não é vossa senhoria o destinatário indicado, fica notificado de que a leitura, utilização, divulgação e/ou cópia sem autorização pode estar proibida em virtude da legislação vigente. Se recebeu esta mensagem por erro, rogamos-lhe que nos o comunique imediatamente por esta mesma via e proceda a sua destruição

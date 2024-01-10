@@ -1,0 +1,47 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft 1968 South Africa (Pty) Limited
+Ticket Number	WIOCCEW130887
+External Ref	
+Incident Start Date/Time	09/03/2023 20:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C170-0027	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0028	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0031	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0032	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+CA-MU-C170-0033	1x10Gbps from Cape Town, SADC to London, LD10 Equinix Slough via WACS.	10	SADC, Cape Town	London
+Most Recent Message:
+
+Please take note of the scheduled maintenance activity;
+
+Maintenance Window
+Start Date / Time: 9th Mar 2023 20:00 UTC
+End Date / Time: 10th Mar 2023 01:00 UTC
+
+Impact on Service(s)
+5 hours downtime
+
+Description of Works
+Maintenance activity on our network to enhance service resilience
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

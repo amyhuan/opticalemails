@@ -1,0 +1,35 @@
+Scheduled Maintenance Window Notification
+
+Dear valued customer,
+
+Please be informed of an upcoming maintenance window that will take place on October 8, 2023.
+
+Customer:	Microsoft Corp. - TTI
+Maintenance ticket #:	MW-42847
+Notification date:	Monday, October 2, 2023
+Start date:	Sunday, October 8, 2023 - 3:00 pm
+End date:	Sunday, October 8, 2023 - 6:00 pm
+Time zone:	Mountain Daylight Time GMT-6
+Window time frame:	3 hours
+Expected service outage:	No outage expected
+Event description:	Long-distance fiber segment maintenance in order to prevent uncontrolled impacts on services and ensure network sustainability. We will be working to prioritize restoring your services as soon as possible.
+Location:	Reynosa, Tamaulipas
+Affected Circuit ID(s):	Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799182
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799184
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808812
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808813
+
+
+
+Change Management
+
+chmgt@flo.net
+US +1 915 534 8105
+MX +52 656 692 1199
+flo.net
+
+Flō Networks was formerly known as Transtelco / Flō Networks era anteriormente conocido como Transtelco.
+
+CONFIDENTIALITY NOTICE: This message is intended only for the individual or entity to whom it is addressed. If you are not the intended recipient you are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited.
+
+AVISO DE CONFIDENCIALIDAD:Esta comunicación es sólo para el uso de la persona o entidad a la que se dirige y puede contener información privilegiada, confidencial y exenta de divulgación bajo la legislación aplicable. Si no es el destinatario de esta información, se le notifica que cualquier uso, difusión, distribución o copia de la comunicación está estrictamente prohibido.

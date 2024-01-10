@@ -1,0 +1,30 @@
+Reschedule Notification, Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times., Maintenance Ticket #:,  , TTN-0006801558, Urgency:,  , Demand, Date Notice Sent:,  , 19-Jun-2023, Customer:,  , Microsoft Corporation, Maintenance Window, 1, st,  , Activity Date, 01-Jul-2023 00:01 to 01-Jul-2023 05:00 ( Eastern ), 01-Jul-2023 04:01 to 01-Jul-2023 09:00 ( GMT ), Location of Maintenance:,  , 2797 Hamilton Ave, Cleveland, OH, Reason for Maintenance:,  , Zayo is experiencing a software bug that is preventing stability of our services, we will performing a reboot of the system to clear this issue and restore stability in our network., Expected Impact:,  , Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities., Circuit(s) Affected:, Circuit Id, Expected Impact, A Location Address, Z Location Address, Legacy Circuit Id, OQYX/268480//ZYO , Hard Down - Duration of maintenance window , 644 Logistics Dr Cheyenne, WY. USA , 10880 Airman Ave Manassas, VA. USA ,  , Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling., Maintenance Team Contacts:, Zay, o,  Global Change Management Team/, Équipe,  , de,  , Gestion,  , du,  , Changement,  , Global Zay, o,  , Zayo | Our Fiber Fuels Global Innovation,  , Toll free/, N, o,  sans , frais, :,  , 1.866.236.2824,  , United Kingdom Toll Free/, N, o,  sans,  , frais,  , Royaume-Uni, :,  , 0800.169.1646,  , Email/, Courriel:,  , mr@zayo.com,  ,  , Website, /, Site Web:,  , https://www.zayo.com,  , Purpose,  | , Network Map,  , | , Escalation List,  , | , LinkedIn,  , | , Twitter,  , | , Tranzact,  ,  ,  ,  , This communication is the property of Zayo and may contain confidential or privileged information. If you have received this communication in error, please promptly notify the sender by reply e-mail and destroy all copies of the communication and any attachments.,  ,   ,  ,  ,  ,  , Reschedule Notification
+
+Zayo or one of its providers has rescheduled the maintenance listed below. Please make a note of revised dates and times.
+
+Maintenance Ticket #: TTN-0006801558
+
+Urgency: Demand
+
+Date Notice Sent: 16-Jun-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+23-Jun-2023 00:01 to 23-Jun-2023 05:00 ( Eastern )
+23-Jun-2023 04:01 to 23-Jun-2023 09:00 ( GMT )
+
+Location of Maintenance: 2797 Hamilton Ave, Cleveland, OH
+
+Reason for Maintenance: Zayo is experiencing a software bug that is preventing stability of our services, we will performing a reboot of the system to clear this issue and restore stability in our network.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/268480//ZYO	Hard Down - Duration of maintenance window	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

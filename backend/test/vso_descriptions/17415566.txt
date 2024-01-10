@@ -1,0 +1,35 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018548
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A schedule work will performed in order to implement network optimization. // Se realizara un trabajo programado con la finalidad de implementar optimizaciones en la red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 10 MIN
+
+LOCATION // LOCALIDAD: Santiago
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+09-Mar-2023 14:30 - 09-Mar-2023 20:00 (MAIN)
+
+10-Mar-2023 14:30 - 10-Mar-2023 20:00 (BACK UP 1)
+
+15-Mar-2023 03:00 - 15-Mar-2023 09:00 (BACK UP 2)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+RIO/EQU SAOPAULO/MSFT 100GB S011
+
+CRT-010094

@@ -1,0 +1,38 @@
+Ticket Number: 02085910
+
+Service Affecting: Yes
+Impact: 5 Hours Outage
+ 
+Reason for Request: Card Defect
+
+Location Description: Brussels, Belgium.
+
+Start Time: 2023-02-03 23:00 GMT
+End Time: 2023-02-04 04:00 GMT
+
+Service:
+Number, ID, Name	Location A
+Location Z	Work
+Status
+S00372640, C35346-953,
+Zaventem to Russelsheim, LH Wave, 100 Gbit/s	A: Interxion BRU1, Wezembeekstraat 2, Zaventem
+Z: NTT FRA3 Ruesselsheim campus (old e-shelter), Karl-Landsteiner-Ring 4, Russelsheim	Planned
+S00372677, C35346-969,
+Zaventem to Russelsheim, LH Wave, 100 Gbit/s	A: Interxion BRU1, Wezembeekstraat 2, Zaventem
+Z: NTT FRA3 Ruesselsheim campus (old e-shelter), Karl-Landsteiner-Ring 4, Russelsheim	Planned
+S00372678, C35346-970,
+Zaventem to Russelsheim, LH Wave, 100 Gbit/s	A: Interxion BRU1, Wezembeekstraat 2, Zaventem
+Z: NTT FRA3 Ruesselsheim campus (old e-shelter), Karl-Landsteiner-Ring 4, Russelsheim	Planned
+S00372679, C35346-971,
+Zaventem to Russelsheim, LH Wave, 100 Gbit/s	A: Interxion BRU1, Wezembeekstraat 2, Zaventem
+Z: NTT FRA3 Ruesselsheim campus (old e-shelter), Karl-Landsteiner-Ring 4, Russelsheim	Planned
+S00372680, C35346-972,
+Zaventem to Russelsheim, LH Wave, 100 Gbit/s	A: Interxion BRU1, Wezembeekstraat 2, Zaventem
+Z: NTT FRA3 Ruesselsheim campus (old e-shelter), Karl-Landsteiner-Ring 4, Russelsheim	Planned
+S00372681, C35346-973,
+Zaventem to Russelsheim, LH Wave, 100 Gbit/s	A: Interxion BRU1, Wezembeekstraat 2, Zaventem
+Z: NTT FRA3 Ruesselsheim campus (old e-shelter), Karl-Landsteiner-Ring 4, Russelsheim	Planned
+
+
+
+ref:00D200000000A05.5004G00002WAluP:ref

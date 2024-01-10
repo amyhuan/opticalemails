@@ -1,0 +1,46 @@
+Planned maintenance to our network infrastructure
+No services impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+Southern Cross Hazardous Planned Maintenance SR#251541_5
+
+Hazardous Condition: Resolve Low Optical Return Loss at Output le4CPN3/AMPMON-42-2-5 : The Southern Cross Network Operations Centre wishes to advise you of planned work to correct a Low Optical Return Loss condition on a card port. This work in itself is not traffic impacting, but there is a risk to traffic on adjacent ports and fibres.
+
+
+Reference number
+PN303909
+
+
+Start time
+Monday, 05 Jun 2023 17:00:00 (UTC)
+
+
+End time
+Tuesday, 06 Jun 2023 01:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 90015279
+LAX SYD EPL 90022027
+
+
+Expected impact
+0 minutes impact - No outage expected
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance

@@ -1,0 +1,28 @@
+Dear valued customer,
+
+Eurofiber would like to inform you that we will be having a scheduled maintenance on our network soon. This work is necessary to continue guaranteeing the high quality and reliability of our network.
+We will make sure to minimize the duration of any impact on your connection(s). These activities have been registered as KA-915003 .
+The service window runs from April 11, 2023 - 00:00 local time till April 11, 2023 - 06:00 local time. Our local time is CET in the winter and CEST during the summer.
+
+Reconstruction work is carried out by the local/county council. Eurofiber is obliged to physically move a section of our network. We are unable to provide a specific timetable or order of works. Please consider that the interruption may last during the complete service window.
+
+
+This work is carried out for contract 252429 and this table shows the connection(s) involved:
+
+Contract number	Location A	Frame A	Frame number A	Tray A	Position A	Section name	Location B	Frame B	Frame number B	Tray B	Position B
+252429	SK0012	EXT08	01	1	1	MDMR0001-SK0012/0001	MDMR0001	EXT02	01	1	5
+252429	SK0012	EXT08	01	1	2	MDMR0001-SK0012/0001	MDMR0001	EXT02	01	1	6
+252429	MDMR0008	ODF05_AX309	01	1	1	MDMR0008-SK0012/0001	SK0012	EXT01	01	1	1
+252429	MDMR0008	ODF05_AX309	01	1	2	MDMR0008-SK0012/0001	SK0012	EXT01	01	1	2
+252429	MDMR0008	ODF05_AX309	01	1	5	MDMR0008-SK0012/0003	SK0012	EXT01	01	1	5
+252429	MDMR0008	ODF05_AX309	01	1	6	MDMR0008-SK0012/0003	SK0012	EXT01	01	1	6
+Address(es) of location(s):
+SK0012 ,
+hegedyk 8
+8601ZR SNEEK
+MDMR0008 ,
+agriport 570
+1775TB MIDDENMEER
+MDMR0001 ,
+agriport 601
+1775TK MIDDENMEER

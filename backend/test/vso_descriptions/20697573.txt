@@ -1,0 +1,25 @@
+Dear Customer,
+
+ 
+
+Please be advised that an Emergency planned maintenance is scheduled as follows;
+
+ 
+
+1. Maintenance window : 04-May, 10:00 ~ 18:00 UTC
+
+2. Expected impact : 120 minutes down hard during the maintenance work
+
+3. Maintenance details : Module replacement work (DTN-X).
+
+4. Service impacted : 500175284004
+
+ 
+
+We apologize for the inconvenience caused.
+
+ 
+
+Best regards,
+
+KO

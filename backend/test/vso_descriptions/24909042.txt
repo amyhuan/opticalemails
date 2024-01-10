@@ -1,0 +1,50 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Wednesday 23rd August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------------
+
+Change ID                                            :     CRQ000003338272
+
+         
+
+Scheduled Date                                    :     Wednesday 23rd August 2023
+
+
+Maintenance Window                            :     23-08-2023 19:00 UTC to 24-08-2023 00:00 UTC
+
+                                                   
+
+Activity                                                :     TE || planned Maintenance activity to clear high fiber loss issue in EIG Segment S2.7 North Route
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                :      Non-Service Affecting
+                           
+Duration of Impact                               :      Circuit will get Switching hits during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Circuit ID
+
+Customer Name
+
+MIRL-IN-1824736
+
+14211010
+
+Microsoft Ireland Operations Ltd.

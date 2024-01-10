@@ -1,0 +1,33 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006610797
+
+Urgency: Demand
+
+Date Notice Sent: 23-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+07-Apr-2023 00:01 to 07-Apr-2023 05:00 ( Eastern )
+07-Apr-2023 04:01 to 07-Apr-2023 09:00 ( GMT )
+
+Location of Maintenance: 21691 Filigree Ct, Ashburn, VA
+
+Reason for Maintenance: Zayo will perform maintenance for upgrading er1.iad47.us to JunOS 20
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+IPYX/177537//ZYO	Hard Down - up to 5 hours	12012 Sunset Hills Rd Reston, VA. USA	21691 Filigree Ct Ashburn, VA. USA	
+IDIA/274699//ZYO	Hard Down - up to 5 hours	21721 Filigree Ct Ashburn, VA. USA	21691 Filigree Ct Ashburn, VA. USA	ACCX/274699//ZYO
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:

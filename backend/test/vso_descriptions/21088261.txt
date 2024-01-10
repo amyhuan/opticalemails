@@ -1,0 +1,13 @@
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC230791
+Action and Reason:	Software upgrade of a network device due to vendor recommendation.
+Location:	Helsinki, Finland
+
+
+Service Window: PWIC230791.1 primary	Work Status: Confirmed
+Service window start:	2023-05-20 21:00 UTC
+Service window end:	2023-05-21 00:00 UTC
+Impacted Services	
+IC-367064 (TRIM.20210225.06)	IP Transit	1 x 2 hours

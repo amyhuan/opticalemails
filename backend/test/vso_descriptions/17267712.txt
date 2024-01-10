@@ -1,0 +1,73 @@
+EMERGENCY-MAINTENANCE: Increased latency between KUL1 and KUL2 (OPEN)
+
+DE-CIX Maintenance ID: DXDB:MAINT:1385
+
+Work start: 2023-02-24 17:00 UTC
+Work end: 2023-02-24 22:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: Partial Disruption
+
+Affected entities:
+Site: DE-CIX Kuala Lumpur (all devices)
+
+Work description:
+
+Dear valued customers,
+
+Be advised that our service provider will perform urgent maintenance, resulting in increased latency between KUL1 and KUL2 locations within the specified time frame.
+
+We do not expect a service disruption though an alternate path will be available at the given time.
+
+Affected Customers:
+AS42 - Packet Clearing House
+AS6447 - RouteViews
+AS6939 - Hurricane Electric
+AS8075 - Microsoft Corporation
+AS13335 - Cloudflare, Inc
+AS15169 - Google Inc
+AS16509 - Amazon
+AS17666 - Hitachi Sunway Data Centre Services Sdn Bhd
+AS20940 - Akamai Technologies, Inc.
+AS32261 - Subspace Communication LLC
+AS32934 - Meta
+AS38182 - Extreme Broadband
+AS38280 - Monash University Malaysia Sdn Bhd
+AS45102 - Alibaba Group
+AS45410 - Allo Technology Sdn. Bhd.
+AS45839 - Shinjiru Technology Sdn Bhd
+AS46015 - Exabytes Network Sdn. Bhd.
+AS54113 - Fastly
+AS56111 - Agarto Sdn Bhd
+AS56140 - ModernOne Data Solutions Sdn Bhd
+AS56286 - IX Telecom Sdn Bhd
+AS63916 - Techavenue International Ltd
+AS64010 - BasicBrix
+AS131310 - PLTPRO Data Centre Sdn Bhd
+AS132111 - Bigband Sdn. Bhd.
+AS132241 - SKSA Technology Sdn. Bhd.
+AS132326 - F1 Communications Sdn Bhd
+AS132372 - GB Network Solutions Sdn Bhd
+AS133421 - Innet Solutions Sdn Bhd
+AS134152 - XMT Technologies Sdn Bhd
+AS134202 - E-World Communication Sdn. Bhd.
+AS134468 - Tokio Marine Insurans (Malaysia) Berhad
+AS134553 - i-Skill Dynamics Sdn Bhd
+AS136520 - MYKLNET Sdn Bhd
+AS136907 - Huawei Software Technologies Co., Ltd.
+AS136978 - JNI System Sdn Bhd
+AS138040 - DNSVault Sdn. Bhd.
+AS138359 - DataKL Solutions Sdn Bhd
+AS138932 - Gridcloud Network Sdn. Bhd.
+AS142412 - Nexworks
+AS146960 - Affin Hwang Asset Management Berhad
+AS149179 - Mont Kiara International School
+DE-CIX DirectCLOUD - AWS DirectConnect
+DE-CIX DirectCLOUD - Microsoft Azure ExpressRoute
+DE-CIX Microsoft Azure Peering Service (MAPS)
+
+
+If you have any questions, do not hesitate to ask!
+
+Best regards,

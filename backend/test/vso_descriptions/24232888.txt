@@ -1,0 +1,69 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019836
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: An emergency work will be performed in order to improve the span loss between POP-OLA3. // Se realizará un trabajo de emergencia con la finalidad de mejorar span loss entre POP-OLA3.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HITS UP TO 15 MIN
+
+LOCATION // LOCALIDAD: POP-OLA3, Guatemala
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+13-Jun-2023 06:00 - 13-Jun-2023 11:00
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S001
+
+CRT-007322
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S002
+
+CRT-007323
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S003
+
+CRT-009612
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S004
+
+CRT-009613
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009823
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S006
+
+CRT-009824
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S007
+
+CRT-010257
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S008
+
+CRT-010258
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S009
+
+CRT-010259
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S010
+
+CRT-010260
+
+[English]

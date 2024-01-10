@@ -1,0 +1,78 @@
+Change Reference Number:
+
+C193073
+ 	 
+Start Date & Time:
+
+27/06/2023 00:00:00
+
+ 	 
+Finish Date & Time:
+
+27/06/2023 06:00:00
+
+ 	 
+Time Zone:
+
+Australia/South
+
+ 	 
+Change Description:
+
+Network Fault Fixing Activity
+
+ 	 
+Location of Change:
+
+11-15 Aruma St,Regency Park,SA,5010
+0 Watchman-Halbury Rd,Balaklava,SA,5461
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+04:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00001314"
+"SRVCKT00001319"
+"SRVCKT00001327"
+"SRVCKT00001356"
+"SRVCKT00002016"
+"SRVCKT00002089"
+"SRVCKT00002647"
+"SRVCKT00002688"
+"SRVCKT00002704"
+"SRVCKT00002709"	"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"	"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"
+"1 William St, PERTH, WA, 6000, Australia"	"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"
+"826-826 LORIMER St, PORT MELBOURNE, VIC, 3207, Australia"

@@ -1,0 +1,18 @@
+Dear Microsoft Ireland Operations Limited,
+
+Please note that Arelion will perform maintenance work as outlined below.
+Planned work reference:	PWIC239753
+Action and Reason:	Urgent maintenance to perform upgrade and reload of router and fix missing fan tray
+Location:	Amsterdam, Netherlands
+
+
+Service Window: PWIC239753.1 primary	Work Status: Confirmed
+Service window start:	2023-12-06 23:00 UTC
+Service window end:	2023-12-07 01:00 UTC
+Impacted Services	
+IC-356576	IP Transit	1 x 2 hours
+
+
+
+Best Regards
+Customer Support Center

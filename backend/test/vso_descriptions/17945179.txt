@@ -1,0 +1,115 @@
+Dear Customer,
+
+ 
+
+ 
+
+Please see the below Planned maintenance:
+
+ 
+
+*Donghwa Statement
+
+Donghwa Planned Maintenance Notice
+
+東華計劃性維運通知單
+
+Circuit ID
+
+MS-0027
+
+MS-0039
+
+MS-0029
+
+MS-0031
+
+MS-0033
+
+MS-0038
+
+MS-0047
+
+MS-0048
+
+MS-0049
+
+MS-0050
+
+MS-0051
+
+MS-0052
+
+MS-0053
+
+MS-0054
+
+MS-0057
+
+MS-0058
+
+ Ticket Number
+
+MS20230412001
+
+1st Window
+
+Planned Event Start:  18-Apr-2023 22:00:00 (GMT+8)
+
+ 
+
+Planned Event End:   19-Apr-2023 06:00:00 (GMT+8)
+
+ 2nd Window
+
+Planned Event Start:  19-Apr-2023 22:00:00 (GMT+8)
+
+ 
+
+Planned Event End:   20-Apr-2023 06:00:00 (GMT+8)
+
+ Operate Time
+
+8 hours x 2
+
+ 維運時間
+
+ Impact / Location
+
+Risk only / SJC HK-JP
+
+ 影響地點
+
+ Maintenance Reason
+
+Power Optimization on the vendor’s channel
+
+ 維運原因
+
+ 
+
+ 
+
+    Please feel free to contact our NOC if you have any question and team will share the information at the earliest.
+
+    We seek your cooperation in completing this activity. We regret for any inconvenience this work may cause you and your customers.
+
+ 
+
+ 
+
+ 
+
+Best Regards,
+
+Billy Sun
+
+Donghwa Telecom Co. Ltd
+
+Unit A, 7/F, Tower A, Billion Centre, 1 Wang Kwong Road,
+
+Kowloon Bay, Kowloon, Hong Kong.
+
+Tel: 3586 2759 / 852-3586-2622(24hr Hotline)
+
+Fax: (852) 3586 3936

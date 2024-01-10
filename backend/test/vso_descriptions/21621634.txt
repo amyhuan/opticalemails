@@ -1,0 +1,58 @@
+Classification: Restricted
+
+ 
+
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C141038
+
+Description
+
+PW for card replacement in order to Troubleshoot "Temperature Out Of Range" alarm at Infinera AOFX 5-B-3 in Abu Talat. (Ref NW TT : NW7291)
+
+Location
+
+Abu Talat.
+
+Duration
+
+3 Hours Downtime
+
+Planned Start
+
+05/24/23 07:00:00
+
+Planned End
+
+05/24/23 11:00:00
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille)
+
+Carrier ref
+
+PW3381
+
+ 
+
+ 
+
+Regards ,
+
+ 
+
+Fayis Neroth
+
+Consultant
+
+Ooredoo Qatar
+M: +974 74089340

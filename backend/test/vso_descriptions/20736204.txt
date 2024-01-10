@@ -1,0 +1,33 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006655638
+
+Urgency: Planned
+
+Date Notice Sent: 02-May-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+16-May-2023 22:00 to 17-May-2023 05:00 ( Central )
+17-May-2023 03:00 to 17-May-2023 10:00 ( GMT )
+
+Location of Maintenance: Hinton, IA
+
+Reason for Maintenance: Zayo will implement planned maintenance to relocate a section of cable and is required in order to proactively avoid unplanned outages due to an road construction project. The estimated GPS location of work is LAT: 42.630641 LONG: -96.290630.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/283507//ZYO	Hard Down - Duration of maintenance window	550 SE White Crane Rd West des Moines, IA. USA	511 11th Ave S Minneapolis, MN. USA	
+OQYX/330747//ZYO	Hard Down - Duration of maintenance window	550 SE White Crane Rd West des Moines, IA. USA	511 11th Ave S Minneapolis, MN. USA	
+OQYX/330748//ZYO	Hard Down - Duration of maintenance window	550 SE White Crane Rd West des Moines, IA. USA	511 11th Ave S Minneapolis, MN. USA	
+OQYX/282138//ZYO	Hard Down - Duration of maintenance window	550 SE White Crane Rd West des Moines, IA. USA	511 11th Ave S Minneapolis, MN. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.

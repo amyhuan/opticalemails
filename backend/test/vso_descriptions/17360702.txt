@@ -1,0 +1,35 @@
+SPARK PLANNED EVENT NOTIFICATION
+_____________________________________
+To        : Operations Center
+From      : Spark Service Events
+Date      : 28/02/23 03:01:25 PM
+Subject   : PLANNED EVENT NOTIFICATION SED 123707
+Permit #  : 2302/2608
+
+Spark New Zealand wishes to advise of PLANNED work affecting
+Microsoft Nz Ltd.
+
+DATE                    : 14/03/23
+NZ Standard Time        : 12:00:01 AM
+DURATION (HR:MIN:SEC)   : 006:00:00
+
+PROBLEM
+Up to a 6 hour outage between 14/03 00:00 and 14/03 06:00 due to Telstra Planned work.
+
+CIRCUIT INFORMATION
+______________________________________________________________________________
+CircuitID     Site    Keycode        Address
+______________________________________________________________________________
+AUC-SYD_NP256 INTD                   7A PARKHEAD PLACE ALBANY AUCKLAND
+-----------------------------------------------------------------------------
+
+
+______________________________________________________________________________
+
+If you have any queries on this outage please contact SPARK
+SERVICE EVENTS on : -
+
+Phone     : 0800-438 286
+Email     : EventNotification@spark.co.nz
+SED Ref   : 123707
+________________________________

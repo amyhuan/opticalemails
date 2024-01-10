@@ -1,0 +1,99 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 22/05/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230511-0001 URGENT CA FIBER Fiber_Southern Relocation RELOCATION BUKIT SENING - PENAWAR 48C_J_B, PNW-ST 48C_J_C, PGG-PNW 48C_J_A & ATL-PNW 48C_J_A DUE TO LANDSLIDE AND OTHER DAMAGES CAUSED BY FLOOD
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+JOHOR (SOUTHERN)
+
+PLANNED START ( with time zone )  
+
+2023-05-26 00:00:00 (GMT +8)
+
+PLANNED END
+
+2023-05-26 08:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-05-26 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-05-26 08:00:00
+
+EXPECTED OUTAGE DURATION
+
+1 HOUR
+
+JUSTIFICATION
+
+Relocation BSG-PNW 48C_J_B, PNW-ST 48C_J_C, PGG-PNW 48C_J_A & ATL-PNW 48C_J_A; plan relocation work of TM infrastructure at Jalan Highway Penawar - Sg. Rengit due to landslide and other damages caused by flood in Kota Tinggi.
+
+CIRCUIT INVOLVED 
+
+ 
+
+NETWORK ID	Expected Outage
+IE1031382327
+
+1 HOUR
+
+IE1031382269
+
+1 HOUR
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.
+
+ 
+
+Please do not hesitate to share your queries about this planned maintenance activity by email to pmw.nmcc@tm.com.my or +60 11-5853-7473 (WhatsApp only) or direct call 60383184926/60383179600/1-800-88-9947
+
+or contact TM Wholesale Contact Centre at  1-800-88-1090 or 60383182797 (for international) 
+
+ 
+
+Leading Change, Driving Transformation
+
+ 
+
+Thanks and best regards,  
+
+ 
+
+Nur Hasyikim Binti Mat Yusop hasyikim@tm.com.my
+
+Work team CM Notification, 
+
+Operation Performance & Change Management,
+
+Section Operations Quality Assurance,
+
+Network Operation Command Center, NOCC.

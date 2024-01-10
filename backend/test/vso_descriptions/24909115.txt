@@ -1,0 +1,15 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	EMERGENCY PLANNED ACTIVITY | SA | Fiber Maintenance Activity | 25/Aug/2023 16:00 UTC TO 25/Aug/2023 22:00 UTC
+PE Reference:	C4428109
+PE Type:	Service Affecting
+PE Category:	ILD Standard Change
+Start time IST:	08/25/2023 21:30:00
+End Time IST:	08/26/2023 03:30:00
+Associated Service:	JIOGIPLMUMSIN0224
+Impact:	Service will be down during activity window.
+Comment:	Our supplier performing Emergency Planned Work for Fiber Maintenance Activity within PERAK region .
+This mail is automatically generated, please do not reply it. If any query regarding mentioned activity, Please Contact us on Jio.NOCILDOperations@ril.com ( mailto:Jio.NOCILDOperations@ril.com )
+
+Thanks and Regards

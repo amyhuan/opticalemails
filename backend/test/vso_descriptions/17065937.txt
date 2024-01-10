@@ -1,0 +1,46 @@
+Maintenance Window                           :     15-02-2023 22:00 GMT to 16-02-2023 04:00 GMT
+
+         
+
+Activity                                               :     Urgent & mandatory faulty line board exchange
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                               :     Service Affecting
+                           
+Duration of Impact                              :     Circuit will go down for 240mins during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic associ

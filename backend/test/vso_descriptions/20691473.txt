@@ -1,0 +1,19 @@
+Maintenance Ticket #: TTN-0006695903
+
+Urgency: Demand
+
+Date Notice Sent: 02-May-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+07-May-2023 07:00 to 07-May-2023 18:00 ( Pacific )
+07-May-2023 14:00 to 08-May-2023 01:00 ( GMT )
+
+Location of Maintenance: Wheeler, WA
+
+Reason for Maintenance: Zayo Third-Party service provider will implement planned maintenance to perform network enhancement to ensure continued service reliability
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.

@@ -1,0 +1,44 @@
+Dear Customer,
+
+Please be advised of below Planned Activity:
+
+PE Reference
+
+C3905856
+
+PE Category
+
+Planned maintenance
+
+Description
+
+Our supplier will be performing Software upgradation
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+SO6084782506/ JIOGIPLMUMSIN0223
+
+SO6084842330/ JIOGIPLMUMSIN0248
+
+SO6085053694/ JIOGIPLMUMSIN0249
+
+Start Time
+
+16 Feb 2023 22:00 UTC
+
+End Time
+
+17 Feb 2023 04:00 UTC
+
+Impact
+
+Circuit will be down during activity window
+
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+
+Please contact ILD NOC on +91 22 796 46434 /

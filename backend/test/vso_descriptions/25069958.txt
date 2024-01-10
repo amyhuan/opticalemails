@@ -1,0 +1,19 @@
+Dear Esteemed Customer,
+    This is to inform you that the following maintenance activity is about to commence. 
+
+    Reference #:                            CRQ000000011304
+    Organization:                           MICROSOFT
+    Type:                                   Risk Only 
+    Location of Equipment:                  N/A 
+    Maintenance Purpose:                    PLANNED MAINTENANCE ACTIVITY 
+    Start date and time (GMT):              9/5/2023 9:00:00 PM
+    End date and time (GMT):                9/6/2023 6:00:00 AM
+    Work Duration (Mins):                   540.00 
+    Estimated Downtime (Mins):              0.00
+    Affected Circuit Details:               MN-C-RAC-LIS-IPL-100GE-A00121
+    
+    Regards,
+    Change Management
+    Direct Number : +234 (1) 448 9500
+    Email: gnoc@mainone.net
+    Visit us at : www.mainone.net

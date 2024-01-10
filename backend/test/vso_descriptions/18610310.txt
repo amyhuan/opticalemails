@@ -1,0 +1,15 @@
+Dear Microsoft,  ,  ,  , We finished the maintenance on April 22th but can’t do the maintenance on April 23th because the condion is not guaranteed.,  , So we would like to change the maintenance TW as below:,  , TW:,  , 9:00 (April 24th 2023) – 15:00 (April 24th 2023) (GMT+7).,  ,  ,  , Sorry for the inconvenience and thanks for your understanding.,  ,  ,  , Thanks and Brgds!,  , ---------------------------------,  , Phạm Ngọc Hùng,  , P.TD-VHKTTC-VTNet,  , Mobile: 0966514999,  ,  ,  , Dear Microsoft,
+
+There will an urgent maintenance on our network for repairing the attenuation on the backbone as below:
+
+TW:
+
+22:30 (April 20th 2023) – 04:30 (April 21th 2023) (GMT+7)
+
+22:30 (April 22th 2023) – 04:30 (April 23th 2023) (GMT+7)
+
+Down time: 3 hours.
+
+Affected cct: IPL004488.
+
+Kindly help to inform an thanks a lot for your understanding.

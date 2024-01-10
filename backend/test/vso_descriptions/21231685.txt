@@ -1,0 +1,28 @@
+MAINTENANCE: Configuration change on AWS Onramps - MAD (OPEN)
+
+DE-CIX Maintenance ID: DXDB:MAINT:1502
+
+Work start: 2023-05-22 22:00 UTC
+Work end: 2023-05-23 01:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: Full Disruption
+
+Affected entities:
+Interface: DXDB:PNI:11917
+
+Work description:
+
+In order to accommodate future customer growth and expand our product portfolio at the MAD AWS Onramps, we need to modify the configuration and activate LACP.
+However, please note that a full-service disruption for our customers will occur during the configuration change.
+
+Affected Customers:
+AS8560 - IONOS SE
+AS29119 - AireNetworks
+AS39551 - Centre de Telecomunicacions i Tecnologies de la Informacio de la Generalitat de Catalunya (CTTI)
+AS202054 - Grupo SYS4NET
+DE-CIX DirectCLOUD - AWS DirectConnect
+
+
+If you have any questions, do not hesitate to ask!

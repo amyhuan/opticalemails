@@ -1,0 +1,70 @@
+will need Microsoft to ceate an access ticket with Databank for our tech to access equipment.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-BY21-SN6C-SWAN-0001-0::100GBE-1
+MSFT-BY21-SN6C-SWAN-0002-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0041-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0042-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0048-0::100GBE-1
+
+
+will need Microsoft to ceate an access ticket with Databank for our tech to access equipment.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-BY21-SN6C-SWAN-0001-0::100GBE-1
+MSFT-BY21-SN6C-SWAN-0002-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0041-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0042-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0048-0::100GBE-1
+
+
+will need Microsoft to ceate an access ticket with Databank for our tech to access equipment.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-BY21-SN6C-SWAN-0001-0::100GBE-1
+MSFT-BY21-SN6C-SWAN-0002-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0041-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0042-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0048-0::100GBE-1
+
+
+will need Microsoft to ceate an access ticket with Databank for our tech to access equipment.
+
+
+Please open a VSO#, provide us with the VSO# number and submit the VSO# for approval.
+
+Maintenance Impact: The Following circuits will be impacted by the maintenance.
+
+Circuit Impact
+
+SWAN Circuit Impacts
+
+MSFT-BY21-SN6C-SWAN-0001-0::100GBE-1
+MSFT-BY21-SN6C-SWAN-0002-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0041-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0042-0::100GBE-1
+MSFT-BY4A-SN4A-SWAN-0048-0::100GBE-1

@@ -1,0 +1,43 @@
+, Dear Client,, Please note the update below on your ticket: , Incident Information,  , Entity Name , Microsoft Ireland Operations Ltd , Ticket Number , WIOCCEW138604 , External Ref ,  , Incident Start Date/Time , 27/07/2023 21:00 HRS UTC , Priority , Planned - Outage , Case Category ,  , Case Sub-Category ,  , Case Status , Rescheduled - Not Started , Service Information,  , Service ID, Description, Capacity, A-End, B-End, CA-MU-C208-0012 , 1x100Gbps from Lagos, Rack Centre to SADC, Cape Town. , 100 , Rack Centre - Lagos , SADC, Cape Town , Most Recent Message:,  ,  , Please note the maintenance activity has been rescheduled as detailed below;,  , Maintenance Window , Start Date / Time: 27th Jul 2023 21:00 UTC , End Date / Time: 28th Jul 2023 03:00 UTC,  , Impact on Service(s) , 3 hours downtime .,  , Description of Works , Maintenance activity to perform firmware upgrade on our node at Rack Centre,  , We apologize for any inconvenience that this maintenance activity may cause.,  , For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket.,  ,  , Sincerely, ,  , WIOCC Change Management,  ,  ,  , Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft Ireland Operations Ltd
+Ticket Number	WIOCCEW138604
+External Ref	
+Incident Start Date/Time	27/06/2023 21:00 HRS UTC
+Priority	Planned - Outage
+Case Category	
+Case Sub-Category	
+Case Status	Rescheduled - Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-MU-C208-0012	1x100Gbps from Lagos, Rack Centre to SADC, Cape Town.	100	Rack Centre - Lagos	SADC, Cape Town
+Most Recent Message:
+
+Please note the maintenance activity has been rescheduled as follows;
+
+Maintenance Window 
+Start Date / Time: 27th June 2023 21:00 UTC 
+End Date / Time: 28th June 2023 03:00 UTC
+
+Impact on Service(s) 
+3 hours downtime .
+
+Description of Works 
+Maintenance activity to perform firmware upgrade on our node at Rack Centre
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket.
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

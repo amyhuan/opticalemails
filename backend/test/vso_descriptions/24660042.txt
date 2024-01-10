@@ -1,0 +1,25 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3537\23D
+Date Time : 03/08/2023 06:00:00 to 03/08/2023 10:00:00 GMT (dd/mm/yyyy)
+Duration : 240 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+
+Outage Description : The following service(s) will be affected when this maintenance is in progress:
+Objective:
+Provider AAE1 Planned Work (PW3514): card reset or replacement to troubleshoot "Equipment control plane unreachable" alarm on 3-A-5 at Zafarana.
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

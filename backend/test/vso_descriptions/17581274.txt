@@ -1,0 +1,16 @@
+Date:         2023/3/27（月） 22:30 - 2023/3/28（火）03:30(JST)
+
+AS Number:    131937
+
+IP Address    IPv4 210.173.173.162
+              IPv6 2001:7fa:7:1170::cafe
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Dear JPNAP peering partners,
+
+This is Jun Kanai Tech-Dept from Joetsu Cable Vision(AS131937).
+
+We will be having a maintenance as follows.
+The BGP sessions will be down during this time.
+We appreciate your understanding and cooperation.

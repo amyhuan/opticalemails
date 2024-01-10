@@ -1,0 +1,46 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft South Africa
+Ticket Number	WIOCCEW131739
+External Ref	
+Incident Start Date/Time	18/03/2023 7:00 HRS UTC
+Priority	Planned - Advisory
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-ZA-C013-0017	Protected 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0022	Protected Backhaul 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0023	Protected Backhaul 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+Most Recent Message:
+
+Please take note of the scheduled maintenance activity below:
+
+Maintenance Window
+Start Date / Time: 18th Mar 2023 7:00 UTC
+End Date / Time: 18th Mar 2023 11:00 UTC
+
+Impact on Service(s)
+No downtime expected; service at risk
+
+Description of Works
+Maintenance activity to replace damaged Optic Fibre Cable. This is to reduce the observed high losses on the fiber.on our South Africa terrestrial network
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+ 
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

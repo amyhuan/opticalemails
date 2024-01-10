@@ -1,0 +1,14 @@
+Liberty Global - Network Maintenance Notification
+Reference: CRQ000001881469
+When: 31-03-2023 1:00 - 31-03-2023 6:00
+
+Description: The maintenance work involve software upgrade of the router. The expected downtime of the connection with you is ~10 s
+
+Impact: The BGP sessions under maintenance are
+
+AS6830	AS8075
+104.44.197.104	104.44.197.105
+2a01:111:2000:1::2a29	2a01:111:2000:1::2a2a
+Contact: Any questions about these works can be sent to noc@libertyglobal.com.
+
+The recipients list peering@microsoft.com, ioc@microsoft.com was selected from peeringdb.com.

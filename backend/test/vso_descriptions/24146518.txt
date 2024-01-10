@@ -1,0 +1,67 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C142358
+
+ 
+
+Description
+
+Global Cloud Xchange will be carrying planned activity of network optimization at Doha & Muscat
+
+Location
+
+Doha & Muscat
+
+Duration
+
+30 minutes Iutage
+
+Planned Start
+
+21-Jun-2023 20:00:00 GMT
+
+Planned End
+
+21-Jun-2023 22:00:00 GMT
+
+Backup Start
+
+26-Jun-2023 20:00:00 GMT
+
+Backup End
+
+26-Jun-2023 22:00:00 GMT
+
+Affected service/link
+
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5)
+
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351
+
+Carrier References
+
+PE2023060141700
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:

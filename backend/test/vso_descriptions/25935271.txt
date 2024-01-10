@@ -1,0 +1,79 @@
+[EXTERNAL] [Announce-FRA] [DE-CIX #836030] MAINTENANCE: Replacing edge1.fra09 with a new router in Frankfurt  (OPEN)
+
+This sender support@de-cix.net is from outside your organization. Block sender
+This sender support@de-cix.net is from outside your organization.
+announce-fra-request@lists.de-cix.net on behalf of DE-CIX Frankfurt 
+​
+announce-fra@lists.de-cix.net
+​
+
+MAINTENANCE: Replacing edge1.fra09 with a new router in Frankfurt (OPEN)
+
+DE-CIX Maintenance ID: DXDB:MAINT:1788
+
+Work start: 2023-12-06 23:00 UTC
+Work end: 2023-12-07 04:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: Full Disruption
+
+Affected entities:
+Device: edge01.fra9.de-cix.management
+
+Work description:
+
+Dear Valued Customers,
+
+We are excited to announce that we will upgrade and replace our edge devices with new routers in Frankfurt.
+This upgrade will enhance our network capacity and ensure that we are well-positioned to support our customers' future growth.
+
+We understand that uninterrupted service is critical to your business operations, and we have taken all necessary measures to minimize any potential impact.
+Our technical team will closely monitor the migration to ensure it is completed on time and without any issues.
+
+The migration window is scheduled between 2023-12-06 23:00 UTC and 2023-12-07 04:00 UTC.
+During this time, there may be brief periods of service disruption, but we will work to keep these to a minimum.
+
+We appreciate your understanding and cooperation during this upgrade process. If you have any questions or concerns, please do not hesitate to contact our support team.
+
+Affected Customers:
+
+AS204764 - Kyndryl Deutschland GmbH
+AS205881 - MAN Truck & Bus AG
+AS59675 - mywire Datentechnik GmbH
+AS12348 - ODN OnlineDienst Nordbayern GmbH & Co. KG
+AS398465 - Rackdog LLC
+AS205356 - SAP SE
+AS7473 - Singtel (Europe) Limited
+AS2857 - Universitaet Mainz
+AS32934 - Meta
+AS10122 - Netstar (SG) PTE. LTD.
+AS3209 - Vodafone AG & Co. KG
+AS8422 - NetCologne GmbH
+AS12322 - Free SAS
+AS35297 - Dataline LLC
+AS63949 - Linode
+AS13285 - TalkTalk Communications Ltd
+AS9121 - Turk Telekom
+AS8220 - COLT Telecom Group plc
+AS8560 - IONOS SE
+AS12189 - PhoenixNAP
+AS7342 - VeriSign
+AS202885 - Acronis Germany GmbH
+AS29990 - AppNexus Inc. (parent organization Xandr, Inc.)
+AS553 - BelWue
+AS34309 - Link11 GmbH
+AS9183 - Robert Bosch GmbH
+AS702 - Verizon Deutschland GmbH
+AS21859 - Zenlayer
+AS8075 - Microsoft Corporation
+
+
+If you have any questions, do not hesitate to ask!
+
+Best regards,
+--
+DE-CIX Customer Service
+
+DE-CIX Management GmbH | Lindleystr. 12 | 60314 Frankfurt am Main | Germany | https://nam06.safelinks.protection.outlook.com/?url=http%3A%2f%2fwww.de-cix.net%2f&data=05%7C01%7Cmoc%40microsoft.com%7C7e8d447e856a4efed36e08dbeb6a9f2d%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638362615452872329%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oZAt6uVy9t4Oig3iCrw%2BBTF12vtjxWhiZRQ%2fJtD4jNc%3D&reserved=0 | Phone +49 69 1730902 11 | Fax +49 69 4056 2716 | support@de-cix.net
+Geschaeftsfuehrer Ivaylo Ivanov, Sebastian Seifert | Handelsregister Koeln HRB 51135

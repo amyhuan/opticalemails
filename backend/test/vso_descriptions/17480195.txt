@@ -1,0 +1,68 @@
+Dear Sirs // Dear Sirs,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Below you will find our Scheduled Work Notification:
+
+NOTIFICATION NUMBER // NOTIFICATION NUMBER: SWX0018615
+
+NOTIFICATION TYPE // NOTIFICATION TYPE: Normal
+
+DESCRIPTION // DESCRIPTION: A scheduled work will be performed to correct degradation on fiber services. A scheduled work will be carried out in order to correct degradation in fiber services.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HIT UP TO 5 MINUTES
+
+LOCATION // LOCATION: Guatemala
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+14-Mar-2023 07:00 - 14-Mar-2023 12:00 (Main Window)
+
+15-Mar-2023 07:00 - 15-Mar-2023 12:00 (Backup Window)
+
+AFFECTED CIRCUITS // AFFECTED CIRCUITS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S001
+
+CRT-007322
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S002
+
+CRT-007323
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S003
+
+CRT-009612
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S004
+
+CRT-009613
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009823
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S006
+
+CRT-009824
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S007
+
+CRT-010257
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S008
+
+CRT-010258
+
+DAY/MSFT - EDGECONNEX/MSFT 100GB S010
+
+CRT-010260
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.

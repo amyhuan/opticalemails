@@ -1,0 +1,25 @@
+Dear Customer,
+
+ 
+
+Please be advised that an planned maintenance is scheduled as follows;
+
+ 
+
+1. Maintenance window : 20-July, 22:00 ~ 23:00 UTC
+
+2. Expected impact : 20 minutes down hard during the maintenance work
+
+3. Maintenance details : Service relocation activity at Shinduri CLS and Seocho Korea.
+
+4. Service impacted : 500175284003
+
+ 
+
+We apologize for the inconvenience caused.
+
+ 
+
+Best regards,
+
+Jo.

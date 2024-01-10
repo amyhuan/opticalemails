@@ -1,0 +1,47 @@
+Scheduled Maintenance #: 25883333
+
+Summary:
+
+What?
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to perform a DC power system upgrade/expansion.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-01-27 15:05:28 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+25883333-1
+
+Start	End
+2023-02-16 23:00 GMT (Greenwich Mean Time)	2023-02-17 05:00 GMT (Greenwich Mean Time)
+2023-02-17 00:00 CET (Central European Time)	2023-02-17 06:00 CET (Central European Time)
+2023-02-17 01:00 EET (Eastern European Time)	2023-02-17 07:00 EET (Eastern European Time)
+
+
+Maintenance Location(s): BUDAPEST, Hungary; SOFIA, Bulgaria
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	443595473	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	10 minutes	 
+MICROSOFT CORPORATION MCIO	443595472	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	10 minutes	 
+MICROSOFT CORPORATION MCIO	443595474	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	10 minutes	 
+MICROSOFT CORPORATION MCIO	443595469	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	10 minutes	 
+MICROSOFT CORPORATION MCIO	443595475	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	10 minutes	 
+MICROSOFT CORPORATION MCIO	443595471	N/A	100 GIG	SOFIA 22 BULGARIA	WARSZAWA MZ POLAND	Outage	10 minutes	 
+
+
+Click here for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.

@@ -1,0 +1,20 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+UMW Reference Number : U0524\23D-A1
+Date Time : 01/03/2023 10:00:00 to 01/03/2023 16:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1 PW TT
+Description : Emergency Fiber maintenance work to reroute cable between Ber Erida – Zafarana (BER-ZFR) Span in Seg X1.2. Services will be running via Sub-Segments X1.1.
+Planned Work Schedule : 10:00 GMT to 16:00 GMT/ 22nd February 2023
+Nature : Non Service Affecting
+Impact : Switching hits plus protection loss
+
+***************** AMENDMENT A1 *************

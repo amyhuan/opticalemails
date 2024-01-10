@@ -1,0 +1,16 @@
+ubject: Migration for AS8075 at MRS (SD: PR-12139) at MRS (SD: PR-12139)
+
+Comment:
+Hello Microsoft,
+
+This is a notification to inform you that Google will be performing a scheduled maintenance on 06 Jun 2023 01:00 PDT that will last approximately 3 hours.
+
+This maintenance will impact the following connection we have in MRS:
+Google ASN	Your ASN	Google Address	Your Address
+15169	8075	2001:4860:1:1::ff4	2001:4860:1:1::ff5
+15169	8075	72.14.203.146	72.14.203.147
+
+No action is required from you.
+This is an automated email. If you have any concerns or questions, please reply to this email.
+Many thanks,
+Google's Peering Team

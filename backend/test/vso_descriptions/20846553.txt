@@ -1,0 +1,19 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	PLANNED ACTIVITY | SA | Fiber Maintenance Activity | 05/05/2023 16:00 GMT to 05/06/2023 02:00 GMT
+PE Reference:	C4139155
+PE Type:	Service Affecting
+PE Category:	ILD Standard Change
+Start time IST:	05/05/2023 21:30:00
+End Time IST:	05/06/2023 07:30:00
+Associated Service:	JIOGIPLMUMSIN0223
+JIOGIPLMUMSIN0248
+JIOGIPLMUMSIN0249
+Impact:	Services will face 4 hour outage during the activity.
+Comment:	Our supplier will be carrying a Planned work for SPLICING & CUT OVER FOC 48C SITIAWAN - PANTAI REMIS HSBB AT KM 5.79 FROM TM NODE SITIAWAN to avoid prolong outage.
+This mail is automatically generated, please do not reply it. If any query regarding mentioned activity, Please Contact us on Jio.NOCILDOperations@ril.com ( mailto:Jio.NOCILDOperations@ril.com )
+
+Thanks and Regards
+
+ILD Change management Team

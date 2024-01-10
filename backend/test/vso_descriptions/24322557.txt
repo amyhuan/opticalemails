@@ -1,0 +1,49 @@
+Dear Client,
+Please note the update below on your ticket:
+
+Incident Information
+
+Entity Name	Microsoft South Africa
+Ticket Number	WIOCCEW140428
+External Ref	
+Incident Start Date/Time	22/06/2023 19:00 HRS UTC
+Priority	Planned - Advisory
+Case Category	
+Case Sub-Category	
+Case Status	Not Started
+Service Information
+
+Service ID	Description	Capacity	A-End	B-End
+CA-ZA-C013-0023	Protected Backhaul 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0021	Protected Backhaul 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0022	Protected Backhaul 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0019	New Protected 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0017	Protected 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0018	Protected 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+CA-ZA-C013-0024	Protected Backhaul 1x100Gbps from Johannesburg to Cape Town	100	Teraco Isando	SADC, Cape Town
+Most Recent Message:
+
+Please take note the scheduled maintenance activity detailed below;
+
+Maintenance Window
+Start Date / Time: 22nd Jun 2023 19:00 UTC
+End Date / Time: 23rd Jun 2023 05:00 UTC
+
+Impact on Service(s)
+No downtime expected ; service at risk
+
+Description of Works
+Fibre maintenance activity between WITS Johannesburg and Teraco Isando on our South African network to enhance service resilience
+
+We apologize for any inconvenience that this maintenance activity may cause.
+
+For all future communication regarding this case, please reply to this mail or write to us at changemanagement@wiocc.net quoting the WIOCC ticket
+
+Sincerely,
+
+WIOCC Change Management
+Telephone: +254 20 421 2010
+General: +254 20 421 2000
+E-mail: Changemanagement@wiocc.net
+Web Site: www.wiocc.net
+Blog: https://wiocc.wordpress.com

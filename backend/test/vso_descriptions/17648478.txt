@@ -1,0 +1,53 @@
+ayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006611025
+
+Urgency: Emergency
+
+Date Notice Sent: 22-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+23-Mar-2023 00:01 to 23-Mar-2023 05:00 ( Eastern )
+23-Mar-2023 04:01 to 23-Mar-2023 09:00 ( GMT )
+
+Location of Maintenance: Atlanta, GA
+
+Reason for Maintenance: Zayo is performing Emergency maintenance to repair fiber and restore services. ***There are minimal customers affected by this work and all other customers will see No Impact during the maintenance timeframe. We are notifying all other Non Impacting customers to advise we have a technician in the splice enclosure working near live fiber***
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+FBDK/812212/008/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/812212/009/ZFS	No Expected Impact	1100 White St SW Atlanta, GA. USA	180 Peachtree St NW Atlanta, GA. USA	
+FBDK/2047722/001/ZFS	No Expected Impact	180 Peachtree St NW Atlanta, GA. USA	1101 Donnelly Ave SW Atlanta, GA. USA	
+OGYX/172008//ZYO	No Expected Impact	12012 Sunset Hills Rd Reston, VA. USA	9554 Westover Hills Blvd - SN6 San Antonio, TX. USA	OGYX/172008//ZYO
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation
+
+Toll free/No sans frais: 1.866.236.2824
+
+United Kingdom Toll Free/No sans frais Royaume-Uni: 0800.169.1646
+
+Email/Courriel: mr@zayo.com 
+
+Website/Site Web: https://www.zayo.com
+
+Purpose | Network Map | Escalation List | LinkedIn | Twitter | Tranzact 
+
+ 
+
+This communication is the property of Zayo and may contain confidential or privileged information. If you have received this communication in error, please promptly notify the sender by reply e-mail and destroy all copies of the communication and any attachments.

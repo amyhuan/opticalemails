@@ -1,0 +1,25 @@
+Scheduled Maintenance #: 26581523
+
+Summary:
+
+Lumen will perform scheduled maintenance to replace faulty equipment in order to prevent future service interruptions to customer services.
+
+Updates:
+
+2023-05-05 17:07:21 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26581523-1
+
+Start	End
+2023-05-12 04:00 GMT (Greenwich Mean Time)	2023-05-12 09:00 GMT (Greenwich Mean Time)
+2023-05-12 00:00 EDT (Eastern Daylight Time)	2023-05-12 05:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): MIAMI, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	FRO2006795785	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	FRO2006795791	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	FRO2006795788	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	FRO2006795794	N/A	100 GIG	MICROSOFT CORP ATLANTA GA USA	 	Outage	1 hour

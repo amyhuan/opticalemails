@@ -1,0 +1,29 @@
+Dear JPNAP Osaka peers,
+
+This is Yuichirou Uefuji , TANET(AS131988).
+
+We will be doing maintenance work at the peer on the following schedule.
+The BGP peer sessions and the interface will be Down during this time.
+
+------------------------------------------------------------
+
+Date/Time : 2023/06/08 01:30-05:30 (JST)
+
+AS Number  ： AS131988
+IPv4 Address: 210.173.184.131
+IPv6 Address: 2001:7fa:7:2:0:13:1988:1
+
+------------------------------------------------------------
+
+Best regards,
+
+
+--------------
+Yuichirou Uefuji
+
+Takehara Cable Network Co,Ltd
+(AS131988)
+info@tanet.co.jp
+--------------
+
+--

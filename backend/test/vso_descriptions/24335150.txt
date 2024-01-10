@@ -1,0 +1,41 @@
+Scheduled Maintenance #: 26747045
+
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to troubleshoot network alarms and is required in order to resolve a network condition and prevent potential unplanned service interruptions.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-06-21 14:10:16 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26747045-1
+
+Start	End
+2023-06-29 06:00 GMT (Greenwich Mean Time)	2023-06-29 11:00 GMT (Greenwich Mean Time)
+2023-06-29 00:00 MDT (Mountain Daylight Time)	2023-06-29 05:00 MDT (Mountain Daylight Time)
+
+
+Maintenance Location(s): SANTA TERESA, NM USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	441360990	10GLAN-23877796	10GIG-E LAN	REDMOND WA USA	WARRENTON VA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442021403	N/A	100 GIG	SAN ANTONIO TX USA	CHEYENNE WY USA	Outage	1 hour	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

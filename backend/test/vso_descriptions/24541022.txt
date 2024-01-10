@@ -1,0 +1,52 @@
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-International_Partner-230714-0004 PARTNER CA International_Partner International Partner Maintenance CABLE MAINTENANCE : PERFORM TWO PERMANENT JOINT AT KUANTAN, ML109.
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+PAHANG(EASTERN)
+
+PLANNED START ( with time zone )  
+
+2023-07-19 00:00:00 (GMT +8)
+
+PLANNED END
+
+2023-07-19 06:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-07-19 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-07-19 06:00:00
+
+EXPECTED OUTAGE DURATION
+
+3 HOURS
+
+JUSTIFICATION
+
+CABLE MAINTENANCE : PERFORM TWO PERMANENT JOINT AT KUANTAN, ML109 link Link TM BIA - TM SKDL Cherating.
+
+CIRCUIT INVOLVED 
+
+ 
+
+NETWORK ID	Expected Outage
+IE1033104610
+
+3 HOURS
+
+IR1033213076
+
+3 HOURS

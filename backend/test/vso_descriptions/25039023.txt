@@ -1,0 +1,61 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1664792
+
+
+Work Start Date/Time:  20-09-2023 00:00:01 AEST
+
+Work End Date/Time:     20-09-2023 06:00:00 AEST
+      
+
+Location:            Coolamon, NSW
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 1 Hour
+ 
+
+Description of Work:  
+
+ 
+
+Planned Transmission works to rectify a Fault situation
+
+ 
+
+Services List: 
+
+
+Service	Product	Site-A Address	Site-B Address
+VWE224159	Vocus Wavelength (AUD)	4 Eden Park Drive, Macquarie Park Nsw 2113 Australia	Nextdc (M1) 828 Lorimer St, Port Melbourne Vic 3207, Australia
+VWE123911429	Vocus Wavelength (AUD)		
+VWE160997	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE160996	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE160994	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE123209	Vocus Etherwave (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE224160	Vocus Wavelength (AUD)	4 Eden Park Drive, Macquarie Park Nsw 2113 Australia	Nextdc (M1) 828 Lorimer St, Port Melbourne Vic 3207, Australia
+VWE128559	Vocus Etherwave (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE160995	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE160993	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+VWE243313	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive, Eastern Creek Nsw
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

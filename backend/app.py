@@ -1,11 +1,9 @@
 from datetime import datetime, timedelta
 import pytz
-from flask import Flask, request, jsonify
-import json
+from flask import Flask, request
 from typing import Dict
 from flask_cors import CORS
 import dotenv
-import requests
 import time
 from azure.storage.blob import BlobServiceClient
 import os
@@ -21,6 +19,7 @@ import time
 from datetime import datetime
 import threading
 from vso import *
+from backend.model_specs import *
 
 dotenv.load_dotenv()
 app = Flask(__name__)
@@ -31,9 +30,9 @@ CORS(app, resources={r"/*": {"origins": [
 socketio = SocketIO(app)
 
 gpt_client = AzureOpenAI(
-    azure_endpoint="https://amyhuan-openai.openai.azure.com",
+    azure_endpoint=OPENAI_INSTANCE,
     api_key=os.getenv('API_KEY'),
-    api_version="2023-07-01-preview"
+    api_version=OPENAI_API_VERSION
 )
 
 STORAGE_CONNECTION_STRING = os.getenv('STORAGE_CONNECTION_STRING')
@@ -126,27 +125,13 @@ def parse_html_blob(blob_client):
 
 def summarize_email(email_html):
     res = gpt_client.chat.completions.create(
-            model="vscode-gpt",
+            model=MODEL_DEPLOYMENT,
             messages=[
-                {"role": "system", "content": """Each message you will get contains the contents of a fiber provider maintenance email update. 
-                Return a TSV summarizing the maintenances mentioned with the following header column names. Each distinct maintenance should have exactly
-                one start time and end time, and have its own row in the TSV. Include every header even if there are no associated values for it.
-                1) CircuitIds - Fiber circuit IDs affected. Separate multiple IDs with newlines.
-                2) StartDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
-                3) EndDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm 
-                3) NotificationType - e.g. new maintenance scheduled, maintenance cancelled or postponed, or completed
-                4) MaintenanceReason - Reason for maintenance if applicable
-                5) GeographicLocation - Geographic location of the maintenance
-                6) VsoId - If applicable, the Microsoft VSO ID that this maintenance is associated with
-                
-                Here is an example:
-                CircuitIds\tStartDatetime\tEndDatetime NotificationType\tMaintenanceReason\tGeographicLocation\tVsoId\n
-                OGYX/172340//ZYO,OQYX/376545//ZYO\t2023-11-07 07:01\t2023-12-07 07:01\tNew maintenance scheduled\tReplacing damaged fiber\tFresno CA\t15438446
-                """},
+                {"role": "system", "content": SYSTEM_PROMPT},
                 {"role": "user", "content": email_html},
             ],
-            temperature=0,
-            max_tokens=256
+            temperature=TEMPERATURE,
+            max_tokens=MAX_TOKENS
         )
     return res.choices[0].message.content
 

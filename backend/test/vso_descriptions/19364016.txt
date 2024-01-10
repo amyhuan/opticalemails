@@ -1,0 +1,59 @@
+Planned maintenance to our network infrastructure
+No services impacted
+
+Attention Microsoft Ireland Operations Ltd (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+ 	
+Maintenance details
+
+Equinix 3rd Party Equinix Network Device Maintenance-TY Metro Area Network Maintenance [5-225808640377]
+
+DESCRIPTION: Please be advised that Equinix will be performing a maintenance on our device management platform. The polling of traffic on your circuit(s) will be unavailable intermittently and traffic gaps will be observed in the monitoring graph. The customer port monitoring will be unavailable, and no port down / bounce email notifications will be triggered during the maintenance period. PRODUCTS: EQUINIX CONNECT, EQUINIX FABRIC, INTERNET EXCHANGE, METRO CONNECT IMPACT: No impact to your service
+
+
+Reference number
+PN300803
+
+
+Start time
+Thursday, 11 May 2023 10:00:00 (UTC)
+
+
+End time
+Thursday, 11 May 2023 11:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG TOK EPL 9698386
+HKG TOK EPL 9576673
+HKG TOK EPL 9426365
+
+
+Expected impact
+0 minutes outage - No service impact expected
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.
+Need help?
+
+Our planned maintenance user guide might have the answers you're looking for.
+
+You also can email us at gpen@team.telstra.com or call +852 3192 7420 for help with:
+
+Any questions regarding this maintenance activity.
+Notifcation management for future planned maintenance.
+Access to Telstra Connect if you cannot contact your Telstra representative/s.

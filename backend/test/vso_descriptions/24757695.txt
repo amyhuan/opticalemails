@@ -1,0 +1,121 @@
+Dear valued customer,
+
+ 
+
+Kindly be informed that the below planned event has been rescheduled to new date as below:-
+
+ 
+
+Planned Event Start Date/Time
+
+21 August 2023 00:00hrs  (GMT+8)
+
+Planned Event End Date/Time
+
+21 August 2023 04:00hrs  (GMT+8)
+
+ 
+
+Please do not hesitate to contact us at 1800-188-881 or +603 5033 8700 or email to soc@time.com.my for further assistance or clarification.
+
+ 
+
+Thank you.
+
+ 
+
+Regards,
+
+ 
+
+Marhayu Muhiddin
+
+Change Management
+
+TIME dotCom Berhad
+
+ 
+
+ 
+
+From: TIME dotCom: Planned Event Notification
+Sent: Friday, 28 July, 2023 2:36 PM
+To: 'DCMaint@Microsoft.com' ; 'msnalert@microsoft.com' ; 'ioc@microsoft.com' ; 'dcrs@microsoft.com' ; 'Operations Management Center (OMC)' ; 'moc@microsoft.com' ; 'terry.lo@microsoft.com' ; 'stanley.lin@microsoft.com' ; 'vickneshwaran.elangkeeran@microsoft.com' ; 'nay.oo@microsoft.com' ; 'kinlingyap@microsoft.com' ; 'kul30dcpm@microsoft.com' 
+Cc: *SOC ; Cust.SM.Wholesale.Global ; Nadia Binti Mohamed Azharuddin 
+Subject: Planned Event Notification for Microsoft (1308033)
+
+ 
+
+Dear Sir/Madam,
+
+ 
+
+RE: NOTIFICATION ON PLANNED EVENT MAINTENANCE
+
+ 
+
+We would like to bring to your attention of Planned Event (PE) exercise that we will be carrying out as per below. 
+
+ 
+
+Objective:
+
+ 
+
+Network Improvement Planned Event: To migrate fiber to newly upgraded infra. The details of this PE are as follows:
+
+ 
+
+Planned Event Start Date/Time
+
+13 August 2023 00:00hrs  (GMT+8)
+
+Planned Event End Date/Time
+
+13 August 2023 04:00hrs  (GMT+8)
+
+Downtime
+
+2 hours
+
+ 
+
+Service(s) Affected
+
+ 
+
+Service
+
+Customer Name
+
+LL034478
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD    
+
+LL036164
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD    
+
+ 
+
+We wish to express our regret for any inconvenience this planned event may cause.  We thank you for your cooperation and understanding in the matter.  We will continue to strive to improve our level of service and we look forward to your continued support of TIME dotcom. 
+
+ 
+
+Please do not hesitate to contact us at 1800-188-881 or +603 5033 8700 or email to soc@time.com.my for further assistance or clarification.
+
+ 
+
+Thank you.
+
+ 
+
+Regards,
+
+ 
+
+Marhayu Muhiddin
+
+Change Management
+
+TIME dotCom Berhad

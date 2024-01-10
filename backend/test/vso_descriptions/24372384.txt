@@ -1,0 +1,43 @@
+JPNAP Peer
+
+Thank you for your support.
+My name is Utsunomiya Cable TV (AS18274) Kitai.
+
+Due to line operator maintenance work, peer down will occur during the following time periods.
+
+----------------------------------
+Date : 2023/07/30 00:30-04:30(JST)
+       2023/07/29 15:30-19:30(UTC)
+ASN  : 18274
+IPv4 : 210.173.176.165
+----------------------------------
+
+We apologize for the inconvenience and thank you for your cooperation.
+
+---
+
+Dear JPNAP Tokyo peers,
+
+This is Utsunomiya Cable TV Corp(AS18274).
+
+We will be having a maintenance as follows.
+The BGP sessions will be down during this time.
+We appreciate your understanding and cooperation.
+
+----------------------------------
+Date : 2023/07/30 00:30-04:30(JST)
+       2023/07/29 15:30-19:30(UTC)
+ASN  : 18274
+IPv4 : 210.173.176.165
+----------------------------------
+
+Best regards,
+
+Utsunomiya Cable TV Corp.
+Takeshi Kitai
+Email : kitai@ucatv.ne.jp
+PeeringDB : https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fwww.peeringdb.com%2fasn%2f18274&data=05%7C01%7Cmoc%40microsoft.com%7C42681a15ffb9470a15c808db76133dfb%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638233597267730222%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=4fUKCA8yC7BLt%2BhV55TlYhHLdQHNr7iRZg%2BJzzhWtN4%3D&reserved=0
+--
+customers-notify-l mailing list
+customers-notify-l@lists.tokyo.jpnap.net
+https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2flists.tokyo.jpnap.net%2fmailman%2flistinfo%2fcustomers-notify-l&data=05%7C01%7Cmoc%40microsoft.com%7C42681a15ffb9470a15c808db76133dfb%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638233597267730222%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7c%2BtycdQkMNl6%2BkmbtXIyKYzBVN9qJJkdM2LxpenbTo%3D&reserved=0

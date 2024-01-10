@@ -1,0 +1,36 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006540552
+
+Urgency: Demand
+
+Date Notice Sent: 17-Feb-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+21-Feb-2023 22:00 to 22-Feb-2023 05:00 ( Eastern )
+22-Feb-2023 03:00 to 22-Feb-2023 10:00 ( GMT )
+
+Location of Maintenance: 700 S Federal St, Chicago, IL
+
+Reason for Maintenance: Restart of Channel Controller Software on Chicago Area Photonic Network Element
+
+Expected Impact: Potentially Service Affecting Activity: Any Maintenance Activity that has a higher risk of impacting the service(s) of customers. These activities are expected to be non-service impacting, however are often more complex and thus incur a higher risk of potential impact.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OQYX/268480//ZYO	No Expected Impact	644 Logistics Dr Cheyenne, WY. USA	10880 Airman Ave Manassas, VA. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation

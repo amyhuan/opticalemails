@@ -1,0 +1,30 @@
+Scheduled Maintenance #: 26814764
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as ESSENTIAL. The nature of this work is to troubleshoot network issues and is required in order to clear network alarm(s).
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-06-06 22:04:20 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26814764-1
+
+Start	End
+2023-06-14 05:00 GMT (Greenwich Mean Time)	2023-06-14 10:00 GMT (Greenwich Mean Time)
+2023-06-14 02:00 ART (Argentine Time)	2023-06-14 07:00 ART (Argentine Time)
+
+
+Maintenance Location(s): Buenos Aires Argentina
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	FRO2007081349	N/A	100 GIG	MICROSOFT CORPORATION EL TALAR DE PACHECO B ARGENTINA	MICROSOFT CORPORATION BRAZIL	Outage	3 hours	 
+MICROSOFT CORPORATION MCIO	FRO2007081346	N/A	100 GIG	MICROSOFT CORPORATION EL TALAR DE PACHECO B ARGENTINA	MICROSOFT CORPORATION BRAZIL	Outage	3 hours	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.

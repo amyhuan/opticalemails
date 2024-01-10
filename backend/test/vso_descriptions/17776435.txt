@@ -1,0 +1,24 @@
+Dear Netnod customer,
+
+Netnod is issuing a maintenance window for customers connected to Copenhagen BLUE due to a hardware replacement.
+
+--- Maintenance Window ---
+Local time/CEST: 2023-04-18 00:01 CEST - 2023-04-18 06:00 CEST
+UTC: 2023-04-17 22:01 UTC - 2023-04-18 04:00 UTC
+
+--- Impact ---
+Customers connected to Copenhagen BLUE will experience outages during the maintenance period. Customers connecting to Copenhagen BLUE via our remote service will also experience outages.
+
+Netnod Copenhagen BLUE:
+    MTU9000 / VLAN 410: IPv4: 212.237.192.0/24, IPv6: 2001:7f8:d:202::0/64
+
+To minimize the traffic impact Netnod will drain all affected BGP peers at maintenance start using BGP Culling [RFC 8327].
+
+If you have any questions regarding this maintenance window, please don't
+hesitate to contact Netnod NOC at noc@netnod.se.
+
+Thank you for your understanding!
+
+--
+Best Regards
+Filip Olofsson, Netnod

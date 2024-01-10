@@ -1,0 +1,11 @@
+We would like to bring your immediate attention to a network maintenance exercise that we will be carrying out.
+
+The details of the exercise are outlined below:
+Reference No.	PE2023/1103-039
+Objective	Please be advised that TIME will be performing a planned maintenance on our Cacti Server to increase the virtual memory. There will be no impact to your services as this server is only for monitor traffic utilization. During the event, you may using your service as usual without any interruption.
+Type of maintenance	Remote
+Start Date & Time	18 March 2023 at 01:00:00 hrs (GMT+8)
+End Date & Time	18 March 2023 at 04:00:00 hrs (GMT+8)
+Estimated Downtime	00 hour(s) 00 minute(s)
+Affected Customer	MICROSOFT PAYMENTS (MALAYSIA) SDN BHD (PO#99867790)
+Service No.	ME010613

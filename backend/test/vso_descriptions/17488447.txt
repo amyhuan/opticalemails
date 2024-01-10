@@ -1,0 +1,44 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000768617
+
+Start time / Heure de début (Y/M/D):
+
+2023-03-22 09:00:00 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-03-22 11:00:00 PM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+14 h
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+We need to carry out work on cables and fibers in order to improve your service.
+Nous devons procéder à des travaux sur câbles et fibres afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+COMPETITOR
+
+CLLI:
+
+VANEBC
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KJXS802762-072BLCA-000      555 WEST HASTINGS ST FLR:MAIN LEVEL RM:MMR VANCOU   
+ 05KJXS802762-073BLCA-000      555 WEST HASTINGS ST FLR:MAIN LEVEL RM:MMR VANCOU   
+
+You may experience a failure(s) at any time during the above window.
+Il est possible que vous éprouviez une/plusieurs interruption(s) de service lors de la fenêtre ci-dessus.

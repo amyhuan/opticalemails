@@ -1,0 +1,48 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Thursday 27th April 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN300283
+
+         
+
+Scheduled Date                                    :     Thursday 27th April 2023
+
+
+Maintenance Window                            :     27-04-2023 16:01 UTC to 27-04-2023 23:00 UTC
+
+ 
+
+Activity                                                :     Network maintenance
+
+ 
+
+Benefit of Change                                 :     To avoid unplanned outage in near future
+
+
+Impact                                                 :     Service Affecting
+                           
+Duration of Impact                                :     Circuit will be switching hit Less than 50 seconds during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+13854902
+
+Microsoft Operations Pte Ltd.

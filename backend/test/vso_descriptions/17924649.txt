@@ -1,0 +1,55 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Outage has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1630902
+
+
+Work Start Date/Time:  28-04-2023 00:00:00 AEST
+
+Work End Date/Time:     28-04-2023 06:00:00 AEST
+      
+
+Location:            Sydney, NSW
+
+ 
+
+Impact:                                Outage
+
+Expected Outage:              Up to 30 Minutes
+ 
+
+Description of Work:  
+
+ 
+
+Planned network maintenance.
+
+ 
+
+Services List: 
+
+
+Service	Product
+VET272772	Vocus Enterprise Internet (AUD)
+VCT271378	IP Transit (AS4826)
+VET272771	Vocus Enterprise Internet (AUD)
+VET272773	Vocus Enterprise Internet (AUD)
+VET272774	Vocus Enterprise Internet (AUD)
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

@@ -1,0 +1,17 @@
+Dear MCS,
+
+Our partner AAE1 informed for a maintenance as below:
+
+CID: IPL004488
+
+Description : PW for card reset or replacement to clear 'Post-Fec BER based signal failure' on 3-A-4-L1-7&8 and 'Partial facility failure' on 3-A-4-L1-1 at Pakbara.
+
+Planned Work Schedule : 06:00 GMT to 10:00 GMT/ 16th March 2023
+
+Nature : Service Affecting
+
+Impact : Up to 2 Hours Downtime
+
+ 
+
+Best Regards!

@@ -1,0 +1,24 @@
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R2599\23B
+Date Time : 07/06/2023 10:00:00 to 07/06/2023 16:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+SR211310 / SNG(PCG)-MSL(PCG) EP7113 /
+
+Outage Description : AAE-1: Urgent fiber maintenance work between Ber Erida-Zafarana (BER-ZFR) Span in Seg X1.2(South Route). Services will be running via Sub-Segments X1.1.
+
+Impact: 50ms switching hits
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

@@ -1,0 +1,12 @@
+Liberty Global - Network Maintenance Notification
+Reference: CRQ000001885185
+When: 04-04-2023 01:00 - 04-04-2023 06:00
+
+Description: The maintenance work involves software upgrade of de-fra05a-ri1 during which there will be 10 minutes outage when Routing Engine takes reboot.
+
+Impact: The BGP sessions under maintenance are
+
+AS6830	AS8075
+104.44.6.162	104.44.6.163
+2a01:111:2000:1::3091	2a01:111:2000:1::3092
+Contact: Any questions about these works can be sent to noc@libertyglobal.com.

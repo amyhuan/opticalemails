@@ -1,0 +1,45 @@
+Sunrise maintenance work - CRQ000001864191
+Sunrise LLC, Glattpark (Opfikon), 20. April 2023
+
+Dear customer
+
+Sunrise Business constantly improves and expands its Telecommunication infrastructure throughout Switzerland. In order to ensure seamless customer experience, we are carrying out scheduled maintenance work.
+
+As a valued customer of ours, we have identified you being impacted by the below mentioned network change.
+
+Microsoft MCIO Schweiz GmbH
+Reason	Due to works on fibre optic cables, an interruption of your service will occur.
+Start	10.05.2023 01:00 (CEST)
+End	10.05.2023 06:00 (CEST)
+Duration in minutes	300
+
+Service	Location	Customer ref.	Remarks
+SAP@356.0382355	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0382357	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0382359	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0382361	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0415384	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0415385	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0463608	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0463609	WHS GigaClass	Gland, Route des Avouillons 32	
+SAP@356.0382354	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0382356	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0382358	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0382360	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0415381	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0415382	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0463601	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+SAP@356.0463602	WHS GigaClass	Rümlang, Hofwisenstrasse 56	
+
+Remarks:
+Reparaturarbeiten an einer defekten Glasfaser-Komponente in Basel.
+Repair work on a defective fibre optic component in Basel.
+
+Our apologies for any inconvenience this maintenance may cause you.
+In case of an emergency, or further questions concerning this announcement, don’t hesitate to contact us.
+
+Kind Regards
+
+Sunrise Business
+
+businesssupport@sunrise.net

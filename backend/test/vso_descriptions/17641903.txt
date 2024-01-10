@@ -1,0 +1,48 @@
+Planned maintenance to our network infrastructure
+No services impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance. While we don't expect any impacts to your service/s, as part of our agreement with you we need to keep you informed of even the low-risk changes we make.
+
+ 	
+Maintenance details
+
+Southern Cross Hazardous Planned Maintenance SR#250676_1
+
+Hazardous Condition - Channels Removal on USWC Terrestrial Segments : As part of a major network expansion project, there is a need to carry out channel removal on our terrestrial segments between Nedonna OR and Morro Bay CA. This maintenance is not anticipated to cause any incidents, and this notification is precautionary only.
+
+
+Reference number
+PN299237
+
+
+Start time
+Wednesday, 05 Apr 2023 17:00:00 (UTC)
+
+
+End time
+Thursday, 06 Apr 2023 01:00:00 (UTC)
+
+
+Service/s under maintenance
+LAX SYD EPL 9932644
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9932644
+LAX SYD EPL 9253854
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9253854
+LAX SYD EPL 9696335
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9696335
+LAX SYD EPL 9441534
+SYD/SYDP/TELSTRA/AUS - LAX/1WLT/TELSTRA/USA 100GIGE BASE EPL 9441534
+LAX SYD EPL 90010960
+LAX SYD EPL 90010963
+LAX SYD EPL 90015279
+LAX SYD EPL 90015276
+LAX SYD EPL 90022024
+LAX SYD EPL 90022027
+LAX SYD EPL 90022030
+LAX SYD EPL 90022021
+
+
+Expected impact
+0 minutes outage - No impact expected

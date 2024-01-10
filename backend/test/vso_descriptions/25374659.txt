@@ -1,0 +1,55 @@
+MAINTENANCE: Replacing edge1.fra12 with a new router in Frankfurt (OPEN)
+
+DE-CIX Maintenance ID: DXDB:MAINT:1707
+
+Work start: 2023-10-18 22:00 UTC
+Work end: 2023-10-19 04:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: Full Disruption
+
+Affected entities:
+Devices: edge01.fra12.de-cix.management
+
+Work description:
+
+We are excited to announce that we will be upgrading and replacing our edge devices with new routers in Frankfurt. This upgrade will enhance our network capacity and ensure that we are well-positioned to support our customers' future growth.
+
+We understand that uninterrupted service is critical to your business operations, and we have taken all necessary measures to minimise any potential impact. Our technical team will be closely monitoring the migration to ensure that it is completed on time and without any issues.
+
+The migration window is scheduled for 2023-10-18 between 22:00 UTC and  2023-10-19 04:00 UTC.
+During this time, there may be brief periods of service disruption, but we will work to keep these to a minimum.
+
+We appreciate your understanding and cooperation during this upgrade process. If you have any questions or concerns, please do not hesitate to contact our support team.
+
+Affected Customers:
+AS51834 - KAEMI GmbH
+AS47169 - AH NET Zrt.
+AS6866 - Cyprus Telecommunications Authority (CYTA)
+AS35313 - Infonas W.L.L.
+AS206618 - Volkswagen AG
+AS8262 - EVOLINK A.D.
+AS34309 - Link11 GmbH
+AS1828 - Unitas Global Inc
+AS9136 - WOBCOM GmbH (a.k.a. Wobline)
+AS1836 - green.ch AG
+AS8764 - TEO LT, AB
+AS28773 - Global Technology of Ukraine
+AS139057 - Legend Dynasty Pte. Ltd.
+AS28725 - CETIN a.s.
+AS205112 - PHILUNET GmbH
+AS24724 - ATM S.A.
+AS35753 - Integrated Telecom Company (ITC) / Salam.sa
+AS37721 - Virtual Technologies & Solutions SA
+AS8368 - Destiny NV
+AS12355 - HeLi NET Telekommunikation GmbH & Co. KG
+AS29535 - Orange Polska
+AS61157 - PlusServer GmbH
+
+
+If you have any questions, do not hesitate to ask!
+
+Best regards,
+--
+DE-CIX Customer Service

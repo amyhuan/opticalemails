@@ -1,0 +1,30 @@
+Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noreply@exainfra.net,noreply@exainfra.net,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00205221 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Italy between Mon Apr 17 22:00:00 GMT 2023-Tue Apr 18 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Mon Apr 17 22:00:00 GMT 2023
+End	Tue Apr 18 04:00:00 GMT 2023
+Location	Italy
+
+Planned work Reason:
+Network optimization in Italy
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100610	Wavelength/01641706	Wavelength	360 min	No	Rumlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00209563
+MICRSI/WAVE/U/100611	Wavelength/01641707	Wavelength	360 min	No	Rumlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00209564
+MICRSI/WAVE/U/100629	GTT/001924191	Wavelength	360 min	No	Rümlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00209565
+MICRSI/WAVE/U/100630	GTT/001924206	Wavelength	360 min	No	Rümlang - Hofwisenstrasse 56	Rom-002_ROM2IR	00209566
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

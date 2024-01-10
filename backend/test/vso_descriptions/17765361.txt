@@ -1,0 +1,119 @@
+Dear team,
+
+ 
+
+Due to some technical issues the planned work rescheduled on 19-April 2023. Please refer the below details
+
+ 
+
+Change ID
+
+CRQ000003137846
+
+Start Date Time
+
+19:00 UTC on 19-April-2023  || 00:30 IST on 20-April-2023
+
+End Date Time
+
+05:00 UTC on 20-April-2023 || 10:30 IST on 20-April-2023
+
+Back up window Start Date Time
+
+19:00 UTC on 20-April-2023  || 00:30 IST on 21-April-2023
+
+Back up window End Date Time
+
+05:00 UTC on 21-MAR-2023  || 10:30 IST on 21-April-2023
+
+ 
+
+ 
+
+Regards,
+
+
+Kumar Rakshit
+
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1
+
+ 
+
+ 
+
+From: Changemgmt
+Sent: Wednesday, March 29, 2023 2:46 PM
+To: MOC@microsoft.com; MOCALERT@microsoft.com
+Cc: Soumajit Sengupta 
+Subject: ID: 3137846 Emergency Maintenance Activity by ILD Service provider, which is scheduled on Thursday 30th March 2023 ( Microsoft Ireland Operations Ltd. )
+
+ 
+
+Dear All,
+
+
+This is to inform you about Emergency Maintenance Activity by ILD Service provider, which is scheduled on Thursday 30th March 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                         :    3137846
+
+         
+
+Scheduled Date                                 :    Thursday 30th March 2023
+
+
+Maintenance Window                         :    30-03-2023 19:00 UTC to 31-03-2023 05:00 UTC
+
+ 
+
+Activity                                            :     MENA || Emergency Maintenance for to perform BU protection testing to test the line integrity of wet segments
+
+ 
+
+Benefit of Change                             :     To avoid unplanned outage in near future
+
+
+Impact                                            :     Service Affecting
+                           
+Duration of Impact                           :     Circuit will get impact during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit id
+
+LSI
+
+Customer Name
+
+EMEA-IN-1708833
+
+12719839
+
+Microsoft Ireland Operations Ltd.
+
+EMEA-IN-1708832
+
+12719838
+
+Microsoft Ireland Operations Ltd.

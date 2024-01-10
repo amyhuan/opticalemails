@@ -1,0 +1,15 @@
+The ROGERS Change Management team would like to inform you that maintenance has been scheduled for the date and time set out below. Site access is not required unless specified. We apologize for any inconvenience and will make all efforts to minimize any impacts.
+
+ 
+
+L’équipe Gestion du changement de Rogers souhaite vous informer qu’une maintenance est prévue à la date et à l’heure indiquées ci-dessous. Nous n’avons pas besoin d’accéder à vos installations, sauf indication contraire. Nous nous excusons de tout inconvénient occasionné et nous ferons tout notre possible pour minimiser les répercussions.
+
+Ticket Number /Numéro de dossier d’incident:	CHG0087569
+Description /La description:	Emergency: To troubleshoot DOC fault alarm at Ciena OM6500 located at Bloor HE
+Status / Statut:	Scheduled
+Planned Start Date / Date de début planifiée:	March 10, 2023 00:00:00 (Eastern Standard Time)
+Planned End Date / Date de fin planifiée:	March 10, 2023 06:00:00 (Eastern Standard Time)
+Impact Duration up to / Durée maximale des répercussions:	
+2 Hours 30 Minutes
+
+Activity Type / Type d’activité:	Emergency

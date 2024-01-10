@@ -1,0 +1,66 @@
+Dear All,
+
+
+This is to inform you about Urgent Maintenance activity by ILD Service provider, which is scheduled on Tuesday 02nd May 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     ITEM-052295 NE-14732
+
+         
+
+Scheduled Date                                    :     Tuesday 02nd May 2023
+
+
+Maintenance Window                            :     02-05-2023 00:00 GMT to 04:00 UTC
+
+ 
+
+Activity                                               :     cable works by our network provider in ROSARNO-VIBO VALENTIA Path, Italy
+
+ 
+
+Benefit of Change                                :     To avoid unplanned outage in near future
+
+
+Impact                                                :     Service Affecting
+                           
+Duration of Impact                               :     Circuit will go down for 240 mins during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+12719838
+
+Microsoft Ireland Operations Ltd.
+
+
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,

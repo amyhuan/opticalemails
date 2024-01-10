@@ -1,0 +1,60 @@
+Dear Customer,,  ,  ,  , Please be informed that the planned work in subject has been rescheduled to the following time window:,  ,  ,  , Start - 05 Sep 2023 22:00:00 (UTC),  ,  ,  , End-  06 Sep 2023 06:00:00 (UTC),  ,  ,  ,  ,  , Regards,,  ,  ,  , Hemant,  , Global Services Management Center (GSMC),  , Bharti Airtel Limited,  , Changemgmt@airtel.com,  , Airtel for Business,  , On your side. By your side,  ,  ,  ,  ,  ,  ,  , Dear All,
+
+
+This is to inform you about Urgent Maintenance activity by ILD Service provider, which is scheduled on Wednesday , 30th August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------
+
+Change ID : PN311231
+
+ 
+
+Scheduled Date : Wednesday , 30th August 2023
+
+
+Maintenance Window : 30/08/2023 22:00 (UTC) to 31/08/2023 06:00 (UTC)
+
+ 
+
+Activity : network maintenance
+
+ 
+
+Benefit of Change : To avoid unplanned outage in near future
+
+
+Impact : Service Affecting
+
+Duration of Impact : Circuit will be go down 30min during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long-term synergic association.
+
+ 
+
+Regards,

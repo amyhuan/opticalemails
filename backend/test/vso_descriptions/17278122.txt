@@ -1,0 +1,58 @@
+Dear all,
+
+ 
+
+Regret to be informed that RFC needs to be RESCHEDULED  due to a technical issue. This work cannot proceed as notified earlier. All circuits involved remain.
+
+ 
+
+New dated as stated below :
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230131-0003 PERMANENT CABLE JUNCTION DUE BREAKDOWN FOC CYBERJAYA2-PUCHONG 144C 'C'.
+
+REGION                     
+
+SELANGOR (CENTRAL)
+
+PLANNED START ( with time zone )  
+
+2023-03-04 00:00:00 (GMT +8 MYT)
+
+PLANNED END
+
+2023-03-04 07:00:00 (GMT +8 MYT)
+
+TIMEZONE
+
+GMT +8 MYT
+
+EXPECTED OUTAGE START
+
+2023-03-04 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-03-04 07:00:00
+
+EXPECTED OUTAGE DURATION
+
+1 Hour
+
+JUSTIFICATION
+
+PERMANENT CABLE JUNCTION DUE BREAKDOWN FOC CYBERJAYA2-PUCHONG 144C 'C'.
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1039258367
+
+1 Hour

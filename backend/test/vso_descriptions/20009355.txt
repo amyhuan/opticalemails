@@ -1,0 +1,33 @@
+Dear All,
+
+Please be informed that due to Maintenance activity in IMEWE cable(s), below mentioned circuit will be affected as per below schedule.
+
+The details of the activity are provided below along with the impact on your services.
+
+Activity Details
+, Etisalat has planned major expansion and migration work of legacy backhaul network during the below schedule MW.
+FUJ terminating traffic will experience an interruption of 5 to 10 minutes per link during the outage window.
+Expansion and migration work of legacy backhaul network at FUJ.
+Maintenance Window
+Start:  (UTC)
+End:  (UTC)
+Service Impact
+Traffic affecting.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02
+Service ID: I61529
+SOF: IS SL 1587
+Intl Submarine ID: FUJ/MAR/100GBE/006/M
+Protection: Protected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04
+Service ID: I65366
+SOF: IS SL 1784
+Intl Submarine ID: FUJ/MAR/100GBE/010/M
+Protection: Unprotected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note

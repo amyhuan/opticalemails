@@ -1,0 +1,71 @@
+Dear All,
+
+
+This is to inform you about Urgent Maintenance activity by ILD Service provider, which is scheduled on Wednesday, 22 Mar 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Urgent Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :    PN298396
+
+         
+
+Scheduled Date                                   :    Wednesday, 22 Mar 2023
+
+
+Maintenance Window                           :    22-03-2023 16:00 UTC to 23:00 UTC
+
+         
+
+Activity                                               :    Essential maintenance to normalize fiber cable to original core for CABLE SP-TMU_J_A,SUNGAI PETANI-TIKAM BATU_J_B on Segment QA Sector Q1 between Kuala Muda CS - Sungai Petani (KMACS - SP)
+
+ 
+
+Benefit of Change                                :    To avoid unplanned outage in near future
+
+
+Impact                                                :    Service Affecting
+                           
+Duration of Impact                               :    Circuit will be Switching hits less than 50ms plus loss of protection during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+13854902
+
+Microsoft Operations Pte
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shipranshu
+Global Services Management Center

@@ -1,0 +1,26 @@
+[EXTERNAL] [Google-894824964] Migration for AS8075 at IAD (SD: PR-20059)
+Google Peering Operations
+​
+​
+​
+​
+​
+​
+Ticket 894824964
+
+Subject: Migration for AS8075 at IAD (SD: PR-20059)
+
+Comment:
+Hello Microsoft,
+
+This is a notification to inform you that Google will be performing a scheduled maintenance on 02 Jan 2024 07:00 PST that will last approximately 3 hours.
+
+This maintenance will impact the following connection we have in IAD:
+Google ASN	Your ASN	Google Address	Your Address
+15169	8075	104.44.6.172	104.44.6.173
+15169	8075	2a01:111:2000:1::30a5	2a01:111:2000:1::30a6
+
+No action is required from you.
+This is an automated email. If you have any concerns or questions, please reply to this email.
+Many thanks,
+Google's Peering Team

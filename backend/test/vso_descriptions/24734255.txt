@@ -1,0 +1,37 @@
+ear All
+ 
+This is a notification of scheduled SA maintenance to be performed on RTI network
+****************Maintenance Work detail****************
+[Start Date&Time]
+2023-08-19 15:00 UTC
+ 
+[End Date&Time]
+2023-08-19 17:00 UTC
+ 
+[Work Location]
+Piti, Guam & Brookvale, Australia
+ 
+[Affected Circuits]
+All traffic on the JGA-S system
+ 
+[Event Summary]
+The system will be powered down in order to change configuration back to double-end feeding following the completion of NEC activity at Guam beach manhole.
+ 
+[Expected Impact Duration]
+Services should be impacted for max 1H but we reserve the right to use the full duration of the window.
+
+[Circuit]
+MNAJ05E
+MNAJ06F
+MNAJ02H
+MNAJ02C
+MNAJ02D
+MNAJ01H
+MNAJ07G
+MNAJ08H
+*************************************************************
+We sincerely apologize about the urgent nature of this notification and appreciate your continued patience and support.
+ 
+Kind Regards
+RTI NOC
+This email is a service from RTI Cable. Delivered b

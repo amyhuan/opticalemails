@@ -1,0 +1,56 @@
+, Scheduled Maintenance #: 27376568, Summary:, Lumen's 3rd party provider will perform maintenance within their network. This has been designated as an EMERGENCY. The nature of this work is to implement a fiber repair maintenance and is required in order to improve network reliability., GPS Location(s):, Latitude, Longitude, 26.595837, -99.089585, 26.537955, -99.091356, 26.622943, -99.091580, As this maintenance is not under the control of Lumen it may not be possible to reschedule it., Lumen would like to apologize for any inconvenience caused by this maintenance, ., Updates:, 2023-09-01 18:25:25 GMT - This maintenance has been rescheduled., Customer Impact:, 27376568-1,  , Start , End , 2023-09-11 05:00 GMT (Greenwich Mean Time),  , 2023-09-11 11:00 GMT (Greenwich Mean Time),  , 2023-09-11 00:00 CDT (Central Daylight Time),  , 2023-09-11 06:00 CDT (Central Daylight Time),  , Previously Scheduled for (2023-09-01 05:00 GMT to 2023-09-01 11:00 GMT), Maintenance Location(s):,  , FALCON HEIGHTS, TX UNITED STATES,  , Customer Name , Circuit ID , Alt Circuit ID , Bandwidth , A Location , Z Location , Impact Type , Maximum Duration , Order Number , Status , MICROSOFT CORPORATION MCIO , 442611824 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , BDKZ7535 , N/A , GIG-E , SAN ANTONIO TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , BDKZ7536 , N/A , GIG-E , SAN ANTONIO TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , 443762638 , N/A , 10GIG-E LAN , RESTON VA USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , 443762639 , N/A , 10GIG-E LAN , RESTON VA USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , 441254213 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , 442611823 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed , MICROSOFT CORPORATION MCIO , 442611825 , N/A , 100 GIG , HOUSTON TX USA , SAN ANTONIO TX USA , Outage , 6 hours ,   , Postponed ,  ,  ,  ,  ,  , Scheduled Maintenance #: 27376568
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as an EMERGENCY. The nature of this work is to implement a fiber repair maintenance and is required in order to improve network reliability.
+
+GPS Location(s):
+Latitude, Longitude
+26.595837, -99.089585
+26.537955, -99.091356
+26.622943, -99.091580
+
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen would like to apologize for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-08-18 15:31:06 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27376568-1
+
+Start	End
+2023-08-24 05:00 GMT (Greenwich Mean Time)	2023-08-24 11:00 GMT (Greenwich Mean Time)
+2023-08-24 00:00 CDT (Central Daylight Time)	2023-08-24 06:00 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): FALCON HEIGHTS, TX UNITED STATES
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442611824	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	BDKZ7535	N/A	GIG-E	SAN ANTONIO TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	BDKZ7536	N/A	GIG-E	SAN ANTONIO TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	443762638	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	441254213	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	443762639	N/A	10GIG-E LAN	RESTON VA USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611823	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+MICROSOFT CORPORATION MCIO	442611825	N/A	100 GIG	HOUSTON TX USA	SAN ANTONIO TX USA	Outage	6 hours	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

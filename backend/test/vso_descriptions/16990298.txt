@@ -1,0 +1,43 @@
+Planned Work Description
+
+Mandatory maintenance by our vendor for equipment software upgrade to improve network reliability and service quality. Locations: Athens-Koropi (Greece), Rome (Italy), London (England)-New York (USA)-Paris (France).
+Service ID
+
+Int. Circuit Designation
+
+PEW Impact
+
+ATHENS/WED-MARSEILLE/WED NP 0001
+
+TIS-00000078761
+
+Asset at risk
+
+ATHENS/WED-WIEN/WED NP 0001
+
+TIS-00000078765
+
+Asset at risk
+
+ATHENS/WED-MARSEILLE/WED NP 0002
+
+TIS-00000081576
+
+Asset at risk
+
+ATHENS/WED-WIEN/WED NP 0002
+
+TIS-00000081577
+
+Asset at risk
+
+
+These works will take place between 10/02/2023 21:00 (GMT+00:00) Greenwich Mean Time (Europe/London) and 11/02/2023 05:00 (GMT+00:00) Greenwich Mean Time (Europe/London) with an estimate downtime of 20 minutes maximum.
+
+Please note that your assets listed with “PEW Impact” at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+We apologize for any inconvenience we may have caused to you.
+
+Thank you.
+-------------------------------------------------------------------
+Note: If we do not receive any feedback from you in the next two working days, we will assume you are in agreement. If you are not the right person/department, please forward this message to whom it may concern.

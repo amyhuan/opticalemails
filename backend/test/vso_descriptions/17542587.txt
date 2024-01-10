@@ -1,0 +1,37 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006570224
+
+Urgency: Planned
+
+Date Notice Sent: 14-Mar-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+06-Apr-2023 00:01 to 06-Apr-2023 05:00 ( Mountain )
+06-Apr-2023 06:01 to 06-Apr-2023 11:00 ( GMT )
+
+Location of Maintenance: 1821 30th St, Boulder, CO
+
+Reason for Maintenance: Zayo will implement maintenance to perform a mandatory fiber relocation.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/282366//ZYO	Hard Down - up to 5 hours	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+OGYX/268109//ZYO	Hard Down - up to 5 hours	15580 NE 31st St Building B43 Redmond, WA. USA	644 Logistics Dr Cheyenne, WY. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation

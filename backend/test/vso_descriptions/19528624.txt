@@ -1,0 +1,25 @@
+Dear Equinix Customer,
+
+DATE: 25-MAY-2023 - 26-MAY-2023
+
+SPAN: 25-MAY-2023 - 26-MAY-2023
+
+LOCAL: THURSDAY, 25 MAY 22:00 - FRIDAY, 26 MAY 06:00
+UTC: THURSDAY, 25 MAY 13:00 - THURSDAY, 25 MAY 21:00
+
+IBX(s): OS
+
+DESCRIPTION:Please be advised that Equinix engineers will be performing a configuration update on our device. It is estimated that your services may experience multiple flaps of up to 5 minutes due to the activity.
+
+PRODUCTS: EQUINIX FABRIC
+
+IMPACT: There will be service interruptions.
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-225999417857.
+
+
+Sincerely,
+Equinix SMC

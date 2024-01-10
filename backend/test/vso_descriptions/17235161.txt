@@ -1,0 +1,63 @@
+Dear Customer,
+
+Please be advised of below Planned Activity:-
+
+PE Reference
+
+C3930131
+
+PE Category
+
+Planned Maintenance
+
+Description
+
+Our Supplier will be performing Software Upgradation activity in their media
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+SO6084822091/ JIOGIPLMUMSIN0224
+
+Start Time
+
+Main Window : -
+
+02 March 2023 at 22:00 UTC
+
+Backup Window:-
+
+06 March 2023 at 22:00 UTC
+
+End Time
+
+Main Window : -
+
+03 March 2023 at 04:00 UTC
+
+Backup Window:-
+
+07 March 2023 at 04:00 UTC
+
+Impact
+
+Circuit will be down during activity window
+
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+Please contact ILD NOC on +91 22 796 46434 / Jio.NOCILDOperations@ril.com should you require any additional information.
+
+ 
+
+Thanks & Regards,
+
+ 
+
+      jio-logo-03
+
+ 
+
+Aditya Pashte.

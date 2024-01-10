@@ -1,0 +1,50 @@
+Planned maintenance to our network infrastructure
+Service/s will be impacted
+
+Attention Microsoft Corporation (USA)
+
+This is a note to let you know that we'll soon be doing some network maintenance that will impact your service/s listed below.
+
+We typically aim to give you 14 days' notice of planned maintenances, however this change has come with a little more urgency. We apologise for the shorter than usual notice.
+
+ 	
+Maintenance details
+
+AJC Essential Event Notification for AJC Infinera Upgrade 2023070700 / INC000104007337
+
+Please be advised that essential maintenance will be carried out in which Infinera will make changes to the equipment configuration.
+
+
+Reference number
+PN309400
+
+
+Start time
+Thursday, 27 Jul 2023 13:00:00 (UTC)
+
+
+End time
+Thursday, 27 Jul 2023 20:00:00 (UTC)
+
+
+Service/s under maintenance
+HKG SYD EPL 9741233
+
+
+Expected impact
+15 minutes outage during the change window
+
+
+ 
+View details in Telstra Connect
+
+Track the details of any planned or past maintenance events from the last six months in Telstra Connect.
+
+Don't have access to Telstra Connect? Your organisation's Telstra representative can set you up. Otherwise, contact us using the details below.
+
+View planned maintenance
+We'll also email you:
+
+A reminder 48 hours before the maintenance starts.
+Notifcation of any changes to the above schedule.
+Confrmation once the maintenance is complete.

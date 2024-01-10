@@ -1,0 +1,27 @@
+Reschedule Reason: ,  , Dear customer, please be advised that activity is rescheduled. , Details:,  , Start, Wed Sep 13 20:00:00 GMT 2023,  , - Thu Sep 14 20:00:00 GMT 2023 , End, Thu Sep 14 04:00:00 GMT 2023,  , - Fri Sep 15 04:00:00 GMT 2023 , Location, Marseille, France , Planned work Reason: ,  ,  ,  , Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00289794 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Marseille, France between Thu Sep 07 20:00:00 GMT 2023-Fri Sep 08 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Thu Sep 07 20:00:00 GMT 2023
+End	Fri Sep 08 04:00:00 GMT 2023
+Location	Marseille, France
+
+Planned work Reason:
+Maintenance for site optimization in Marseille, France
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100615	GTT/001923689	Wavelength	360 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00290371
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

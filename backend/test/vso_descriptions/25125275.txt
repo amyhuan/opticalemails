@@ -1,0 +1,46 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1667762
+
+
+Work Start Date/Time:  22-09-2023 00:00:00 AEST
+
+Work End Date/Time:     22-09-2023 06:00:00 AEST
+      
+
+Location:            Sydney, NSW
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+Planned Fibre works, the listed services will be in Hazardous condition during the change window.
+
+ 
+
+Services List: 
+
+
+Service	Product	Site-A Address	Site-B Address
+VWE224159	Vocus Wavelength (AUD)	4 Eden Park Drive, Macquarie Park Nsw 2113 Australia	Nextdc (M1) 828 Lorimer St, Port Melbourne Vic 3207, Australia
+VWE224160	Vocus Wavelength (AUD)	4 Eden Park Drive, Macquarie Park Nsw 2113 Australia	Nextdc (M1) 828 Lorimer St, Port Melbourne Vic 3207, Australia
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288.

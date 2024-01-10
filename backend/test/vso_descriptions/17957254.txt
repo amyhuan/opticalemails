@@ -1,0 +1,42 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000777774
+
+Start time / Heure de début (Y/M/D):
+
+2023-05-05 12:00:00 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-05-05 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+10 min
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+We need to carry out work on cables and fibers in order to improve your service.
+Nous devons procéder à des travaux sur câbles et fibres afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+SECTION CUT OVER
+
+CLLI:
+
+BTFDON17
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KGXS802762-003BLCA-000         
+ 05KGXS802762-005BLCA-000         
+ 05KGXS802762-007BLCA-000

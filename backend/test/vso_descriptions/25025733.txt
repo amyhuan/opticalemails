@@ -1,0 +1,35 @@
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as an EMERGENCY. The nature of this work is to perform a card replacement and is required in order to improve network reliability.
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-08-31 17:04:12 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27517163-1
+
+Start	End
+2023-09-02 03:00 GMT (Greenwich Mean Time)	2023-09-02 09:00 GMT (Greenwich Mean Time)
+2023-09-01 22:00 COT (Colombia Time)	2023-09-02 04:00 COT (Colombia Time)
+
+
+Maintenance Location(s): BOGOTA Colombia
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	FRO2007081349	N/A	100 GIG	MICROSOFT CORPORATION EL TALAR DE PACHECO B ARGENTINA	MICROSOFT CORPORATION BRAZIL	Outage	30 minutes	 
+MICROSOFT CORPORATION MCIO	FRO2006816388	FRO2006819059	10GIG	MICROSOFT CORPORATION EL TALAR DE PACHECO ARGENTINA	BUENOS AIRES, AG - GLOBAL CROSSING METRO POP BUENOS AIRES C ARGENTINA	Outage	30 minutes	 
+MICROSOFT CORPORATION MCIO	FRO2006816388	FRO2006816388, FRO2006819059, FRO2006819059	10GIG	MICROSOFT CORPORATION EL TALAR DE PACHECO ARGENTINA	BUENOS AIRES, AG - GLOBAL CROSSING METRO POP BUENOS AIRES C ARGENTINA	Outage	30 minutes	 
+MICROSOFT CORPORATION MCIO	FRO2007225960	FRO2007226068	10GIG	RJNRBZAKGNDDC01 RIO DE JANEIRO RJ BRAZIL	MICROSOFT DO BRASIL IMPORTACAO E COMERCIO MARACANAU CE BRAZIL	Outage	30 minutes	 
+MICROSOFT CORPORATION MCIO	FRO2006816380	N/A	10GIG	MICROSOFT CORPORATION EL TALAR DE PACHECO ARGENTINA	BUENOS AIRES, AG - GLOBAL CROSSING METRO POP BUENOS AIRES C ARGENTINA	Outage	30 minutes	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.

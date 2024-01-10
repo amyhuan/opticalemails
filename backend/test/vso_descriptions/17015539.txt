@@ -1,0 +1,61 @@
+MAINTENANCE: Cabling clean up on IST1 (OPEN)
+
+DE-CIX Maintenance ID: DXDB:MAINT:1372
+
+Work start: 2023-02-28 21:00 UTC
+Work end: 2023-03-01 03:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: Full Disruption
+
+Affected entities:
+Devices: edge02.ist1.ist.de-cix.net
+
+Work description:
+
+Dear customers,
+
+DE-CIX will clean up the on-site cabling on IST1; during this maintenance, there will be a relocation of the satellite so we are expecting a customer impact. 
+Affected customers are listed below:
+
+
+Affected Customers:
+AS42 - Packet Clearing House
+AS3303 - Swisscom (Switzerland) Ltd.
+AS6663 - Türk Telekom International HU Kft.
+AS6695 - DE-CIX Management GmbH
+AS6762 - Telecom Italia Sparkle Spa
+AS6775 - Fink Telecom Services
+AS6823 - 3C1B Telekom
+AS12735 - TurkNet Iletisim Hizmetleri A.S.
+AS12880 - Telecom Infrastructure Company of the I.R.
+AS13335 - Cloudflare, Inc
+AS15924 - VODAFONE Net İletişim Hizmetleri A.Ş.
+AS19551 - Imperva
+AS20940 - Akamai Technologies, Inc.
+AS21245 - Medianova Internet Hizmetleri A.S.
+AS25145 - Teknotel Telekomünikasyon San. Ve Tic. A.Ş
+AS32261 - Subspace Communication LLC
+AS32934 - Meta
+AS34296 - Millenicom Telekomunikasyon Hizmetleri A.S
+AS34984 - Superonline Iletisim Hizmetleri A.S.
+AS35203 - Goldenphone GmbH
+AS42910 - PremierDC Veri Merkezi A.S.
+AS43391 - Netdirekt A.S.
+AS51559 - Netinternet Bilişim Teknolojileri Anonim Şirketi
+AS56484 - FastIraq LLC
+AS61135 - COMNET BILGI İletişim TEKNOLOJILERI TIC A.Ş
+AS136907 - Huawei Software Technologies Co., Ltd.
+AS138915 - Kaopu Cloud HK Limited
+AS199524 - G-Core labs S.A
+AS206959 - HİTİT BİLGİSAYAR HİZMETLERİ ANONİM ŞİRKETİ
+AS210618 - Exodusclouds Bilgi Teknolojileri Limited Şirketi
+AS4200000006 - Borusan Holding
+
+
+If you have any questions, do not hesitate to ask!
+
+Best regards,
+--
+DE-CIX Customer Service

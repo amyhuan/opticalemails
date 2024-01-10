@@ -1,0 +1,27 @@
+Scheduled Maintenance #: 26845129
+
+Summary:
+
+Lumen will perform scheduled maintenance to troubleshoot and clear network alarms in order to prevent future service interruptions to customer services.
+
+Updates:
+
+2023-07-06 19:07:20 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26845129-1
+
+Start	End
+2023-07-18 04:00 GMT (Greenwich Mean Time)	2023-07-18 09:00 GMT (Greenwich Mean Time)
+2023-07-18 00:00 EDT (Eastern Daylight Time)	2023-07-18 05:00 EDT (Eastern Daylight Time)
+
+
+Maintenance Location(s): MIAMI, FL USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442271562	N/A	100 GIG	TAMPA FL USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442138497	N/A	100 GIG	SAN ANTONIO TX USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442138486	N/A	100 GIG	SAN ANTONIO TX USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442553404	N/A	100 GIG	MIAMI FL USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442553405	N/A	100 GIG	MIAMI FL USA	 	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442271560	N/A	100 GIG	TAMPA FL USA	 	Outage	1 hour

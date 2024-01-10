@@ -1,0 +1,27 @@
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019617
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to replace DC breakers. // Se realizará un trabajo programado con la finalidad de reemplazar interruptores de CC.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 120 MIN
+
+LOCATION // LOCALIDAD: Rocha, Argentina
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+02-Jun-2023 03:00 - 02-Jun-2023 11:00
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+SP2/MSFT - EDGECONNEX/MSFT 100GB S005
+
+CRT-009825

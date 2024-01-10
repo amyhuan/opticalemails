@@ -1,0 +1,54 @@
+# English follows Japanese one.
+
+Dear JPNAP Tokyo Peer
+
+Imizu Cable Network (AS23778) My name is Okada.
+
+By line operator maintenance,
+BGP peer down will occur during the following hours.
+Thank you.
+
+
+----
+DATE 2023/7/6(Thu)　23:00-3:00（JST）
+ASN 23778
+IPv4 210.173.176.178
+IPv6 2001:7fa:7:1:0:2:3778:1
+----
+
+Best regards.
+
+
+
+————————————————————
+
+
+Dear JPNAP Tokyo peering partners,
+
+This is Takeshi Okada from Imizu Cable Network(AS23778).
+
+We will be having a maintenance on the following schedules.
+The BGP sessions will be down during this time.
+We would appreciate your understanding and cooperation.
+
+----
+DATE 2023/7/6(Thu)　14:00-18:00（UTC）
+ASN 23778
+IPv4 210.173.176.178
+IPv6 2001:7fa:7:1:0:2:3778:1
+----
+
+
+Best Regards,
+
+
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
+
+Imizu Cable Network.
+Takeshi Okada
+[Tel] : +81(0)766-82-7327
+[AS] : 23778
+Mail : mit@imizucable.com
+URL : https://nam06.safelinks.protection.outlook.com/?url=https%3A%2f%2fwww.canet.ne.jp%2f&data=05%7C01%7Cmoc%40microsoft.com%7C8d6d6315944246ec593808db7c38cfdd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638240356040185409%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C2000%7C%7C%7C&sdata=LOgAs8QiabIxDwf%2BCnA4Pt5RoOCMIq5NcpfIiyjjD84%3D&reserved=0
+
+_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/

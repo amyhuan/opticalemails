@@ -1,0 +1,122 @@
+Dear Customer,
+
+In our continual effort to provide your company with quality service, we will be performing the following network maintenance:
+
+ 
+
+Date of Maintenance                      : 3 to 8 June 2023
+Maintenance Window Period       : 3 June at 2100rs to 8 June at 0600hrs (Singapore Time)
+
+Affected Circuit IDs                    :
+
+ 
+
+ 
+
+ 
+
+Service ID
+
+Service Type
+
+1080010148
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010122
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010120
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010150
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010151
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010121
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010149
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010119
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+moc@microsoft.com;Adeline.Ng@microsoft.com;opticaldri@microsoft.com;denniswong@starhub.com
+
+1080010118
+
+IPLC
+
+MICROSOFT OPERATIONS PTE LTD
+
+ 
+
+Reason                                           : Very Urgent – Cable Consortium fiber maintenance work activity
+
+Impact and Duration                     : Service Downtime of up to 5 DAYS (subject to prevailing sea / weather changes) .
+
+                       
+
+ 
+
+ 
+
+
+Remarks :
+You may need to reboot / power recycle the CPE (e.g. Router/Modem/NTU) at your premises in case of equipment hang after the service maintenance notification downtime.
+
+ 
+
+Should you have any queries, please feel free to reply to this email. We will be glad to assist you.
+
+ 
+
+Regards
+
+ 
+
+ 
+
+Jeremy
+
+Customer Experience - Business Technical Support | Managed Service Operation Centre

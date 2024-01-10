@@ -1,0 +1,66 @@
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Tuesday 04th April 2023and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :      ITEM-050474 NE-14279
+
+         
+
+Scheduled Date                                   :      Tuesday 04th April 2023
+
+
+Maintenance Window                           :      04-04-2023 00:00 GMT to 05:00 GMT
+
+         
+
+Activity                                               :      Optical cable relocation
+
+ 
+
+Locations                                            :      Firenze- S. Giovanni V. (ITALY)
+
+ 
+
+Benefit of Change                                :      To avoid unplanned outage in near future
+
+
+Impact                                               :       Service Affecting
+                           
+Duration of Impact                              :       Circuit will be down for 240min during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.

@@ -1,0 +1,65 @@
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to relocate/replace fiber cable on the Lumen network and is required in order to proactively avoid unplanned outages due to Railroad mandated construction.
+
+The estimated GPS location of work is: 29.89194, -81.32765
+
+Note: Due to a lack of slack in the cable, this work will be performed as a hot cut. Each buffer tube will be restored as quickly as possible, and the outage duration will range between 1 and 5 hours depending on splice restoration order. However, customers listed for an outage should prepare for an impact up to 6 hours during the maintenance window.
+
+An alternate/backup maintenance window has been scheduled in the event work is unable to be completed on the primary night. Currently no services are scheduled to be impacted on the alternate night. Should the alternate night be deemed necessary, you will receive an updated notification advising which services will be impacted on that night. Please see the date and times of the alternate night below.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-09-13 14:49:01 GMT - This maintenance has been rescheduled
+
+Customer Impact:
+
+27189970-1
+
+Start	End
+2023-09-27 04:00 GMT (Greenwich Mean Time)	2023-09-27 10:00 GMT (Greenwich Mean Time)
+2023-09-27 00:00 EDT (Eastern Daylight Time)	2023-09-27 06:00 EDT (Eastern Daylight Time)
+
+Previously Scheduled for (2023-09-13 04:00 GMT to 2023-09-13 10:00 GMT)
+
+Maintenance Location(s): St Augustine, Fl USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	444057020	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057021	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057018	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057027	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057026	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057025	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057022	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057023	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057030	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057028	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057024	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	444057029	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442224867	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442224865	N/A	100 GIG	JACKSONVILLE FL USA	ATLANTA GA USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553426	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553427	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553422	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553420	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553425	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553421	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553423	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+MICROSOFT CORPORATION MCIO	442553424	N/A	100 GIG	ATLANTA GA USA	FORT LAUDERDALE FL USA	Outage	5 hours	 
+Alternate Night:
+27189970-2
+
+Start	End
+2023-09-28 04:00 GMT (Greenwich Mean Time)	2023-09-28 10:00 GMT (Greenwich Mean Time)
+2023-09-28 00:00 EDT (Eastern Daylight Time)	2023-09-28 06:00 EDT (Eastern Daylight Time)
+
+
+Previously Scheduled for (2023-09-14 04:00 GMT to 2023-09-14 10:00 GMT)
+
+
+Notes History:
+
+2023-09-13 14:49:01 GMT - This maintenance has been rescheduled

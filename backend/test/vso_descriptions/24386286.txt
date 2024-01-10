@@ -1,0 +1,32 @@
+Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Services & Operations Tel : +852-28291567
+Date : 27/06/2023 06:59:25 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3041\23c
+Date Time : 06/07/2023 02:00:00 to 06/07/2023 09:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR211308 / SNG(PCG)-MSL(PCG) EP7111 /
+SR211309 / MSL(PCG)-SNG(PCG) EP7112 /
+SR215090 / SNG(PCG)-MSL(PCG) EP7114 /
+
+Outage Description : AAE-1: PW for overhead OFC96 cores replacement at Kg Pulai Sebatang in Tg. Segenting-Pontian Kecil (TGS-PNK) span within Segment- L.2. Services will be running via Sub-Segments L.1.
+
+Impact: 50ms switching hits
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

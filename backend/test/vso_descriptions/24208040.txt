@@ -1,0 +1,56 @@
+Dear Equinix Customer,
+
+DATE: 21-JUN-2023 - 22-JUN-2023
+
+SPAN: 21-JUN-2023 - 22-JUN-2023
+
+LOCAL: WEDNESDAY, 21 JUN 22:00 - THURSDAY, 22 JUN 06:00
+UTC: THURSDAY, 22 JUN 02:00 - THURSDAY, 22 JUN 10:00
+
+IBX(s): TR2
+
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade on our Equinix Fabric routers.
+
+Equinix Fabric customers with only primary/single port/Network Edge virtual connection will experience up to 120 minutes of downtime while customers with secondary/redundant ports/Network Edge virtual connections will experience a loss of redundancy.
+
+The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+dxcon-ffz3ktcf
+EQIX-EXR01-YTO01-PRI-05292020
+149337-TR2-CX-PRI-02
+eqix-google-nni1-tr-pri-zone1
+GOOGLE-TR1-CX-PRI-01
+eqix-google-nni2-tr-pri-zone2
+536735-TR2-CX-PRI-01
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Project ID	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+158802	Equinix Fabric	TR2	-	20124662	-	-	-	-	-	-	-	-	-	-
+158802	Equinix Fabric	TR1	-	21441270-A	-	-	-	-	-	-	-	-	-	-
+158802	Equinix Fabric	TR1	-	20673977-A	-	-	-	-	-	-	-	-	-	-
+158802	Equinix Fabric	TR1	-	21389573-A	-	-	-	-	-	-	-	-	-	-
+158802	Equinix Fabric	TR1	-	21391602-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-227344484035.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-227344484035].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.

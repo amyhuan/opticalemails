@@ -1,0 +1,37 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018738
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Emergency // Emergencia
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to carry on a Network optimization migration.// Se realizará un trabajo programado con la finalidad de realizar una migración por optimización de red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 15 MIN
+
+LOCATION // LOCALIDAD: Boca Raton - Santos, USA
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+17-Mar-2023 16:00 - 17-Mar-2023 20:00 (MAIN)
+
+18-Mar-2023 03:30 - 18-Mar-2023 07:30 (BACKUP)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MICROSOFT SP2/MICROSOFT 100GB S001
+
+CRT-006004
+
+NAP/MICROSOFT - SP2/MICROSOFT 100GB S002
+
+CRT-006005

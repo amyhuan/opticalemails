@@ -1,0 +1,31 @@
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0019458
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to migrate customer services.// Se realizará un trabajo programado con la finalidad de migrar servicios de clientes.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: OUTAGE UP TO 15 MIN
+
+LOCATION // LOCALIDAD: Fortaleza - Santos, Brazil
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+18-May-2023 12:00 - 18-May-2023 15:00 [Main Window]
+
+19-May-2023 12:00 - 19-May-2023 15:00 [Backup Window]
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MICROSOFT - SP2/MICROSOFT 100GB S002
+
+CRT-006005

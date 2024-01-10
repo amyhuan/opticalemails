@@ -1,0 +1,68 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C144477
+
+ 
+
+Description
+
+Planned work to rectify high insertion loss issue in Segment S2 Fiber pair 1(DLS1) in Abu Talat.
+
+Location
+
+Abu Talat
+
+Duration
+
+Up to 3 Hours Outage
+
+Planned Start
+
+07-Aug-2023 04:00:00 GMT
+
+Planned End
+
+07-Aug-2023 13:00:00 GMT
+
+Backup Start
+
+08-Aug-2023 04:00:00 GMT
+
+Backup End
+
+08-Aug-2023 13:00:00 GMT
+
+Affected service/link
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+Carrier References
+
+PW3517
+
+ 
+
+ 
+
+Best Regards,
+
+ 
+
+Saleem Abdulla
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 70945621
+
+Follow us on Twitter and Facebook

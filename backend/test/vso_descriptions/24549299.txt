@@ -1,0 +1,25 @@
+Dear Valued Customer,
+ 
+This is an urgent notification for emergency SA maintenance
+Please find details below:
+ 
+****************Maintenance Work detail****************
+ 
+[Start Date&Time]
+07/18 15:00 UTC
+ 
+[End Date&Time]
+07/18 19:00 UTC
+ 
+[Work Location]
+Tokyo, Japan
+ 
+[Affected Circuits]
+MNAJ01H
+MNAJ02H
+ 
+[Event Summary]
+Our Backhaul provider will be performing an emergency equipment replacement
+ 
+[Expected Impact Duration]
+The estimated service impact will be 180 minutes, however, the downtime may occur more than once during the maintenance work, and our provider reserves the right to use the full duration of the maintenance window if necessary to complete this work.

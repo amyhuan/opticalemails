@@ -1,0 +1,35 @@
+Dear MICROSOFT NOC ,
+
+
+
+Please be advised of service impacting works
+
+ to be carried out on the Hawaiki US terrestrial backhaul as described below. This work is expected to impact your service(s) identified below.  
+
+Service ID: MSO-BC0677 , MSO-BC0671
+
+Reason for Notification: Hawaiki team will perform maintenance activity to improve the quality of service.
+
+
+
+Maintenance Window:
+Date/Time Start: ﻿﻿2023:08:28:14:00:00 UTC
+Date/Time End:    2023:08:28:15:00:00 UTC
+
+
+
+Location of Maintenance: US TERRESTRIAL Backhaul.
+
+
+
+Service Impact:  2x50ms switch hits.
+
+
+
+Hawaiki NOC will monitor the progress of works throughout the maintenance window, keep you informed of developments as they occur and advise when the activity is complete.
+
+Please contact the HAWAIKI SUBMARINE CABLE Network Operations Centre (NOC) with any questions of concerns.
+
+-----
+Best Regards,
+HAWAIKI NOC

@@ -1,0 +1,23 @@
+Dear Customer,
+
+In our continual effort to provide your company with quality service, we will be performing the following network maintenance:
+ 
+Date of Maintenance                      : 29 January 2023
+Maintenance Window Period       : 29 January 2023 0000 HRS to 0500 HRS (Singapore Time)
+Affected Circuit IDs                    :
+ 
+Service ID	Service Type
+1070010079	IPLC
+Reason                                           : Overseas carrier Maintenance work Power reconfiguration in advance in order to get the exact fault position and clear doubt on APG BU9 at/via SINGAPORE,Singapore－JAPAN,Shima.
+ 
+Impact and Duration                     : Downtime for the duration of the maintenance activity.
+
+Remarks :
+You may need to reboot / power recycle the CPE (e.g. Router/Modem/NTU) at your premises in case of equipment hang after the service maintenance notification downtime.
+ 
+Should you have any queries, please feel free to reply to this email. We will be glad to assist you.
+ 
+Regards
+ 
+Geva
+Customer Experience - Business Technical Support

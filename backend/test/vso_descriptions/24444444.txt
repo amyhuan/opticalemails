@@ -1,0 +1,56 @@
+Dear All,
+
+Dear Customer,
+Please be informed that subject activity is postponed due to operational reasons. Revised schedule will be advised later.
+
+Activity Details
+CR-000000895211>POHC for M451> DIP - LUS 100F (Cable Relocation) YXD36000
+Maintenance Window
+Start:  (UAE Local time GMT+4)
+End:  (UAE Local time GMT+4)
+Service Impact
+Unprotected traffic working thru affected sections will remain out thru out activity.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/IMW 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Circuit Designation: BAH/FOG/BTC-FJN/SHB/GOOGLE 10GE02
+Service ID: I62670
+SOF: IS CC L 1648
+Protection: Unprotected
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RB 10GBES01 (S/B) - 1444057930
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RB 10GBES02 (S/B) - 1444057931
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: J4S/MICROSOFT-MAR/SFR/AAE1 100GE01
+Service ID: I60188
+SOF: IS Submarine Lease - 1505.1
+Intl Submarine ID: ELT/FUJ/MRS2/100G/100Gbe/000004
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MAR/SFR/AAE1 100GE02
+Service ID: I60188
+SOF: IS Submarine Lease - 1505.1
+Intl Submarine ID: ELT/FUJ/MRS2/100G/100Gbe/000008
+Protection: Protected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note
+
+Should you have any further enquiries about this activity, please let us know.
+
+We apologize for any disruption this activity may cause.

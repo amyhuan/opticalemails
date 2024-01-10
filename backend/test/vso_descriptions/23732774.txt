@@ -1,0 +1,36 @@
+PLANNED OUTAGE NOTIFICATION
+
+ 
+
+ 
+
+Service/s
+
+Voice, Data, Internet services will be affected
+
+Reason for outage
+
+One New Zealand is carrying out urgent repairs to its network
+
+Duration
+
+2 x 50ms switching break & loss of redundancy for up to 60 minutes for protected circuits. Up to a 60 minute loss of service for unprotected circuits
+
+Outage window START
+
+07/06/2023 00:01:00
+
+(dd/mm/yy  hh:mm)
+NZST
+
+Outage window END
+
+07/06/2023 02:00:00
+
+(dd/mm/yy  hh:mm)
+NZST
+
+Services Affected
+Circuit & Site
+
+INT21890814/1 - 90 PETER BROCK DRIVE EASTERN CREEK NEW SOUTH WALES - Microsoft NZ Limited 6399- AP PO 100203114

@@ -1,0 +1,69 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0018717
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed in order to measure fiber cable in a network path.// Se realizará un trabajo programado con la finalidad de medir cable de fibra en una ruta de red.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HITS UP TO 5 MIN
+
+LOCATION // LOCALIDAD: Puerto Barrios, Guatemala
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+17-Mar-2023 06:00 - 17-Mar-2023 11:00 (MAIN)
+
+18-Mar-2023 06:00 - 18-Mar-2023 11:00 (BACKUP)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S001
+
+CRT-007322
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S002
+
+CRT-007323
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S003
+
+CRT-009612
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S004
+
+CRT-009613
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S007
+
+CRT-010257
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S008
+
+CRT-010258
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S009
+
+CRT-010259
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S010
+
+CRT-010260
+
+[English]
+If you shall experience any problem with your services due to the performing of this task, please contact our Capacity Services NOC at +511 411 0070 or mailing to customerservice.capacity@telxius.com.
+We would like to apologize for any inconvenience caused by this maintenance to you and your customers. If any additional question appears, do not hesitate to contact us. Our personnel will be permanently available for you.
+
+[Español]
+Si experimenta algún problema con su servicio debido a la realización de esta actividad programada, por favor comuníquese a nuestro NOC de Capacity Services vía el +511 411 0070 o al correo customerservice.capacity@telxius.com.
+Lamentamos los inconvenientes que este mantenimiento pueda causarle a usted o sus clientes. Si una nueva consulta surgiera, no dude en comunicarse con nosotros, nuestro personal estará permanentemente disponible para usted.

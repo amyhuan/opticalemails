@@ -1,0 +1,15 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	PW | SA | Fiber maintenance work in SELANGOR (CENTRAL) in provider's Network
+PE Reference:	C4080157
+PE Type:	Non Service Affecting
+PE Category:	ILD Standard Change
+Start time IST:	05/06/2023 21:30:00
+End Time IST:	05/07/2023 03:30:00
+Associated Service:	JIOGIPLMUMSIN0224
+Impact:	Service will face 2 hour down time during the activity
+Comment:	Our provider will carrying out fiber Maintenance at location KUALA KUBU BARU - RAWANG (A) AT JALAN SUNGAI CHOH.
+This mail is automatically generated, please do not reply it. If any query regarding mentioned activity, Please Contact us on Jio.NOCILDOperations@ril.com ( mailto:Jio.NOCILDOperations@ril.com )
+
+Thanks and Regards

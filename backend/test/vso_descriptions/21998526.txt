@@ -1,0 +1,25 @@
+ESCRIPTION:Please be advised that Equinix engineers will be performing a planned maintenance work on our platform Equinix Internet Exchange.
+There is no expected interruption on your network port, but the BGP session to affected peering partners can go down for up to 45 minutes during the maintenance window.
+
+PRODUCTS: INTERNET EXCHANGE
+
+IMPACT: No impact to your service
+
+
+Internet Exchange
+
+Account #	Product	IBX	Service Serial #
+116771	Internet Exchange	HK1	22006561-A
+116771	Internet Exchange	HK1	21996289
+116771	Internet Exchange	HK1	21987809-A
+116771	Internet Exchange	HK1	21973945
+116771	Internet Exchange	HK1	21972512-A
+116771	Internet Exchange	HK1	21947435
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-226706649293.
+
+Sincerely,

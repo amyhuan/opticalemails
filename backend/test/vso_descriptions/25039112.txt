@@ -1,0 +1,32 @@
+Planned Outage Notification
+
+Dear Sir or Madam,
+
+In order to maintain the highest levels of availability and service to our customers, it is sometimes necessary for Colt and our partners to perform network maintenance.  We apologize for any resulting inconvenience and assure you of our efforts to minimise any service disruption. To view this, and all other planned maintenance on your services, or if you require any assistance, please contact us via the Colt Online Portal http://online.colt.net. Alternatively, email us to PlannedWorks@colt.net, quoting the following reference number CRQ1-58824126821. Please retain this unique reference for the maintenance.
+
+Planned Works Details:
+
+Planned Work (PW)Ref.:   CRQ1-58824126821
+Start Date & Time:             25/9/2023 20:00:00(GMT)*
+End Date & Time:              25/9/2023 23:59:00 (GMT)*
+Outage Duration:              120 Minutes
+
+*Time Zone:
+Central European Time (CET)  = GMT + 1 hour
+Central European Summer Time (CEST) = GMT + 2 hours
+
+Justification of the work: The following maintenance is required for optimization purposes and better network management of our long distance network in Milan. During this work, we need to modify the existing configuration within our network for optimization purpose. The works should be completed during the first 3 hours of the maintenance window, but quote a 4 hour window to cover all eventualities. Back-out Plan: 60 minutes have been reserved to retrace the steps back to original state in the event of any unforeseen issue. The mentioned outage duration is a best estimation for the work at hand, but should you ascertain that you are experiencing any prolonged connection issues exceeding this during the works, please contact our technical service desk to investigate the matter https://www.colt.net/support/
+
+Service:  ***Please refer to the attached CSV file for your service(s) affected by this maintenance****
+
+PLEASE NOTE:  To enable you to plan appropriately the list of impacted services includes those that have been completed, as well as those pending completion.  If the pending installation is completed prior to the scheduled date for the planned maintenance these services will be impacted.
+
+Please assist Colt by informing us about any changes to your contact details via the Colt Online Portal http://online.colt.net or by replying to PlannedWorks@colt.net so that we can ensure that future notifications reach the correct parties.
+
+Should you experience any issue with your service post the maintenance end time, please contact Colt Technical support via the Colt Online Portal http://online.colt.net. Alternatively, visit http://www.colt.net/support to contact us by phone, quoting your service ID.
+
+For more information about a service, please consult the Colt Online Portal http://online.colt.net
+
+
+Colt Change management
+Colt Technology Services - Operations

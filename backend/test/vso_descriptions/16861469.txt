@@ -1,0 +1,231 @@
+, 
+, 
+, S. No,  , 
+, 
+, 
+, Circuit ID,  , 
+, 
+, 
+, Date,  , 
+, 
+, 
+, Start Time,  , 
+, 
+, 
+, Stop Time,  , 
+, 
+, 
+, Link Designation,  , 
+, 
+, 
+, Point-A,  , 
+, 
+, 
+, Point-Z,  , 
+, 
+, 
+, Capacity,  , 
+, 
+, 
+, 
+, 
+, 1,  , 
+, 
+, 
+, 1444054964,  , 
+, 
+, 
+, 25/09/2023,  , 
+, 
+, 
+, 0100 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, 0600 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S01 (M),  , 
+, 
+, 
+, DXB20,  , 
+, 
+, 
+, AUH20,  , 
+, 
+, 
+, 100GBE,  , 
+, 
+, 
+, 
+, 
+, 2,  , 
+, 
+, 
+, 1444052801,  , 
+, 
+, 
+, 25/09/2023,  , 
+, 
+, 
+, 0100 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, 0600 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (S/B),  , 
+, 
+, 
+, DXB20,  , 
+, 
+, 
+, AUH20,  , 
+, 
+, 
+, 100GBE,  , 
+, 
+, 
+, 
+, 
+, 3,  , 
+, 
+, 
+, 1444054945,  , 
+, 
+, 
+, 25/09/2023,  , 
+, 
+, 
+, 0100 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, 0600 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S01 (S/B),  , 
+, 
+, 
+, DXB20,  , 
+, 
+, 
+, AUH20,  , 
+, 
+, 
+, 100GBE,  , 
+, 
+, 
+, 
+, 
+, 4,  , 
+, 
+, 
+, 1444054967,  , 
+, 
+, 
+, 25/09/2023,  , 
+, 
+, 
+, 0100 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, 0600 Hrs,  , 
+, (GMT +4),  , 
+, 
+, 
+, JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (M),  , 
+, 
+, 
+, DXB20,  , 
+, 
+, 
+, AUH20,  , 
+, 
+, 
+, 100GBE,  , 
+, 
+,  ,  ,  ,  , Hi Azure NOC team,
+
+ 
+
+Thanks for your email. So shall we consider this as confirmed for Saturday 28-Jan-2023?
+
+ 
+
+Day-1 : 28-Jan-2023 from 0100 Hrs to 0600 Hrs (GMT +4)
+
+ 
+
+ Sno
+
+Date
+
+Start Time
+
+Stop Time
+
+Circuit ID
+
+Link Designation
+
+1
+
+28-Jan-2023
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444054964
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S01 (M)
+
+2
+
+28-Jan-2023
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444054945
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S01 (S/B)
+
+3
+
+28-Jan-2023
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444052801
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (S/B)
+
+4
+
+28-Jan-2023
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444054967
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (M)
+
+ 
+
+ 
+
+ 
+
+Thanks & Regards,

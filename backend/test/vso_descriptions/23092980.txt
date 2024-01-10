@@ -1,0 +1,61 @@
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Planned Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 22/05/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-CORE_Transmission-230508-0073 NORMAL CA CORE_Transmission DWDM-INSTALLATION/UPGRADE Project INSTALLATION OF OLP CARD WST036(FH) BANDAR TUN RAZAK.7 - SERDANG.5
+
+REGION                     
+
+SELANGOR ( CENTRAL )
+
+PLANNED START ( with time zone )  
+
+2023-06-08 00:00:00 (GMT +8)
+
+PLANNED END
+
+2023-06-08 06:00:00 (GMT +8)
+
+TIMEZONE
+
+GMT +8
+
+EXPECTED OUTAGE START
+
+2023-06-08 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-06-08 06:00:00
+
+EXPECTED OUTAGE DURATION
+
+4 HOURS
+
+JUSTIFICATION
+
+INSTALLATION OF OLP CARD WST036(FH) BANDAR TUN RAZAK.7 -SERDANG.5 For Rapid Project
+
+CIRCUIT INVOLVED 
+
+ 
+
+NETWORK ID	Expected Outage
+IE1042622373
+
+4 HOURS
+
+IE1042623063
+
+4 HOURS

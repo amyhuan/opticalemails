@@ -1,0 +1,149 @@
+More details as below :
+
+ 
+
+CONTR0095192834
+
+OTN CID: 44000010
+
+CONTR0095192550
+
+OTN CID: 44000011
+
+ 
+
+Regards,
+
+ 
+
+	
+Tharwat Arafa
+Service Manager
+Customer Operations
+
+
+Mob:	+971557733510
+Email:	Tharwat.Arafa1@du.ae
+Emirates Integrated Telecommunications Company, PJSC. P.O.Box 502666, Dubai, U.A.E.
+
+Facebook	Instagram	Linkedin	Youtube
+
+Give tomorrow a better chance, think before you print
+This email and any attachments contain confidential information. You must not read, print, copy, store, or otherwise use them unless you are the intended recipient. If you have received them in error, please delete them and contact du. Without exception, du does not enter into any agreement through email communications and nothing in this email shall be construed or interpreted as binding du or creating any obligation (whether financial or otherwise) for du. You should check attachments for viruses before opening. Please note that email communications may be monitored in accordance with the laws of the United Arab Emirates. Commercial License No.576513; Commercial Registration No. 77967
+From: Azure Network Operations Center 
+Sent: Thursday, September 21, 2023 9:34 PM
+To: Tharwat Arafa 
+Cc: Rubhan Pandya (Ernst & Young LLP) 
+Subject: Re: Microsoft - Planned Maintenance Notification - CR PE2023021540556
+
+ 
+
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Hi Team,
+
+ 
+
+Please provide Circuit details of the activity.
+
+ 
+
+Thanks & Regards,
+
+Mounika | Azure NOC
+
+NOC Hotline: +1 425-705-2686
+
+From: Tharwat Arafa 
+Sent: 21 September 2023 04:11
+To: Azure Network Operations Center 
+Cc: Rubhan Pandya (Ernst & Young LLP) 
+Subject: [EXTERNAL] Microsoft - Planned Maintenance Notification - CR PE2023021540556
+
+ 
+
+Dear Team,
+
+Hope my email find you well,
+
+Kindly be advised that our partner will be carrying out a Planned Maintenance activity which will affect your below services :
+
+ 
+
+Maintenance Date : 25 September 2023
+
+Maintenance Window:  07:30 AM – 13:30 AM - GMT
+
+Reason: normalization of services restored during Segment 7a.1 cable fault between Kuwait & Bandar Abbas.
+
+ 
+
+Window
+
+Primary Start Date (GMT)
+
+Primary End Date (GMT)
+
+Backup Start Date (GMT)
+
+Backup End Date (GMT)
+
+1
+
+25-Sep-2023 07:30
+
+25-Sep-2023 13:30
+
+26-Sep-2023 07:30
+
+26-Sep-2023 13:30
+
+ 
+
+Please find the circuit details below in the Table:
+
+ 
+
+Sr. No
+
+Maintenance Date
+
+Contract ID
+
+Services
+
+Location
+
+Speed/Service
+
+ 
+25 September 2023
+
+CONTR0095192834
+
+Global Ethernet
+
+A : Khazna Meydan, Dubai
+
+B : Mumbai, India (Via Falcon CLS)
+
+100 GB
+
+ 
+25 September 2023
+
+CONTR0095192550
+
+Global Ethernet
+
+A : Khazna Meydan, Dubai
+
+B : Mumbai, India (Via Falcon CLS)
+
+100 GB
+
+ 
+
+Kindly do contact us should you need any further assistance.
+
+Best Regards,

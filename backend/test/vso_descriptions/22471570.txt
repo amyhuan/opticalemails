@@ -1,0 +1,23 @@
+Dear Microsoft,
+
+
+Hereby we notify you of an upcoming maintenance activity that might have an impact on your service(s).
+Further details regarding the activity, such as maintenance duration and impacted service(s), can be seen below.
+
+Maintenance Schedule:
+
+Date and Time: 23 May 2023 from 00:01 - 06:00 UTC+7
+Downtime: Yes, Maximum 30 Minutes
+Activity Description: DWDM Power Rectifier Sources Migration
+Affected Circuit: TI-2200182-01 and TI-2200182-02 | IPLC 400 Gbps for Microsoft SG (Microsoft Operations Pte Ltd) Jakarta-Singapore
+
+We apologize for the inconvenience it may cause.
+
+
+Best regard,
+
+Aji Pratama
+Customer Interface Management
+
+PT. Telekomunikasi Indonesia International
+P : +62-21-3810000 | E : noc@telin.net | W : www.telin.net

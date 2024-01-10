@@ -1,0 +1,36 @@
+Dear Microsoft Team,
+
+Please be advise for below plan maintenance.
+
+PE Reference	CHN-6757
+PE category	Emergency Planned activity
+Description	LTC team will perform fiber & Node insertion activity
+PE Type	Service Threatening
+Associated Services	VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000349
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000350
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000351
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000352
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000353
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000354
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000355
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000356
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000357
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000358
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000359
+VLE_EXT_01_MUM-GPX2_2_CHN-STT_AMB_1_P_000360
+Activity time	23:00 IST 11/08/23 to 06:00 IST 12/08/23 
+Impact	Services will be on threat during Maintenance window
+
+
+
+Thanks and Regards, 
+
+Aman Lade 
+
+Senior Executive – Service Operations 
+
+www.lightstormtelecom.com 
+
+Phone : +91-22 69315544 
+
+E-mail-  ltcsoc.l1@lightstormtelecom.com

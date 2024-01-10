@@ -1,0 +1,49 @@
+From: TELECOM ITALIA SPARKLE
+
+To: Microsoft Ireland Operations Limited (MCRSF0)
+
+PEW Number: NE-16136 (Please take note the PEW Number that should be referred to in all your future communication)
+
+PEW Type: PEW
+
+Ticket Reference Number: WO0000000006442
+
+For Telecom Italia Sparkle: Arbia Arfaoui
+
+-------------------------------------------------------------------
+
+
+
+Planned Work Description
+
+Emergency cable replacement over new trench in FO section Sofia - Kalotina
+Service ID
+
+Int. Circuit Designation
+
+PEW Impact
+
+ATHENS/WED-WIEN/WED NP 0001
+
+TIS-00000078765
+
+Asset Impacted
+
+ATHENS/WED-WIEN/WED NP 0002
+
+TIS-00000081577
+
+Asset Impacted
+
+
+These works will take place between 09/08/2023 21:00 (GMT+00:00) Greenwich Mean Time (Europe/London) and 10/08/2023 03:00 (GMT+00:00) Greenwich Mean Time (Europe/London) with an estimate downtime of 360 minutes maximum.
+
+Please note that your assets listed with “PEW Impact” at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+We apologize for any inconvenience we may have caused to you.
+
+Thank you.
+-------------------------------------------------------------------
+Note: If we do not receive any feedback from you in the next two working days, we will assume you are in agreement. If you are not the right person/department, please forward this message to whom it may concern.
+
+Please be advised that the Sparkle Planned Works Change Management Desk core business hours are from 09:00 to 16:30 CET local time, Monday through Friday (except public holidays) and is not able to respond outside of these hours.

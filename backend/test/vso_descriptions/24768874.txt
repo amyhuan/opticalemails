@@ -1,0 +1,35 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3562\23D-A1
+Date Time : 07/08/2023 04:00:00 to 08/08/2023 13:00:00 GMT (dd/mm/yyyy)
+Duration : 180 mins
+Service/Circuit Affected :
+SR211308 / SNG(PCG)-MSL(PCG) EP7111 /
+SR211309 / MSL(PCG)-SNG(PCG) EP7112 /
+SR215090 / SNG(PCG)-MSL(PCG) EP7114 /
+
+Outage Description : AAE-1 PW TT reference
+Description : Planned work to rectify high insertion loss issue in Segment S2 Fiber pair 1(DLS1) in Abu Talat.
+Planned Work Schedule : 04:00 GMT to 13:00 GMT/ 7th August 2023
+Backup Maintenance window : 04:00 GMT to 13:00 GMT/ 8th August 2023
+Nature : Service Affecting
+Impact : Up to 3 Hours Downtime
+
+****************** AMENDMENT ***********************
+
+This is to inform you that, below Planned maintenance has been postponed due to we have received objection from one of our landing party.
+We will reschedule this activity on later date and will notify as soon as the new schedule is made available.
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

@@ -1,0 +1,30 @@
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3255\23D-A1
+Date Time : 01/08/2023 06:00:00 to 01/08/2023 10:00:00 GMT (dd/mm/yyyy)
+Duration : 120 mins
+Service/Circuit Affected :
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : AAE-1 PW TT
+Description : Planned work for card replacement to clear "Temperature out of range" alarm on SOFX 3-A-2 in Zafarana.
+Planned Work Schedule : 06:00 GMT to 10:00 GMT/ 19th July 2023
+Nature : Service Affecting
+Impact : Up to 2 Hours Downtime
+
+************* AMENDMENT **************
+Rescheduled to 01/08/2023
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

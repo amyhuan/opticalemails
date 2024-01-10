@@ -1,0 +1,61 @@
+Dears,
+
+Kindly be aware of Planned Activity with below details:
+
+ 
+
+Planned outage notification
+
+Peer IP/Circuit Impacted
+
+International circuit ID
+
+ABT/TEN-Marseilles/TEN100GE033
+
+ABT/TEN-Marseilles/TEN100GE034
+
+                                      ABT/MRS/100G/100GE/00048         
+
+Requested outage reason
+
+planned activity without impact on our services and have a minor risk of disturbances.
+
+The activity will be on the Main route between Marseille PFE & MRS1..
+
+MW#1     Start time
+
+01-May-2023      22:00 UTC
+
+MW#1     End time
+
+02-May-2023      04:00 UTC
+
+MW#2 Start time
+
+04-May-2023      22:00 UTC
+
+MW#2 End time
+
+05-May-2023      04:00 UTC
+
+Outage Duration
+
+6 Hours / window
+
+Backup window Start time
+
+ 08-May-2023      22:00 UTC
+
+Backup window End time
+
+09-May-2023      04:00 UTC
+
+Outage impact
+
+At Risk
+
+ 
+
+ 
+
+Best Regards,

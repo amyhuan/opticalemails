@@ -1,0 +1,75 @@
+With reference to our letter dated 9 May 2023 . This is to inform you that the Singtel network maintenance activity on 10 June 20223 has been rescheduled as follows: ,   ,   ,  ,   , 1. Circuit: , DN0658906 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 21 DEFU AVENUE 1 SINGAPORE ,   , 2. Circuit: , DN0658908 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 21 DEFU AVENUE 1 MAIN SINGAPORE ,   , 3. Circuit: , DN0658974 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 4. Circuit: , DN0658978 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 5. Circuit: , DN0658980 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 6. Circuit: , DN0658983 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 7. Circuit: , DN0659003 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 8. Circuit: , DN0659007 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 9. Circuit: , DN0659031 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET SINGAPORE ,   , 10. Circuit: , DN0662439 ,   , Client Name: , MICROSOFT OPERATIONS PTE LTD , Address A: , 1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE , Address B: , 35 TAI SENG STREET TCX SINGAPORE ,   , Date/ Time 1 (SGT): , 23-Jun-2023 00:00 - 23-Jun-2023 06:00 ,  , Date/ Time 1 (UTC): , 22-Jun-2023 16:00 - 22-Jun-2023 22:00 ,   , Impact : , The circuit will be down during the entire maintenance window. ,   , Reason : , To facilitate the diversion of fiber away from railway company road work activities vicinity. This is part of SingTel's ongoing effort in providing a stable network to our customers. ,   ,   , ** SGT means Singapore Time (+8 UTC/GMT) ,  ,  ,  , Urgent Network Maintenance Activity CHG000000137905 - Rescheduled
+
+ 	 
+With reference to our letter dated 13 March 2023. This is to inform you that the Singtel network maintenance activity on 20 April 2023 has been rescheduled as follows:
+ 	 
+ 
+1. Circuit:	DN0658906
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	21 DEFU AVENUE 1 SINGAPORE
+ 
+2. Circuit:	DN0658908
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	21 DEFU AVENUE 1 MAIN SINGAPORE
+ 
+3. Circuit:	DN0658974
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+4. Circuit:	DN0658978
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+5. Circuit:	DN0658980
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+6. Circuit:	DN0658983
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+7. Circuit:	DN0659003
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+8. Circuit:	DN0659007
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+9. Circuit:	DN0659031
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET SINGAPORE
+ 
+10. Circuit:	DN0662439
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	35 TAI SENG STREET TCX SINGAPORE
+ 
+Date/ Time 1 (SGT):	10-Jun-2023 00:00 - 10-Jun-2023 06:00
+Date/ Time 1 (UTC):	09-Jun-2023 16:00 - 09-Jun-2023 22:00
+ 
+Impact :	The circuit will be down during the entire maintenance window.
+ 
+Reason :	To facilitate the diversion of fiber away from railway company road work activities vicinity. This is part of SingTel's ongoing effort in providing a stable network to our customers.
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)

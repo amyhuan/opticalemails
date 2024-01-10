@@ -1,0 +1,30 @@
+Email Recipients: moc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.com,gnscore@microsoft.com,ioc@microsoft.com,noreply@exainfra.net,msnalert@microsoft.com,noc@microsoft.Com,prohelp@microsoft.com,opticaldri@microsoft.com
+
+Planned Work Notification: 00232321 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Orbetello,Italy between Thu Jun 01 21:00:00 GMT 2023-Fri Jun 02 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Thu Jun 01 21:00:00 GMT 2023
+End	Fri Jun 02 04:00:00 GMT 2023
+Location	Orbetello,Italy
+
+Planned work Reason:
+Hardware replacement on our network due to faulty card.
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100612	Wavelength/01641719	Wavelength	120 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00233403
+MICRSI/WAVE/U/100613	Wavelength/01641724	Wavelength	120 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00233404
+MICRSI/WAVE/U/100615	GTT/001923689	Wavelength	120 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00233405
+MICRSI/WAVE/U/100616	GTT/001923696	Wavelength	120 min	No	Mrs-001_MRS1IR	Rom-002_ROM2IR	00233406
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

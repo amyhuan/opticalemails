@@ -1,0 +1,14 @@
+Dear Customer,
+ 
+ 	Please be advised of below Planned Activity:-
+Title	PLANNED ACTIVITY | SA | Migrations Activity in PEN-SEQ
+PE Reference:	C4352616
+PE Type:	Service Affecting
+PE Category:	ILD Standard Change
+Start Time IST:	08/11/2023 03:30:00
+End Time IST:	08/11/2023 11:30:00
+Associated Service:	JIOGIPLMUMSIN0223
+JIOGIPLMUMSIN0248
+JIOGIPLMUMSIN0249
+Impact:	Service will be down during activity window
+Comment:	Our supplier will be performing activity of Migration between PEN-SEQ

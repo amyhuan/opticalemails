@@ -1,0 +1,26 @@
+Dear Customer,
+
+Planned Maintenance has been scheduled that will impact your service.We are unable to provide 14 calendar days notice.Telstra wishes to apologise for the short notice and any inconvenience caused.
+
+This is an iCal notification for Telstra Planned Maintenance PN309471,which will insert a placeholder in your calendar as a reminder.This is for your convenience and information only, so no response from you is required.
+
+ To                                 : Microsoft Corporation (USA)
+
+Attention                       : moc, activations, Erik.Miller, F1800872
+
+Change Reference         : PN309471
+
+Maintenance Window   : 03/08/2023 01:00:00(UTC) to 03/08/2023 09:00:00(UTC)
+
+Expected Impact            : up to 30 minutes outage within the change window
+
+Maintenance Details      :
+
+Telstra Maintenance Activity in USA (Defrag Migration Project: US SLOJ DTNX 13 & 17)
+
+Telstra will perform a planned maintenance to migrate services for SLOA DTNX 13 & 17 to improve network stability.
+
+Service(s) Impacted       : HKG SCA EPL 9257224
+                                         HKG SCA EPL 9479803
+
+Please email gpen@team.telstra.com If you have any questions, comments or concerns regarding this maintenance activity. We aim to answer your query within 24 hours, Monday through to Friday (01:00 - 16:30 UTC) and answer all emails in the order they are received, please avoid sending chaser emails as these will be answered after your initial query and only delays responses. For urgent queries or requests, please Call Global 800: +800 8448 8888* or direct: +852 3192 7420

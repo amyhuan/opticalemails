@@ -1,0 +1,32 @@
+Emergency Planned Maintenance - Announcement
+
+We would like to inform you about the following Emergency Planned Maintenance:
+
+Our reference	MTT 2023-3136596
+Start time of the event (UTC)	Mon 17 July 2023 19:00
+End time of the event (UTC)	Tue 18 July 2023 02:00
+
+Description of the Planned Maintenance:
+Our proactive monitoring has detected a card running on high temperature condition in our equipment in Marseille. Our equipment supplier recommends the replacement to avoid any risk of unexpected major outage. No traffic impact expected further than switching hits.
+
+Communication History:
+[2023-07-13 09:59 UTC] Announcement
+
+Service(s) part of this Planned Maintenance:
+» Capacity and Connectivity - Cloud Connect
+Cloud Connect 1000361639 (MARSEILLE-MARSEILLE) 10 Gb/s Eth.: Impacted
+» Capacity and Connectivity - IP Peering
+IP Peering 1000361071 (MARSEILLE-MARSEILLE) 10 Gb/s Eth.: Impacted
+IP Peering 1000367338 (MARSEILLE-MARSEILLE) 10 Gb/s Eth.: Impacted
+
+This is a NO REPLY e-mail. In case of any questions don’t hesitate to contact us at customer.care@bics.com. We will perform the required operational checks on your services after this event.
+
+Kind regards,
+
+BICS Customer Care
+Tel. +32 2 547 51 51
+customer.care@bics.com
+
+24x7 Contact and Escalation Matrix
+
+BICS SA/NV ,  , Device List:

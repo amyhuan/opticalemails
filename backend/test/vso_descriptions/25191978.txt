@@ -1,0 +1,33 @@
+Customer Name : MICROSOFT OPERATIONS PTE LTD
+From : Global Services & Operations Tel : +852-28291567
+Date : 18/09/2023 06:00:56 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R4444\23D
+Date Time : 25/09/2023 02:00:00 to 25/09/2023 09:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+SR211310 / SNG(PCG)-MSL(PCG) EP7113 /
+
+Outage Description : AAE-1 PW TT reference : PW3587
+Description : Urgent Fiber maintenance work for high loss rectification in Penang-Kuala Kurau(PNG-KKR) span
+Impact : 50ms Switching hits
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Services & Operations
+PCCW Global

@@ -1,0 +1,38 @@
+Please be advised of below Emergency Planned Activity:-
+
+PE Reference
+
+C3870012
+
+PE Category
+
+Emergency Planned Maintenance
+
+Description
+
+Our Supplier will be performing insertion activity in their NW.
+
+PE Type
+
+Service Affecting
+
+Associated Services
+
+JIOGIPLMUMSIN0248/ SO6084842330
+
+Start Time
+
+02/08/2023 22:00:00 UTC
+
+End Time
+
+02/09/2023 04:00:00 UTC
+
+Impact
+
+Circuit will be down for 2 HRS during activity
+
+
+
+We hope that you will accept our apology for any inconvenience this work may cause to you and your customers.
+Please contact ILD NOC on +91 22 796 46434 / Jio.NOCILDOperations@ril.com should you require any additional information.

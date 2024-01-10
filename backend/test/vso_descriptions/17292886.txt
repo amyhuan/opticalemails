@@ -1,0 +1,43 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C137671
+
+ 
+
+Description
+
+Urgent Fiber maintenance work to reroute cable between Ber Erida – Zafarana (BER-ZFR) Span in Seg X1.2. Services will be running via Sub-Segments X1.1.
+
+Location
+
+Erida - Zafarana
+
+Duration
+
+Switching hit plus protection loss
+
+Planned Start
+
+01-Mar-2023 10:00:00 GMT
+
+Planned End
+
+01-Mar-2023 16:00:00 GMT
+
+Affected service/link
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116)
+
+Carrier References
+
+PW3240

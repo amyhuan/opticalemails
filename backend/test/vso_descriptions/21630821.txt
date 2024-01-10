@@ -1,0 +1,28 @@
+Ticket Number	wt 230509103936
+Status	INPROG
+Level	3
+Ticket Begin Time	23/05/2023 23:00:00
+Ticket End Time	24/05/2023 01:00:00
+Time Zone	GMT + 1
+Description	There will be a planned maintenance on our network which will affect your service REASON: Quality improvement OUTAGE: All time period
+From	Türk Telekom International
+To	Türk Telekom International
+Services Id	msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )
+msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 )
+msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 )
+msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 )
+msn35897a.100ge*fra-ist /comment: (SupplierId:WL085751 )
+msn35898a.100ge*fra-ist /comment: (SupplierId:WL085770 )
+msn35899a.100ge*fra-ist /comment: (SupplierId:WL085771 )
+msn35900a.100ge*fra-ist /comment: (SupplierId:WL085772 )
+msn35901a.100ge*fra-ist /comment: (SupplierId:WL085773 )
+msn35902a.100ge*fra-ist /comment: (SupplierId:WL085774 )
+msn35903a.100ge*fra-ist /comment: (SupplierId:WL085775 )
+msn35904a.100ge*fra-ist /comment: (SupplierId:WL085776 )
+msn35905a.100ge*fra-ist /comment: (SupplierId:WL085777 )
+msn35906a.100ge*fra-ist /comment: (SupplierId:WL085778 )
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

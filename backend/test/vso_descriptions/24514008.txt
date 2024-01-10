@@ -1,0 +1,141 @@
+Date:                        	12-Jul-2023
+Customer:    	MICROSOFT OPERATIONS PTE LTD
+Attention:	John Tan Yio Kuan,Melody Wong,Optical DRI,Hijaz Rahman,Connie Tan . ,Azure Network Operations Center ,Adeline Ng,Chasel Tan,Niall Toh
+Email:	john.tan@singtel.com,melody.wong@microsoft.com,opticalDRI@microsoft.com,hijaz.rahman@microsoft.com,Connie.Tan@microsoft.com,moc@microsoft.com,Adeline.Ng@microsoft.com,chaseltan@microsoft.com,nialltoh@microsoft.com
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+ 
+
+Urgent Network Maintenance Activity CHG000000145044
+
+ 	 
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	BHGWR01098
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+ 
+2. Circuit:	BHGWR01100
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+3. Circuit:	BHGWR01101
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+4. Circuit:	BHGWR01102
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+5. Circuit:	BHGWR01103
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+6. Circuit:	BHGWR01104
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+7. Circuit:	BHGWR01105
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+8. Circuit:	BHGWR01106
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+9. Circuit:	BHGWR01107
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+10. Circuit:	BHGWR01108
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+11. Circuit:	BHGWR01109
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+12. Circuit:	BHGWR01110
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+13. Circuit:	BHGWR01111
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+14. Circuit:	BHGWR01112
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+15. Circuit:	BHGWR01113
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+16. Circuit:	BHGWR01114
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	9 TUAS AVENUE 3 MAIN SINGAPORE
+Address B:	1 WOODLANDS IND PK E9 MAIN SINGAPORE
+ 
+Date/ Time 1 (SGT):	03-Aug-2023 00:00 - 03-Aug-2023 02:00
+Date/ Time 1 (UTC):	02-Aug-2023 16:00 - 02-Aug-2023 18:00
+ 
+Impact :	The circuit will be interrupted for up to 2 hours during the maintenance window.
+ 
+Reason :	To upgrade the 2 end mux to a higher version (SW release 4.3.1) in order to resolve the issue.
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)
+ 	 
+ 	 
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com . 
+ 	 
+ 	 
+ 	 
+ 	 
+Request For Change Customer Contact
+ 	 
+( ) To Add	( ) To Amend
+ 	 
+Circuit:	BHGWR01098, BHGWR01100, BHGWR01101, BHGWR01102, BHGWR01103, BHGWR01104, BHGWR01105, BHGWR01106, BHGWR01107, BHGWR01108, BHGWR01109, BHGWR01110, BHGWR01111, BHGWR01112, BHGWR01113, BHGWR01114
+ 	 
+To: Change Notification, Fax: 67883791 or Email: g-chgnotifn@singtel.com
+ 	 
+Name:	__________________________
+Fax:	__________________________
+Email:	__________________________
+Telephone No:	__________________________

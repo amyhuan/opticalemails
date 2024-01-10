@@ -1,0 +1,65 @@
+Zayo Maintenance Notification
+
+This email serves as official notification that Zayo and/or one of its providers will be performing maintenance on its network as described below. This maintenance may affect services you have with us.
+
+Maintenance Ticket #: TTN-0006883274
+
+Urgency: Planned
+
+Date Notice Sent: 01-Aug-2023
+
+Customer: Microsoft Corporation
+
+Maintenance Window
+
+1st Activity Date
+14-Aug-2023 22:00 to 15-Aug-2023 05:00 ( Pacific )
+15-Aug-2023 05:00 to 15-Aug-2023 12:00 ( GMT )
+
+2nd Activity Date
+15-Aug-2023 22:00 to 16-Aug-2023 05:00 ( Pacific )
+16-Aug-2023 05:00 to 16-Aug-2023 12:00 ( GMT )
+
+3rd Activity Date
+16-Aug-2023 22:00 to 17-Aug-2023 05:00 ( Pacific )
+17-Aug-2023 05:00 to 17-Aug-2023 12:00 ( GMT )
+
+Backup Date
+17-Aug-2023 22:00 to 18-Aug-2023 05:00 ( Pacific )
+18-Aug-2023 05:00 to 18-Aug-2023 12:00 ( GMT )
+
+Location of Maintenance: Phoenix-Mesa-Glendale, AZ
+
+Reason for Maintenance: Mandated by Arizona Department of Transportation . Zayo to relocate network out of newly acquired ADOT right of way for freeway widening project.
+
+Expected Impact: Service Affecting Activity: Any Maintenance Activity directly impacting the service(s) of customers. Service(s) are expected to go down as a result of these activities.
+
+Circuit(s) Affected:
+Circuit Id	Expected Impact	A Location Address	Z Location Address	Legacy Circuit Id
+OGYX/176206//ZYO	Hard Down - Duration of maintenance window	3730 163rd Ave NE Redmond, WA. USA	10880 Airman Ave Manassas, VA. USA	
+OGYX/172340//ZYO	Hard Down - Duration of maintenance window	15580 NE 31st St Building B43 Redmond, WA. USA	9554 Westover Hills Blvd - SN6 San Antonio, TX. USA	
+FBDK/1148245//ZFS	Hard Down - Duration of maintenance window			
+FBDK/1162976//ZFS	Hard Down - Duration of maintenance window			
+FBDK/1245142//ZFS	Hard Down - Duration of maintenance window			
+FBDK/2016256//ZFS	Hard Down - Duration of maintenance window	3402 E University Dr Phoenix, AZ. USA	3785 N Citrus Rd Goodyear, AZ. USA	
+FBDK/325549/002/ZFS	Hard Down - Duration of maintenance window	17 E Virginia Ave Phoenix, AZ. USA	2305 S Ellis St - Bldg 4 Chandler, AZ. USA	FBDK/325549//ZFS
+F17M-0058107	Hard Down - Duration of maintenance window	615 N 48th St Phoenix, AZ. USA	2305 S Ellis St - Bldg 4 Chandler, AZ. USA	
+
+
+Please contact the Zayo Maintenance Team with any questions regarding this maintenance event. Please reference the Maintenance Ticket number when calling.
+
+Maintenance Team Contacts:
+
+Zayo Global Change Management Team/Équipe de Gestion du Changement Global Zayo
+
+Zayo | Our Fiber Fuels Global Innovation
+
+Toll free/No sans frais: 1.866.236.2824
+
+United Kingdom Toll Free/No sans frais Royaume-Uni: 0800.169.1646
+
+Email/Courriel: mr@zayo.com 
+
+Website/Site Web: https://www.zayo.com
+
+Purpose | Network Map | Escalation List | LinkedIn | Twitter | Tranzact

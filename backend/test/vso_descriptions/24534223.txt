@@ -1,0 +1,28 @@
+Scheduled Maintenance #: 27113949
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as an EMERGENCY. The nature of this work is to implement a fiber maintenance to repair a broken wire in the splice case and is required in order to proactively avoid outages and improve network reliabiliy.
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+
+Updates:
+
+2023-07-13 18:02:10 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27113949-1
+
+Start	End
+2023-07-14 13:00 GMT (Greenwich Mean Time)	2023-07-14 14:30 GMT (Greenwich Mean Time)
+2023-07-14 08:00 CDT (Central Daylight Time)	2023-07-14 09:30 CDT (Central Daylight Time)
+
+
+Maintenance Location(s): LD Nopala - Queretaro Mexico
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	FRO2006795203	FRO2006795203, FRO2006815709, FRO2006795204	10GIG	ELMRXMABGNDNOD1 QUERETARO QU MEXICO	ALESTRA-MEXICO CIUDAD DE MEXICO CM MEXICO	Outage	1 hour 30 minutes	 
+MICROSOFT CORPORATION MCIO	FRO2006795206	FRO2006795206, FRO2006795207, FRO2006815717	10GIG	ELMRXMABGNDNOD1 QUERETARO QU MEXICO	ALESTRA-MEXICO CIUDAD DE MEXICO CM MEXICO	Outage	1 hour 30 minutes

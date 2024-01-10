@@ -1,0 +1,68 @@
+Dear Customer, We have scheduled an Emergency maintenance activity to fix a critical Network fault. Please be informed, below listed services will experience disruption during the maintenance activity. Apologies for any inconvenience caused
+
+Change Reference Number:
+
+C187983
+ 	 
+Start Date & Time:
+
+26/04/2023 00:00:00
+
+ 	 
+Finish Date & Time:
+
+26/04/2023 07:00:00
+
+ 	 
+Time Zone:
+
+Australia/Victoria
+
+ 	 
+Change Description:
+
+Network Fault Fixing Activity: To clear Power adjustment failure (O3WN to O3SG IOF & O3BR to O3SG Regional)- IM869555
+
+ 	 
+Location of Change:
+
+0 Quinn Rd,Benalla,VIC,3672
+11 Parfitt Rd,Wangaratta,VIC,3677
+57 Lockwood Rd,Shepparton,VIC,3630
+
+ 	 
+Services Affected:
+
+ 	 
+Outage [HH:MM:SS]
+
+04:00:00
+
+ 	 
+ 
+
+Circuit Ref	Service Type	A End Address	Z End Address	Order Item      
+"SRVCKT00001410"
+"SRVCKT00001483"
+"SRVCKT00003817"
+"SRVCKT00003820"	"Service Circuit"
+"Service Circuit"
+"Service Circuit"
+"Service Circuit"	"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"
+"54 Sheppard St, Hume, ACT, 2620, Australia"	"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"
+"2 Davis Court (Building 2) Ct, Derrimut, VIC, 3030, Australi"	
+
+ 
+
+Optus Command Centre
+Network Management Centre
+Singtel Optus
+1 Lyonpark Road, Macquarie Park
+Phone: 1800 557 319 Option
+Email: OptusCommandCentre@nka.optusvendor.com.au
+
+This e-mail may contain confidential information. If you are not the intended recipient, please notify the sender immediately and delete this e-mail from your system. You must not disclose this email to anyone without express permission from the sender. The contents of all emails sent to, and received from, Optus may be scanned, stored, or disclosed to others by Optus at Optus' discretion. Optus has exercised care to avoid errors in the information contained in this e-mail but does not warrant that the information is error or omission free.

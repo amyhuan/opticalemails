@@ -1,0 +1,59 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000793251
+
+Start time / Heure de début (Y/M/D):
+
+2023-06-14 12:00:00 AM (ET)
+
+End time / Heure de fin (Y/M/D):
+
+2023-06-14 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+30 min
+
+Status / Statut:
+
+APPROVED/ APPROUVÉ
+
+Activity / Activité:
+
+We need to carry out work on cables and fibers in order to improve your service.
+Nous devons procéder à des travaux sur câbles et fibres afin d’améliorer votre service.
+
+Equipment / Équipement:
+
+SECTION CUT OVER
+
+CLLI:
+
+TOROONXN
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 05KGXS802762-006BLCA-000         
+ 05KGXS802762-008BLCA-000         
+ 05KGXS802762-010BLCA-000         
+ 05KGXS802762-012BLCA-000         
+ 05KGXS802762-014BLCA-000         
+ 05KGXS802762-034BLCA-000         
+ 05KGXS802762-036BLCA-000         
+ 05KGXS802762-037BLCA-000         
+ 05KGXS802762-038BLCA-000         
+ 05KGXS802792-024BLCA-000         
+ 05KJXS802762-047BLCA-000         
+ 05KJXS802762-048BLCA-000         
+ 05KJXS802762-055BLCA-000      1250 RENE LEVESQUE BD O MONTREAL QC FLR 5TH FLR   
+ 05KJXS802762-056BLCA-000      1250 RENE LEVESQUE BD O MONTREAL QC FLR 5TH FLR   
+ 05KJXS802762-057BLCA-000      2675 DU PARC-TECHNOLOGIQUE BOUL QUÉBEC QC FLR M   
+ 05KJXS802762-058BLCA-000      2675 DU PARC-TECHNOLOGIQUE BOUL QUÉBEC QC FLR M   
+ 05MKAX802762-002BLCA-000         
+
+You may experience a failure(s) at any time during the above window.
+Il est possible que vous éprouviez une/plusieurs interruption(s) de service lors de la fenêtre ci-dessus.

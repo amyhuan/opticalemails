@@ -1,0 +1,71 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1657644
+
+
+Work Start Date/Time:  11-08-2023 00:00:00 AEST
+
+Work End Date/Time:     11-08-2023 06:00:00 AEST
+      
+
+Location:            Sydney, NSW
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+Planned Fibre works, the listed services will be in Hazardous condition during the change window.
+
+
+ 
+
+Services List: 
+
+
+Service	Product	Site-A Address	Site-B Address
+VWE296989	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297066	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE296995	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297029	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE296997	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297060	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297016	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297062	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297020	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297068	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297067	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297026	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE296996	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297059	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE296998	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297061	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297018	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297063	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE297023	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+VWE296991	Vocus Wavelength (AUD)	2 Davis Court Derrimut Vic 3030	90 Peter Brock Drive EASTERN CREEK NSW 2766 Australia
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

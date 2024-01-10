@@ -1,0 +1,36 @@
+Scheduled Maintenance #: 26920196
+
+Summary:
+
+Lumen's 3rd party provider will perform maintenance within their network. This has been designated as URGENT. The nature of this work is to migrate circuits to new optimum path and is required in order to improve network reliability.
+
+This maintenance will take approx. 2 hours to complete.
+
+As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-06-19 20:46:40 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26920196-1
+
+Start	End
+2023-06-28 03:00 GMT (Greenwich Mean Time)	2023-06-28 09:00 GMT (Greenwich Mean Time)
+2023-06-28 00:00 BRT (Brasilia Time)	2023-06-28 06:00 BRT (Brasilia Time)
+
+
+Maintenance Location(s): COTIA Brazil; BARUERI Brazil
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	FRO2006554777	N/A	100 GIG	TELEPORTO RIO DE JANEIRO - GATEWAY RIO DE JANEIRO RJ BRAZIL	MICROSOFT CORPORATION BARUERI BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006764005	N/A	100 GIG	MICROSOFT CORPORATION RIO DE JANEIRO BRAZIL	MICROSOFT DO BRASIL IMPORTACAO E COMERCIO BARUERI SP BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006763937	N/A	100 GIG	MICROSOFT CORPORATION RIO DE JANEIRO BRAZIL	MICROSOFT DO BRASIL IMPORTACAO E COMERCIO BARUERI SP BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006554780	N/A	100 GIG	TELEPORTO RIO DE JANEIRO - GATEWAY RIO DE JANEIRO RJ BRAZIL	MICROSOFT CORPORATION BARUERI BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006764002	N/A	100 GIG	MICROSOFT CORPORATION RIO DE JANEIRO BRAZIL	MICROSOFT DO BRASIL IMPORTACAO E COMERCIO BARUERI SP BRAZIL	Outage	2 hours	 
+MICROSOFT CORPORATION MCIO	FRO2006554771	N/A	100 GIG	TELEPORTO RIO DE JANEIRO - GATEWAY RIO DE JANEIRO RJ BRAZIL	MICROSOFT CORPORATION BARUERI BRAZIL	Outage	2 hours	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email

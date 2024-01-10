@@ -1,0 +1,33 @@
+Dear Customer,
+
+Please be aware we need to carry out essential maintenance which will affect the service we provide you as follows:
+
+Maintenance Ref CHG0079489
+
+
+ 
+Planned Start Date:	19/09/2023	Planned Start Time:	20:00
+Planned End Date:	20/09/2023	Planned End Time:	06:00
+Outage Start Date:	04/09/2023	Outage Start Time:	20:00
+Outage End Date:	05/09/2023	Outage End Time:	06:00
+
+Schedule Advised is Local UK Time
+
+Maintenance activity:
+Please be advised of essential maintenance work required on our NEOS Fibre Network Platform. We are required to alter this fibre due to development works happening within the area, we will be moving the fibres so that they are out of scope from this work. This requires the fibres to be cut and the impact to your services is below. If you have any issues please do not hesitate to contact us back via telecoms.change@neosnetworks.com.
+
+Services affected:
+
+Circuit Ref	Service/Product	Customer ref	Job No	Status	A end location	B end location	Impact*
+IDN134108GIG100			J101373	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+IDN134109GIG100			J101373	In Service	NGD Data Centre,,Celtic Way, Celtic Lakes,,Newport, NP10 8BE,NP10 8BE	Virtus London5 Data Centre,Prologis Park, Horton Road,,UB11 1HB	Affected
+
+
+Impact*
+Affected	Services marked "Affected" will be subject to an outage during the times specified in the outage window and should be considered "At risk" for the remainder of the maintenance window
+At Risk	Services have been deemed "At Risk" for the duration of the maintenance window
+
+If you have any queries please reply to this mail or contact us on +44 (0) 3453 053337
+ 
+
+* Schedule Advised is Local UK Time

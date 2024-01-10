@@ -1,0 +1,79 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Wednesday, 01 Feb 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :    PN295467
+
+         
+
+Scheduled Date                                   :    Wednesday, 01 Feb 2023
+
+
+Maintenance Window                           :    01-02-2023 16:01 UTC to 01-02-2023 22:00 UTC
+
+         
+
+Activity                                               :    BBG intends to perform the essential maintenance for the BBGupg4 softnode FP1 Penang-Fujairah-Barka wavelengths insertion
+
+ 
+
+Benefit of Change                                :    To avoid unplanned outage in near future
+
+
+Impact                                                :    Service Affecting
+                           
+Duration of Impact                               :    Circuit will be down for 10 sec during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shipranshu
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+0124-4609696
+
+Airtel for Business
+
+On your side. By your side

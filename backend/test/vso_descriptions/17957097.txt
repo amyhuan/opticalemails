@@ -1,0 +1,63 @@
+Dear All,,  ,  ,  , Please be informed that this maintenance has been rescheduled. The new DATE/TIME of this maintenance work is as follows:,  , Cable System/Partner,  ,  , APCN2 SEGMENT 2,  ,  , Maintenance Event No.,  ,  , RFC-Submarine_Cable_System-220713-7393,  ,  , Event Type,  ,  , PLAN MAINTENANCE CABLE REPAIR FOR APCN2 SEGMENT 2.,  ,  , Date and Time,  ,  , 1) Estimate arrived at cable ground:,  , 11 May 2023 at 0500MYT (10 May 2023 at 2100UTC),  , 2) Estimate launch ROV to localize fault:,  , 11 May 2023 at 1700MYT (11 May 2023 at 0900UTC),   ,  , 3) Estimate first splice completion:,  , 14 May 2023 at 1700MYT (14 May 2023 at 0900UTC, ),  , 4) Estimate final joint completion:,  , 15 May 2023 at 2300MYT (17 May 2023 at 1500UTC),  , 5) Estimate PRIB completion:,  , 17 May 2023 at 1700MYT (17 May 2023 at 0900UTC),  ,  ,  , *Note : This is tentative schedule which subject to permits readiness.,  ,  , Dear All,
+
+ 
+
+Please be informed that this maintenance has been rescheduled. The new DATE/TIME of this maintenance work is as follows:
+
+Cable System/Partner
+
+APCN2 SEGMENT 2
+
+Maintenance Event No.
+
+RFC-Submarine_Cable_System-220713-7393
+
+Event Type
+
+PLAN MAINTENANCE CABLE REPAIR FOR APCN2 SEGMENT 2.
+
+Date and Time
+
+Start: 30 April 2023 at 0001MYT (29 April 2023 at 1601UTC)
+
+End: 04 May 2023 at 2359 MYT (04 May 2023 at 1559UTC)
+
+ 
+
+*Note : This is tentative schedule which subject to permits readiness.
+
+Location Description
+
+Kuantan – Lantau (Hong Kong)
+
+Possible Outage:
+
+SDH circuit will be on long route for ring switch , DWA circuits will be down when cable repair.
+
+ 
+
+Affected Circuits :
+
+Restoration Status
+
+Circuit Id
+
+Customer Name
+
+NR
+
+IR1033213076
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+NR
+
+IN1015460079
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+NR
+
+IN1015550917
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD

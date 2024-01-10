@@ -1,0 +1,75 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance activity by ILD Service provider, which is scheduled on Wednesday, 02nd August 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :     PN309857
+
+         
+
+Scheduled Date                                 :     Wednesday, 02nd August 2023
+
+
+Maintenance Window                     :     02/08/2023 02:00 (UTC) to 02/08/2023 08:00 (UTC)
+
+ 
+
+Activity                                                :     Essential maintenance for transfer core
+
+ 
+
+Benefit of Change                             :     To avoid unplanned outage in near future
+
+
+Impact                                                :     Non-Service Affecting
+                           
+Duration of Impact                           :     Circuit will be switch hit less than 10ms during the maintenance window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+CIRCUIT ID
+
+CUSTOMER NAME
+
+13854902
+
+Microsoft Operations Pte Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long-term synergic association.
+
+ 
+
+Regards,
+
+ 
+
+Kumar Rakshit
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1

@@ -1,0 +1,30 @@
+[EXTERNAL] [Google-669906229] Migration for AS8075 at SYD (SD: PR-14935) at SYD (SD: PR-14935) at SYD (SD: PR-14935) at SYD (SD: PR-14935)
+
+This sender peering-ops@google.com is from outside your organization. Manage sender
+This sender peering-ops@google.com is from outside your organization.
+Google Peering Operations
+​
+Ingrid.Erkman@microsoft.com;
+​
+​
+​
+​
+​
+Ticket 669906229
+
+Subject: Migration for AS8075 at SYD (SD: PR-14935) at SYD (SD: PR-14935) at SYD (SD: PR-14935) at SYD (SD: PR-14935)
+
+Comment:
+Hello Microsoft,
+
+This is a notification to inform you that Google will be performing a scheduled maintenance on 04 Dec 2023 14:20 PST that will last approximately 3 hours.
+
+This maintenance will impact the following connection we have in SYD:
+Google ASN	Your ASN	Google Address	Your Address
+15169	8075	2a01:111:2000:1::2595	2a01:111:2000:1::2596
+15169	8075	104.44.37.68	104.44.37.69
+
+No action is required from you.
+This is an automated email. If you have any concerns or questions, please reply to this email.
+Many thanks,
+Google's Peering Team

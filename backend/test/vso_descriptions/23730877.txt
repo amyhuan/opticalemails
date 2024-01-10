@@ -1,0 +1,71 @@
+Dear All,
+
+ 
+
+Please be informed that this maintenance has been rescheduled. The new DATE/TIME of this maintenance work is as follows:
+
+Cable System/Partner
+
+APCN2 SEGMENT 2
+
+Maintenance Event No.
+
+RFC-Submarine_Cable_System-220713-7393
+
+Event Type
+
+PLAN MAINTENANCE CABLE REPAIR FOR APCN2 SEGMENT 2.
+
+Date and Time
+
+Revised estimate cable ship depart to cable ground: 27 June 2023 at 0500MYT (26 June 2023 at 2100UTC)
+
+Revised estimate launch ROV for fault localization: 27 June 2023 at 1700MYT (27 June 2023 at 0900UTC)
+
+Revised estimate 1st splice completion: 30 June 2023 at 0700MYT (29 June 2023 at 2300UTC)
+
+Revised estimate final splice completion: 01 July 2023 at 2300MYT (01 July 2023 at 1500UTC)
+
+Revised estimate PRIB completion: 03 July 2023 at 1700MYT (03 July 2023 at 0900UTC)
+
+ 
+
+*Note : This is tentative schedule which subject to permits readiness.
+
+Location Description
+
+Kuantan – Lantau (Hong Kong)
+
+Possible Outage:
+
+SDH circuit will be on long route for ring switch , DWA circuits will be down when cable repair.
+
+ 
+
+Affected Circuits :
+
+ 
+
+Restoration Status
+
+Circuit Id
+
+Customer Name
+
+NR
+
+IR1033213076
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+NR
+
+IN1015460079
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD
+
+NR
+
+IN1015550917
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN. BHD

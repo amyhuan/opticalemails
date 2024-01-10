@@ -1,0 +1,21 @@
+Dear GlobeNet Customer,
+
+Please see details below regarding a scheduled maintenance that GlobeNet or one of our providers will be conducting that may potentially affect your service(s):
+
+GENERAL INFORMATION
+GlobeNet Case Number	Start Date/Time of
+Maintenance Window
+(UTC)	End Date/Time of
+Maintenance Window
+(UTC)	Duration of
+Maintenance Window
+(hours)	Downtime
+(minutes)
+00311222	2023-03-16 04:00:00	2023-03-16 10:00:00	0 Days 6 Hours 0 Minutes	0
+SUMMARY OF MAINTENANCE WINDOW
+Summary
+La actividad se ejecutará con el fin de realizar  depuracion de eventos y una sangria para superar las atenuaciones presentes en el anillo nacional y red espectro.
+
+SERVICES IMPACTED
+Services IDs
+MIC9041E#30_100G

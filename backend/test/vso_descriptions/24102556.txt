@@ -1,0 +1,157 @@
+Dear Team,
+
+ 
+
+PFA,
+
+ 
+
+Please find correct date and time:-
+
+ 
+
+Maintenance Window                    :     09-06-2023 21:00 GMT on 10-06-2023 03:00 GMT
+
+ 
+
+Regards,
+
+ 
+
+Shreyansh Moghia
+
+Global Services Management Center (GSMC)
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side
+
+Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: Description: emailer-footer-1
+
+ 
+
+ 
+
+ 
+
+From: Azure Network Operations Center 
+Sent: Friday, May 26, 2023 3:11 PM
+To: Changemgmt ; 'MOCALERT@microsoft.com' ; Vivek Ahuja 
+Cc: Soumajit Sengupta 
+Subject: Re: ID: ITEM-053975 NE-15146 Planned Maintenance activity by ILD Service provider, which is scheduled on Friday 9th June 2023 ( Microsoft Ireland Operations Ltd. )
+
+ 
+
+** External Email. Treat hyperlinks and attachments in this email with caution. **
+
+Hi Team,
+
+ 
+
+Could you please correct the date and time of the activity.
+
+ 
+
+Thanks & Regards,
+
+Mounika | Azure NOC
+
+NOC Hotline: +1 425-705-2686
+
+From: Changemgmt 
+Sent: 26 May 2023 02:30
+To: Azure Network Operations Center ; 'MOCALERT@microsoft.com' ; Vivek Ahuja 
+Cc: Soumajit Sengupta 
+Subject: [EXTERNAL] ID: ITEM-053975 NE-15146 Planned Maintenance activity by ILD Service provider, which is scheduled on Friday 9th June 2023 ( Microsoft Ireland Operations Ltd. )
+
+ 
+
+Dear All,
+
+
+This is to inform you about Planned Maintenance activity by ILD Service provider, which is scheduled on Friday 9th June 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                   :     ITEM-053975 NE-15146
+
+         
+
+Scheduled Date                            :     Friday 9th June 2023
+
+
+Maintenance Window                    :     09-06-2023 21:00 GMT on 09-06-2023 03:00 GMT
+
+ 
+
+Activity                                        :     It is a main optical cable repair (due to a previous damage).
+
+ 
+
+Location                                      :     CU S. Stefano FS-CU Termini Imerese FS (ITALY)
+
+ 
+
+Benefit of Change                         :     To avoid unplanned outage in near future
+
+
+Impact                                         :     Service Affecting
+                           
+Duration of Impact                        :     Circuit will be down for during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit Id
+
+Customer Name
+
+ 
+
+12719839
+
+ 
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Kumar Rakshit
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+0124-4609696
+
+Airtel for Business
+
+On your side. By your side

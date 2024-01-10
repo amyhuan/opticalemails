@@ -1,0 +1,103 @@
+Please be informed that if you have any important events or activities on that days, please justify to TM before 07/07/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-CORE_Transmission-230627-0004 : [TX][WXT025 F5000 CYBERJAYA 2-MERSING CS] TROUBLESHOOT HIGH SPAN LOSS SECTOR PDFCN-KELFCN.
+
+REGION                     
+
+JOHORE(SOUTHERN)
+
+PLANNED START ( with time zone )  
+
+2023-07-21 00:00:00 (GMT +8 MYT)
+
+PLANNED END
+
+2023-07-21 03:00:00 (GMT +8 MYT)
+
+TIMEZONE
+
+GMT +8 MYT
+
+EXPECTED OUTAGE START
+
+2023-07-21 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-07-21 03:00:00
+
+EXPECTED OUTAGE DURATION
+
+3 Hours
+
+JUSTIFICATION
+
+[TX][WXT025 F5000 CYBERJAYA 2-MERSING CS]TROUBLESHOOT HIGH SPAN LOSS SECTOR PDFCN-KELFCN.
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1042623063
+
+3 Hours
+
+IE1033099018
+
+3 Hours
+
+IE1042622373
+
+3 Hours
+
+IE1039258367
+
+3 Hours
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.
+
+ 
+
+Please do not hesitate to share your queries about this planned maintenance activity by email to pmw.nmcc@tm.com.my or +60 11-5853-7473 (WhatsApp only) or direct call 60383184926/60383179600/1-800-88-9947
+
+or contact TM Wholesale Contact Centre at  1-800-88-1090 or 60383182797 (for international) 
+
+ 
+
+Leading Change, Driving Transformation
+
+ 
+
+Thanks and best regards,  
+
+ 
+
+Haidi Nor Diana Binti Abu Tahrin haidinordiana@tm.com.my
+
+Work team CM Notification, 
+
+Operation Performance & Change Management,
+
+Section Operations Quality Assurance,
+
+Network Operation Command Center, NOCC.
+
+ 
+
+ 
+Ref:MSG0380383_Pa66c5z7vcZCQltiiBCF

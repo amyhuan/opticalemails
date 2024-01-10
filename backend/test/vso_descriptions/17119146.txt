@@ -1,0 +1,41 @@
+Fiber Restoration Planned Event: Fiber restoration works at Kg Jawa, Pontian due to cable partial break. The details of this PE are as follows:
+
+ 
+
+Planned Event Start Date/Time
+
+26 February 2023 23:00hrs  (GMT+8)
+
+Planned Event End Date/Time
+
+27 February 2023 05:00hrs  (GMT+8)
+
+Downtime
+
+3 hours
+
+ 
+
+Service(s) Affected
+
+ 
+
+Service
+
+Customer Name
+
+LL034505
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD
+
+LL036158
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD
+
+ME021631
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD
+
+076688800
+
+MICROSOFT PAYMENTS (MALAYSIA) SDN BHD

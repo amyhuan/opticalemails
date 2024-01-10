@@ -1,0 +1,64 @@
+Dear Team,
+
+ 
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C138083
+
+Description
+
+PW for channel insertion/Subcom Channel removal at DLS 1 in Segment S2.
+
+Location
+
+NA
+
+Duration
+
+Nature : Non Service Affecting
+
+Impact : Traffic will be At Risk.
+
+Planned Start
+
+03/17/23 04:00:00 GMT
+
+Planned End
+
+03/17/23 07:00:00 GMT
+
+Affected service/link
+
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353
+
+Carrier References
+
+PW3254
+
+ 
+
+ 
+
+ 
+
+Regards ,
+
+ 
+
+Fayis Neroth
+
+Consultant
+
+Ooredoo Qatar
+M: +974 74089340
+
+Follow us on Twitter and Facebook
+
+ 
+
+Upgrade your world

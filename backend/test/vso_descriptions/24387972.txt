@@ -1,0 +1,59 @@
+Dear MCS,
+
+Viettel got information from AAE1. The details of maintenance activity are as below.
+
+ 
+
+ Planned Work Notification
+
+Service ID
+
+ 
+
+IPL004488
+
+IPL004401
+
+Activity Status
+
+Scheduled
+
+Execution Owner
+
+AAE1
+
+ 
+
+Activity Window (GMT)
+
+Maintenance window 1: 02:00 GMT to 10:00 GMT/ 3rd – 4th July 2023
+
+Maintenance window 2: 02:00 GMT to 10:00 GMT/ 5th - 7th July 2023
+
+Nature
+
+Non Service Affecting
+
+Expected Impact Duration(DD:HH:MM) :
+
+Switching hits plus protection loss
+
+ 
+
+Activity Description
+
+Emergency Fiber relocation work for 2 sub segments of X2.1 between Songkhla- RTP ILA and RTP ILA- Pakbara within Segment- X2.1. Services will be running via Sub-Segments X2.2
+
+We request you to reschedule sensitive operations at your end accordingly.
+We apologize for any inconvenience due to this event and resulting downtime.
+If you have any queries with respect to this activity, feel free to contact us on the coordinates mentioned below:
+Mail ID :inoc@viettel.com.vn
+Contact Number : + 84.2462800025
+We look forward to your co-operation and a long term synergic association.
+Best Regards,
+
+ 
+
+ 
+
+******************************************************************************************************

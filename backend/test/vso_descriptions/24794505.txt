@@ -1,0 +1,52 @@
+Dear Customer, 
+
+ 
+
+We wish to advise the following Planned Hazardous Works has been scheduled by Vocus.
+
+ 
+
+Change reference:            CHG1660651
+
+
+Work Start Date/Time:  17-08-2023 00:00:00 AEST
+
+Work End Date/Time:     17-08-2023 06:00:00 AEST
+      
+
+Location:            Brisbane, QLD
+
+ 
+
+Impact:                                Hazardous
+
+Expected Outage:              No Service Impact
+ 
+
+Description of Work:  
+
+ 
+
+Planned Fibre works, the listed services will be in Hazardous condition. NO Impact expected.
+
+ 
+
+Services List: 
+
+
+Service	Product	Site-A Address	Site-B Address
+VWE189689	Vocus Wavelength (AUD)	20 Wharf St, Brisbane City QLD 4000, Australia	NextDC 4 Eden Park Dr, Macquarie Park NSW 2113, Australia
+VWE189693	Vocus Wavelength (AUD)	20 Wharf St, Brisbane City QLD 4000, Australia	NextDC 4 Eden Park Dr, Macquarie Park NSW 2113, Australia
+ 
+
+Vocus apologises for any inconvenience this work may cause.  
+
+ 
+
+If you require assistance, please do not hesitate to call Vocus on 1800 000 288. 
+
+ 
+
+ 
+
+Regards,

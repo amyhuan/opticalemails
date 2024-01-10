@@ -1,0 +1,69 @@
+Classification: Internal
+
+ 
+
+Dear Team,
+
+Please be informed that an activity is planned to be performed as detailed below:
+
+ 
+
+Change ID
+
+C137032
+
+Description
+
+Please be informed that Emergency PW To  Troubleshoot "Loss of Communication" alarm on 1-A-4-O1 at Ber Erida. (Network TT# NW6996)
+
+Location
+
+1-A-4-O1 at Ber Erida. (Network TT# NW6996)
+
+Duration
+
+Nature : Non-Service Affecting                                                  
+
+Impact : Services riding on Infinera Segment X1 will be at risk during the MW.
+
+ 
+
+Planned Start
+
+13 – Feb -2023 – 10 :00:00 (GMT)
+
+Planned End
+
+13 – Feb -2023 – 13 :00:00 (GMT)
+
+Affected service/link
+
+Ooredoo/DOH/MRS2/100G/100Gbe/000015      DOHAMARSEILLE-2DOH-MAR/MICROSOFT/AAE1-100G03                100G
+
+ 
+
+Ooredoo/DOH/MRS1/100G/100Gbe/000022DOHAMARSEILLE-1DOH-MAR1/MICROSOFT/AAE1-100G06            100G
+
+Carrier References
+
+PW3214
+
+ 
+
+Regards  & Thanks ,
+
+ 
+
+Mohamed Youssef
+
+Consultant
+
+Ooredoo Qatar
+
+T:   
+M: +974 66153596/+974  51131477
+
+Follow us on Twitter and Facebook
+
+
+Ooredoo Supernet: The first 5G network in the world

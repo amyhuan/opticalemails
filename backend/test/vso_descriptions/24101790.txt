@@ -1,0 +1,117 @@
+Dear All,
+
+
+This is to inform you about Emergency Maintenance Activity by ILD Service provider, which is scheduled on Wednesday 31st May 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                       :    CRQ000003220267
+
+         
+
+Scheduled Date                                :    Wednesday 31st May 2023
+
+
+Maintenance Window                        :    31-05-2023 08:00 UTC to 31-05-2023 18:00 UTC
+
+ 
+
+Activity                                            :    EIG || Emergency Maintenance for  transfer new cable in Seg3 South route between Korymat and Ber
+
+ 
+
+Benefit of Change                             :    To avoid unplanned outage in near future
+
+
+Impact                                            :     Non-Service Affecting
+                           
+Duration of Impact                           :     Circuit will get switching hit during the Maintenance Window
+
+ 
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Connection ID
+
+Circuit id
+
+Customer Name
+
+MIRL-IN-1824730
+
+14210994
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824739
+
+14211005
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824738
+
+14211006
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824741
+
+14211008
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824737
+
+14211011
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824740
+
+14211009
+
+Microsoft Ireland Operations Ltd.
+
+MIRL-IN-1824742
+
+14211007
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Shreyansh Moghia
+Global Services Management Center
+
+Bharti Airtel Limited
+
+Changemgmt@airtel.com
+
+Airtel for Business
+
+On your side. By your side

@@ -1,0 +1,58 @@
+Date:        	06-Mar-2023
+Customer:    	
+
+
+MICROSOFT OPERATIONS PTE LTD
+
+
+
+
+Attention:	
+
+
+Azure Network Operations Center,Optical DRI,Hijaz Rahman,Melody Wong,John Tan,Niall Toh,Adeline Ng,Connie Tan .,Chasel Tan
+
+
+Email:	
+
+
+moc@microsoft.com,opticalDRI@microsoft.com,hijaz.rahman@microsoft.com,melody.wong@microsoft.com,xv.yiokuan.tan@singtel.com,nialltoh@microsoft.com,Adeline.Ng@microsoft.com,Connie.Tan@microsoft.com,chaseltan@microsoft.com
+
+
+From:	Change Notification
+Technical Assistance Centre
+Tel : +65 62484141
+Email: g-chgnotifn@singtel.com
+
+
+Urgent Network Maintenance Activity CHG000000137554
+
+
+
+
+We would like to inform you that Singtel will be carrying out a network maintenance activity. The details are indicated as follows:
+
+
+Circuit:	
+
+
+1.BKK/CAT-SNG 100G2843ET
+Location A:35 TAI SENG STREET SINGAPORE
+Location B: BKK30, 91 MOO 1 TAMBON KHLONG NUNG THAILAND
+Date/ Time 1 (SGT):	
+
+
+15-Mar-2023 09:00 - 18-Mar-2023 07:59
+
+
+
+Date/ Time 1 (UTC):	15-Mar-2023 01:00 - 17-Mar-2023 23:59
+ 
+Impact :	TIS Segment B will be down for 3 days from 15/03/2023 0100UTC  to 17/03/2023 2359UTC
+ 
+Reason :	The cable system supplier NEC will perform the Corrective Actions on-site to fix the Changi PFE/ CTB issue of current not flowing on the PFE cable while the TIS system Segment B is being powered from the far-end PFE in Songkhla.
+
+** SGT means Singapore Time (+8 UTC/GMT)
+
+*This is a computer generated email, please do not reply to this message*
+For Maintenance Activity, please contact Change Notification at +65 62484141 or email to g-chgnotifn@singtel.com. For reporting of fault, please contact Singtel Global Helpdesk at +65 67880022 or 1800 7880022, or email to gcsc@singtel.com .

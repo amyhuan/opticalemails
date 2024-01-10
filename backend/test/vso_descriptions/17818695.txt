@@ -1,0 +1,24 @@
+Dear Valued Customer,
+
+This is to inform you that below activity has been postponed to below dates :
+
+Maintenance Window 1:
+
+From:    Monday  10-APR-2023  @  21:00 hrs UTC
+
+To:         Tuesday 11-APR-2023  @  03:00 hrs UTC  (6 hours) 
+
+Maintenance Window 2:
+
+From:    Tuesday  11-APR-2023  @  21:00 hrs UTC
+
+To:         Wednesday 12-APR-2023  @  03:00 hrs UTC  (6 hours) 
+
+Please Note: This will cover the full period of excavation but rest assured there is no risk to the service.
+
+We again apologies for any inconvenience caused due to this.
+
+If you have any questions or concerns, please contact the HAWAIKI SUBMARINE CABLE LP Network Operations Centre (NOC).
+
+-----
+Best Regards,

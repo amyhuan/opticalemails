@@ -1,0 +1,55 @@
+cheduled Maintenance #: 27606310
+
+Summary:
+
+What?
+We have been informed by our supplier that they intend to carry out maintenance within their network. This has been designated as ESSENTIAL. The nature of this work is to carry out fiber cable work.
+
+Why?
+Work is required to perform infrastructure maintenance to ensure the continued integrity of the network. During the maintenance window you will experience one period of outage to the maximum specified below. As this maintenance is not under the control of Lumen it may not be possible to reschedule it.
+
+Where?
+See Maintenance Location(s) below
+
+When?
+See Customer Impact table below
+
+Lumen would like to apologise for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-09-13 12:59:46 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+27606310-1
+
+Start	End
+2023-09-28 20:00 GMT (Greenwich Mean Time)	2023-09-29 04:00 GMT (Greenwich Mean Time)
+2023-09-28 22:00 CEST (Central European Summer Time)	2023-09-29 06:00 CEST (Central European Summer Time)
+
+
+Maintenance Location(s): Vendor Network Hungary
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	442714881	N/A	100 GIG	BERLIN BE GERMANY	BUCURESTI B ROMANIA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442156856	N/A	100 GIG	BERLIN BE GERMANY	BUCURESTI B ROMANIA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442714880	N/A	100 GIG	BERLIN BE GERMANY	BUCURESTI B ROMANIA	Outage	4 hours	 
+MICROSOFT CORPORATION MCIO	442714882	N/A	100 GIG	BERLIN BE GERMANY	BUCURESTI B ROMANIA	Outage	4 hours	 
+
+
+Click here for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+Should the date and time for the maintenance have passed without an updated notification communicated for it, please consider the work to have completed successfully. If you continue to experience any problems after the maintenance window has closed, please raise a ticket with the Lumen EMEA Service desk on 0800 496 5000 Within UK or 00800 5336 3273 Outside UK.
+
+Please be advised that the Lumen EMEA Change Management Desk core business hours are from 09:00 to 17:00 UK local time, Monday through Friday (except public holidays) and is not able to respond outside of these hours.
+
+Network Change Management Team
+Lumen
+0800 496 5000 Within UK or 00800 5336 3273 Outside UK
+Change.Management.EMEA@Lumen.com

@@ -1,0 +1,61 @@
+Dear Sirs // Estimados Señores,
+
+MICROSOFT
+
+Please find below our Scheduled Work Notification // Abajo encontrará nuestra Notificación de Trabajo Programado:
+
+NOTIFICATION NUMBER // NUMERO DE NOTIFICACION: SWX0020640
+
+NOTIFICATION TYPE // TIPO DE NOTIFICACION: Normal
+
+DESCRIPTION // DESCRIPCION: A scheduled work will be performed due to repair bridge in bad condition. // Se realizará un trabajo programado debido a reparación de puente en mal estado.
+
+SERVICE IMPACT // IMPACTO EN SERVICIOS: SWITCH HIT UP TO 15 MINUTES
+
+LOCATION // LOCALIDAD: Guatemala
+
+SCHEDULE // VENTANA(S) DE TRABAJO (UTC):
+
+12-Aug-2023 06:00 - 12-Aug-2023 11:00 (Main Window)
+
+13-Aug-2023 06:00 - 13-Aug-2023 11:00 (Backup Window)
+
+AFFECTED CIRCUITS // CIRCUITOS AFECTADOS:
+
+CRM Number
+
+CRM Name
+
+CRT
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S001
+
+CRT-007322
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S002
+
+CRT-007323
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S003
+
+CRT-009612
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S004
+
+CRT-009613
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S007
+
+CRT-010257
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S008
+
+CRT-010258
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S009
+
+CRT-010259
+
+NAP/MSFT - EDGECONNEX/MSFT 100GB S010
+
+CRT-010260

@@ -1,0 +1,110 @@
+Global Network Factory
+Restoration Control Point (RCP)
+RCP.Frankfurt@telekom.de
+
+
+Please be advised of the following maintenance activities by external sub provider which may affect your service.
+We apologize for any inconvenience this may cause.
+Reason of maintenance:
+We need to perfom -cable works that will affect your service.
+
+
+
+
+Start	End
+May 31, 2023 00:00 (CEST)	May 31, 2023 05:30 (CEST)
+May 30, 2023 22:00 (UTC)	May 31, 2023 03:30 (UTC)
+
+Company :	Microsoft Deutschland MCIO Gmb (CMIC) Germany	
+Following circuit(s)/service(s) will be affected by outage(s) during the maintenance work.
+The expected downtime is :
+330 min
+
+List of circuit(s).
+0EW/P2P/392973-698233/18
+0EW / 18 Eickendorf Kr SbeckE 3(8A) - Frankfurt a Main 8233(8GN)
+C2C/18 - 10 Gbps Etherne	TGN-NMS-ID: 15-001532
+TSAM/VNR : 5903095916/500125
+Location A :
+Eickendorf Kr SbeckE 3(Germany)
+Microsoft
+Am Schiens 10
+39221 Eickendorf (Bordeland)
+Germany	Location B :
+Frankfurt a Main 8233(Germany)
+Microsoft
+POP Interxion Deutschland GmbH
+Hanauer Landstra?e 304-308
+60314 Frankfurt am Main
+Germany
+
+0EW/P2P/392973-698233/19
+0EW / 19 Eickendorf Kr SbeckE 3(8A) - Frankfurt a Main 8233(8GN)
+C2C/19 - 10 Gbps Etherne	TGN-NMS-ID: 15-001533
+TSAM/VNR : 5903095916/500118
+Location A :
+Eickendorf Kr SbeckE 3(Germany)
+Microsoft
+Am Schiens 10
+39221 Eickendorf (Bordeland)
+Germany	Location B :
+Frankfurt a Main 8233(Germany)
+Microsoft
+POP Interxion Deutschland GmbH
+Hanauer Landstra?e 304-308
+60314 Frankfurt am Main
+Germany
+
+0EW/P2P/392973-698233/20
+0EW / 20 Eickendorf Kr SbeckE 3(8A) - Frankfurt a Main 8233(8GN)
+C2C/20 - 10 Gbps Etherne	TGN-NMS-ID: 15-001534
+TSAM/VNR : 5903095916/500119
+Location A :
+Eickendorf Kr SbeckE 3(Germany)
+Microsoft
+Am Schiens 10
+39221 Eickendorf (Bordeland)
+Germany	Location B :
+Frankfurt a Main 8233(Germany)
+Microsoft
+POP Interxion Deutschland GmbH
+Hanauer Landstra?e 304-308
+60314 Frankfurt am Main
+Germany
+
+0EY/C2PC/392973-031916/1
+0EY / 1 Eickendorf Kr SbeckE 3(8A) - Amsterdam T6(8L)
+C2C/1 - 100 Gbps	TGN-NMS-ID: 20-004094
+TSAM/VNR : 5903095916/500102
+Location A :
+Eickendorf Kr SbeckE 3(Germany)
+Microsoft
+Am Schiens 10
+39221 Eickendorf (Bordeland)
+Germany	Location B :
+Amsterdam T6(Netherlands)
+Microsoft
+POP Global Switch Netherlands
+Johan Huizingalaan 759
+1066 VH Amsterdam
+Netherlands
+
+0EY/C2PC/392973-031916/2
+0EY / 2 Eickendorf Kr SbeckE 3(8A) - Amsterdam T6(8L)
+C2C/2 - 100 Gbps	TGN-NMS-ID: 20-004095
+TSAM/VNR : 5903095916/500103
+Location A :
+Eickendorf Kr SbeckE 3(Germany)
+Microsoft
+Am Schiens 10
+39221 Eickendorf (Bordeland)
+Germany	Location B :
+Amsterdam T6(Netherlands)
+Microsoft
+POP Global Switch Netherlands
+Johan Huizingalaan 759
+1066 VH Amsterdam
+Netherlands
+
+Kind regards,
+Global Networks Operation RCP

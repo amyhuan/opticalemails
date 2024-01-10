@@ -1,0 +1,127 @@
+[EXTERNAL] [Announce SwissIX] [SWISS-IX #835437] MAINTENANCE: Relocating edge01.zrh4 at Equinix ZH4 (OPEN)
+
+This sender noc@swissix.ch is from outside your organization. Block sender
+This sender noc@swissix.ch is from outside your organization.
+announce-request@lists.swissix.ch on behalf of SwissIX Support 
+​
+announce@lists.swissix.ch
+​
+
+MAINTENANCE: Relocating edge01.zrh4 at Equinix ZH4 (OPEN)
+
+SwissIX Maintenance ID: DXDB:MAINT:1782
+
+Work start: 2023-12-04 23:00 UTC
+Work end: 2023-12-05 06:00 UTC
+
+Work status: ANNOUNCED
+Notification type: OPEN
+Impact: Full Disruption
+
+Affected entities:
+Devices: edge01.zrh4
+
+Work description:
+
+Dear Valued Customers,
+
+In order to maintain a stable service for you, we are planning to relocate our router, edge01.zrh4 at Equinix ZH4, within the rack. This move is intended to enhance stability and better position us to support your future growth.
+
+We recognize the importance of uninterrupted service to your business operations. Rest assured, we have implemented all necessary measures to minimize any potential impact. Our technical team will be closely monitoring the process to ensure a timely completion without any issues.
+
+The migration is scheduled between 2023-12-04 23:00 UTC and 2023-12-05 06:00 UTC. Please be advised that there will be a period of full service disruption during this timeframe.
+
+We appreciate your understanding and cooperation throughout this process. Should you have any questions or concerns, feel free to reach out to our support team.
+
++49 69 173090211 / noc@swissix.ch
+
+Affected Customers:
+AS559 - SWITCH
+AS1764 - next layer Telekommunikationsdienstleistungs- und Beratungs GmbH
+AS2906 - Netflix Streaming Services
+AS3303 - Swisscom (Switzerland) Ltd.
+AS6461 - Zayo Group
+AS6507 - Riot Games Ltd
+AS6772 - ImproWare AG
+AS6775 - Fink Telecom Services
+AS6776 - TheNet Internet Services AG
+AS6939 - Hurricane Electric
+AS8075 - Microsoft Corporation
+AS8218 - Zayo Infrastructure France SA
+AS8220 - COLT Telecom Group plc
+AS8302 - Zattoo AG
+AS8803 - Migros-Genossenschafts-Bund
+AS8821 - WWZ Telekom AG
+AS9044 - SolNet - Internet Solution Provider BSE Software GmbH
+AS9092 - Open Systems AG
+AS12041 - Afilias Limited
+AS12350 - VTX Services SA
+AS13150 - Cato Networks (UK) LIMITED
+AS13237 - euNetworks
+AS13250 - Backbone Solutions AG
+AS13335 - Cloudflare, Inc
+AS15398 - Werft22 AG
+AS15517 - Netstream AG
+AS15547 - netplus.ch SA
+AS15623 - Cyberlink AG
+AS15695 - Expereo International
+AS15796 - Salt Mobile SA
+AS15830 - Equinix
+AS19551 - Imperva
+AS20893 - SYSTEM-CLINCH Internet Services GmbH
+AS20932 - Service Industriels de Geneve
+AS21040 - Datapark AG
+AS21069 - METANET AG
+AS22822 - Edgio Inc.
+AS24482 - SG.GS Pte Ltd
+AS24889 - Monzoon Networks (Deutschland) GmbH
+AS25375 - Leunet Safag AG
+AS29655 - Trenka Informatik AG
+AS30103 - Zoom Video Communications
+AS30419 - MediaMath
+AS30781 - Free Pro / Jaguar Network
+AS31042 - Serbia Broadband
+AS31424 - Netrics Zürich AG
+AS31662 - connecta ag
+AS31736 - senseLAN GmbH
+AS32934 - Meta
+AS33965 - Litecom
+AS34288 - Kantonsschule Zug
+AS35518 - sasag Kabelkommunikation AG
+AS36236 - Host Virtual, Inc ( NetActuate Inc.)
+AS39063 - Leitwert GmbH
+AS39764 - F24 Schweiz AG
+AS40627 - RingCentral UK
+AS41872 - GIB-Solutions AG
+AS41913 - Computerline GmbH
+AS43531 - IX Reach LTD
+AS48461 - stepping stone AG
+AS48885 - Neocarrier Communications Sàrl
+AS49544 - i3D.net B.V.
+AS50837 - CLOUDSIGMA GERMANY GmbH
+AS51776 - Sportradar AG
+AS60486 - Swiss Networking Solutions AG
+AS60501 - Sirius Technology
+AS61174 - Glattwerk AG
+AS61232 - redIT Services AG
+AS62044 - Zscaler, Inc.
+AS65001 - Axpo Systems AG
+AS201228 - Anapaya Systems AG
+AS204178 - Winet Voicetec Solutions AG
+AS208731 - RULEMATCH AG
+
+
+If you have any questions, do not hesitate to ask!
+
+Best regards,
+--
+SwissIX NOC
+
+--
+SwissIX Internet Exchange
+
+Badenerstrasse 569
+CH-8048 Zürich / Switzerland
+Technical Helpdesk contact 24/7: support@swissix.ch / +41 (0)44 330 70 90
+Commercial Contact: info@swissix.ch
+VAT-ID: CHE-110.460.993 MWST

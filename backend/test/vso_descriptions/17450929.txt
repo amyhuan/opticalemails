@@ -1,0 +1,31 @@
+Dear Equinix Customer,
+
+DATE: 20-MAR-2023
+
+SPAN: 20-MAR-2023 - 20-MAR-2023
+
+LOCAL: MONDAY, 20 MAR 10:00 - MONDAY, 20 MAR 18:00
+UTC: MONDAY, 20 MAR 02:00 - MONDAY, 20 MAR 10:00
+
+IBX(s): HK1
+
+DESCRIPTION:Please be advised that Equinix will be conducting power maintenance in HK1-13/F and the power source redundancy of our network equipment will be reduced. There will be no impact to your subscribed services.
+
+PRODUCTS: EQUINIX CONNECT
+
+IMPACT: No impact to your service
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+116771	Equinix Connect	HK1	21387365
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-224685398433.
+
+Sincerely,
+Equinix SMC

@@ -1,0 +1,31 @@
+[You don't often get email from route-admin@mail.yahoo.co.jp. Learn why this is important at https://aka.ms/LearnAboutSenderIdentification
+Protect yourself from phishing - Microsoft Support
+Learn how to identify a phishing scam, designed to steal money via fake emails.
+aka.ms
+]
+
+BBIX Tokyo peer 各位
+
+いつもお世話になっております。
+ヤフー peering担当です。
+
+以下日程にて、弊社機器のメンテナンスを予定しております。
+BGP、インターフェースのDownが検出されるかと思いますが、
+該当時間のアラームは非監視として頂けますよう、
+お願いいたします。
+--------------------------------------------------------------------------
+Dear BBIX Tokyo peering partners,
+
+Please be advised that Yahoo Japan will be performing the following
+maintenance on the date and time shown below.
+
+Event Details:
+AS Number : 23816
+IP Address : 101.203.88.39, 2001:de8:c::2:3816:1
+Date/Time: 12/13 13:30 - 16:00 JST
+Service Impact: BGP session, IF down will be detected.
+
+Thank you for your cooperation.
+
+----------------------------------------------
+Yahoo Japan, Site operations peering: route-admin@mail.yahoo.co.jp

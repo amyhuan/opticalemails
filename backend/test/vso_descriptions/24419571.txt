@@ -1,0 +1,78 @@
+,  ,  , Dear Team ,,  ,  ,  , As per our provider this maintenance has been rescheduled as following:,  ,  ,  , NEW TIME WINDOW: between 22:00 UTC of 21/09/2023 up to 05:00 UTC of 22/09/2023.,  ,  ,  ,  ,  , Regards,  ,  ,  , Arpit, Global Services Management Center,  , Bharti Airtel Limited,  , Changemgmt@airtel.com,  , Airtel for Business,  , On your side. By your side,  ,  ,  , Dear All,
+
+
+This is to inform you about Planned Maintenance Activity by ILD Service provider, which is scheduled on Friday 28th July 2023 and the details are as follows.
+
+--------------------------------------------------------------------------------------------------------------------
+                                               Planned Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                           :        ITEM-056112 NE-15729
+
+         
+
+Scheduled Date                                 :        Friday 28th July 2023
+
+
+Maintenance Window                     :        28/07/2023 00:00 (GMT+00:00) to 28/07/2023 04:00 (GMT+00:00)
+
+ 
+
+Activity                                                :         Mandatory main optical cable relocation due to some civil works.
+
+ 
+
+Location                                              :         Florence-Rioveggio (ITALY)
+
+ 
+
+Benefit of Change                             :         To avoid unplanned outage in near future
+
+
+Impact                                                 :         Service Affecting
+                           
+Duration of Impact                           :         Circuit will be down for during the Maintenance Window
+
+ 
+
+Note:- Please note that your assets listed at risk will have an estimate downtime of 0 minutes maximum. Anyway, some switch hit events may be detected.
+
+---------------------------------------------------------------------------------------------------------------------
+
+ 
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+14209371
+
+Microsoft Ireland Operations Ltd.
+
+14209360
+
+Microsoft Ireland Operations Ltd.
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.
+
+We look forward to your cooperation and a long term synergic association.
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Kumar Rakshit

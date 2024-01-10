@@ -1,0 +1,203 @@
+Hi @Azure Network Operations Center / @Imran Burney,
+
+ 
+
+Hope you finds this email well. I’m writing this email to request for three maintenance window for 14 Lit Waves Circuit as mentioned in below email.
+
+Appreciate your usual support to provide acceptance for all three requests to proceed for activity.
+
+ 
+
+NOTE: There will be no splicing / no patching take place on demarcation on anywhere else. It will be change of routing this capacity from core side.
+
+ 
+
+S. No
+
+Date
+
+Start Time
+
+Stop Time
+
+Circuit ID
+
+Link Designation
+
+1
+
+19-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444054964
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S01 (M)
+
+2
+
+19-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444052801
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (S/B)
+
+3
+
+19-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444054945
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S01 (S/B)
+
+4
+
+19-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444054967
+
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (M)
+
+5
+
+20-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222279536
+
+JDC/CUST/MICROSOFT/IBR01-FJN/EMIX/RD 100GBES01 (M)
+
+6
+
+20-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222279015
+
+JDC/CUST/MICROSOFT/IBR02-SKM/EMIX/RC 100GBES01 (S/B)
+
+7
+
+20-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222279011
+
+JDC/CUST/MICROSOFT/IBR01-FJN/EMIX/RD 100GBES02 (M)
+
+8
+
+20-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222279541
+
+JDC/CUST/MICROSOFT/IBR02-SKM/EMIX/RC 100GBES02 (S/B)
+
+9
+
+20-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222279537
+
+JDC/CUST/MICROSOFT/IBR01-FJN/EMIX/RD 100GBES03 (M)
+
+10
+
+20-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222279542
+
+JDC/CUST/MICROSOFT/IBR02-SKM/EMIX/RC 100GBES03 (S/B)
+
+11
+
+21-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444068102
+
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES01 (M)
+
+12
+
+21-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1222274463
+
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES02 (M)
+
+13
+
+21-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444073320
+
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES03 (M)
+
+14
+
+21-Jun-23
+
+0100 Hrs (GMT +4)
+
+0600 Hrs (GMT +4)
+
+1444073323
+
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES04 (M)
+
+ 
+
+ 
+
+Thanks & Regards,
+
+ 
+
+Waqar Aziz

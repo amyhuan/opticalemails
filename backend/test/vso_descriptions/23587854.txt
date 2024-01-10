@@ -1,0 +1,42 @@
+Summary:
+
+Lumen intends to carry out internal maintenance within its network. This has been designated as ESSENTIAL. The nature of this work is to reboot/reset equipment on the Lumen network and is required in order to clear proactively detected network alarm(s) to provide continued optimal service performance and avoid unplanned service interruptions.
+
+Lumen sincerely apologizes for any inconvenience caused by this maintenance.
+
+Updates:
+
+2023-05-22 16:30:14 GMT - This maintenance is scheduled.
+
+Customer Impact:
+
+26678575-1
+
+Start	End
+2023-06-02 06:00 GMT (Greenwich Mean Time)	2023-06-02 11:00 GMT (Greenwich Mean Time)
+2023-06-02 00:00 MDT (Mountain Daylight Time)	2023-06-02 05:00 MDT (Mountain Daylight Time)
+
+
+Maintenance Location(s): LARAMIE, WY USA; HANNA, WY USA
+Customer Name	Circuit ID	Alt Circuit ID	Bandwidth	A Location	Z Location	Impact Type	Maximum Duration	Order Number
+MICROSOFT CORPORATION MCIO	441383823	10GLAN-23879238-DIV	10GIG-E LAN	REDMOND WA USA	SAN ANTONIO TX USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	441360868	10GLAN-23877487-DIV	10GIG-E LAN	REDMOND WA USA	WARRENTON VA USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442191862	N/A	100 GIG	SAN ANTONIO TX USA	CHEYENNE WY USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442021402	N/A	100 GIG	SAN ANTONIO TX USA	CHEYENNE WY USA	Outage	1 hour	 
+MICROSOFT CORPORATION MCIO	442021403	N/A	100 GIG	SAN ANTONIO TX USA	CHEYENNE WY USA	Outage	1 hour	 
+
+
+Click here to open a case for assistance on this scheduled maintenance via Email.
+
+Click here for immediate information on scheduled maintenances via the Lumen Customer Portal.
+
+Click here to manage your notification subscriptions via the Lumen Portal.
+
+Click here to open a case for assistance on this scheduled maintenance via the Lumen Customer Portal.
+
+
+Network Change Management Team
+Lumen
+1-855-244-6468 option 1
+
+The information in this communication is confidential and may not be disclosed to third parties or shared further without the express permission of Lumen.

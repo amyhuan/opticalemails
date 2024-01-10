@@ -1,0 +1,152 @@
+Dear All,
+
+Dear Customer,
+
+Please be informed that subject activity is postponed due to operational reasons and will be carried out on Sep. 10, 2023 @ 0100 hrs -1300 hrs UAE Time.
+
+Activity Details
+CR-000000914259 for D-101> IE/FJN L2 - MMA 200F ULL Express Cable
+Maintenance Window
+Start:  (UAE Local time GMT+4)
+End:  (UAE Local time GMT+4)
+Service Impact
+Unprotected traffic working thru affected sections will remain out thru out activity.
+Emergency Contact
+IMC Contact: + 971 800 4762, +971 6 703 7119
+Service Details
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/IMW 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Circuit Designation: BAH/FOG/BTC-FJN/SHB/GOOGLE 10GE02
+Service ID: I62670
+SOF: IS CC L 1648
+Protection: Unprotected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES01
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES02
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES03
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: AUH/K2A/MSFT-MRS1/IMW/ORNG 100GES04
+Service ID: I66946
+SOF: IS Submarine Lease - 1929
+Protection: Protected
+
+Circuit Designation: KDC/MICROSOFT-MUM/BBG 100GE02
+Service ID: I60187
+SOF: IS SL 1504
+Protection: Protected
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES03 (M) - 1444057932
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES04 (M) - 1444057933
+Service ID: N57967
+SOF: IS Emix P 1320
+Protection: Unprotected
+Diversity Requirements: Yes
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03
+Service ID: I65366
+SOF: IS SL 1784
+Intl Submarine ID: FUJ/MAR/100GBE/009/M
+Protection: Unprotected
+
+Circuit Designation: AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04
+Service ID: I65366
+SOF: IS SL 1784
+Intl Submarine ID: FUJ/MAR/100GBE/010/M
+Protection: Unprotected
+
+Circuit Designation: JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02
+Service ID: I60460
+SOF: IS CC Lease ? 1528
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MAR/SFR/AAE1 100GE01
+Service ID: I60188
+SOF: IS Submarine Lease - 1505.1
+Intl Submarine ID: ELT/FUJ/MRS2/100G/100Gbe/000004
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MAR/SFR/AAE1 100GE02
+Service ID: I60188
+SOF: IS Submarine Lease - 1505.1
+Intl Submarine ID: ELT/FUJ/MRS2/100G/100Gbe/000008
+Protection: Protected
+
+Circuit Designation: IDH/MSFT-MUM/BBG 100GE01_Rerouting
+Service ID: I60187
+SOF: IS SL 1504
+Intl Submarine ID: FUJ/MUM/100G/0505
+Protection: Protected
+
+Circuit Designation: IDH/MSFT-MUM/BBG 100GE02 Rerouting
+Service ID: I60187
+SOF: IS SL 1504
+Protection: Protected
+
+Circuit Designation: IDH/MICROSOFT-MUM/BBG 100GE03
+Service ID: I69447
+SOF: IS SL 2046
+Intl Submarine ID: FUJ/MUM/100G/0810
+Protection: Protected
+
+Circuit Designation: IDH/MICROSOFT-MUM/BBG 100GE04
+Service ID: I69447
+SOF: IS SL 2046
+Intl Submarine ID: FUJ/MUM/100G/0811
+Protection: Protected
+
+Circuit Designation: IDH/MICROSOFT-MUM/BBG 100GE05
+Service ID: I69447
+SOF: IS SL 2046
+Intl Submarine ID: FUJ/MUM/100G/0812
+Protection: Protected
+
+Circuit Designation: IDH/MICROSOFT-MUM/BBG 100GE06
+Service ID: I69447
+SOF: IS SL 2046
+Intl Submarine ID: FUJ/MUM/100G/0813
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MRS1/INTERXION/AAE1 100GES01
+Service ID: I69448
+SOF: IS SL 2045
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MRS1/INTERXION/AAE1 100GES02
+Service ID: I69448
+SOF: IS SL 2045
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MRS1/INTERXION/AAE1 100GES03
+Service ID: I69448
+SOF: IS SL 2045
+Protection: Protected
+
+Circuit Designation: J4S/MICROSOFT-MRS1/INTERXION/AAE1 100GES04
+Service ID: I69448
+SOF: IS SL 2045
+Protection: Protected
+
+Note: For any restoration request, please approach the below sales account owner.
+IS Owner: Mohamed Abbas A Moussa( momoussa@eand.com)
+Important Note
+
+Should you have any further enquiries about this activity, please let us know.

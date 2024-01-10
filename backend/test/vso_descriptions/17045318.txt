@@ -1,0 +1,48 @@
+Emergency Maintenance Activity
+--------------------------------------------------------------------------------------------------------------------
+
+Change ID                                          :     PN296207
+
+         
+
+Scheduled Date                                 :    Friday 10th  February 2023
+
+
+Maintenance Window                     :    10-02-2023 22:00:00 (UTC)  to 11-02-2023 04:00:00 (UTC)
+
+         
+
+Activity                                                :    Insertion work
+
+ 
+
+Benefit of Change                              :    To avoid unplanned outage in near future
+
+
+Impact                                                  :     Service Affecting
+                           
+Duration of Impact                            :    50ms switching hits within the change window
+
+---------------------------------------------------------------------------------------------------------------------
+
+Circuit Detail :
+
+ 
+
+Circuit ID
+
+Customer Name
+
+13854902
+
+Microsoft Operations Pte
+
+ 
+
+ 
+
+ 
+
+We request you to kindly take necessary steps at your end to ensure minimal impact on your customers / services.
+
+We apologize for the inconvenience caused to your operations.

@@ -1,0 +1,99 @@
+Re: [EXTERNAL] [NL-ix] MAIN-11153 - Nov 29 - Maintenance affecting your service from  InterXion AMS9 switch
+
+This sender vindhya@nl-ix.net is from outside your organization. Block sender
+This sender vindhya@nl-ix.net is from outside your organization.
+Vindhya Chenumalla 
+​
+Azure Network Operations Center
+​
+​
+Internet Operations Center
+​
+You don't often get email from vindhya@nl-ix.net. Learn why this is important
+Hello Team,
+
+ 
+
+Apologies for the delayed reply.
+
+ 
+
+Please find the Contract details for the maintenance planned.
+
+ 
+
+Contract ID: 1097A (#1)
+
+Vlan ID: 8
+
+IPv4 address : 185.1.122.15
+
+NL-ix^2 peering
+
+ 
+
+Kindly let us know if there are any further queries.
+
+ 
+
+Thanks and Regards,
+
+Ch.Vindhya
+
+ 
+
+From: Azure Network Operations Center 
+Date: Thursday, 16 November 2023 at 18:21
+To: Maintenance-NLix , fo-team-internet@kpn.com , Internet Operations Center , noc@fb.com , noc@meta.com , nocc-tix@akamai.com , peering-lists@akamai.com , peering-office@kpn.com , sqcdbfixedservices@kpn.com 
+Subject: Re: [EXTERNAL] [NL-ix] MAIN-11153 - Nov 29 - Maintenance affecting your service from InterXion AMS9 switch
+
+Hi team,
+
+ 
+
+Please provide the Circuit ID for this below maintenance.
+
+ 
+
+ 
+
+Thanks & Regards,
+
+Azure NOC
+
+NOC Hotline: +1 425-705-2686
+
+From: NL-ix Maintenance 
+Sent: 16 November 2023 07:45
+To: fo-team-internet@kpn.com ; Internet Operations Center ; noc@fb.com ; noc@meta.com ; nocc-tix@akamai.com ; peering-lists@akamai.com ; peering-office@kpn.com ; sqcdbfixedservices@kpn.com 
+Subject: [EXTERNAL] [NL-ix] MAIN-11153 - Nov 29 - Maintenance affecting your service from InterXion AMS9 switch
+
+ 
+
+You don't often get email from maintenance@nl-ix.net. Learn why this is important
+
+Dear Customer,
+
+NL-ix is always working to improve the service for our customers.
+
+To ensure an optimal service and stability, maintenance activities need to be performed that will affect your network connections.
+
+Reason for maintenance: We are updating our equipment due to security reasons 
+
+Please find below all details regarding scheduled works.
+
+Start Date / Start Time* (CET): 29-11-2023 - 00:01
+End Date / End Time* (CET): 29-11-2023 - 06:00
+Involved services:
+Switch: 
+Port/Service: Diverse, see your port details in My NL-ix
+
+Please note that this maintenance cannot be rescheduled.
+
+Don’t hesitate to contact us if any questions arise by replying to this email.
+We apologise for any inconvenience this may cause.
+
+Thank you for your understanding.
+
+Best regards,
+NL-ix Support team

@@ -1,0 +1,29 @@
+MW#3 from 21:00 UTC 18th Sep 2023 to 04:00 UTC 19th Sep 2023,  ,  , PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+RPO Reference Number : R3897\23D
+Date Time : 26/08/2023 21:00:00 to 30/08/2023 04:00:00 GMT (dd/mm/yyyy)
+Duration : 1680 mins
+Service/Circuit Affected :
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered
+
+Outage Description : Please take notice of Maintenance activity and be aware of impact .
+
+Beginning:
+MW#1 26-Aug-2023 21:00 UTC
+MW#2 27-Aug-2023 21:00 UTC
+MW#3 28-Aug-2023 21:00 UTC
+MW#4 29-Aug-2023 21:00 UTC
+
+End:
+27-Aug-2023 04:00 UTC
+28-Aug-2023 04:00 UTC
+29-Aug-2023 04:00 UTC
+30-Aug-2023 04:00 UTC
+
+Impact : 420 mins affecting / day
+Comments :
+Software upgrade on our national network at Egypt
+
+PCCW Global apologies for all inconveniences caused.

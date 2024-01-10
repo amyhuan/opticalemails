@@ -1,0 +1,32 @@
+Customer Name : MICROSOFT DATA CENTER HOLDINGS (HK)
+From : Global Customer Service Center Tel : +852-28291567
+Date : 03/05/2023 06:04:31 GMT (dd/mm/yyyy)
+
+
+Dear Sir/Madam,
+
+
+PCCW Global wished to advise you that the following network activity that will affect your service.
+
+
+Ticket Reference Number: U1287\23B
+Date Time : 04/05/2023 06:00:00 to 04/05/2023 08:00:00 GMT (dd/mm/yyyy)
+Duration : 0 mins
+Service/Circuit Affected :
+SR164498 / SNG(PCG)-MSL(PCG) EP6000 /
+SR164499 / MSL(PCG)-SNG(PCG) EP6001 /
+
+Outage Description : AAE-1: PW for card replacement and fiber maintenance work in order to clear "Equipment Degradation" alarm at UPM in Seg L.1.
+
+Impact: 50ms switching hits
+
+PCCW Global apologies for all inconveniences caused.
+
+Should you have any question or any enquiries, please do not hesitate to contact us by calling our 24x7 customer service hotline at +852-28291567 / 80028291567 (Toll free number)
+
+
+Best Regards,
+
+Global Customer Service Center
+Global Services & Operations
+PCCW Global

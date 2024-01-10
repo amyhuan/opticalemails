@@ -1,0 +1,137 @@
+Dear Customer,
+
+ 
+
+Please take note of a Liquid Planned Change scheduled at Germiston (Pretoria Road) as per below schedule (GMT: +02:00). We need to repair cables that are burned at Pretoria Road near Squatter at Germiston 5 cables are damaged, change will be done in phases, services will only be affected once as cables are separate.
+
+ 
+
+ 
+
+IMPACT:Services will be down for a maximum duration of 10hrs.
+
+ 
+
+Affected Service:                                                                                                                                       
+
+ 
+
+027JOHA292013677984
+
+027CAPE292014221327
+
+027CAPE292014221322
+
+027CAPE292014221317
+
+027CAPE292014221332
+
+027MIDR292013956867
+
+027CAPE292014066895
+
+027CAPE292014066903
+
+027MIDR292014077306
+
+QRA02
+
+QRA06
+
+QRA08
+
+QRA12
+
+QRA18
+
+QRA25
+
+QRA29
+
+QRA26
+
+ 
+
+ Schedule
+
+ 
+
+Site
+
+Date (GMT: +02:00).
+
+Change REF
+
+Downtime
+
+Germiston ( Pretoria Road) Phase 1 (2 Cables
+
+15 July 2023 from 07:00-17:00
+
+ 
+
+CHG0065390
+
+10Hrs
+
+Germiston ( Pretoria Road) Phase 2 (2 Cables
+
+16 July 2023 from 07:00-17:00
+
+CHG0065391
+
+10Hrs
+
+Germiston ( Pretoria Road) Phase 3 (2 Cables
+
+22nd July 2023 from 07:00-13:00
+
+CHG0065392
+
+6Hrs
+
+ 
+
+Reason for Change:
+
+ 
+
+To repair cables that are burned at Pretoria Road near Squatter at Germiston 5 cables are damaged, change will be done in phases, services will only be affected once as cables are separate.
+
+ 
+
+Implementation plan
+
+ 
+
+ 
+
+Cable to be installed.
+Existing joints to be used.
+Cable will be tested for quality use.
+Cut the old cable and prepare it into the existing joints.
+Splice the cable as per service priority.
+Continuously confirming with both IP and SDH NOC for service restoration.
+Splice the rest of the fibres once all workers are through.
+Final confirmation with both NOC on completion,
+ 
+
+Rollback Plan:
+
+ 
+
+ 
+
+In the event services are not restoring, the technicians will stop the activity temporarily then follow the below:
+
+•             Re-test and re-splice any damaged fibres to restore the services.
+
+•             Test and confirm with the NOC that all services have restored.
+
+ 
+
+ 
+
+Kind Regards
+
+Ntombeningi Phakathi

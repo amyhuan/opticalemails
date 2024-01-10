@@ -1,0 +1,33 @@
+Urgent Network Maintenance Activity CHG000000141602
+
+ 	 
+We would like to inform you that GBNOC will be carrying out a network maintenance activity. The details are indicated as follows:
+ 	 
+ 
+1. Circuit:	MSL/ST-SNG 100G2757ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+2. Circuit:	MSL/ST-SNG 100G2758ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	MRS 20 (CAMPUS B): 40 AVENUE ROGER SALENGRO, FRANCE
+ 
+3. Circuit:	MSL/ST-SNG/ST 100G2860ET
+ 
+Client Name:	MICROSOFT OPERATIONS PTE LTD
+Address A:	1 WOODLANDS INDUSTRIAL PARK E9 SINGAPORE
+Address B:	40 AVENUE ROGER SALENGRO MRS 20 (CAMPUS B) FRANCE
+ 
+Date/ Time 1 (SGT):	14-May-2023 17:00 - 15-May-2023 00:00
+Date/ Time 1 (UTC):	14-May-2023 09:00 - 14-May-2023 16:00
+ 
+Impact :	No Impact
+ 
+Reason :	To reroute Seg 3 Route 1 (Zayed-May) cable
+ 
+ 
+** SGT means Singapore Time (+8 UTC/GMT)

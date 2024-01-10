@@ -1,0 +1,25 @@
+Planned Work Notification: 00215065 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in Czech Republic between Wed Apr 26 22:00:00 GMT 2023-Thu Apr 27 04:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Wed Apr 26 22:00:00 GMT 2023
+End	Thu Apr 27 04:00:00 GMT 2023
+Location	Czech Republic
+
+Planned work Reason:
+Optical cable repair on our partner network
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MICRSI/WAVE/U/100614	Wavelength/01592810	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219478
+MICRSI/WAVE/U/100631	GTT/002078615	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219479
+MICRSI/WAVE/U/100632	GTT/002078616	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219480
+MICRSI/WAVE/U/100633	GTT/002078617	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219481
+MICRSI/WAVE/U/121504	GTT/002109808	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219482
+MICRSI/WAVE/U/121509	GTT/002109835	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219483
+MICRSI/WAVE/U/121510	GTT/002109837	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219484
+MICRSI/WAVE/U/121511	GTT/002109839	Wavelength	360 min	No	Prg-001_PRG1IR	Fra-037_FRA37IR	00219485
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.

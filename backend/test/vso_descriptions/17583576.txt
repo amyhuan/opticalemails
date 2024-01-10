@@ -1,0 +1,64 @@
+Türk Telekom International Ticket Details
+wt 230317095707 ticket number has been opened.
+
+Details
+Ticket Number
+
+wt 230317095707
+
+Status
+
+INPROG
+
+Level
+
+3
+
+Ticket Begin Time
+
+04/04/2023 00:00:00
+
+Ticket End Time
+
+04/04/2023 06:00:00
+
+Time Zone
+
+GMT + 1
+
+Description
+
+Please be informed that there will be a planned maintenance in our network, which will affect your service.Outage: 360 minReason: Fiber works in 73240 Wendlingen am Neckar, Germany
+
+From
+
+Türk Telekom International
+
+To
+
+Türk Telekom International
+
+Services Id
+
+msn35906a.100ge*fra-ist /comment: (SupplierId:WL085778 )
+msn35905a.100ge*fra-ist /comment: (SupplierId:WL085777 )
+msn35904a.100ge*fra-ist /comment: (SupplierId:WL085776 )
+msn35903a.100ge*fra-ist /comment: (SupplierId:WL085775 )
+msn35902a.100ge*fra-ist /comment: (SupplierId:WL085774 )
+msn35901a.100ge*fra-ist /comment: (SupplierId:WL085773 )
+msn35900a.100ge*fra-ist /comment: (SupplierId:WL085772 )
+msn35899a.100ge*fra-ist /comment: (SupplierId:WL085771 )
+msn35898a.100ge*fra-ist /comment: (SupplierId:WL085770 )
+msn35897a.100ge*fra-ist /comment: (SupplierId:WL085751 )
+msn35839a.100ge*fra-ist /comment: (SupplierId:WL085765 )
+msn35838a.100ge*fra-ist /comment: (SupplierId:WL085764 )
+msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 )
+msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 )
+msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )
+msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 )
+
+Click to see the details...
+
+Türk Telekom International
+
+Sent by TTI. Do not reply to this e-mail.

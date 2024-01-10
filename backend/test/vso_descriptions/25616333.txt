@@ -1,0 +1,110 @@
+[EXTERNAL] Capacity Upgrade Configuration Update-HK Metro Area Network Maintenance -16-NOV-2023 [5-230247319989]
+
+This message was sent with High importance.
+
+This sender no-reply@equinix.com is from outside your organization. Manage sender
+This message was sent with High importance. This sender no-reply@equinix.com is from outside your organization.
+Equinix Network Maintenance NO-REPLY
+​
+​
+Meet Equinix
+ 	
+Dear Equinix Customer,
+
+DATE: 16-NOV-2023 - 17-NOV-2023
+
+SPAN: 16-NOV-2023 - 17-NOV-2023
+
+LOCAL: THURSDAY, 16 NOV 22:00 - FRIDAY, 17 NOV 04:00
+UTC: THURSDAY, 16 NOV 14:00 - THURSDAY, 16 NOV 20:00
+
+IBX(s): HK
+
+DESCRIPTION:
+Please be advised that Equinix engineers will be performing a general capacity upgrade activity on our Equinix Connect (Equinix Internet Access) platform. Your services might experience re-routing interruption due to BGP convergence during the activity.
+
+Pleased be informed that as-path in all prefixes that transit or originated via Equinix network (AS17819) will be changed from '17819' to '15830 17819' after this upgrade activity.
+
+Pleased be informed that the below new traffic engineering BGP communities will be introduced after our upgrade capacity is done. Customers are advised to tag both (old and new) BGP communities in their route advertisements.
+
+
+Action, Existing, New
+Telstra-AS4637(do not advertise), 65043:0, 65509:4637
+Telstra-AS4637(prepend 1x), 65043:1, 65501:4637
+Telstra-AS4637(prepend 2x), 65043:2, NA
+Telstra-AS4637(prepend 3x), 65043:3, 65503:4637
+Telstra-AS4637(prepend 4x), 65043:4, NA
+Telstra-AS4637(prepend 5x), NA, 65505:4637
+
+PCCW-AS3491(do not advertise), 65016:0, 65509:3491
+PCCW-AS3491(prepend 1x), 65016:1, 65501:3491
+PCCW-AS3491(prepend 2x), 65016:2, NA
+PCCW-AS3491(prepend 3x), 65016:3, 65503:3491
+PCCW-AS3491(prepend 4x), 65016:4, NA
+PCCW-AS3491(prepend 5x), NA, 65505:3491
+
+HKIX-AS4635(do not advertise), 65020:0, 65509:6301
+HKIX-AS4635(prepend 1x), 65020:1, 65501:6301
+HKIX-AS4635(prepend 2x), 65020:2, NA
+HKIX-AS4635(prepend 3x), 65020:3, 65503:6301
+HKIX-AS4635(prepend 4x), 65092:4, NA
+HKIX-AS4635(prepend 5x), NA, 65505:6301
+
+NTT-AS2914 (do not advertise), 65097:0, 65509:2914
+NTT-AS2914(prepend 1x), 65097:1, 65501:2914
+NTT-AS2914(prepend 2x), 65097:2, NA
+NTT-AS2914(prepend 3x), 65097:3, 65503:2914
+NTT-AS2914(prepend 4x), 65097:4, NA
+NTT-AS2914(prepend 5x), NA, 65505:2914
+
+TELIA/ARELION-AS1299(do not advertise), 65086:0, 65509:1299
+TELIA/ARELION-(prepend 1x), 65086:1, 65501:1299
+TELIA/ARELION-prepend 2x), 65086:2, NA
+TELIA/ARELION-(prepend 3x), 65086:3, 65503:1299
+TELIA/ARELION-(prepend 4x), 65086:4, NA
+TELIA/ARELION(prepend 5x), NA, 65505:1299
+
+EXPECTED SERVICE IMPACT:
+There will be no service interruption but you may experience latency change during traffic rerouting, or 0 - 5 mins traffic interruption due to route re-convergence during and after the activity. If you require further information or details to be used in your specific traffic engineering activities, please contact Equinix Service Management Centre.
+
+EXPECTED DURATION:
+Up to 5 minutes in the maintenance window (between 0 to 5 minutes)
+
+PRODUCTS: EQUINIX CONNECT, EQUINIX INTERNET ACCESS
+
+IMPACT: Traffic will be re-routed
+
+
+Equinix Connect
+
+Account #	Product	IBX	Service Serial #
+116771	Equinix Connect	HK1	21387365
+116771	Equinix Connect	HK1	20014083
+116771	Equinix Connect	HK2	22559825
+116771	Equinix Connect	HK2	20384529
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-230247319989.
+
+Sincerely,
+Equinix SMC
+
+Contacts:
+
+Please do not reply to this email address. If you have any questions or concerns regarding this notification, please log a network ticket via the Equinix Customer Portal, or contact Global Service Desk and quote the the ticket reference [5-230247319989].
+
+
+To unsubscribe from notifications, please log in to the Equinix Customer Portal and change your preferences.
+
+ 
+
+Equinix	
+How are we doing? Tell Equinix - We're Listening.	 	
+ 
+
+E Q U I N I X   |   	Unit 5501-5504A, 55/F International Commerce Centre,
+1 Austin Road West, Kowloon, Hong Kong	   |   www.equinix.com
+© 2018 Equinix, Inc. All rights reserved.| Legal | Privacy

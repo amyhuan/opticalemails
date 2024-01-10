@@ -1,0 +1,28 @@
+Planned Work Notification: 00205262 - New
+As part of our commitment to continually improve the quality of service we provide to our clients, we will be performing a planned work in France between Wed Apr 05 21:00:00 GMT 2023-Thu Apr 06 03:00:00 GMT 2023. Please see details of the work and impact on your service below
+
+Details:
+Start	Wed Apr 05 21:00:00 GMT 2023
+End	Thu Apr 06 03:00:00 GMT 2023
+Location	France
+
+Planned work Reason:
+Fiber works on our network in France. Our team will install new splice box on the segment between Fos Sur Mer and Marseille, France during the maintenance window. This is for this is for a new cable build in Marseille for network expansion.
+
+
+
+Service Id	Legacy Id	Service Type	Expected Impact to your services	Protected? (Yes/No)	A-End Address	Z-End Address	Ticket
+MFSA5/WAVE/U/108100	GTT/001783647	Wavelength	360 min	No	Par-130_PAR130IR	Mrs-006_MRS1G	00207767
+MFSA5/WAVE/U/108101	GTT/001783648	Wavelength	360 min	No	Par-130_PAR130IR	Mrs-006_MRS1G	00207768
+MFSA5/WAVE/U/121931	GTT/001815634	Wavelength	360 min	No	Mrs-001_MRS1IR	Par-130_PAR130IR	00207769
+MFSA5/WAVE/U/121933	GTT/001815637	Wavelength	360 min	No	Mrs-006_MRS1G	Par-130_PAR130IR	00207770
+Comments:
+Service interruption	Unprotected services will experience Service Interruption lasting the duration of the Expected Impact.
+Resiliency Loss	Protected services will experience Resiliency Loss for the duration of the Expected Impact.
+
+
+If you have any questions regarding the planned work,please login to My Portal or contact our Change Management Team using the email below.
+
+Kind Regards,
+EXA Network Operations
+InfraCo.CM@exainfra.net

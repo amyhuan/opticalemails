@@ -1,0 +1,31 @@
+Dear microsoft,
+The following maintenance has been scheduled as below.
+If you have any questions, please contact us.
+
+
+
+====================================================
+a. Date : 2023-08-20 01:00 ~ 06:00 [KST]
+b. Circuit : 500159517389 (LGU+ Anyang - KT Seobusan Center / 100 G) 
+              500177375094 (SEL20 - PUS01/100 G)
+              500177375095 (SEL20 - PUS01/100 G)
+              500177375096 (SEL20 - PUS01/100 G)
+              500177394417 (SEL21 - PUS20/100 G)
+              500177394418 (PUS20 - SEL21/100 G)
+              500177394419 (PUS20 - SEL21/100 G)
+              500201248579 (PUS20 - SEL21/100 G)
+              500201248580 (PUS20 - SEL21/100 G)
+              500201248581 (PUS20 - SEL21/100 G)
+              500201248582 (PUS20 - SEL21/100 G)
+c. Expected outage : switch hit
+d. Reason of outage : relocation of the optical cable
+
+E. Emergency Contact: (+82-2-2089-8284) & qadesk@lguplus.co.kr
+====================================================
+
+
+Thank you.
+
+Best regards,
+
+LGuplus

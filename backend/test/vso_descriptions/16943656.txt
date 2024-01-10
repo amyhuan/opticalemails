@@ -1,0 +1,43 @@
+Customer name / Nom du client:
+
+MICROSOFT
+
+Bell reference number / Numéro de référence Bell:
+
+CM0000000757131
+
+Start time (Y/M/D):
+
+2023-02-21 12:00:00 AM (ET)
+
+End time (Y/M/D):
+
+2023-02-21 06:00:00 AM (ET)
+
+Estimated outage / Estimation de l’interruption:
+
+1 hour
+
+Status / Statute:
+
+APPROVED/ APPROVED
+
+Activity / Activity:
+
+We need to proceed with a central office maintenance in order to improve your service.
+We need to perform maintenance at the plant to improve your service.
+
+Equipment / Equipment:
+
+CPL
+
+CLLI:
+
+TOROON21O24
+
+Circuit(s) affected / Circuit(s) impacté(s):
+
+ 01DHAT837673BLCA         
+
+You may experience a failure(s) at any time during the above window.
+You may experience one or more service interruption(s) during the window above.

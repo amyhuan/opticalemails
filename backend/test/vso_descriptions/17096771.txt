@@ -1,0 +1,92 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Planned Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 13/02/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230131-0003 PERMENANT CABLE JUNCTION DUE BREAKDOWN FOC CBJ2-PCG 144C 'C'.
+
+REGION                     
+
+SELANGOR (CENTRAL)
+
+PLANNED START ( with time zone )  
+
+2023-02-24 23:00:00 (GMT +8 (Malaysia Time))
+
+PLANNED END
+
+2023-02-25 07:00:00 (GMT +8 (Malaysia Time))
+
+TIMEZONE
+
+GMT +8 (Malaysia Time)
+
+EXPECTED OUTAGE START
+
+2023-02-24 23:00:00
+
+EXPECTED OUTAGE END
+
+2023-02-25 07:00:00
+
+EXPECTED OUTAGE DURATION
+
+1 HOUR
+
+JUSTIFICATION
+
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1039258367
+
+1 HOUR
+
+ 
+
+TM would like to apologize for any inconvenience this may cause to you and your customer.
+
+ 
+
+TM would like to thank you for your cooperation and understanding.
+
+ 
+
+Please do not hesitate to share your queries about this planned maintenance activity by email to pmw.nmcc@tm.com.my or +60 11-5853-7473 (WhatsApp only) or direct call 60383184926/60383179600/1-800-88-9947
+
+or contact TM Wholesale Contact Centre at  1-800-88-1090 or 60383182797 (for international) 
+
+ 
+
+Leading Change, Driving Transformation
+
+ 
+
+Thanks and best regards,  
+
+ 
+
+Haidi Nor Diana Binti Abu Tahrin haidinordiana@tm.com.my
+
+Work team CM Notification, 
+
+Operation Performance & Change Management,
+
+Section Operations Quality Assurance,
+
+Network Operation Command Center, NOCC.

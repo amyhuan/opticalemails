@@ -1,0 +1,17 @@
+Dear Peer,
+
+Please note that Twitch will perform maintenance on a device that you have a BGP peering session(s) with us.
+
+Twitch ASN: 46489
+Peer ASN: 8075
+Twitch IP address(es): 206.81.81.54, 206.81.81.54, 206.81.81.55, 206.81.81.55
+Peer IP address(es): 206.81.80.30, 206.81.80.68, 206.81.80.68, 206.81.80.30
+
+Maintenance start time: 2023-07-19 17:00 UTC
+Maintenance end time:  2023-07-19 23:00 UTC
+
+Ticket ID: RITM0123418
+
+The BGP session(s) will be filtered and might be brought down multiple times during this window.
+
+If you have any issues during this maintenance, please contact noc@twitch.tv

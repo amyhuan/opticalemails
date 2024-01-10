@@ -1,0 +1,26 @@
+Dear Customer,
+
+You are receiving this message as an advance notice of Planned Maintenance which will impact the service provided to you at MICRMOD01SAT201A.
+
+Maintenance Date:
+Start:  2023-10-07     07:00 ( GMT )
+End:   2023-10-07     10:00 ( GMT )
+Duration: 3 hours
+Impact: Downtime: 3 hours.
+
+Location: SAN ANTONIO, TX USA
+
+Reason: This maintenance is scheduled by the provider Lumen to perform a traffic-affecting circuit re-route. Work is required to perform infrastructure maintenance on core equipment to ensure the continued integrity of the network.
+
+Apologize in advance for any inconvenience this might cause.
+
+Respectfully,
+
+
+
+Solaimani Balasubramanian
+
+MODMC Support
+support@modmc.net
+(877) 364-8080 24/7 NOC
+www.modmc.net

@@ -1,0 +1,21 @@
+Dear JPNAP Osaka Peers
+
+This is Energia Communications, Inc.(AS7670)
+We will be having router maintenance on the following schedules.
+The BGP peer will be down/up during the work.
+Please note that.
+
+----------------------------------------------------------
+Date          : 2023/03/27 18:00 - 21:00 (GMT)
+Compnamy Name : Energia Communications, Inc.
+AS name       : CTNET
+AS Number     : 7670
+IP Address    : (IPv4) 210.173.184.83
+                (IPv6) 2001:7fa:7:2::7670:2
+----------------------------------------------------------
+
+Best Regards.
+
+-------------------------------
+Energia Communications, Inc.
+E-mail: cccn-adm@ctnet.ad.jp

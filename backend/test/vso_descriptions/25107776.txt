@@ -1,0 +1,65 @@
+Dear Valued Customer,
+
+Thank you for your continuous support of TM.                                                                                
+Please be advised of the Urgent Maintenance Activity.
+
+ 
+
+*Please be informed that if you have any important events or activities on that days, please justify to TM before 12/09/2023.
+
+otherwise, TM shall proceed with the maintenance as scheduled given.
+
+ 
+
+TM Maintenance Activity
+
+RFC TITLE                         
+
+RFC-FIBER-230825-0040 : CABLE RELOCATION JALAN KEBUN-KLANG 2 96C_J_B DUE DAMAGED WAY CAUSED BY RIVER EXCAVATION ACTIVITY.
+
+Note: The maintenance needs to be done as the cable/system is at high risk and could cause serious breakdown and longer mean time to repair.
+
+REGION                     
+
+SELANGOR (CENTRAL)
+
+PLANNED START ( with time zone )  
+
+2023-09-21 00:00:00 (GMT +8 MYT)
+
+PLANNED END
+
+2023-09-22 06:00:00 (GMT +8 MYT)
+
+TIMEZONE
+
+GMT +8 MYT
+
+EXPECTED OUTAGE START
+
+2023-09-21 00:00:00
+
+EXPECTED OUTAGE END
+
+2023-09-22 06:00:00
+
+EXPECTED OUTAGE DURATION
+
+3 Hours
+
+JUSTIFICATION
+
+CABLE RELOCATION JALAN KEBUN-KLANG 2 96C_J_B DUE DAMAGED WAY CAUSED BY RIVER EXCAVATION ACTIVITY.
+
+CIRCUIT INVOLVED 
+
+ 
+
+Circuit ID	Expected Outage
+IE1086287064
+
+3 Hours
+
+IE1086286201
+
+3 Hours

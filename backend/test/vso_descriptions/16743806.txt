@@ -1,0 +1,45 @@
+Dear Equinix Customer,
+
+DATE: 25-JAN-2023 - 26-JAN-2023
+
+SPAN: 25-JAN-2023 - 26-JAN-2023
+
+LOCAL: WEDNESDAY, 25 JAN 22:00 - THURSDAY, 26 JAN 06:00
+UTC: THURSDAY, 26 JAN 04:00 - THURSDAY, 26 JAN 12:00
+
+IBX(s): DA2
+
+DESCRIPTION:Please be advised that Equinix engineers will perform a software upgrade on our Equinix Fabric routers.
+
+Equinix Fabric customers with only primary/single port will experience 120 minutes downtime while customers with secondary/redundant ports or Network Edge virtual connections will experience a loss of redundancy.
+
+The Equinix Fabric platform has redundancy and only one device will be upgraded in this maintenance.
+
+Equinix Fabric customers connecting to the following Cloud Service Provider (CSP) ports will also experience service interruption.
+
+eqix-google-nni10-da-sec-zone2
+dxlag-ffs2fzox
+dxlag-fh9tgepk
+dxlag-fgyp0xbu
+dxlag-fgu8s7vh
+151284-DA6-CX-SEC-01
+EQIX-DAL-09XGMR-CIS-2-SEC-03242020
+
+PRODUCTS: EQUINIX FABRIC, NETWORK EDGE
+
+IMPACT: There will be service interruptions.
+
+
+Equinix Fabric
+
+Account #	Product	IBX	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+111379	Equinix Fabric	DA3	21343513-A	-	-	-	-	-	-	-	-	-	-
+
+
+
+We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+
+The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-222664180003.
+
+Sincerely,
+Equinix SMC
