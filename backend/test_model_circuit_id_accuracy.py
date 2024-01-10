@@ -3,6 +3,7 @@ from openai import AzureOpenAI
 import dotenv
 import sys
 from model_specs import *
+from datetime import datetime
 
 dotenv.load_dotenv()
 
@@ -83,15 +84,41 @@ def process_tsv(input_tsv, output_tsv, directory):
                     calculate_success_rate(current_line, infile_len, output_tsv)
                     new_tests = 0
 
-        print("Done processing input file")
-        calculate_success_rate(infile_len, infile_len, output_tsv)
+        print("Done processing VSO descriptions (maintenance email texts)")
+        calculate_success_rate(infile_len, infile_len, output_tsv, True)
+
+def record_test_results(percentage, incorrect_ids):
+    with open("test/circuit_id_accuracy_results_summary.tsv", 'w', encoding='utf-8') as summary_file:
+        summary = f"""
+Circuit ID accuracy test - ask GPT to summarize emails taken from VSO descriptions and compare the IDs extracted compared to the actual
+IDs included in the VSO
+
+Date and time run:      {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} Pacific Time
+OpenAI Instance:        {OPENAI_INSTANCE}
+OpenAI API Version:     {OPENAI_API_VERSION}
+Model deployment name:  {MODEL_DEPLOYMENT}
+Temperature:            {TEMPERATURE}
+Max Tokens:             {MAX_TOKENS}
+
+Model system prompt:    {SYSTEM_PROMPT}
+
+{percentage:.2f}% exact ID list match
+
+
+
+
+Incorrect ID extractions:
+{incorrect_ids}
+        """
+        summary_file.write(summary)
 
 # calculate success rate based on if the actual IDs match the expected IDs
-def calculate_success_rate(current_line, input_len, output_tsv):
+def calculate_success_rate(current_line, input_len, output_tsv, record_results=False):
     try:
         with open(output_tsv, 'r', encoding='utf-8') as outfile:
             total_rows = 0
             matching_rows = 0
+            incorrect_ids_table = ""
 
             for line in outfile:
                 total_rows += 1
@@ -109,11 +136,15 @@ def calculate_success_rate(current_line, input_len, output_tsv):
                 actual_ids_set = set(actual_ids.split())
 
                 row_add = 1
-
                 for expected in expected_ids_set:
                     if expected not in actual_ids_set:
                         # print(f"Missed an expected ID. VsoId: {vso_id}, Expected: {expected_ids}, Actual: {actual_ids}")
                         row_add = 0
+                        incorrect_ids_table += f"""
+VSO ID:         {vso_id}
+Expected IDs:   {expected_ids}
+Actual IDs:     {actual_ids}
+"""
 
                 # if len(actual_ids_set) > len(expected_ids_set):
                 #     print(f"Included extra ID. VsoId: {vso_id}, Expected: {expected_ids}, Actual: {actual_ids}")
@@ -121,12 +152,17 @@ def calculate_success_rate(current_line, input_len, output_tsv):
                 matching_rows += row_add
 
             success_rate = (matching_rows / total_rows) * 100 if total_rows > 0 else 0
-            print(f"{current_line}/{input_len} input lines processed. Circuit ID Exact Match Rate: {success_rate:.2f}%")            
+            sucess_rate_str = f"{current_line}/{input_len} input lines processed. Circuit ID Exact Match Rate: {success_rate:.2f}%"
+            print(sucess_rate_str)
+
+            if record_results:
+                record_test_results(success_rate, incorrect_ids_table)
+
     except Exception as e:
         raise e 
     
-input_tsv = 'test/expected_vs_actual_circuit_ids_per_vso.tsv'
-output_tsv = 'test/new_expected_vs_actual_circuit_ids_per_vso.tsv'
+input_tsv = 'test/circuit_id_accuracy_base_template.tsv'
+output_tsv = 'test/circuit_id_accuracy_results.tsv'
 directory = 'test/vso_descriptions' 
 
 process_tsv(input_tsv, output_tsv, directory)
