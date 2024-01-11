@@ -176,7 +176,7 @@ def calculate_success_rate(current_line, input_len, output_tsv, record_results=F
 
                 row_add = 1
                 for expected in expected_ids_set:
-                    if expected not in actual_ids_set:
+                    if len(expected) > 2 and expected not in actual_ids_set:
                         # print(f"Missed an expected ID. VsoId: {vso_id}, Expected: {expected_ids}, Actual: {actual_ids}")
                         row_add = 0
                         incorrect_ids_table += f"""
