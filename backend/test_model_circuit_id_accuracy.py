@@ -85,7 +85,7 @@ def process_tsv(input_tsv, output_tsv, directory):
     existing_ids = get_existing_ids(output_tsv)
     input_queue = Queue()
     output_queue = Queue()
-    num_worker_threads = 20
+    num_worker_threads = 40
 
     threads = []
     for i in range(num_worker_threads):

@@ -23,6 +23,6 @@ SYSTEM_PROMPT="""Each message you will get, contains the contents of a fiber pro
                 CircuitIds\tStartDatetime\tEndDatetime NotificationType\tMaintenanceReason\tGeographicLocation\tISP\n
                 OGYX/172340//ZYO OQYX/376545//ZYO\t2023-11-07 07:01\t2023-12-07 07:01\tNew maintenance scheduled\tReplacing damaged fiber\tFresno CA\tATT
 """
-MODEL_DEPLOYMENT="vscode-gpt"
+MODEL_DEPLOYMENT="gpt-35-turbo-16k"
 TEMPERATURE=0
-MAX_TOKENS=256
+MAX_TOKENS=1028
