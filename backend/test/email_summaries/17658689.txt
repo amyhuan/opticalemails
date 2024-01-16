@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS6830 AS8075 104.44.197.104 104.44.197.105 2a01:111:2000:1::2a29 2a01:111:2000:1::2a2a	2023-03-31 01:00	2023-03-31 06:00	New maintenance scheduled	Software upgrade of the router	N/A	Liberty Global

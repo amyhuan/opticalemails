@@ -1,3 +1,6 @@
+# For all email summaries generated from VSO descriptions, extract start and end times of new maintenances
+# For each VSO start and end time, see if it is included in the extracted start and end times 
+
 import os
 from datetime import datetime
 import csv

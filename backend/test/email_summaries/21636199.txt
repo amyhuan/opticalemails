@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0034, CA-MU-C170-0035, CA-MU-C170-0036	2023-05-14 00:00, 2023-05-15 00:00	2023-05-14 06:00, 2023-05-15 06:00	New maintenance scheduled	Service affecting maintenance activity on our West African network to enhance service resilience	N/A	WIOCC

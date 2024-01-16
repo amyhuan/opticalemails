@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2467983	2023-11-21 00:00	2023-11-21 05:30	New maintenance scheduled	Planned Work 2467983 MICROSOFT SP. Z O.O.	Sosnowiec	Orange Polska

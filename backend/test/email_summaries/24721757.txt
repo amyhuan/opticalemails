@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+193.239.117.161, 80.249.210.197, 80.249.210.197, 193.239.117.16, 80.249.209.20, 80.249.209.21	2023-08-04 02:00	2023-08-04 08:00	New maintenance scheduled		Unknown	Unknown

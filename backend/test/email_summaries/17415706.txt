@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-03-13 04:00	2023-03-13 07:00	New maintenance scheduled	AAE-1 channel insertion / removal at DLS1 in Seg S2 (Day 3)	Not specified	PCCW Global

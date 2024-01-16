@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33649b.100ge*fra-ist msn33648b.100ge*fra-ist	2023-10-03 23:00	2023-10-04 05:00	New maintenance scheduled	Main optical cable relocation	Bagheria-Palermo (ITALY)	Türk Telekom International

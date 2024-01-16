@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+210.171.224.94 210.171.224.113 210.171.224.116 210.171.224.157 210.171.224.164 210.171.224.171 210.171.224.221 210.171.225.190 210.171.225.245 2001:de8:8::714:1 2001:de8:8::2516:1 2001:de8:8::2906:1 2001:de8:8::8075:2 2001:de8:8::9370:1 2001:de8:8::9824:1 2001:de8:8::1:4593:2 2001:de8:8::1:7511:2 2001:de8:8::2:4257:12	2023-05-31 03:00	2023-05-31 05:00	New maintenance scheduled	IX equipment Maintenance	Tokyo Japan	JPIX

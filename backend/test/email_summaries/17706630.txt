@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RIO/EQU SAOPAULO/MSFT 100GB S011, RIO/EQU SAOPAULO/MSFT 100GB S012	2023-03-30 14:30, 2023-03-31 14:30	2023-03-30 19:30, 2023-03-31 19:30	Normal	A scheduled work will be performed in order to carry on a Network optimization migration	RIO - SANTOS, BRAZIL	MICROSOFT

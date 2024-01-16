@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Not mentioned	2023-09-21 21:00	2023-09-22 03:00	New maintenance scheduled	Improving network stability and service quality	Not mentioned	Colt

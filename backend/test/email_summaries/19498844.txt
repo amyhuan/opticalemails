@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SRVCKT00001410, SRVCKT00001483, SRVCKT00003817, SRVCKT00003820	2023-04-25 14:00, 2023-04-25 14:00, 2023-04-25 14:00, 2023-04-25 14:00	2023-04-25 21:00, 2023-04-25 21:00, 2023-04-25 21:00, 2023-04-25 21:00	New maintenance scheduled	Network Fault Fixing Activity: To clear Power adjustment failure (O3WN to O3SG IOF & O3BR to O3SG Regional)- IM869555	0 Quinn Rd,Benalla,VIC,3672 11 Parfitt Rd,Wangaratta,VIC,3677 57 Lockwood Rd,Shepparton,VIC,3630	Optus

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209360, 14209371, 12719838, 12719839	2023-06-07 10:00	2023-06-07 16:00	New maintenance scheduled	ODF replacement at Zafrana CLS and replace patch cords with new one	Egypt	

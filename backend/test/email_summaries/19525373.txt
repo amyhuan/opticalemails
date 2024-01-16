@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SCA EPL 9343122, HKG SCA EPL 9436548	2023-03-05 07:00	2023-03-05 12:00	New maintenance scheduled	Replace faulty hardware	Soledad, CA	TELSTRA

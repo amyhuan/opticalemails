@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-09-11 22:00	2023-09-12 06:00	New maintenance scheduled	Day seven traffic migrations	N/A	Bharti Airtel Limited

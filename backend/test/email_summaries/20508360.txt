@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000060, T200000061, T200000062, T200000063, T200000064, T200000065	2023-05-15 00:01	2023-05-15 06:00	New maintenance scheduled	Planned maintenance on circuit between Rennesoy and Hjelmeland	Norway	Altibox AS

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04	2023-04-05 17:00, 2023-04-06 17:00	2023-04-05 21:00, 2023-04-06 21:00	New maintenance scheduled	To perform power normalization of Seg-1A	Not specified	Not specified

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+00G/TOPBG/698233-698233/700652	2023-04-06 01:00, 2023-04-06 03:00	2023-04-06 03:30, 2023-04-06 05:30	New maintenance scheduled	Urgent Circuit migration to an optimum path for improved network reliability	Frankfurt am Main, Germany	DEUTSCHE TELEKOM TECHNIK GMBH

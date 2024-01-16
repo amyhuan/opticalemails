@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12823311	2023-06-10 18:30	2023-06-11 00:30	Postponed	ISP router upgrade	LOGICAL ACTIVITY	

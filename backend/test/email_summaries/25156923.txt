@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442714881, 442156856, 442714880, 442714882	2023-09-28 20:00, 2023-09-28 22:00	2023-09-29 04:00, 2023-09-29 06:00	New maintenance scheduled	Fiber cable work	Berlin BE Germany, Bucuresti B Romania	Lumen

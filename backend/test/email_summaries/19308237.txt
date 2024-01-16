@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502, SNG(PCG)-MRS(PCG) EP6227, SR186730, SNG(PCG)-MSL(PCG) EP6664, SR184688, SNG(PCG)-MSL(PCG) EP6663	2023-05-03 16:00	2023-05-03 22:00	New maintenance scheduled	Planned work for fiber migration at Trong, Perak in Seg L.2	Fiber migration at Trong, Perak	PCCW Global

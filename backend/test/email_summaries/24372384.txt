@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS18274	2023-07-29 15:30	2023-07-29 19:30	New maintenance scheduled	N/A	N/A	N/A

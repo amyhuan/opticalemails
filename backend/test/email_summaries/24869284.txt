@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BD2023GDJH002137	2023-08-31 16:00	2023-08-31 22:00	New maintenance scheduled		Unknown	China Telecom Americas

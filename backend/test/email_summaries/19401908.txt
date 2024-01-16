@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-05-05 05:00	2023-05-05 11:00	New maintenance scheduled	Migration of services due to infrastructure movement	Cañaveral - San Alberto	N/A

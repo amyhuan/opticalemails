@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RGWLS31148, RGWLS31145, RGWLS31144, RGWLS31143, RGWLS31142, RGWLS31130	2023-08-06 23:00	2023-08-07 05:00	New maintenance scheduled	BU Switching	Yeroskipos to Alexandria	Global Cloud Xchange

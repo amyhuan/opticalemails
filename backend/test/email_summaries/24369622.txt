@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00335357, S00335358, S00335359, S00335360, S00335361, S00335362, S00335363, S00335364, S00335365, S00335366, S00335367, S00335368	2023-06-25 21:00, 2023-06-26 21:00	2023-06-26 04:00, 2023-06-27 04:00	New maintenance scheduled	Card Replacement	Schiphol-Rijk, Netherlands; Helsinki, Finland	euNetworks

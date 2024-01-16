@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-05-04 11:00	2023-05-04 16:00	New maintenance scheduled	AAE-1 fiber relocation work	Fiber segment X1.2 between Wadi Elnatron-6th October	PCCW Global

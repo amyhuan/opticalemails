@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-08-25 04:00	2023-08-25 13:00	New maintenance scheduled	AAE-1 PW TT reference	SNG(PCG)-MSL(PCG) EP6000, MSL(PCG)-SNG(PCG) EP6001	Not specified	PCCW Global

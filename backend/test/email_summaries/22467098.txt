@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUC-SYD_NP256	2023-05-17 00:01	2023-05-17 01:01	New maintenance scheduled	Planned work	7A PARKHEAD PLACE ALBANY AUCKLAND	Spark New Zealand

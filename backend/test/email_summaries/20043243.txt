@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ABT/TEN-Marseilles/TEN100GE033 ABT/TEN-Marseilles/TEN100GE034 ABT/MRS/100G/100GE/00048	2023-05-01 22:00, 2023-05-04 22:00, 2023-05-08 22:00	2023-05-02 04:00, 2023-05-05 04:00, 2023-05-09 04:00	New maintenance scheduled	planned activity without impact on our services and have a minor risk of disturbances	Marseille PFE & MRS1	None

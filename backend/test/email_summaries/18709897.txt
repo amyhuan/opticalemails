@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-04-26 06:00	2023-04-26 13:00	New maintenance scheduled	Planned work for card replacement and fiber maintenance work	Fiber maintenance in Seg L.1	PCCW Global

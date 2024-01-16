@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-06-08 22:01	2023-06-09 03:00	New maintenance scheduled	Necessary optimization of traffic flows	Prague, Czech Republic	NIX.CZ

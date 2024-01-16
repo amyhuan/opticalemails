@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR186730, SR184688, SR211310	2023-07-11 06:00	2023-07-11 10:00	New maintenance scheduled	AAE-1: PW for card replacement to clear "Equipment Degradation" issue at 1- A-6 IRM in Zayed within segment X1.1. Services will be running via Sub-Segments X1.2.	Unknown	PCCW Global

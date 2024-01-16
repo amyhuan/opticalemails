@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:12f8:0000:0000:0000:0000:0218:0082, 187.16.218.82	2023-04-25 06:00	2023-04-25 09:00	New maintenance scheduled	N/A	São Paulo	Facebook

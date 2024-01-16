@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+GI/DIA/00426740	2023-05-30 22:00	2023-05-31 04:00	New maintenance scheduled	Maintenance on our CORE platform related to Service migration	Madrid, Spain	GTT

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SRVCKT00003817, SRVCKT00003820, SRVCKT00001410, SRVCKT00001483	2023-09-20 14:00, 2023-09-20 14:00, 2023-09-20 14:00, 2023-09-20 14:00	2023-09-20 20:00, 2023-09-20 20:00, 2023-09-20 20:00, 2023-09-20 20:00	New maintenance scheduled	Network Fault Fixing Activity: Fibre Patch Testing	47 Sandford St,Mitchell,ACT,2911 92 Galong Rd,Harden,NSW,2587	Optus

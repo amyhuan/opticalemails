@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442247056, 442067423, 442138497, 442138486	2023-04-25 05:00, 2023-04-25 00:00	2023-04-25 11:00, 2023-04-25 06:00	New maintenance scheduled	Relocate fiber cable	Houston, TX	Lumen

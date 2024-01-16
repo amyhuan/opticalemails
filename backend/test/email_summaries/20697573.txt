@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284004	2023-05-04 10:00	2023-05-04 18:00	New maintenance scheduled	Module replacement work (DTN-X)	Unknown	Unknown

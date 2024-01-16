@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1711130200071837, 1711130200054446, 1711130200071839, 1711130200071838	2023-05-09 17:00	2023-05-10 06:00	New maintenance scheduled	Submarine Link Reconfiguration For Segment Pesaren - Tanjung Bembam	Jakarta Pusat, INDONESIA	Mora Telematika Indonesia Tbk

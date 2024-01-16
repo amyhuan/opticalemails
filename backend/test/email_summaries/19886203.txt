@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-04 22:00, 2023-05-05 01:00	Scheduled	Hardware Reset	Warsaw, Poland; Berlin, Germany	euNetworks

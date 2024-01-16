@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20263750, 20263751	-	-	Loss of redundancy to your service	Equinix Fabric	Seattle	-

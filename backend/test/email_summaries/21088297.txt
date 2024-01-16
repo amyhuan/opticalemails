@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0013	2023-05-09 07:00	2023-05-09 22:00	New maintenance scheduled	Urgent maintenance activity between Djibouti <> Marseille to enhance service resilience	Nairobi, East Africa Data Centre - Marseille, Interxion - Marseille	Microsoft Ireland Operations Ltd

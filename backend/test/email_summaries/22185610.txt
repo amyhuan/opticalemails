@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSAWDMMV2MUM001U, MSAWDMMV2MUM002U	2023-05-21 00:00, 2023-05-28 00:00	2023-05-21 12:00, 2023-05-28 12:00	New maintenance scheduled	Fibre maintenance activity work	DWDM	Vodafone Qatar

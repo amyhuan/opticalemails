@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ae19, H:MIC:TP:004, 195.116.155.40/31, ae19.100, ae19.222	2023-05-09 21:00, 2023-05-09 21:00, 2023-05-09 21:00, 2023-05-09 21:00, 2023-05-09 21:00	2023-05-10 02:00, 2023-05-10 02:00, 2023-05-10 02:00, 2023-05-10 02:00, 2023-05-10 02:00	New maintenance scheduled	Unknown	Krakow/P18	Orange

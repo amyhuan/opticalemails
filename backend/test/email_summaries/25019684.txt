@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1711130200054446, 1711130200071837, 1711130200071839	2023-09-03 17:00	2023-09-03 22:00	New maintenance scheduled	Upgrade NE Software Segment Tegineneng - SF Palembang	Singapore	MORATEL INTERNATIONAL PTE.LTD

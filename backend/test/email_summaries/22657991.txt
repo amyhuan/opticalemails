@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+unspecified 2a01:111:2000:1::69	2023-05-23 01:15	2023-05-23 02:15	New maintenance scheduled		ORD3	

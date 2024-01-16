@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2	2023-07-04 09:00	2023-07-04 13:00	New maintenance scheduled	Planned work for card replacement in order to Troubleshoot "Temperature out of range" alarm on OFX 1-B-2 in Marseille 2.	Unknown	PCCW Global

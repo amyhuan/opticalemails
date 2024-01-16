@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSFT-CH1B-DM5B-SWAN-0035-0::100GBE-1, MSFT-CH1B-DM5B-SWAN-0036-0::100GBE-1, MSFT-CH1B-DM5B-SWAN-0037-0::100GBE-1, MSFT-CH1B-DM5B-SWAN-0038-0::100GBE-1, MSFT-CH1B-DM5B-SWAN-0039-0::100GBE-1	2023-04-06 05:00	2023-04-06 10:00	New maintenance scheduled	Planned maintenance window to perform the SK_CRC_ERROR work around for the following equipment	WDMNIAQSDEM5IDMS660	Lumen

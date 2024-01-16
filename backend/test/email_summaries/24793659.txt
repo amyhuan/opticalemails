@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-09-22 00:00, 2023-09-22 07:00	2023-09-22 00:00, 2023-09-22 07:00	New maintenance scheduled	Cable relocation	Florence - Rioveggio, Italy	Türk Telekom International

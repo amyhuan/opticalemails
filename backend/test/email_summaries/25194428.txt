@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442004305, 442191976, 441941859, 442191977	2023-09-20 05:00, 2023-09-20 00:00	2023-09-20 10:00, 2023-09-20 05:00	New maintenance scheduled	Replace faulty hardware	MONTGOMERY, MO USA	Lumen

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351, DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5)	2023-04-20 19:30	2023-04-21 04:00	New maintenance scheduled	RS cable installation	Marseille, France	Ooredoo Qatar

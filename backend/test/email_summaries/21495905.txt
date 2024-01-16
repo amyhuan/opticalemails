@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:4860:1:1::ff2 2001:4860:1:1::ff3, 72.14.194.12 72.14.194.13	2023-05-10 18:55	2023-05-11 05:05	New maintenance scheduled		Unknown	Google

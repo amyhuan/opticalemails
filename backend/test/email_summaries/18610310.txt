@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004488	2023-04-20 15:30	2023-04-20 21:30	New maintenance scheduled	Repairing attenuation on the backbone	Unknown	Unknown

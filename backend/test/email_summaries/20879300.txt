@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-05-04 06:00, 2023-05-04 06:00	2023-05-04 13:00, 2023-05-04 13:00	New maintenance scheduled	AAE-1: PW for card replacement and fiber maintenance work in order to clear "Equipment Degradation" alarm at UPM in Seg L.1	Global	PCCW Global

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-363194 (TRIM.20201105.01)	2023-10-25 22:15	2023-10-26 04:00	New maintenance scheduled	Maintenance to perform cable relocation due to civil road construction works	Skutskär, Sweden	Arelion

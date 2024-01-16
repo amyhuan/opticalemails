@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LE100038, LE100039, LE100040, LE100052, LE100053, LE100054, LE100055, LE100063, LE100071, LE100072, LE100089, LE100090, LE100091, LE100092, LE100041	2023-06-24 16:00	2023-06-24 21:00	New maintenance scheduled	Submarine cable carrier maintenance	Tokyo	JST

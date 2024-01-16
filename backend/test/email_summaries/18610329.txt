@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-05-20 14:00	2023-05-21 02:00	New maintenance scheduled	Equinix LV Switchboard Preventive Maintenance	SG3	Equinix

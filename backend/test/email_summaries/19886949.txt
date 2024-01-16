@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 9294316	2023-05-10 14:00, 2023-05-10 14:00	2023-05-10 20:00, 2023-05-10 20:00	New maintenance scheduled	Unknown	Sydney, Australia	Telstra
+1-212061554, 1-300050736, 1-300050741, 3-001013695, 3-001013696, 3-001013697, 3-001013698	2023-05-08 00:00	2023-05-08 05:00	New maintenance scheduled	Apply and activate software module upgrades	Amsterdam/Stockholm	Cogent

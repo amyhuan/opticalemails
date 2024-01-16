@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-09-27 02:00, 2023-09-27 09:00	2023-09-27 02:00, 2023-09-27 09:00	New maintenance scheduled	Urgent Fiber maintenance work for high loss rectification in Prai-Taiping(PRA-TPG) span	N/A	PCCW Global

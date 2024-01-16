@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:7f8:1::a503:2934:1 2001:7f8:1::a500:8075:2	2023-04-10 18:45	2023-04-10 19:45	New maintenance scheduled	None	AMS2	None

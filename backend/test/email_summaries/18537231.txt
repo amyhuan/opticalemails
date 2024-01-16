@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VLN2034798	2023-04-27 22:00	2023-04-28 03:30	New maintenance scheduled	Emergency maintenance	Unknown	Unknown

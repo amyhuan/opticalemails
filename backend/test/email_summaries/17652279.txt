@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:504:40:108::1:25 2001:504:40:108::1:76, 206.41.108.25 206.41.108.76	2023-03-27 07:30	2023-03-27 12:30	New maintenance scheduled		Location: Miami	Fastly

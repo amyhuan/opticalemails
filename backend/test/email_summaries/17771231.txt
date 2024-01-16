@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LE100089, LE100090, LE100091, LE100092	2023-03-31 16:00	2023-03-31 21:00	New maintenance scheduled	Network management carrier - INFRA-NOC will perform urgent maintenance work to secure network reliability	Tokyo	NTT Communications Corporation

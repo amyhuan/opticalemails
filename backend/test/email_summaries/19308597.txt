@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-05-03 16:00	2023-05-03 22:00	New maintenance scheduled	Planned work for fiber migration	Trong, Perak	PCCW Global

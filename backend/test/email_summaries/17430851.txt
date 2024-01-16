@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM14592, CRM14593, CRT-004154, CRT-004155, CRT-007917, CRT-010150, CRT-010152	2023-03-08 03:00, 2023-03-09 03:00	2023-03-08 11:00, 2023-03-09 11:00	Emergency	Upgrade from 5T to 12T of the XTC-10 of the DTX-FLA-FP3-01	Fortaleza, Brasil	Microsoft

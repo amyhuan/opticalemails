@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-04-13 01:00	2023-04-13 05:00	New maintenance scheduled	Cable repair	Scalea, Italy	Türk Telekom International

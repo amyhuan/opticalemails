@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360, 12719839, 12719838	2023-04-18 00:00, 2023-04-18 00:00	2023-04-18 06:00, 2023-04-18 06:00	New maintenance scheduled	Mumbai Layer-1 Upgrade - SA threat approval & CRQ for live DIA migration at Versova	Mumbai	Bharti Airtel Limited

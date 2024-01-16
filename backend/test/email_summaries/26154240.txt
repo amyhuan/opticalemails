@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-12-14 08:18:12	2023-12-14 13:28:12	New maintenance scheduled	-	-	Google

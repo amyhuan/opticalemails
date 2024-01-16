@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR147407 / HKG(PCG)-OAS(PCG) EP5384	2023-05-20 06:30	2023-05-20 07:00	New maintenance scheduled	Circuit migration work	HKG(PCG)-OAS(PCG)	PCCW Global

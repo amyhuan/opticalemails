@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSFT-LA30-SN4A-MSCG-0025-0::100GBE-1	2023-04-07 02:00	2023-04-07 05:00	New maintenance scheduled	Moving CKT to open capacity	LSANCARCLAX6IDMS1681	Lumen

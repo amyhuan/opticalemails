@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM14592, CRM14593, CRT-006004	2023-09-05 03:00, 2023-09-06 03:00	2023-09-05 07:00, 2023-09-06 07:00	Emergency	Equalizing DWDM spectrum	SAN JUAN, PUERTO RICO - BOCA RATON, USA	MICROSOFT

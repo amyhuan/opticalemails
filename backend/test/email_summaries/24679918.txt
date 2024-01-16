@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351	2023-08-07 23:00	2023-08-08 05:00	New maintenance scheduled	BU Switching	Yeroskipos to Alexandria	Global Cloud Xchange

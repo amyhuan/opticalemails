@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC8174E#32_100G	2023-04-19 03:00	2023-04-19 08:00	New maintenance scheduled	Reparación de fibras Ruta Metrotel	200 East Las Olas Blvd, Suite 1700	GlobeNet

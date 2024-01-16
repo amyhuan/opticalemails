@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRT-007322, CRT-009612, CRT-009613, CRT-010257, CRT-010258, CRT-010259, CRT-010260	2023-07-12 06:00, 2023-07-13 06:00	2023-07-12 11:00, 2023-07-13 11:00	Normal	A scheduled work will be performed to take measurements with OTDR	Guatemala	MICROSOFT

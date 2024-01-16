@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPLC-20-12610, IPLC-20-12609, IPLC-20-12668, IPLC-20-12669, IPLC-22-15394	2023-09-14 21:00	2023-09-15 04:00	New maintenance scheduled	Main optical cable relocation	Ferrara and Padova (ITALY)	Bezeq International

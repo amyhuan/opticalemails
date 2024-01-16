@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+et-0/0/5 up up STS=wds;CUS=abo;LAG=ae10;LID=_;SVC=pk-o;CID=microsoft;BND=100g;INF=H_Klucz_I:CAS-24086-W4B1F0, ae10 up up STS=wds;CUS=abo;SVC=pk-0;CID=microsoft;BND=100g;INF=H_Klucz_I	2023-09-14 00:00	2023-09-14 04:00	New maintenance scheduled		Unknown	Orange Polska

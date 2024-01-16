@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-309416	2023-05-07 22:00	2023-05-08 02:00	New maintenance scheduled	Maintenance to perform software upgrade works on network device	Budapest, Hungary	Arelion

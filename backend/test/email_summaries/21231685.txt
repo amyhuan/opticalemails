@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DXDB:PNI:11917	2023-05-22 22:00	2023-05-23 01:00	OPEN	Configuration change on AWS Onramps - MAD	Not specified	Not specified

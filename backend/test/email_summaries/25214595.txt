@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE297061, VWE297023, VWE296991, VWE297060, VWE297018, VWE297020, VWE296989, VWE297059, VWE297029, VWE296998	2023-10-01 14:00	2023-10-01 20:00	New maintenance scheduled	Planned Fibre works	Erskine Park, NSW	Vocus

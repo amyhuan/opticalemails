@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+104.44.56.33, 2a01:111:2000:1::3952	2023-09-01 01:00	2023-09-01 07:00	New maintenance scheduled		Slough, UK	Fastly

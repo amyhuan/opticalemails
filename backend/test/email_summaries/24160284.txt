@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004488, IPL004401	2023-06-12 04:00	2023-06-14 13:00	New maintenance scheduled	PW for channel insertion at DLS 1,2,4,9,12,13,15 in Hong Kong within Segment S1H	Not specified	Viettel

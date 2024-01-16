@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPLC-20-12610, IPLC-20-12609, IPLC-22-15394	2023-11-09 20:00	2023-11-09 23:00	New maintenance scheduled	Emergency network maintenance (due to a damaged main optical cable)	Katzenelnbogen to Frankfurt, Germany	Bezeq International

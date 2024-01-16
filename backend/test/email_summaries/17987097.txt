@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ITS-0001049073 - GRTBCNES1 - ae3 - IPv4 2023-04-24 22:00	2023-04-25 03:00	New maintenance scheduled	Upgrade	Unknown	Unknown
+ITS-0001049073 - GRTBCNES1 - ae3 - IPv6 2023-04-24 22:00	2023-04-25 03:00	New maintenance scheduled	Upgrade	Unknown	Unknown

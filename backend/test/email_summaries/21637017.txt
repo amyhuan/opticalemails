@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-05-23 05:00	2023-05-23 11:00	New maintenance scheduled	Certification of link	Girardot - Ibagué	GlobeNet

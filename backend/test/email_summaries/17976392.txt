@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-363195	2023-04-29 01:00	2023-04-29 04:00	New maintenance scheduled	Maintenance to perform software upgrade works on network equipment	Hammarby, Sweden	Arelion
