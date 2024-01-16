@@ -33,7 +33,7 @@ def process_file_content(vso_id, content):
         res = gpt_client.chat.completions.create(
                 model=MODEL_DEPLOYMENT,
                 messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "system", "content": ONLY_IDS_SYSTEM_PROMPT},
                     {"role": "user", "content": content},
                 ],
                 temperature=TEMPERATURE,
@@ -57,10 +57,6 @@ def get_existing_ids(file_name):
         except FileNotFoundError:
             pass
         return existing_ids
-
-# Replace actual IDs column with current model results
-import threading
-from queue import Queue
 
 def process_line(columns, directory, output_queue):
     file_id = columns[0]
@@ -176,10 +172,14 @@ def calculate_success_rate(current_line, input_len, output_tsv, record_results=F
 
                 row_add = 1
                 for expected in expected_ids_set:
-                    if len(expected) > 2 and expected not in actual_ids_set:
-                        # print(f"Missed an expected ID. VsoId: {vso_id}, Expected: {expected_ids}, Actual: {actual_ids}")
-                        row_add = 0
-                        incorrect_ids_table += f"""
+                    if len(expected) > 2:
+                        found = False
+                        for actual in actual_ids_set:
+                            if expected in actual:
+                                found = True
+                        if not found:
+                            row_add = 0
+                            incorrect_ids_table += f"""
 VSO ID:         {vso_id}
 Expected IDs:   {expected_ids}
 Actual IDs:     {actual_ids}

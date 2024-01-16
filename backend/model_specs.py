@@ -25,4 +25,15 @@ SYSTEM_PROMPT="""Each message you will get, contains the contents of a fiber pro
 """
 MODEL_DEPLOYMENT="gpt-35-turbo-16k"
 TEMPERATURE=0
-MAX_TOKENS=1028
+MAX_TOKENS=5096
+
+ONLY_IDS_SYSTEM_PROMPT="""Each message you get contains the contents of a fiber provider maintenance email update.
+                Extract each Circuit ID from the email for each circuit that will be affected by that maintenance. Alternate names for this ID include: ServiceID, Customer Circuit Number, Fiber Circuit ID. 
+                Also extract any IPv4 or IPv6 address that will be affected as well. Alternate names for this IP address: Peer IP address, Neighbor IP address.
+                For each distinct maintenance with its own start and end time, list the circuit IDs or IP addresses involved for each on its own line.
+                If there are no IDs are addresses to list, do not add any rows with text to the output.
+
+                Here is an example of the desired output format:
+                CircuitIds
+                OGYX/172340//ZYO OQYX/376545//ZYO 90015279 198.200.130.129 2a01:111:2000:1::20d5 004155 CRT-010256
+"""
