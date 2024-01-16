@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC8174E#33_100G	2023-04-20 03:00	2023-04-20 08:00	New maintenance scheduled	Reparación de fibras Ruta Metrotel	Unknown	Unknown

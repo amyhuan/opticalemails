@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-03-07 03:00	2023-03-07 11:00	New maintenance scheduled	Planned software upgrade	NY4,NY9,SV2,SV5	Equinix

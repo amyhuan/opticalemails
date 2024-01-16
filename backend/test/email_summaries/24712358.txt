@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/176206//ZYO OGYX/172340//ZYO FBDK/1148245//ZFS FBDK/1162976//ZFS FBDK/1245142//ZFS FBDK/2016256//ZFS FBDK/325549/002/ZFS F17M-0058107	2023-08-15 05:00, 2023-08-16 05:00, 2023-08-17 05:00, 2023-08-18 05:00	2023-08-15 12:00, 2023-08-16 12:00, 2023-08-17 12:00, 2023-08-18 12:00	New maintenance scheduled	Mandated by Arizona Department of Transportation	Phoenix-Mesa-Glendale, AZ	Zayo

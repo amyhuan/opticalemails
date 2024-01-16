@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSO-BC0677, MSO-BC0671	2023-10-04 12:00	2023-10-04 13:00	New maintenance scheduled	Enhancing network robustness	Oregon, US	HAWAIKI

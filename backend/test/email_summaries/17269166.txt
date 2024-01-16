@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443879246, 443879247, 443879242, 443879248	2023-02-23 05:00, 2023-02-23 00:00	2023-02-23 10:00, 2023-02-23 05:00	New maintenance scheduled	Replace faulty equipment	NEWARK, NJ USA; PHILADELPHIA, PA USA	Lumen

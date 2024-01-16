@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:12f8:0000:0000:0000:0000:0222:0060 (AS: 32934), 187.16.222.60 (AS: 32934)	2023-11-01 12:45:41 UTC	2023-11-01 20:00:41 UTC	New maintenance scheduled	N/A	São Paulo	Facebook

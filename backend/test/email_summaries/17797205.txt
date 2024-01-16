@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 90015279, LAX SYD EPL 90022027, LAX SYD EPL 90022030, LAX SYD EPL 90022021	2023-04-16 17:00	2023-04-16 23:00	New maintenance scheduled	Hazardous Condition - Firmware Update	Alexandria, Coresite LC2 & Takapuna	None

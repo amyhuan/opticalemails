@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MNDL01I, MNDL02J	2023-08-31 08:00	2023-08-31 14:00	New maintenance scheduled	Resolve ongoing management reachability issues	LA POP	None

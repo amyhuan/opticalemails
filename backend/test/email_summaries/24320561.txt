@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BBLT4076	2023-07-02 22:00, 2023-07-03 00:00	2023-07-03 01:00, 2023-07-03 03:00	New maintenance scheduled	Perform traffic-affecting circuit re-route	Amsterdam, Netherlands	Lumen

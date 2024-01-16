@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/121503, GTT/002107753, MICRSI/WAVE/U/121502, GTT/002107744, MICRSI/WAVE/U/121496, HI/Wavelength/00697199	2023-04-11 22:00, 2023-04-18 22:00	2023-04-12 04:00, 2023-04-19 04:00	New maintenance scheduled	Card installation	Oxspring/Lowdham/Peterborough	EXA

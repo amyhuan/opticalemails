@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 9441534	2023-10-04 17:00	2023-10-04 19:00	New maintenance scheduled	Essential maintenance to troubleshoot an intermittent alarm condition	Spencer Beach	Telstra

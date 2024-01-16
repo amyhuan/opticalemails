@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE190179, VWE190177	2023-05-15 14:01	2023-05-15 20:00	New maintenance scheduled	Planned Fibre works for Migration	Brisbane To Toowoomba, QLD	Vocus

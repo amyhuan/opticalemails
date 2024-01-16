@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005	2023-03-30 05:00, 2023-03-31 05:00	2023-03-30 10:00, 2023-03-31 10:00	Normal	Replacing power equipment due to temperature alarm	Lurin LS, Lima, Peru	Microsoft

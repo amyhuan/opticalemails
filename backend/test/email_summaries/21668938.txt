@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-310363, IC-311071, IC-311072, IC-311070, IC-310361, IC-131528, IC-311069, IC-311073	2023-05-25 22:00	2023-05-26 01:00	New maintenance scheduled	Hardware upgrade on a network device	Vienna, Austria	Arelion

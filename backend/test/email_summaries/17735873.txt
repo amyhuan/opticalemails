@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 90011153	2023-04-04 17:00	2023-04-04 20:00	New maintenance scheduled	Infinera Hardware upgrade	Fresno CA	Telstra

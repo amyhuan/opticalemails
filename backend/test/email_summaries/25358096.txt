@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ABT/TEN-Marseilles/TEN100GE033 ABT/TEN-Marseilles/TEN100GE034	2023-09-30 23:00, 2023-10-01 23:00, 2023-10-02 23:00, 2023-10-03 23:00, 2023-10-04 23:00	2023-10-01 03:00, 2023-10-02 03:00, 2023-10-03 03:00, 2023-10-04 03:00, 2023-10-05 03:00	New maintenance scheduled	Service upgrade	Not specified	Not specified

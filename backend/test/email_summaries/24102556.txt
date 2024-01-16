@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839	2023-06-09 21:00	2023-06-09 03:00	New maintenance scheduled	It is a main optical cable repair (due to a previous damage)	CU S. Stefano FS-CU Termini Imerese FS (ITALY)	Bharti Airtel Limited

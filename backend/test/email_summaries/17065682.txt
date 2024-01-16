@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284001, 500175284002	2023-02-08 22:00	2023-02-08 23:00	New maintenance scheduled	Network maintenance	Seoul, Korea

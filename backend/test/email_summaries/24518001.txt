@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/282224//ZYO, OQYX/282151//ZYO	2023-07-26 05:01	2023-07-26 10:00	New maintenance scheduled	Routine Fiber splice	350 E Cermak Rd, Chicago, IL	Zayo

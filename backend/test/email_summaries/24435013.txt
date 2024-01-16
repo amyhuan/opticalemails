@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LE100041, LE100038, LE100039, LE100040, LE100052, LE100053	2023-07-06 02:00	2023-07-06 09:00	New maintenance scheduled	Network management carrier - INFRA-NOC will perform urgent maintenance work to secure network reliability	Tokyo	JST

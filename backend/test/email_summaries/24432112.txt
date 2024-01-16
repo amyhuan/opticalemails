@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+05KJXS802762-072BLCA-000, 05KJXS802762-073BLCA-000	2023-07-24 06:01	2023-07-24 12:00	New maintenance scheduled	Improving service	Vancouver BC	Bell

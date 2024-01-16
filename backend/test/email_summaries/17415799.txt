@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502, SNG(PCG)-MRS(PCG) EP6227, SR186730, SNG(PCG)-MSL(PCG) EP6664, SR184688, SNG(PCG)-MSL(PCG) EP6663	2023-03-09 04:00	2023-03-09 07:00	New maintenance scheduled	AAE-1 channel insertion at DLS1 in Seg S2 (Day 1)	Not specified	PCCW Global

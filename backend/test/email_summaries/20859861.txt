@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG TOK EPL 9698386, HKG TOK EPL 9576673	2023-05-11 09:30	2023-05-11 11:00	New maintenance scheduled	Telstra to replace card replacement due to Equipment Degradation alarm	Japan	Telstra

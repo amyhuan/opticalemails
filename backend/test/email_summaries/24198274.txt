@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/812212/007/ZFS, F18M-0077740	2023-06-13 07:01, 2023-06-14 07:01, 2023-06-15 07:01, 2023-06-16 07:01	2023-06-13 12:00, 2023-06-14 12:00, 2023-06-15 12:00, 2023-06-16 12:00	New maintenance scheduled	Routine Fiber splice	56 Marietta St NW, Atlanta, GA	Zayo

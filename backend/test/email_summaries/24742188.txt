@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICD0046, MICD0047	2023-08-07 15:00, 2023-08-07 23:00	2023-08-07 19:00, 2023-08-08 03:00	New maintenance scheduled	Provider will perform urgent maintenance work to secure network reliability in Mie area	Mie area	None

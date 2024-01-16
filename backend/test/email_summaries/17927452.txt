@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+345354c8, 536c1a2e	2023-05-06 10:00	2023-05-06 16:00	New maintenance scheduled	To ensure uptime and stability of the Megaport network	Vocus Communications, Albany	Megaport

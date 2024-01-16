@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284003, 500175284004	2023-09-20 17:00	2023-09-20 21:00	New maintenance scheduled	Cable relocation work due to road expansion	Boryeong, Korea	None

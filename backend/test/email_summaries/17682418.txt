@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+441656679	2023-03-31 07:00, 2023-03-31 00:00, 2023-03-31 01:00	2023-03-31 13:00, 2023-03-31 06:00, 2023-03-31 07:00	New maintenance scheduled	Circuit migration	PHOENIX, AZ USA; NORTH LAS VEGAS, NV USA; GOODYEAR, AZ USA	Lumen

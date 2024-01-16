@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005, CRT-009823	2023-07-18 04:00, 2023-07-18 09:00	2023-07-18 04:00, 2023-07-18 09:00	Normal	A scheduled work will be carried out in order to reset or card replacement	Lurin, Lima, Perú	MICROSOFT

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist msn33649b.100ge*fra-ist msn33648b.100ge*fra-ist	2023-07-24 00:00	2023-07-24 04:00	New maintenance scheduled	Cable repair	Apricena - Foggia, Italy	Türk Telekom International

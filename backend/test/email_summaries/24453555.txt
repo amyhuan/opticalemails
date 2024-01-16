@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33649b.100ge*fra-ist msn33648b.100ge*fra-ist msn34964a.100ge*fra-ist	2023-08-03 23:00, 2023-08-03 23:00, 2023-08-03 23:00	2023-08-04 05:00, 2023-08-04 05:00, 2023-08-04 05:00	New maintenance scheduled	main optical cable relocation due to some civil works	Padova-Verona (ITALY)	Türk Telekom International

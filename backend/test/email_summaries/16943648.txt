@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-323368	2023-02-16 06:00	2023-02-16 12:00	New maintenance scheduled	Rerouting due to network expansion	Dallas/TX, US	Arelion

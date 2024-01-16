@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004400	2023-05-09 16:00, 2023-05-11 16:00	2023-05-09 22:00, 2023-05-11 22:00	New maintenance scheduled	Repair cable attenuation on backbone	Ha Noi	Viettel

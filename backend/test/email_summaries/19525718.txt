@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2UB12270(HKG TPE EPL 9996208), 2UB12271(HKG TPE EPL 9828251)	2023-05-03 16:00	2023-05-03 21:00	New maintenance scheduled	Essential maintenance for fiber optimization and reconnection due to relocation of Wu Qing telecom room	TAIWAN,－HK	CHTI

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIRL-IN-1824730, MIRL-IN-1824739, MIRL-IN-1824738, MIRL-IN-1824741, MIRL-IN-1824736, MIRL-IN-1824737, MIRL-IN-1824740, MIRL-IN-1824742	2023-08-12 20:00	2023-08-13 06:00	New maintenance scheduled	Planned work to implement the SMW4 UPG6 Traffic impacting Coupler insertion in JED-SUZ Express DLS activity	Not specified	ILD

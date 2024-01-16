@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5), DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351	2023-02-20 04:00, 2023-02-21 04:00	2023-02-20 12:00, 2023-02-21 12:00	New maintenance scheduled	Emergency activity to clear network alarm	Dubai	Ooredoo Qatar

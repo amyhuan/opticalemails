@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG TOK EPL 90022562, HKG TOK EPL 90022558, HKG TOK EPL 90022553, HKG TOK EPL 90022561	2023-04-11 10:00	2023-04-11 18:00	New maintenance scheduled	Telstra Essential Maintenance - Infinera G42 CHM6 OTU4 Configuration - Batch 23	N/A	N/A

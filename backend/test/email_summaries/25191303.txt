@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/121496, MICRSI/WAVE/U/121503, MICRSI/WAVE/U/121502	2023-09-28 18:00, 2023-09-29 05:00	2023-09-28 18:00, 2023-09-29 05:00	New maintenance scheduled	Essential maintenance work to complete a repair on a damaged fiber	UK	EXA

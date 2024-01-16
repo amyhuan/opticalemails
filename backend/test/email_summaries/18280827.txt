@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MS-0055, MS-0056	2023-04-26 14:00, 2023-04-26 22:00, 2023-04-27 14:00, 2023-04-27 22:00	2023-04-26 22:00, 2023-04-27 06:00, 2023-04-27 22:00, 2023-04-28 06:00	New maintenance scheduled	Due to the increased error count in SLTE DLS 5.1/5.2+5.3 after the cable repair, vendor requested for a Maintenance Window to optimize the power on the channel and power adjustment on the Subcom CW Idler.	At risk / DLS 5.1+5.2/5.3	-

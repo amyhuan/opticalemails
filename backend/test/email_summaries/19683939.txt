@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRT-007322, CRT-007323, CRT-009612, CRT-009613, CRT-010257, CRT-010258, CRT-010259, CRT-010260	2023-04-28 04:00	2023-04-28 10:00	New maintenance scheduled	Network optimization	Izabal Guatemala

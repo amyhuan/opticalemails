@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+91.210.16.234 2001:7f8:14::7c:1	2023-07-12 09:00	2023-07-12 09:30	New maintenance scheduled	Security router maintenance	Unknown	TechCom, s.r.o.
+91.210.16.224 2001:7f8:14::7c:2	2023-07-12 09:00	2023-07-12 09:30	New maintenance scheduled	Security router maintenance	Unknown	TechCom, s.r.o.

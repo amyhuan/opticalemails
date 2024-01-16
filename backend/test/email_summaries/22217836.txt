@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33648b.100ge*fra-ist msn33649b.100ge*fra-ist	2023-05-25 23:00	2023-05-26 04:00	New maintenance scheduled	Urgent maintenance works	Messina and Patti	Türk Telekom International

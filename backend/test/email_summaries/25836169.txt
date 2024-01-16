@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CAS-41670-X7M8M8	2023-11-16 22:00	2023-11-17 04:00	New maintenance scheduled	Fiber hot cut	SYD	Amazon

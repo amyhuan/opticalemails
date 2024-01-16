@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-369725 (TRIM.20210614.03)	2023-06-12 07:00	2023-06-12 10:00	New maintenance scheduled	Maintenance to perform software upgrade works on network equipment	San Jose/CA, US	Arelion

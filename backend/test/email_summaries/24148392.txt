@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+210.173.176.23, 2001:7FA:7:1::2527:1	2023-06-07 03:00	2023-06-07 09:00	New maintenance scheduled	N/A	N/A	So-net/AS2527

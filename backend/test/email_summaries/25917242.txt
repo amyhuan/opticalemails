@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+edge01.zrh4	2023-12-04 23:00	2023-12-05 06:00	OPEN	Relocating edge01.zrh4 at Equinix ZH4	Zürich / Switzerland	SwissIX

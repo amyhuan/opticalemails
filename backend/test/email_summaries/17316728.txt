@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-02-25 16:01	2023-02-25 22:00	New maintenance scheduled	RELOCATION CABLE FOC AT GEMENCHEH - GEMAS 96C_J_A	N/A	Bharti Airtel Limited

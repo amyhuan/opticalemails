@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+195.42.145.28, 2001:7f8:43::8075:1, 195.42.145.132, 2001:7f8:43::5:4113:2, 195.42.145.131, 2001:7f8:43::5:4113:1	2023-04-25 00:00	2023-05-02 00:00	New maintenance scheduled	Leaving Equinix Paris exchange	Paris, France	Fastly

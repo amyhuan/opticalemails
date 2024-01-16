@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-03-20 22:00	2023-03-21 05:00	Planned	Cable Works	Frankfurt Germany, Saint-Denis France	euNetworks

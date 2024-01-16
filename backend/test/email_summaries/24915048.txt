@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSO-BC0677, MSO-BC0671	2023-08-28 14:00	2023-08-28 15:00	New maintenance scheduled	Hawaiki team will perform maintenance activity to improve the quality of service	US TERRESTRIAL Backhaul	HAWAIKI

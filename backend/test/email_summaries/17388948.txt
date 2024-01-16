@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+3-000973771, 3-000973787, 3-001151296, 3-001151298, 3-001251589, 3-001251590	2023-03-15 00:00	2023-03-15 06:00	New maintenance scheduled	ASR9K Code Upgrade	Dallas, TX	Cogent

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-08-10 02:00	2023-08-10 09:00	New maintenance scheduled	AAE-1 PW TT reference	Bukit Tambun	PCCW Global

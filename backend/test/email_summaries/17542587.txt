@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/282366//ZYO OGYX/268109//ZYO	2023-04-06 00:01, 2023-04-06 06:01	2023-04-06 05:00, 2023-04-06 11:00	New maintenance scheduled	Zayo will implement maintenance to perform a mandatory fiber relocation	1821 30th St, Boulder, CO	Zayo

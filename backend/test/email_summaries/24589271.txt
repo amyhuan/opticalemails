@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839, 12719838	2023-08-03 00:00	2023-08-03 04:00	New maintenance scheduled	Main optical cable repair	Brancaleone-Locri (ITALY)	Bharti Airtel Limited

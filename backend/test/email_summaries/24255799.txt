@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS9365	2022-06-21 15:00	2022-06-21 22:00	New maintenance scheduled	Unknown	Yokohama City	Microsoft

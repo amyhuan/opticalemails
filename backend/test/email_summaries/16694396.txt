@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+578067.1-A	2023-01-31 14:00	2023-01-31 22:00	New maintenance scheduled	Software upgrade	SG1, SG2, SG3, SG4, SG5	Equinix

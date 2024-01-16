@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-02-06 16:00	2023-02-06 22:00	New maintenance scheduled	Relocate Fiber Optic Cable 48C (APCN) TM infrastructure along Rembau -Senawang at Sungai Gadut on Segment QA Sector Q2	Not specified	Bharti Airtel Limited

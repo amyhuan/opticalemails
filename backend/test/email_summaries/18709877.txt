@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-04-26 06:00, 2023-04-26 13:00	2023-04-26 06:00, 2023-04-26 13:00	New maintenance scheduled	Planned work for card replacement and fiber maintenance work	Fiber maintenance work in Seg L.1	PCCW Global

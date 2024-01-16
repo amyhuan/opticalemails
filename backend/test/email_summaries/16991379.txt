@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+027MIDR292013677915, 027MIDR292013956863, 027CAPE292014066891, 027CAPE292014066899, 027MIDR292014077306	2023-02-12 08:00	2023-02-12 13:00	New maintenance scheduled	To migrate traffic from the old route to the new route as the currently unstable and traffic is getting impacted	Bellville to ADC Diepriver	Liquid

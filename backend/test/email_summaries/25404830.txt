@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2620:0:1cff:dead:beee::1178 2620:0:1cff:dead:beee::1179	2023-10-16 12:30	2023-10-16 13:30	New maintenance scheduled	N/A	XSP1	N/A

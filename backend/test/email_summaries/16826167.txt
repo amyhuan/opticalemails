@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442714861, 443595469, 443595473, 442714812, 442142814, 442714811, 443595474, 443595475, 443595471, 443595472	2023-01-30 21:00, 2023-01-30 23:00	2023-01-31 03:00, 2023-01-31 05:00	New maintenance scheduled	Fiber cable work	Vendor Network Bulgaria	
+MICROSOFT CORPORATION MCIO

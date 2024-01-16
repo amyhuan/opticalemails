@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered, SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered	2023-02-15 10:00	2023-02-15 16:00	New maintenance scheduled	Emergency Fiber maintenance work to reroute cable between Ber Erida – Zafarana (BER-ZFR) Span in Seg X1.2. Services will be running via Sub-Segments X1.1.	Not specified	PCCW Global

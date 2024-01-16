@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-22 22:01	2023-05-23 02:00	New maintenance scheduled	Configuration Works	Warsaw, Poland; Berlin, Germany	euNetworks

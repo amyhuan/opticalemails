@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-02-17 21:00	2023-02-17 22:30	Planned	Card Replacement	Pantin, France; Uxbridge, UK	euNetworks

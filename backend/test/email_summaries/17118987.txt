@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+
+N/A	2023-03-02 01:00	2023-03-02 05:00	New maintenance scheduled	To solve a strong attenuation problem along its line	N/A	N/A

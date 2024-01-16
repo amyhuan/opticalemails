@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20037837	2023-04-27 21:00	2023-04-28 02:00	New maintenance scheduled	Upstream link maintenance	London LD	Equinix

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13557047	2023-07-27 00:00, 2023-07-27 06:00	Rescheduled		5400 NE upgradation in NLD/Metro network	GPX Mumbai	Bharti Airtel Limited

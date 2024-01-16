@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+104.44.198.80, 2a01:111:2000:1::2bfd	2023-06-08 09:00	2023-06-08 13:00	New maintenance scheduled	N/A	N/A	IIJ/AS2497

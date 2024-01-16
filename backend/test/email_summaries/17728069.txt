@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+402/ETHX/0017834, 402/ETHX/0017837	2023-04-07 00:00	2023-04-07 06:00	New maintenance scheduled	Circuit migrations to core network to improve redundancy	Texas	FiberLight

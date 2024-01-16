@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ITS-0001050191 - GRTVAPEM2 - HundredGigE0/2/0/12 - IPv4, ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4, ITS-0001050191 - GRTVAPEM2 - ae72 - IPv4, ITS-0001050191 - GRTVAPEM2 - HundredGigE0/2/0/12 - IPv6, ITS-0001050191 - GRTVAPEM2 - ae72 - IPv6, ITS-0001050189 - GRTVAPEM1 - ae70 - IPv6, ITS-0001050189 - GRTVAPEM1 - et-5/0/19 - IPv6, ITS-0001050189 - GRTVAPEM1 - et-5/0/19 - IPv4	2023-06-07 03:00	2023-06-07 11:00	New maintenance scheduled	NTE–Provider	Not specified	Not specified

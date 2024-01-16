@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-UAE/MICROSOFT/GCCIA-100G07-PW621130, DOH-UAE/MICROSOFT/GCCIA-100G08-PW621142	2023-08-04 21:00	2023-08-05 09:00	New maintenance scheduled	CR-000000659781>POHC for D-971> AUC - M2S 200F ULL Cable	UAE	Ooredoo Qatar

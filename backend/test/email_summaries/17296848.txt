@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSFT-DM5A-SN1A-MSCG-0014-0::100GBE-1, MSFT-DM5A-SN1A-MSCG-0019-0::100GBE-1, MSFT-DM5A-SN1A-MSCG-0026-0::100GBE-1, MSFT-DM5A-SN1A-MSCG-0028-0::100GBE-1, MSFT-DM5A-SN1A-MSCG-0030-0::100GBE-1	2023-02-27 19:00, 2023-02-27 19:00	2023-02-28 00:00, 2023-02-28 00:00	New maintenance scheduled	The OTM2-500 card on MS1709 1-A-4 is registering Backplane Unreachable and will not clear with a warm reset of the card. Need to replace the card.	SNBZTXAGSAT3IDMS1709	Lumen

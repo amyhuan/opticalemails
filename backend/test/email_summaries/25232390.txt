@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442224867, 442224865	2023-10-04 04:00, 2023-10-04 00:00	2023-10-04 09:00, 2023-10-04 05:00	New maintenance scheduled	Replace faulty hardware	LOCUST GROVE, GA USA	Lumen

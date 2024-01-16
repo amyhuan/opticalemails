@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BKK/CAT-SNG 100G2843ET, BKK/CAT-SNG 100G2844ET	2023-05-23 17:00	2023-05-23 20:00	New maintenance scheduled	Upgrade Software DWDM HUAWEI 1800V equipment at Site NT Klong Luang, Tellus Data Center	Singapore	Singtel

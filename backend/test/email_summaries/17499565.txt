@@ -1,0 +1,6 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-03-10 22:00, 2023-03-11 05:00	Scheduled	Card Replacement	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35308-238, C35308-239, C35308-240, C35308-241, C35308-242, C35308-243, C35308-244, C35308-245, C35308-246, C35308-247, C35308-248, C35308-249, C35308-250, C35308-251, C35308-252, C35308-253	2023-03-10 22:00, 2023-03-11 05:00	Scheduled	Card Replacement	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35276-950, C35276-951, C35276-952	2023-03-10 22:00, 2023-03-11 05:00	Scheduled	Card Replacement	Frankfurt, Germany; Helsinki, Finland	euNetworks
+C35276-953	2023-03-10 22:00, 2023-03-11 05:00	Scheduled	Card Replacement	Berlin, Germany; Oslo, Norway	euNetworks
+C35236-095, C35236-096, C35236-097, C35236-098, C35236-099, C35236-100	2023-03-10 22:00, 2023-03-11 05:00	Scheduled	Card Replacement	Berlin, Germany; Oslo, Norway	euNetworks

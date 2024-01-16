@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-08-02 02:00	2023-08-02 08:00	New maintenance scheduled	Essential maintenance for transfer core	N/A	Bharti Airtel Limited

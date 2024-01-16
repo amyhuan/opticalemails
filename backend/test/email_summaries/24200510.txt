@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284002	2023-06-14 16:00	2023-06-14 17:00	New maintenance scheduled	Fiber relocation work in Japanese backhaul	N/A	KO

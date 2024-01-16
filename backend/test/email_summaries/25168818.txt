@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502, SR186730, SR184688, SR211310	2023-09-24 16:00	2023-09-24 22:00	New maintenance scheduled	Replacing fiber	Jalan Pontian, Johor	PCCW Global

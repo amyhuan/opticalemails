@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRQ1-57477715752	2023-04-17 21:00	2023-04-18 04:00	New maintenance scheduled	Improving network stability and service quality	N/A	N/A

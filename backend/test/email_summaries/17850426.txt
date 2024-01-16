@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12932920, 13555731, 13559225, 13559226, 13559227, 13559223	2023-04-07 16:00	2023-04-08 00:00	New maintenance scheduled	SingTel || emergency repair activity on Singapore intercity	N/A	Bharti Airtel Limited

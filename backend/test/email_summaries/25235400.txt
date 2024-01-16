@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CONTR0095192834, CONTR0095192550	2023-09-25 07:30, 2023-09-26 07:30	2023-09-25 13:30, 2023-09-26 13:30	New maintenance scheduled	Normalization of services restored during Segment 7a.1 cable fault between Kuwait & Bandar Abbas	Khazna Meydan, Dubai	Unknown

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1-212061709, 1-300002328, 1-300002329, 3-001161597, 3-001161598	2023-06-17 22:00	2023-06-18 04:00	New maintenance scheduled	Software module upgrades	Frankfurt	Cogent

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+15005/100G/LSANCAJW/LSANCAJWR12	2023-03-01 00:00	2023-03-01 06:00	New maintenance scheduled		California	Comcast

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LE100037, LE100034, LE100035, LE100036, LE100048, LE100049, LE100050, LE100051, LE100097, LE100098, LE100099, LE100100, LE100101	2023-06-03 13:00	2023-06-08 04:00	New maintenance scheduled	Submarine cable carrier maintenance	Tokyo	MICROSOFT JAPAN CO. LTD.

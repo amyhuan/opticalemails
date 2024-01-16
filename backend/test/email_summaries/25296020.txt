@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSFT-BL7C-BLUC-MSCG-0002-0::100GBE-1, MSFT-BL7C-BLUC-MSCG-0003-0::100GBE-1, MSFT-BL7C-BLUC-MSCG-0004-0::100GBE-1, MSFT-BL7C-BLUC-MSCG-0005-0::100GBE-1, MSFT-BL7C-BLUC-MSCG-0006-0::100GBE-1	2023-10-06 05:00	2023-10-06 10:00	New maintenance scheduled	Lumen PSCC Sheduled work window to clear 3dB of Span Loss between MS1637<>MS1635 by inspecting, cleaning, and/or replacing the fiber.	ASBNVA38W115ICMS1636	Lumen

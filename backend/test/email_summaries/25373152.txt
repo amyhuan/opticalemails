@@ -1,0 +1,26 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-10-05 21:00	2023-10-06 04:00	Planned	Cooling System	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00373980	2023-11-23 06:00	2023-11-23 06:00	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00374330	2023-11-23 06:00	2023-11-23 06:00	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00374335	2023-11-23 06:00	2023-11-23 06:00	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00374336	2023-11-23 06:00	2023-11-23 06:00	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00374337	2023-11-23 06:00	2023-11-23 06:00	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00374338	2023-11-23 06:00	2023-11-23 06:00	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	euNetworks
+S00374005	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374353	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374354	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374355	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374356	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374357	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374358	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374359	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374360	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374361	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374362	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00374363	2023-11-29 01:00	2023-11-29 01:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00379727	2023-04-11 13:00	2023-04-11 13:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00379729	2023-04-11 13:00	2023-04-11 13:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00379745	2023-04-11 13:00	2023-04-11 13:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00379746	2023-04-11 13:00	2023-04-11 13:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00379747	2023-04-11 13:00	2023-04-11 13:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks
+S00379748	2023-04-11 13:00	2023-04-11 13:00	Planned	LH Wave	Saint-Denis, France; Madrid, Spain	euNetworks

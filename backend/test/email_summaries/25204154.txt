@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-09-26 16:01	2023-09-26 23:00	New maintenance scheduled	Maintenance work for Cable relocation	Unknown	Bharti Airtel

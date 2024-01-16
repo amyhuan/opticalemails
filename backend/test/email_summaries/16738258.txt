@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SCA EPL 9670304, HKG/HKGG/TELSTRA/HKG - SCA/EQNX/TELSTRA/USA 100GIGE BASE EPL 9670304	2023-01-10 22:00	2023-01-10 22:30	New maintenance scheduled	AAG circuit migration maintenance	Fresno CA	Telstra

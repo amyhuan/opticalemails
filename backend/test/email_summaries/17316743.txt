@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+7268997	2023-03-13 00:00:00	2023-03-13 04:00:00	New maintenance scheduled	Maintenance on our IP platform related to Junos software upgrade	Italy, Milan	

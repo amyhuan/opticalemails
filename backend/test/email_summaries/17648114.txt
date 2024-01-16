@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ABT/TEN-Marseilles/TEN 100GE033, ABT/TEN-Marseilles/TEN 100GE034, TN7/N/ABT/MRS/100G/100GE/00048 180520220065, ALX/MAR/10GbE/029/M, ALX/MAR/10GbE/030/M	2023-03-26 00:00, 2023-03-27 21:00, 2023-03-30 21:00	2023-03-26 05:00, 2023-03-28 05:00, 2023-03-31 05:00	New maintenance scheduled	Emergency planned activity to Secure TENORTH cable in Marseille from Tram infrastructure work	N/A	N/A

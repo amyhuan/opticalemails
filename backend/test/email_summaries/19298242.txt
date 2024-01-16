@@ -1,0 +1,4 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G2757ET	2023-05-04 11:00	2023-05-04 16:00	New maintenance scheduled	South route between NAT-S and OCT3 from 36.8 km to 37.5 km from OCT3 towards NAT	Singapore	Singtel
+MSL/ST-SNG 100G2758ET	2023-05-04 11:00	2023-05-04 16:00	New maintenance scheduled	South route between NAT-S and OCT3 from 36.8 km to 37.5 km from OCT3 towards NAT	Singapore	Singtel
+MSL/ST-SNG/ST 100G2860ET	2023-05-04 11:00	2023-05-04 16:00	New maintenance scheduled	South route between NAT-S and OCT3 from 36.8 km to 37.5 km from OCT3 towards NAT	Singapore	Singtel

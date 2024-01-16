@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-06 11:00	2023-03-06 17:00	New maintenance scheduled	Depurar enlace Barranquilla - Luruaco para mejorar potencias (ESPECTRO)	Unknown	Unknown

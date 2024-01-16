@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442271562, 442138486, 442138497, 442553404, 442553405, 442271560	2023-08-01 04:00, 2023-08-01 00:00	2023-08-01 09:00, 2023-08-01 05:00	New maintenance scheduled	Troubleshoot network alarms	MIAMI, FL USA	Lumen

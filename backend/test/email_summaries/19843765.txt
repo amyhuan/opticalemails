@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+21257284	2023-05-03 00:00	2023-05-03 01:00	New maintenance scheduled	Increase prefix announcements from AS6939	Tokyo Equinix Internet Exchange (EIE)	TY
+21395868	2023-05-03 00:00	2023-05-03 01:00	New maintenance scheduled	Increase prefix announcements from AS6939	Tokyo Equinix Internet Exchange (EIE)	TY

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MFSA5/WAVE/U/108100, GTT/001783647, MFSA5/WAVE/U/108101, GTT/001783648, MFSA5/WAVE/U/121931, GTT/001815634, MFSA5/WAVE/U/121933, GTT/001815637	2023-04-05 21:00, 2023-04-06 21:00	2023-04-06 03:00	New maintenance scheduled	Fiber works on our network in France	France	None

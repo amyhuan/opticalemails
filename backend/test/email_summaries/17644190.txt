@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR153502 / HKG(PCG)-SEL(PCG) EP5639, SR152897 / HKG(PCG)-SEL(PCG) EP5638	2023-03-30 17:00, 2023-03-30 17:00	2023-03-30 23:00, 2023-03-30 23:00	New maintenance scheduled	SK Broadband Maintenance work	N/A	PCCW Global

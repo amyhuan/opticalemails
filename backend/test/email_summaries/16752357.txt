@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20598669-A	2023-02-06 14:00	2023-02-06 22:00	New maintenance scheduled	Software upgrade	HK2, SG1, SG2, SG3, SG4, SG5, TY8, AM7, SK2, NY4, SV5	Equinix

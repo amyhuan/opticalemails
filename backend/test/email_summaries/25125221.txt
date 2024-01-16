@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211007, 14211009, 14211011, 14211010, 14211008, 14211006, 14211005, 14210994	2023-09-18 19:00	2023-09-19 01:00	New maintenance scheduled	Emergency activity to Improve ORL level in Amp card at segment 2.7(North Route)	MONACO – Marseille

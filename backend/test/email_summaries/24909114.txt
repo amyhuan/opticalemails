@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284001, 500175284002	2023-08-30 17:00	2023-08-30 21:00	New maintenance scheduled	Fiber relocation work	Hong-sung	KO

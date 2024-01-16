@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-01-12 02:00	2023-01-12 10:00	New maintenance scheduled	AAE-1 fiber relocation works between AHT-TGB at Seg L	N/A	PCCW Global

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719838	2023-06-27 21:00	2023-06-28 04:00	New maintenance scheduled	Mandatory network maintenance to fix a strong degradation problem along the line	Campo di Mare-Tarquinia (ITALY)	ILD Service provider

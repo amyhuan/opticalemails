@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 9932644, LAX SYD EPL 9253854, LAX SYD EPL 9696335, LAX SYD EPL 9441534	2023-03-14 12:59	2023-03-14 19:00	New maintenance scheduled	Telstra Planned Transmission Work	Australia	Telstra

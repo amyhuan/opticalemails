@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+17388100G01, 17388100G02, 17388100G03, 17388100G04, 17388100G05, 17388100G06, 17388100G07, 17388100G08	2023-08-31 05:30	2023-08-31 06:30	New maintenance scheduled	Emergency outage to avoid line tripping issues	Unknown	Unknown

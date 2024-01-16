@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308, SR211309, SR215090	2023-07-06 02:00, 2023-07-06 02:00, 2023-07-06 02:00	2023-07-06 09:00, 2023-07-06 09:00, 2023-07-06 09:00	New maintenance scheduled	AAE-1: PW for overhead OFC96 cores replacement at Kg Pulai Sebatang in Tg. Segenting-Pontian Kecil (TGS-PNK) span within Segment- L.2. Services will be running via Sub-Segments L.1.	Tg. Segenting-Pontian Kecil (TGS-PNK)	PCCW Global

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443948697, 443948699, 443948698, 443948700	2023-04-08 19:00	2023-04-09 07:00	New maintenance scheduled	Repairing rodent damage	Warrington United Kingdom	Lumen

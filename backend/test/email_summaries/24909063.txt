@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854870	2023-08-28 22:00	2023-08-29 06:00	New maintenance scheduled	Service migration to a new network in Singapore	Singapore	ILD

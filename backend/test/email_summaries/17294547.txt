@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33649b.100ge*fra-ist msn33648b.100ge*fra-ist msn34964a.100ge*fra-ist	2023-03-20 23:00, 2023-03-21 07:00	2023-03-20 23:00, 2023-03-21 07:00	New maintenance scheduled	Fiber works due to bridge demolition works STEP 2	S. Michele/S (ITALY)	Türk Telekom International

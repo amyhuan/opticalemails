@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIIR1/WAVE/U/123676	2023-03-31 21:00	2023-04-01 05:00	New maintenance scheduled	Emergency Reroute Saint-Jean Les Jumeaux due to motorway building	Saint-Jean Les Jumeaux, France	

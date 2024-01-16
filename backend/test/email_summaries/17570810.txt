@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIIR1/WAVE/U/123676	2023-04-03 22:00	2023-04-04 04:00	New maintenance scheduled	Fiber works	73240 Wendlingen am Neckar, Germany	EXA

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+104.44.47.164 2a01:111:2000:1::3859	2023-06-02 00:00	2023-06-02 02:00	New maintenance scheduled	Unknown	Japan	NTT docomo

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-01-28 10:00	2023-01-28 16:00	New maintenance scheduled	AAE-1 urgent cable re-route between (ABT-NUB) Span in Seg X1.1	Unknown	PCCW Global

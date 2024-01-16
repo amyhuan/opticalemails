@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-01-29 22:00	2023-01-30 04:00	New maintenance scheduled	To avoid unplanned outage in near future	Not specified	Bharti Airtel Limited

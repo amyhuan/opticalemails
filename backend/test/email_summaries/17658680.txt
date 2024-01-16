@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1070010081, 1070010089, 1070010090, 1070010082, 1070010083, 1070010084, 1070010079, 1070010080	2023-03-28 05:00, 2023-03-29 05:00, 2023-03-30 05:00, 2023-03-31 05:00	2023-03-28 12:00, 2023-03-29 12:00, 2023-03-30 12:00, 2023-03-31 12:00	New maintenance scheduled	Overseas Maintenance work @ APG S9 Repair	Singapore	

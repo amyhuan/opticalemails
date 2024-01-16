@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE190179, VWE190177	2023-05-25 14:00	2023-05-25 20:00	New maintenance scheduled	Planned Fibre works	Inglewood, QLD	Vocus

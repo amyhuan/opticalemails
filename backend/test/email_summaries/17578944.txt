@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM Number, CRM Name, CRT, NAP/MICROSOFT SP2/MICROSOFT 100GB S001, CRT-006004, NAP/MICROSOFT - SP2/MICROSOFT 100GB S002	2023-03-17 16:00, 2023-03-18 03:30	2023-03-17 20:00, 2023-03-18 07:30	Emergency	A scheduled work will be performed in order to carry on a Network optimization migration	Boca Raton - Santos, USA	MICROSOFT

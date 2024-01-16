@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-04-24 21:00	2023-04-25 04:00	New maintenance scheduled	Cable maintenance	Unknown	Colt Technology Services

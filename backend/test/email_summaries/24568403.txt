@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004401	2023-07-31 02:00	2023-07-31 09:00	New maintenance scheduled	PW To replace fiber cable to rectify high loss at Tanjung Labuh, Pontian in Tg. Segenting- Pontian Kecil (TGS-PNK) span within Segment- L.2. Services will be running via Sub-Segments L.1.	Not specified	Viettel

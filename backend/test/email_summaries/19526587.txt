@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000937, T200000938, T200000939, T200000940, T200000054, T200000055, T200000056, T200000057, T200000058, T200000059	2023-05-08 22:00	2023-05-09 04:00	New maintenance scheduled	Planned maintenance on circuit between Rennesøy and fetsund	Norway	Altibox AS

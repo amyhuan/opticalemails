@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-05-17 09:00	2023-05-17 14:00	New maintenance scheduled	AAE-1 Fiber high loss rectification between Ipoh-Bidor (IPH-BID) span in Segment- L	N/A	PCCW Global

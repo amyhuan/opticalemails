@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RIO/EQU SAOPAULO/MSFT 100GB S011	2023-03-09 14:30, 2023-03-10 14:30, 2023-03-15 03:00	2023-03-09 20:00, 2023-03-10 20:00, 2023-03-15 09:00	Normal	A schedule work will performed in order to implement network optimization	Santiago	MICROSOFT

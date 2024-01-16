@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0013	2023-07-20 08:00	2023-07-20 16:00	New maintenance scheduled	Emergency maintenance activity between DJI<>MRS to enhance service resilience	Nairobi to Marseille	WIOCC

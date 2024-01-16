@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SAP@356.0395184, SAP@356.0395185, SAP@356.0395186, SAP@356.0395187, SAP@356.0416008, SAP@356.0416009, SAP@356.0463612, SAP@356.0463613, SAP@356.0395172, SAP@356.0395173, SAP@356.0395174, SAP@356.0395175, SAP@356.0416000, SAP@356.0416001, SAP@356.0463605, SAP@356.0463606	2023-05-01 00:00	2023-05-01 06:00	New maintenance scheduled	Urgent works by external partner	Gland, Route des Avouillons 32; Rümlang, Hofwisenstrasse 56	Sunrise

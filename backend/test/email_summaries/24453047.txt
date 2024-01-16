@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1033099018	2023-07-25 00:00	2023-07-27 06:00	New maintenance scheduled	PERMANENT RESTORATION DUE TO BREAKDOWN FOC BUKIT GLANMARIE-SUBANG JAYA (96C)	SELANGOR (CENTRAL)	TM

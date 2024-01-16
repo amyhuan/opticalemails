@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+210.173.176.157 2001:7fa:7:1:0:1:7958:1	2023-11-28 00:00	2023-11-28 05:00	New maintenance scheduled	Router Maintenance	Tokyo	JPNAP

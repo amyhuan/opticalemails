@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX TOK EPL 9986827, LAX TOK EPL 9657112, LAX TOK EPL 9201538	2023-06-22 16:00	2023-06-22 17:00	New maintenance scheduled	Optical fiber route switch	Katsushika Ward, Tokyo	ARTERIA

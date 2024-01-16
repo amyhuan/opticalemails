@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-07-01 11:00	2023-07-01 17:00	New maintenance scheduled	Change of route due to construction of third-party civil work	Valdivia - Santa Rosa	N/A

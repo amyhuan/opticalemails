@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100612, MICRSI/WAVE/U/100613, MICRSI/WAVE/U/100615, MICRSI/WAVE/U/100616	2023-02-27 23:00, 2023-02-27 23:00, 2023-02-27 23:00, 2023-02-27 23:00	2023-02-28 04:00, 2023-02-28 04:00, 2023-02-28 04:00, 2023-02-28 04:00	New maintenance scheduled	Fiber works in our network	Between Orbetello and Civitavecchia, Italy	EXA

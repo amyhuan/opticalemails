@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443861119, 443861124, 441202429, 440600098, 440600097, 442250291, 442250292	2023-07-25 04:00	2023-07-25 10:00	New maintenance scheduled	Relocate fiber cable	NILES, MI USA	Lumen

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-09-25 20:00	2023-09-25 23:59	New maintenance scheduled	Optimization purposes and better network management	Milan	N/A

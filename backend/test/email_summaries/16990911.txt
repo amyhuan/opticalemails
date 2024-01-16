@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Not mentioned	2023-02-19 08:00	2023-02-19 16:00	New maintenance scheduled	Relocation and diversion of cables	Gent	Colt

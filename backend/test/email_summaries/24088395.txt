@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SP2/MSFT - EDGECONNEX/MSFT 100GB S005	2023-05-30 03:00, 2023-05-31 03:00	2023-05-30 11:00, 2023-05-31 11:00	Normal	A scheduled work will be performed in order to replace DC breakers	Rocha, Argentina	MICROSOFT

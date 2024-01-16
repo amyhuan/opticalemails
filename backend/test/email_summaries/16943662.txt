@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IR1033213076, IE1033104610	2023-02-02 16:00	2023-02-02 23:00	New maintenance scheduled	CHANGE FOC SEGAMAT-JEMENTAH 48C 'A' AT BUKIT TUNGGAL DAMAGED DUE 3RD PARTY	SOUTHERN(SEGAMAT,JOHORE)	TM

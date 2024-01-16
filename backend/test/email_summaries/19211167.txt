@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14210994, 14211005, 14211006, 14211008, 14211010, 14211011, 14211009, 14211007	2023-05-04 11:00	2023-05-04 16:00	New maintenance scheduled	Planned Maintenance to reroute terrestrial Seg-3 south route between 3S2ILA (Wabi-Alnatroun) and 3S3ILA	Unknown	ILD Service provider

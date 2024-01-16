@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799182, Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799184, Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808812, Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808813	2023-10-08 21:00	2023-10-08 00:00	New maintenance scheduled	Long-distance fiber segment maintenance	Reynosa, Tamaulipas	Flō Networks

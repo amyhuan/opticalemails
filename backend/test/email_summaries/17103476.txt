@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442289163	2023-02-24 05:00, 2023-02-24 00:00	2023-02-24 11:00, 2023-02-24 06:00	New maintenance scheduled	Expansion of network infrastructure	CHEPACHET, RI USA; MARLBOROUGH, MA USA; NEEDHAM, MA USA; CAMBRIDGE, MA USA	Lumen

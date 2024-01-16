@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRQ1-57718381780	2023-04-27 22:00	2023-04-28 04:00	New maintenance scheduled	Cable Maintenance Work	Jaworzno	Colt Technology Services

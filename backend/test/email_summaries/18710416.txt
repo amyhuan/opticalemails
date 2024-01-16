@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G2757ET, MSL/ST-SNG 100G2758ET, MSL/ST-SNG/ST 100G2860ET	2023-05-04 11:00, 2023-05-04 11:00, 2023-05-04 11:00	2023-05-04 16:00, 2023-05-04 16:00, 2023-05-04 16:00	New maintenance scheduled	SMW5 NOC detected degradation on span loss values for Wady El Natroon (South) - October#3 section	Singapore	Singtel

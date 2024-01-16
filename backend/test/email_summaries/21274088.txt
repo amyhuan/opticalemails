@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+441573397, 441573398	2023-05-16 05:00, 2023-05-15 22:00	2023-05-16 10:00, 2023-05-16 03:00	New maintenance scheduled	Replace faulty hardware	Sunnyvale, CA USA	Lumen

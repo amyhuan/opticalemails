@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02	Not mentioned	Not mentioned	New maintenance scheduled	POHC for F-251 TAS - FUJ 200F ULL (Cable Relocation)	Not mentioned	Not mentioned

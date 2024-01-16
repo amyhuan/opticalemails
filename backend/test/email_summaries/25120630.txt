@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284003, 500175284004	2023-09-15 17:00	2023-09-15 21:00	New maintenance scheduled	Cable and conduit reinstallation work following completion of road construction	Hongseong, Korea	None

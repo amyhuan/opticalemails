@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-11-16 06:00	2023-11-16 12:00	New maintenance scheduled	Change of route due to infrastructure risk	Fresno CA	GlobeNet

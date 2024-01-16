@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000060, T200000061, T200000062, T200000063, T200000064, T200000065	2023-05-08 00:00	2023-05-08 06:00	New maintenance scheduled	Establish redundancy	Unknown	Altibox AS

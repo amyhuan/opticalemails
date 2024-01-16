@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-ZA-C013-0017, CA-ZA-C013-0022, CA-ZA-C013-0023	2023-03-18 07:00	2023-03-18 11:00	New maintenance scheduled	Replacing damaged Optic Fibre Cable	South Africa	WIOCC

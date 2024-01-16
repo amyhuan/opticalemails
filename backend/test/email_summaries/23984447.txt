@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-06-06 07:00	2023-06-06 09:30	New maintenance scheduled	Internal operational/technical works	Brussels, Belgium	Türk Telekom International

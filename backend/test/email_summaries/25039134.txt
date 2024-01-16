@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211010	2023-09-07 19:00	2023-09-08 00:00	New maintenance scheduled	Emergency maintenance to clear High fiber loss issue at EIG Segment S2.7 North Route	Unknown	ILD

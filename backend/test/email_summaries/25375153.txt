@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0024, CA-MU-C208-0028	2023-10-05 21:00, 2023-10-06 21:00	2023-10-06 05:00, 2023-10-07 05:00	New maintenance scheduled	Firmware upgrade on DWDM equipment nodes	Lagos and UK	WIOCC

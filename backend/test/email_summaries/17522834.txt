@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MDMR0005-SK0012/0002	2023-04-11 00:00	2023-04-11 06:00	Maintenance cancelled		hegedyk 8, 8601ZR SNEEK, agriport 570, 1775TB MIDDENMEER, agriport 601, 1775TK MIDDENMEER	Eurofiber

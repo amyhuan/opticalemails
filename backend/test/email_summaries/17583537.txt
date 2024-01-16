@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+K0501572A	2023-04-05 20:00	2023-04-06 02:00	New maintenance scheduled	Software upgrade on Juniper MX platform	Sofia, Bulgaria	Vodafone

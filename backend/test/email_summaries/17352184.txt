@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SNG TOK EPL 9478220, SNG TOK EPL 9326503, SNG TOK EPL 90002302, SNG TOK EPL 90002343, SNG TOK EPL 90002349, SNG TOK EPL 90003403	2023-03-02 08:00	2023-03-02 09:30	New maintenance scheduled	Telstra Maintenance to perform card replacement - Japan Infinera CKKDDTNX-0101 4-A-5 OTM-1200	Japan	Telstra

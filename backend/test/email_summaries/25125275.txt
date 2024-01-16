@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE224159, VWE224160	2023-09-21 14:00	2023-09-21 20:00	New maintenance scheduled	Planned Fibre works	Sydney, NSW	Vocus

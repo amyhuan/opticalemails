@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+EMEA-IN-1708833, EMEA-IN-1708832	2023-03-30 19:00, 2023-03-30 19:00	2023-03-31 05:00, 2023-03-31 05:00	New maintenance scheduled	Emergency Maintenance for to perform BU protection testing to test the line integrity of wet segments	Not specified	Bharti Airtel Limited

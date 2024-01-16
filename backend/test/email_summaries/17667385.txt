@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-04-06 22:00	2023-04-07 04:00	New maintenance scheduled	Line board replacement	Chambery (FRANCE)	Bharti Airtel Limited

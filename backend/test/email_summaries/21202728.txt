@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719838, 12719839, 14209371, 14209360	2023-05-17 20:00	2023-05-18 04:00	New maintenance scheduled	Order to fix a strong degradation problem along their line in Mazara d. V. (ITALY)	Mazara d. V. (ITALY)	ILD Service provider

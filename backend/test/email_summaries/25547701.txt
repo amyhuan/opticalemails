@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+133451	2023-11-06 22:00	2023-11-07 02:00	New maintenance scheduled	Planned capacity upgrade	London, UK	Equinix

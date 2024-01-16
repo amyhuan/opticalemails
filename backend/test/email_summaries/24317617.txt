@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2006554777, FRO2006764005, FRO2006763937, FRO2006554780, FRO2006764002, FRO2006554771	2023-06-28 03:00, 2023-06-28 00:00	2023-06-28 09:00, 2023-06-28 06:00	New maintenance scheduled	Migrate circuits to new optimum path	COTIA Brazil, BARUERI Brazil	Lumen

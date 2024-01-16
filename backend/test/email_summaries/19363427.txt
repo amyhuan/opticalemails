@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-09-05 06:00	2023-09-05 15:00	New maintenance scheduled	Cable relocation due to civil works	France	Türk Telekom International

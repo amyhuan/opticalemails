@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+K2A/CUST/MICROSOFT-J4S/CUST/MICROSOFT 100GBES03 (M)	2023-06-20 00:00	2023-06-20 06:00	New maintenance scheduled	Planned Critical Network Maintenance Activity	Abu Dhabi	ETISALAT
+JDC/MICROSOFT-FJN/IXP/SB 10GBES01-1444052829	2023-06-20 00:00	2023-06-20 06:00	New maintenance scheduled	Planned Critical Network Maintenance Activity	Abu Dhabi	ETISALAT

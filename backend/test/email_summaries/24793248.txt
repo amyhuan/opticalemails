@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211010	2023-08-11 22:00	2023-08-12 05:00	New maintenance scheduled	Emergency maintenance for OLO EXA to investigate a degradation on the MRS AIX fiber span	Unknown	Bharti Airtel

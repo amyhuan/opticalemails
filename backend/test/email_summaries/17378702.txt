@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSAWDMMV2MRS002U, MSAWDMMV2MRS001U	2023-03-13 00:00, 2023-03-13 00:00	2023-03-13 06:00, 2023-03-13 06:00	New maintenance scheduled	Maintenance to improve service performance and quality	N/A	Vodafone

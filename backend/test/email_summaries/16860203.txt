@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-01-24 17:00	2023-01-24 21:00	New maintenance scheduled	Plan maintenance to migrate device to new demarcation	Singapore	-

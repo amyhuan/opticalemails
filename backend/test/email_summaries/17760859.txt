@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS6830 AS8075 104.44.6.162 104.44.6.163 2a01:111:2000:1::3091 2a01:111:2000:1::3092	2023-04-04 01:00	2023-04-04 06:00	New maintenance scheduled	Software upgrade of de-fra05a-ri1	FRA	Liberty Global

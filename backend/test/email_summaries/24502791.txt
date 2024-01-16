@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2	2023-08-01 06:00	2023-08-01 10:00	New maintenance scheduled	Planned work for card replacement to clear "Temperature out of range" alarm on SOFX 3-A-2 in Zafarana	Unknown	PCCW Global

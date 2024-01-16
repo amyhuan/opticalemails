@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442156856, 442714881, 442714759, 442714758, 442093903, 442714880, 442714882, 442093904	2023-05-30 20:00, 2023-05-30 22:00, 2023-05-30 23:00	2023-05-31 04:00, 2023-05-31 06:00, 2023-05-31 07:00	New maintenance scheduled	Fiber cable work	Germany, Czech Republic, Turkey, Poland	Lumen

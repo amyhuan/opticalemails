@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SO6084822091/JIOGIPLMUMSIN0224	2023-02-13 16:00	2023-02-13 22:00	Planned Activity		Fiber works in their network	Navi Mumbai, India	Reliance Jio Infocomm Ltd.

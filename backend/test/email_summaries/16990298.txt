@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-MARSEILLE/WED NP 0001, ATHENS/WED-WIEN/WED NP 0001, ATHENS/WED-MARSEILLE/WED NP 0002, ATHENS/WED-WIEN/WED NP 0002	2023-10-02 21:00	2023-11-02 05:00	New maintenance scheduled	Mandatory maintenance for equipment software upgrade	Athens-Koropi (Greece), Rome (Italy), London (England)-New York (USA)-Paris (France)

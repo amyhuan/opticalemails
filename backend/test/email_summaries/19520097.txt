@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-05-04 00:00	2023-05-04 04:00	New maintenance scheduled	Cable maintenance to fix an attenuation issue	Valmontone-Roccasecca (ITALY)	Bharti Airtel Limited

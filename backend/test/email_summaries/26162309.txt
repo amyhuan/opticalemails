@@ -1,0 +1,8 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00338342, S00338341	2024-01-18 22:00, 2024-01-18 22:00	2024-01-19 05:00, 2024-01-19 05:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks
+S00339672	2024-01-18 22:00	2024-01-18 22:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks
+S00339673	2024-01-18 22:00	2024-01-18 22:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks
+S00339674	2024-01-18 22:00	2024-01-18 22:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks
+S00340490	2024-01-18 22:00	2024-01-18 22:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks
+S00340491	2024-01-18 22:00	2024-01-18 22:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks
+S00340492	2024-01-18 22:00	2024-01-18 22:00	New maintenance scheduled	Fault Investigation / Cleaning	Zurich, Switzerland; Milan, Italy	euNetworks

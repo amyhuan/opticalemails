@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+INT21890814/1	2023-06-06 14:01	2023-06-06 16:00	New maintenance scheduled	Urgent repairs to network	Eastern Creek NSW	One New Zealand

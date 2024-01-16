@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ETH100-17650052, ETH1000-23735803, ETH100-17509023	2023-05-31 05:00, 2023-05-31 00:00	2023-05-31 11:00, 2023-05-31 06:00	New maintenance scheduled	Fiber maintenance	WAXAHACHIE, TX USA; FORT WORTH, TX USA; DALLAS, TX USA; Lancaster UNITED STATES; Lancaster UNITED STATES	Lumen

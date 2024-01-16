@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1049472921, IE1049483257	2023-02-06 16:00, 2023-02-06 16:00	2023-02-07 06:00, 2023-02-07 06:00	New maintenance scheduled	Relocate Fiber optic cable 48C (APCN)	TM infrastructure along Rembau -Senawang at Sg. Gadut due to poor condition of duct way (partially disintegrated) which will expose TM infrastructure to high risk of future breakdown.	N.Sembilan ( SOUTHERN )	TM

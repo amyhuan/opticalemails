@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Not mentioned	2023-02-03 01:00	2023-02-03 06:00	New maintenance scheduled	Improving network infrastructure	Abu Dhabi, UAE	Etisalat

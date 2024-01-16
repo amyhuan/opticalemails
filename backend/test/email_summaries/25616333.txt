@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-11-16 14:00	2023-11-16 20:00	New maintenance scheduled	General capacity upgrade	HK	Equinix

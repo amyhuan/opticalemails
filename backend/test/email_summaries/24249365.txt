@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+00344650	2023-07-06 06:00	2023-07-06 11:30	New maintenance scheduled		Unknown	Unknown

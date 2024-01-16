@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353, DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116)	2023-07-11 06:00	2023-07-11 10:00	New maintenance scheduled	Equipment Degradation	Zayed	None

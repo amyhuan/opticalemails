@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM Number, CRM Name, CRT, NAP/MICROSOFT - SP2/MICROSOFT 100GB S002	2023-05-18 12:00, 2023-05-19 12:00	2023-05-18 15:00, 2023-05-19 15:00	Normal	A scheduled work will be performed in order to migrate customer services	Fortaleza - Santos, Brazil	MICROSOFT

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2a01:111:2000:1::294d 2a01:111:2000:1::294e	2023-07-21 04:00	2023-07-21 05:00	New maintenance scheduled	None	SJC1	None

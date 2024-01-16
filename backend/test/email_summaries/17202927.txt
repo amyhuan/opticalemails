@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SNG TOK EPL 90013516, SNG TOK EPL 90013513, SNG TOK EPL 90015258, SNG TOK EPL 90015255, SNG TOK EPL 90015252, SNG TOK EPL 90015261, SNG TOK EPL 90015267, SNG TOK EPL 90015264	2023-03-02 10:00	2023-03-02 18:00	New maintenance scheduled	Telstra Essential Maintenance Notification - Infinera G42 CHM6 OTU4 Configuration (Batch 22)	Not specified	Not specified

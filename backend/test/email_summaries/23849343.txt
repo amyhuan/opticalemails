@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0014	2023-05-25 22:00, 2023-05-26 22:00	2023-05-26 04:00, 2023-05-27 04:00	New maintenance scheduled	Replacing Earth Isolation Board on Power Feeding Equipment	Dar Es Salaam	WIOCC

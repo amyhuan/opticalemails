@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-12-02 21:00, 2023-12-03 15:00	Scheduled	Network Additions	Frankfurt Germany, Saint-Denis France	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595469, 443595472, 443595471, 443595474, 443595473, 443595475	2023-08-02 22:00, 2023-08-03 00:00	2023-08-03 04:00, 2023-08-03 06:00	New maintenance scheduled	Fiber cable work	Vendor Network Poland	N/A

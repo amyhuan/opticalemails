@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595475, 443595471, 443595473, 443595474, 443595469, 443595472	2023-03-16 23:00, 2023-03-17 00:00	2023-03-17 05:00, 2023-03-17 06:00	Scheduled Maintenance	Infrastructure maintenance	SOFIA 22 BULGARIA, WARSZAWA MZ POLAND	MICROSOFT CORPORATION MCIO

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/267721//ZYO, FBDK/1163304//ZFS, FBDK/2047722/001/ZFS, FBDK/812212/009/ZFS, FBDK/812212/007/ZFS, FBDK/812212/008/ZFS	2023-02-14 21:00, 2023-02-15 02:00, 2023-02-15 21:00, 2023-02-16 02:00	2023-02-15 06:00, 2023-02-15 11:00, 2023-02-16 06:00, 2023-02-16 11:00	Planned	Routine Fiber splice	Atlanta-Sandy Springs-Marietta, GA	Zayo

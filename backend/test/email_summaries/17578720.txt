@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+21027275-A, 20263754-A, 20675920-A, 22313082-A, 22313083-A, 20263757-A	2023-03-31 02:00	2023-03-31 09:00	New maintenance scheduled	Configuration update	AT, CH, DA, DC	Equinix

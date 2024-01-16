@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0063	2023-03-28 07:00	2023-03-28 07:30	New maintenance scheduled	Emergency Maintenance activity to switch services to a pair with lower losses on our South Africa terrestrial network	Not specified	WIOCC

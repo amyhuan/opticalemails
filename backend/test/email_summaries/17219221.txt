@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE161001, VWE283010, VWE160998, VWE243333, VWE161000, VWE243303, VWE160999, VWE243299, VWE283008, VWE128557, VWE123210	Not mentioned	Not mentioned	New maintenance scheduled	Planned major fibre works	Hume Fwy, Little Billabong NSW	Not mentioned

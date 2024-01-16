@@ -1,0 +1,4 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004400, IPL004401	2023-08-12 10:30	2023-08-12 17:30	New maintenance scheduled	Network maintenance activity	Unknown	Unknown
+IPL004400, IPL004401	2023-08-13 01:30	2023-08-13 10:00	New maintenance scheduled	Network maintenance activity	Unknown	Unknown
+LL034478	2023-08-20 15:00	2023-08-21 02:00	New maintenance scheduled	Network Optimization Planned Event	Sedenak cabin	TIME dotCom Berhad

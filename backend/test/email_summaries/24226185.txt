@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-06-22 00:00	2023-06-22 04:00	New maintenance scheduled	Cable relocation	Lamezia Terme - Rende, Italy	Türk Telekom International

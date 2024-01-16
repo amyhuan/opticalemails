@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-02-14 22:00	2023-02-15 09:00	New maintenance scheduled	Routine configuration update	DA1, DA2	Equinix

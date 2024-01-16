@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR186730, SNG(PCG)-MSL(PCG) EP6664, Interxion CCT ID: FR179145-1, SR184688, SNG(PCG)-MSL(PCG) EP6663, Interxion CCT ID: FR179145-2, SR171502, SNG(PCG)-MRS(PCG) EP6227, SR211310, SNG(PCG)-MSL(PCG) EP7113	2023-08-18 04:00	2023-08-18 13:00	New maintenance scheduled	AAE-1 PW TT reference	Not specified	PCCW Global

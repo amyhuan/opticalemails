@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-02-27 23:00	2023-02-28 05:00	New maintenance scheduled	Optical cable relocation	N/A	N/A

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SAP@356.0395167, SAP@356.0395188, SAP@356.0395189, SAP@356.0395190, SAP@356.0415386, SAP@356.0415999, SAP@356.0463610, SAP@356.0463611, SAP@356.0395166, SAP@356.0395169, SAP@356.0395170, SAP@356.0395171, SAP@356.0415383, SAP@356.0415997, SAP@356.0463603, SAP@356.0463604	2023-05-24 01:00	2023-05-24 02:00	New maintenance scheduled	Due to works on fibre optic cables	Gland, Route des Avouillons 32, Rümlang, Hofwisenstrasse 56	Sunrise

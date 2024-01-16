@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-04-27 16:01	2023-04-27 23:00	New maintenance scheduled	To avoid unplanned outage in near future	Unknown	ILD

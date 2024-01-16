@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-04-04 00:00	2023-04-04 05:00	New maintenance scheduled	Optical cable relocation	Firenze- S. Giovanni V. (ITALY)	ILD Service provider

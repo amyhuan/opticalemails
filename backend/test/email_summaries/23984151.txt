@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00354610, S00354611, S00354612, S00354613	2023-07-18 20:00, 2023-07-18 20:00, 2023-07-18 20:00, 2023-07-18 20:00	2023-07-19 04:30, 2023-07-19 04:30, 2023-07-19 04:30, 2023-07-19 04:30	New maintenance scheduled	Hardware Replacement	Zurich, Switzerland; Milan, Italy	euNetworks

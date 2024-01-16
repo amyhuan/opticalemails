@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442067421, 442435170, 442224867, 442435176, 442224865, 442247054	2023-09-13 07:00, 2023-09-13 07:00, 2023-09-13 07:00, 2023-09-13 07:00, 2023-09-13 07:00, 2023-09-13 07:00	2023-09-13 12:00, 2023-09-13 12:00, 2023-09-13 12:00, 2023-09-13 12:00, 2023-09-13 12:00, 2023-09-13 12:00	New maintenance scheduled	Replace faulty hardware	Tampa, FL USA	Lumen

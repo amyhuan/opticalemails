@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS17958	2023-11-14 01:00	2023-11-14 04:00	New maintenance scheduled	Routing maintenance	Tokyo	JPNAP

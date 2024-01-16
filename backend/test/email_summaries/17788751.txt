@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+GA/KJGS/425416/ /WXN / GA/KJGS/425417/ /WXN / GA/KJGS/425418/ /WXN / GA/KJGS/425419/ /WXN /	2023-04-04 00:00	2023-04-04 05:00	Emergency Maintenance	Repair: Troubleshooting Degraded Service	Atlanta GA	Windstream

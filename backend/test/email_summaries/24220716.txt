@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+26829839-1	2023-06-14 05:00, 2023-06-14 00:00	2023-06-14 11:00, 2023-06-14 06:00	New maintenance scheduled	Replacing damaged splice case	BRYAN, TX UNITED STATES	Lumen

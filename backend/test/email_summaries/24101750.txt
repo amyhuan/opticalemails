@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211010	2023-05-31 10:00	2023-05-31 18:00	New maintenance scheduled	Maintenance to transfer new cable in Seg3 South route between Korymat and Ber Erida	Unknown	ILD

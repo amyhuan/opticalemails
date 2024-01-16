@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+COUSMIC10063474C	2023-08-29 21:00	2023-08-30 05:00	New maintenance scheduled	Change of optical layer in node	Unknown	Unknown

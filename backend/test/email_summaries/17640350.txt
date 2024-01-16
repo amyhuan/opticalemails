@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MM-C-IKE-LND-IPC-A03145	2023-04-27 22:00	2023-04-28 05:00	New maintenance scheduled	PLANNED MAINTENANCE ACTIVITY BY OUR THIRD-PARTY PARTNER	N/A	N/A

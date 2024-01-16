@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442250299, 442336052, 442250296, 442336051	2023-04-14 04:00, 2023-04-14 00:00	2023-04-14 10:00, 2023-04-14 06:00	New maintenance scheduled	Fiber repair maintenance	INDIANAPOLIS, IN USA	Lumen

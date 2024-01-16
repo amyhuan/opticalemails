@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-06-11 16:00	2023-06-12 00:01	New maintenance scheduled	Maintenance work for RELOCATION AIR BEMBAN - SIMPANG RENGAM 48C_J_B DUE TO DAMAGED TM INFRASTRUCTURE POOR QUALITY JUNCTION CABLES (FAULTY/HIGH LOSS) ALONG JLN AIR HITAM TO KULAI, JOHOR. Traffic via BBG path will be affected.	Unknown	ILD

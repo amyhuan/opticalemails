@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn32127a.100ge*vie-sof (WL070317), msn32128a.100ge*vie-sof (WL070318), msn34071a.100ge*vie-sof (WL078185), msn34072a.100ge*vie-sof (WL078186), msn34073a.100ge*vie-sof (WL078187), msn34074a.100ge*vie-sof (WL078188)	2023-01-26 21:00, 2023-01-26 22:00	2023-01-27 04:00, 2023-01-27 05:00	New maintenance scheduled	Moving HUAWEI DWDM BB to a new cable tray	Lugoj - Caransebes - Mehadia	Türk Telekom International

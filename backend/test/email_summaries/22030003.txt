@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+edge02.fra6.fra.de-cix.net/esat-6	2023-06-05 22:01	2023-06-06 05:00	OPEN	Equipment move to new Racks	Frankfurt am Main	DE-CIX

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+TIS-00000081576	2023-01-24 21:00	2023-01-25 03:00	New maintenance scheduled	Urgent & mandatory SW Upgrade	Catania, Italy	Telecom Italia Sparkle

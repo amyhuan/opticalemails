@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/812212/007/ZFS OGYX/172008//ZYO FBDK/812212/008/ZFS FBDK/812212/009/ZFS FBDK/2047722/001/ZFS FBDK/2137624//ZFS FBDK/2137672//ZFS F18M-0077740	2023-08-29 04:01, 2023-08-30 04:01, 2023-08-31 04:01	2023-08-29 09:00, 2023-08-30 09:00, 2023-08-31 09:00	New maintenance scheduled	Routine Fiber splice	3200 Webb Bridge Rd, Alpharetta, GA	Zayo

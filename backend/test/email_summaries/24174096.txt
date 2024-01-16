@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-06-07 16:00	2023-06-07 22:00	New maintenance scheduled	No service impact is expected, but a less than 50 ms sw hits maybe experienced	Penang –Kuala Kurau(PNG-KKR)	PCCW Global

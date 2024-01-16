@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0027, CA-MU-C208-0030	2023-08-03 11:00	2023-08-03 14:00	New maintenance scheduled	Maintenance activity to integrate SGR protection into the Kenyan terrestrial network	Nairobi, Nairobi	Microsoft Ireland Operations Ltd

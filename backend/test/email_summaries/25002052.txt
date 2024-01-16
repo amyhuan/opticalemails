@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH/MRS2/100G/100Gbe/000015	2023-09-15 08:00	2023-09-15 14:00	New maintenance scheduled	To troubleshoot "Input Signal Power Low" alarm	Marseille-2 (France)	None

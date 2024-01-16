@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005	2023-09-05 06:00, 2023-09-06 06:00	2023-09-05 11:00, 2023-09-06 11:00	Emergency	Optimize BOC-PBA-PSJ spectrum	Boca Raton, USA - Puerto Barrios - Puerto San Jose, Guatemala	MICROSOFT

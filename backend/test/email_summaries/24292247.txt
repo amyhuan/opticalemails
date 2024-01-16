@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0012	2023-06-27 21:00	2023-06-28 01:00	New maintenance scheduled	Maintenance activity to perform a software upgrade on our Nigeria network	Lagos, Rack Centre to SADC, Cape Town	WIOCC

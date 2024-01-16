@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34074a.100ge*vie-sof msn34073a.100ge*vie-sof msn34072a.100ge*vie-sof msn34071a.100ge*vie-sof msn32128a.100ge*vie-sof msn32127a.100ge*vie-sof	2023-04-19 22:00	2023-04-20 03:00	New maintenance scheduled	Network optimization works	Timisoara, Romania	Türk Telekom International

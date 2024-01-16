@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-10-24 22:01	2023-10-25 02:00	New maintenance scheduled	Card Replacement	Vienna, Austria; Warsaw, Poland	euNetworks

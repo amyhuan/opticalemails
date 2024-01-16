@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-WIEN/WED NP 0002, TIS-00000081577, ATHENS/WED-WIEN/WED NP 0001, TIS-00000078765	2023-07-31 21:00	2023-08-01 03:00	New maintenance scheduled	Urgent and mandatory network cable works	Grevena	Sparkle

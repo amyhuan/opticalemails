@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20950533, 20950543, 20950542, 20950535, 20950548, 20950549, 20950550, 20986658, 20950551, 20950552, 20950553, 20986660, 20950554	2023-04-06 00:00	2023-04-06 04:00	New maintenance scheduled	Scheduled preventative maintenance to HV transformers	LD5	Equinix

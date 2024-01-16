@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/172008//ZYO, OGYX/267721//ZYO, FBDK/1163304//ZFS, FBDK/2047722//ZFS, FBDK/2137624//ZFS, FBDK/2137672//ZFS, FBDK/812212/007/ZFS, FBDK/812212/008/ZFS, FBDK/812212/009/ZFS	2023-07-05 04:01, 2023-07-06 04:01, 2023-07-07 04:01	2023-07-05 09:00, 2023-07-06 09:00, 2023-07-07 09:00	New maintenance scheduled	Routine Fiber splice	180 Peachtree St NW, Atlanta, GA	Zayo

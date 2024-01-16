@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209360, 14209371	2023-05-23 21:59, 2023-05-24 21:59	2023-05-24 04:00, 2023-05-25 04:00	New maintenance scheduled	Emergency main optical cable repair, damaged by digging works between Lyon and Paris	N/A	N/A

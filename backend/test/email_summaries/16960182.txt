@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRQ1-57099185953	2023-02-18 08:00	2023-02-18 16:00	New maintenance scheduled	Faulty hardware issue	Cesta maraala Tita, Jesenice	Colt

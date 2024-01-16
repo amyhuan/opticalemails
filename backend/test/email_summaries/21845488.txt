@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Fiber6, Fiber8, Fiber7, Fiber5, Fiber106, Fiber105, Fiber29, Fiber30, BBHC8168 - FIBER-1	2023-05-16 04:00, 2023-05-17 04:00, 2023-05-18 04:00	2023-05-16 10:00, 2023-05-17 10:00, 2023-05-18 10:00	New maintenance scheduled	Relocate fiber cable	INDIANAPOLIS, IN USA; West Harrison, IN UNITED STATES; West Harrison, IN UNITED STATES; West Harrison, IN UNITED STATES	Lumen

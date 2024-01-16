@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042623732, IE1042623878	2023-05-20 16:00	2023-05-20 20:00	New maintenance scheduled	Fiber work due to 3rd Party/Public works	Singapore	None

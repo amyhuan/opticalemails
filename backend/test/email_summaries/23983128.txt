@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE226593	2023-06-14 14:00	2023-06-14 20:00	New maintenance scheduled	Network maintenance to rectify a fault condition	Mascot, Baulkham Hills NSW	Vocus

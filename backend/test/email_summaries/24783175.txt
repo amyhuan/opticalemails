@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-08-08 13:00	2023-08-08 18:00	New maintenance scheduled	Fault Investigation / Cleaning	Russelsheim, Germany; Zaventem, Belgium	euNetworks

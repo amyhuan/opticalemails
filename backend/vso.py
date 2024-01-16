@@ -173,4 +173,5 @@ if __name__ == '__main__':
     # devices_for_test_ids = get_devices_for_circuits(test_ids)
     # print(devices_for_test_ids)
     # get_vso_info()
-    test_vso_creation()
+    # test_vso_creation()
+    get_vso_info()

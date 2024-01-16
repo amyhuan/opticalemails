@@ -1,0 +1,1 @@
+CircuitIds/ServiceIDs/Customer Circuit Number/IPv4/IPv6 Address	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP

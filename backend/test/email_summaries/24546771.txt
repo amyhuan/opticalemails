@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20080H/100GIG/LONDENEH/LONEENBT	2023-07-22 23:00	2023-07-23 02:00	New maintenance scheduled	Perform traffic-affecting circuit re-route	LONDON, United Kingdom	Lumen

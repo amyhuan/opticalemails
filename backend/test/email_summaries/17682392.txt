@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC8174E#33_100G	2023-04-04 02:00	2023-04-04 07:00	New maintenance scheduled	Migration from provisory cable to definitive	Unknown	Unknown

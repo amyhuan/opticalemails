@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0013	2023-09-11 09:00	2023-09-11 13:00	New maintenance scheduled	Maintenance activity on Dbibouti <> Marseile	Nairobi to Marseille	WIOCC

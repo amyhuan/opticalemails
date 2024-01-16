@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-01 22:00	2023-05-02 02:00	Planned	Hardware Replacement	Saint-Denis, France; Schiphol-Rijk, Netherlands	euNetworks

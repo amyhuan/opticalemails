@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00351141, S00351142, S00351143, S00351144	2023-09-14 20:00, 2023-09-14 20:00, 2023-09-14 20:00, 2023-09-14 20:00	2023-09-15 04:00, 2023-09-15 04:00, 2023-09-15 04:00, 2023-09-15 04:00	New maintenance scheduled	Configuration Works	Oslo, Norway; Hamburg, Germany	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JDC/CUST/MICROSOFT-K2A/CUST/MICROSOFT 100GBE S02 (M)-1444054967	2023-08-05 01:00	2023-08-05 13:00	New maintenance scheduled	Critical Network Maintenance	UAE	

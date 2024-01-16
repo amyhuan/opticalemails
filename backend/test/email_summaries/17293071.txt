@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MS-ILA-Sangju 1-22-USPNL	2023-02-24 01:00	2023-02-24 03:00	New maintenance scheduled	Replacement work of faulty USPNL	KT Sangju building	None

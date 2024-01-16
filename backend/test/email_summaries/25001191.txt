@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100612, MICRSI/WAVE/U/100613, MICRSI/WAVE/U/100615, MICRSI/WAVE/U/100616	2023-09-06 20:00, 2023-09-13 20:00	2023-09-07 04:00, 2023-09-14 04:00	New maintenance scheduled	Maintenance for site optimization	Marseille, France	EXA

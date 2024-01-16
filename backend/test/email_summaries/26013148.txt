@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+15015/100G/DNVRCO26/DNVRCO26R10, 15016/100G/DNVRCO26/DNVRCO26R10	2023-12-12 03:00	2023-12-12 09:00	New maintenance scheduled	Preventative maintenance	Colorado	Comcast

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+18268	2023-07-30 09:00	2023-07-30 18:00	New maintenance scheduled	N/A	N/A	N/A

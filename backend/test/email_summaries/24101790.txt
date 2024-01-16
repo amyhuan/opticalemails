@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14210994, 14211005, 14211006, 14211008, 14211011, 14211009, 14211007	2023-05-31 08:00	2023-05-31 18:00	New maintenance scheduled	Emergency Maintenance for transfer new cable in Seg3 South route between Korymat and Ber	Not specified	Bharti Airtel Limited

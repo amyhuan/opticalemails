@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839, 12719838	2023-07-25 00:00	2023-07-25 04:00	New maintenance scheduled	main optical cable repair (due to a previous damage)	Apricena-Foggia (ITALY)	ILD Service provider

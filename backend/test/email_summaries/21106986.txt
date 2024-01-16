@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-05-23 02:00	2023-05-23 09:00	New maintenance scheduled	Configuration update	DC11, DC12, DC2, DC6	Equinix

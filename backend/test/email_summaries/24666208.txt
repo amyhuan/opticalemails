@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-08-18 05:00	2023-08-18 11:00	New maintenance scheduled	Repairing fiber optic	Fiber optic link between Medellin and La Pintada	GlobeNet

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G2757ET, MSL/ST-SNG 100G2758ET	2023-02-22 10:00, 2023-02-22 18:00	2023-02-22 16:00, 2023-02-23 00:00	New maintenance scheduled	Cable re-route on S3 R2 on route Section Erida – Zafarana at distance 88.9 km	Singapore, France	None

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-369728 (TRIM.20210614.03), IC-369727 (TRIM.20210614.03)	2023-11-14 05:00 UTC	2023-11-14 10:00 UTC	New maintenance scheduled	Emergency maintenance due to network optimization	New york/NY, US	Arelion

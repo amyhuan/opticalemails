@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MUM/MICROSOFT/TGN-100G02_PW616112/PW616114, DOH-MUM/MICROSOFT/TGN-100G05_PW618348/PW618349	2023-05-22 21:00	2023-05-23 03:00	New maintenance scheduled	Modulefile_Update_Fail alarm troubleshooting	DOHA-Qatar	Ooredoo Qatar

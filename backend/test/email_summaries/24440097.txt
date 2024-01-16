@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+TIS-00000081576	2023-07-17 00:00	2023-07-17 04:00	New maintenance scheduled	Mandatory ODF activity	Scillato-Palermo (ITALY)	TELECOM ITALIA SPARKLE

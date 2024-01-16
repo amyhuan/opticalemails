@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-04-08 16:00	2023-04-08 21:00	New maintenance scheduled	Planned work for fiber relocation due to Pipeline diversion	Fiber relocation along Hougang Avenue 3	PCCW Global

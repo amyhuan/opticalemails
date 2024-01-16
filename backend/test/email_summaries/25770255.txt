@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:dea:0:10::71 103.26.68.113 2001:de8:6::714:2 103.26.68.113 2001:dea:0:10::71 2001:de8:6::714:2	2023-11-10 01:00	2023-11-10 11:00	New maintenance scheduled	None	Unknown	Apple (AS714)

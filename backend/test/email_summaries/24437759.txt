@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG/STHK-SNG 100G0025EM	2023-07-11 16:00, 2023-07-12 16:00, 2023-07-13 16:00	2023-07-11 22:00, 2023-07-12 22:00, 2023-07-13 22:00	New maintenance scheduled	Day 1: New 1 Nokia Channel Insertion and Subcom's Traffic Migration, Day 2: New 5 Nokia channel insertion, Day 3: Optimization of New Nokia channel	Singapore, Hong Kong

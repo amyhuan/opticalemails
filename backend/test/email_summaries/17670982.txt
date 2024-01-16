@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442156856, 442714882, 442714881, 442714880	2023-04-05 21:00, 2023-04-06 00:00	2023-04-06 02:00, 2023-04-06 05:00	New maintenance scheduled	Cable diversion	Vendor Network Romania	
+26292303-1	2023-04-25 21:00, 2023-04-26 00:00	2023-04-26 03:00, 2023-04-26 06:00	New maintenance scheduled	Cable diversion	Vendor Network Romania

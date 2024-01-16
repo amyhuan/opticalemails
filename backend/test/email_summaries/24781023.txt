@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-08-24 22:00	2023-08-25 04:00	Planned	Cable Works	Barcelona, Spain; Saint-Denis, France	Equinix BA1 (fka Itconic/Telvent); Interxion PAR3

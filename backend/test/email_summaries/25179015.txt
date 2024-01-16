@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719838	2023-09-28 00:00	2023-09-28 04:00	New maintenance scheduled	Load-bearing movement	Albania	Bharti Airtel Limited

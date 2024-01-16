@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-MARSEILLE/WED NP 0002	2023-09-06 21:00	2023-10-06 03:00	New maintenance scheduled	Main optical cable repair	CU S. Stefano FS-CU Termini Imerese FS (ITALY)	Telecom Italia Sparkle

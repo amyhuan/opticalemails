@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353	2023-09-28 06:00	2023-09-28 18:00	New maintenance scheduled	Mandatory planned activity for utility maintenance work	Marseille 1 data center	Ooredoo

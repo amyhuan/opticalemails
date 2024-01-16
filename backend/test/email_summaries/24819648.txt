@@ -1,0 +1,7 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-08-31 22:01	2023-09-01 04:00	Planned	Hardware Replacement	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35308-238, C35308-239, C35308-240, C35308-241, C35308-242, C35308-243, C35308-244, C35308-245, C35308-246, C35308-247, C35308-248, C35308-249, C35308-250, C35308-251, C35308-252	2023-08-31 22:01	2023-09-01 04:00	Planned	Hardware Replacement	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35308-253	2023-08-31 22:01	2023-09-01 04:00	Planned	Hardware Replacement	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35395-713, C35395-714, C35395-715	2023-03-08 00:00	2023-03-08 00:00	Planned	TBC	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35395-716	2023-03-08 00:00	2023-03-08 00:00	Planned	TBC	Hamburg, Germany; Stockholm, Sweden	euNetworks
+C35236-095, C35236-096, C35236-097, C35236-098, C35236-099, C35236-100	2018-12-27 00:00	2018-12-27 00:00	Planned	TBC	Berlin, Germany; Oslo, Norway	euNetworks

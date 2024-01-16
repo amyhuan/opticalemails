@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-02-26 15:00	2023-02-26 21:00	New maintenance scheduled	AAE-1 fiber restoration works at Kg Jawa in Seg L	N/A	PCCW Global

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE243333	2023-02-05 13:00	2023-02-05 19:00	New maintenance scheduled	Network maintenance to rectify a fault condition on the network	Derrimut, VIC	Vocus

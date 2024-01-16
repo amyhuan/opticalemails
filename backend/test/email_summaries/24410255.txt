@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+15169	2023-06-30 07:15	2023-06-30 11:25	New maintenance scheduled		Unknown	Unknown

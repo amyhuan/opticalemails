@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-01-31 08:00	2023-01-31 12:00	New maintenance scheduled	AAE-1 to troubleshoot span loss at Penang in Seg L	N/A	PCCW Global

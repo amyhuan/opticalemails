@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-06-13 20:00	2023-06-14 04:00	Planned	Optimisation Works	Russelsheim, Germany; Schiphol-Rijk, Netherlands	NTT FRA3 Ruesselsheim campus (old e-shelter); Interxion AMS8

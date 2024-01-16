@@ -1,0 +1,18 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00356669	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356736	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356737	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356738	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356739	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356740	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356741	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356742	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356743	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356744	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356745	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356746	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356747	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356748	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356749	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356750	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks
+S00356751	2023-01-13 23:01	2023-01-14 01:00	Planned	Hardware Reset	Marseille, France; Milan, Italy	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSFT-BY21-SN6C-SWAN-0001-0::100GBE-1, MSFT-BY21-SN6C-SWAN-0002-0::100GBE-1, MSFT-BY4A-SN4A-SWAN-0041-0::100GBE-1, MSFT-BY4A-SN4A-SWAN-0042-0::100GBE-1, MSFT-BY4A-SN4A-SWAN-0048-0::100GBE-1	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided

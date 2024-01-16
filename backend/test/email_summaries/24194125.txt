@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-06-19 09:00	2023-06-20 03:00	New maintenance scheduled	Migración de servicio a nuevo cable tendido por afectación con objeto corto punzante	Fundación- Sabanalarga	N/A

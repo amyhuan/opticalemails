@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 9294316, HKG SCA EPL 9608213, HKG SCA EPL 9244944, HKG SCA EPL 9343122, HKG SCA EPL 9436548	2023-05-25 06:00, 2023-05-26 06:00	2023-05-25 13:00, 2023-05-26 13:00	New maintenance scheduled	Fiber relocation maintenance	San Jose CA	Lumen

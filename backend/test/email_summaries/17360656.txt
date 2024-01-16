@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00356669, S00356736, S00356737, S00356738, S00356739, S00356740, S00356741, S00356742, S00356743, S00356744, S00356745, S00356746, S00356747, S00356748, S00356749, S00356750, C35321-071	2023-03-16 22:59, 2023-03-17 22:59	2023-03-17 05:00, 2023-03-18 05:00	New maintenance scheduled	Fault Investigation / Cleaning	Bouches-du-Rhône, Marseille, France, Strada Provincial, Paullese s.p., Milan, Italy	-

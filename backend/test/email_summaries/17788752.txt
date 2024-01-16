@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+00G/TOPBG/698233-698233/700642	2023-04-19 01:00, 2023-04-18 23:00	2023-04-19 05:30, 2023-04-19 03:30	New maintenance scheduled	Circuit migration to an optimum path for improved network reliability	Frankfurt a Main 8233(Germany)	Microsoft Ireland Operations L (CIRE) Ireland

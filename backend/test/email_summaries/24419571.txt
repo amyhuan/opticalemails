@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-07-28 00:00	2023-07-28 04:00	New maintenance scheduled	Mandatory main optical cable relocation due to some civil works	Florence-Rioveggio (ITALY)	ILD Service provider

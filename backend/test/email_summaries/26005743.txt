@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2a01:111:2000:1::2595 2a01:111:2000:1::2596, 104.44.37.68 104.44.37.69	2023-12-04 22:20	2023-12-05 01:20	New maintenance scheduled	N/A	SYD	Google

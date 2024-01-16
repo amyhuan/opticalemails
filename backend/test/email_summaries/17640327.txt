@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839	2023-03-31 20:00	2023-04-01 02:00	New maintenance scheduled	Fiber line repair due to a previous damage	S. Stefano-Termini Immerse (ITALY)	Bharti Airtel Limited

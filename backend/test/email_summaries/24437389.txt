@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-07-27 21:00	2023-07-28 04:00	New maintenance scheduled	Hardware Replacement	Warsaw, Poland; Berlin, Germany	euNetworks

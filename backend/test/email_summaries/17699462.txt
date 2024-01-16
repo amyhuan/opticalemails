@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100610, MICRSI/WAVE/U/100611, MICRSI/WAVE/U/100629, MICRSI/WAVE/U/100630	2023-04-17 22:00, 2023-04-17 22:00, 2023-04-17 22:00, 2023-04-17 22:00	2023-04-18 04:00, 2023-04-18 04:00, 2023-04-18 04:00, 2023-04-18 04:00	New maintenance scheduled	Network optimization in Italy	Italy	

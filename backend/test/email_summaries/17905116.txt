@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360, 12719839, 12719838	2023-04-20 00:00, 2023-04-20 00:00	2023-04-21 06:00, 2023-04-21 06:00	Rescheduled	Service migration on new setup	Mumbai	Bharti Airtel Limited

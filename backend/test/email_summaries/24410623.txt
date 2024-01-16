@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 9932644, LAX SYD EPL 9253854, LAX SYD EPL 9441534, LAX SYD EPL 90010960, LAX SYD EPL 90010963	2023-07-10 10:00	2023-07-10 11:30	New maintenance scheduled	Telstra Maintenance to perform card reboot - US Infinera 1WLTDTNX-0101 1-B-1 OFX Card	Unknown	Telstra

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SYD EPL 9741233	2023-07-27 13:00, 2023-07-27 13:00	2023-07-27 20:00, 2023-07-27 20:00	New maintenance scheduled	Infinera equipment configuration changes	Not specified	Not specified

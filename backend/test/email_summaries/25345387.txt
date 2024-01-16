@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502 / SNG(PCG)-MRS(PCG) EP6227	2023-10-08 15:00	2023-10-08 22:00	New maintenance scheduled	Urgent Fiber Restoration	Jalan Pontian, SRO-East	PCCW Global

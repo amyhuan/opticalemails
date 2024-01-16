@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE243333, VWE273689, VWE283010, VWE243299, VWE161001, VWE160999, VWE123210, VWE160998, VWE283008, VWE268858, VWE268857, VWE243303, VWE273690, VWE161000, VWE128557	2023-04-01 14:01	2023-04-01 19:59	New maintenance scheduled	Network maintenance to rectify a fault condition on the network	Pialligo, ACT	Vocus

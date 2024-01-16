@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0012	2023-03-28 14:00	2023-03-28 16:00	Rescheduled - Not Started	Maintenance activity to resolve protection switching issue and to improve service resiliency in Lagos	Lagos	WIOCC

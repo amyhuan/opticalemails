@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+210.173.173.162 2001:7fa:7:1170::cafe	2023-03-27 22:30	2023-03-28 03:30	New maintenance scheduled	N/A	N/A	N/A

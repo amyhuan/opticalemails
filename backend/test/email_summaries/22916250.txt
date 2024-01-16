@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/266111//ZYO OQYX/266113//ZYO	2023-06-06 22:00, 2023-06-07 22:00, 2023-06-08 22:00	2023-06-07 05:00, 2023-06-08 05:00, 2023-06-09 05:00	Planned	Full Case audit	Lexington Ave S & Gemini Rd, Eagen, MN	Zayo

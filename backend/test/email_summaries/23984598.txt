@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MPI02-052020-49552, MPI02-102021-09593, MPI02-022019-02399	2023-06-03 21:00, 2023-06-03 21:00, 2023-06-03 21:00	2023-06-08 06:00, 2023-06-08 06:00, 2023-06-08 06:00	New maintenance scheduled	Repair works for Submarine Cable Fault Segment 4	Between Hong Kong and Singapore	None

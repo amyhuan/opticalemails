@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-31 03:00	2023-03-31 09:00	New maintenance scheduled	Change of route for VIA40 Express road concession	Fusagasugá - Melgar	N/A

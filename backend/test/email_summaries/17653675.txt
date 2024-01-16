@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RIO/EQU SAOPAULO/MSFT 100GB S011	2023-03-25 03:00, 2023-03-26 03:00	2023-03-25 09:00, 2023-03-26 09:00	Emergency	An emergency work will be performed to troubleshooting due to channel drop	SANTOS - RIO LS, BRASIL	MICROSOFT

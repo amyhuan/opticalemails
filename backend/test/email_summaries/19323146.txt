@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34727a.100ge*fra-ist msn33631a.100ge*fra-ist msn33630a.100ge*fra-ist msn34728a.100ge*fra-ist	2023-04-27 21:00	2023-04-28 01:00	New maintenance scheduled	Fiber routing work	Unknown	Türk Telekom International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SYD EPL 9880420	2023-07-25 13:00	2023-07-25 20:00	New maintenance scheduled	AJC Infinera upgrade	Hong Kong, Sydney	Telstra

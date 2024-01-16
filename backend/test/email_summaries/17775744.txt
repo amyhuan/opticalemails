@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 90022027	2023-04-13 16:00	2023-04-13 20:00	New maintenance scheduled	Network expansion	Unknown	Unknown

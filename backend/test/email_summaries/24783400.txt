@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-08-31 22:00, 2023-09-01 04:00	2023-08-31 22:00, 2023-09-01 04:00	New maintenance scheduled	Cable maintenance on our provider's network to restore a cable previously diverted	Chambéry (FRANCE)	Türk Telekom International

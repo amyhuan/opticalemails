@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+18274	2023-07-20 15:00	2023-07-20 20:30	New maintenance scheduled	Unknown	Utsunomiya Cable TV Corp.	JPNAP Tokyo

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BKK/CAT-SNG 100G2843ET	2023-03-15 01:00, 2023-03-15 09:00	2023-03-17 23:59, 2023-03-18 07:59	New maintenance scheduled	The cable system supplier NEC will perform the Corrective Actions on-site to fix the Changi PFE/ CTB issue of current not flowing on the PFE cable while the TIS system Segment B is being powered from the far-end PFE in Songkhla	Singapore, Thailand	Singtel

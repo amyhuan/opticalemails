@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn35843a.100ge*fra-ist msn35842a.100ge*fra-ist msn35841a.100ge*fra-ist msn35840a.100ge*fra-ist msn35839a.100ge*fra-ist msn35838a.100ge*fra-ist msn35837a.100ge*fra-ist msn35836a.100ge*fra-ist msn35835a.100ge*fra-ist msn35834a.100ge*fra-ist	2023-05-03 22:00	2023-05-04 03:00	New maintenance scheduled	Migrate service(s)	FRA-IST	Türk Telekom International

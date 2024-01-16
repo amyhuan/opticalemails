@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+195.66.225.69, 2001:07f8:0004:0000:0000:0000:80a6:0001	2023-09-11 08:00, 2023-09-11 13:00	New maintenance scheduled	N/A	Equinix London Slough (LD6)	N/A

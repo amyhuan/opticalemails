@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+18401.CN	2023-03-16 06:00	2023-03-16 10:00	New maintenance scheduled	Hardware upgrade	Dominican Republic	C&W Networks

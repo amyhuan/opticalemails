@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS6830, AS8075, 104.44.196.86, 104.44.196.87, 2a01:111:2000:1::27ed, 2a01:111:2000:1::27ee	2023-07-05 23:00	2023-07-06 04:00	New maintenance scheduled	Software upgrade of Liberty Global router	Thinx, Konstruktorska 5, 02-673 Warsaw, Poland	Liberty Global

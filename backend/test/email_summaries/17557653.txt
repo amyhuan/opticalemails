@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MEL GIP 9602497	2023-03-27 12:59	2023-03-27 19:00	New maintenance scheduled	Optic Fibre relocation/repair work	Australia	Telstra

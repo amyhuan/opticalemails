@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1039258367	2023-03-04 00:00:00	2023-03-04 07:00:00	New maintenance scheduled	PERMANENT CABLE JUNCTION DUE BREAKDOWN FOC CYBERJAYA2-PUCHONG 144C 'C'	Selangor (Central)	

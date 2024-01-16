@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+25806513-1	2023-02-09 08:00, 2023-02-09 00:00	2023-02-09 13:00, 2023-02-09 05:00	New maintenance scheduled	Troubleshoot network alarms	MODESTO, CA USA; TRACY, CA USA	Lumen

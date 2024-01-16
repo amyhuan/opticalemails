@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Ooredoo/DOH/MRS2/100G/100Gbe/000015 DOH-MAR/MICROSOFT/AAE1-100G03 100G, Ooredoo/DOH/MRS1/100G/100Gbe/000022 DOH-MAR1/MICROSOFT/AAE1-100G06 100G	2023-01-24 09:00	2023-01-24 14:00	New maintenance scheduled	Optical Loss Of Signal emergency maintenance	DOHA	Marseilles	Ooredoo

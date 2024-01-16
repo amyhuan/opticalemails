@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL001401, IPL000262	2023-04-06 16:00, 2023-04-06 23:00	2023-04-07 01:00, 2023-04-07 08:00	New maintenance scheduled	Software upgrade for DWDM equipment	Bangkok, Thailand	Global Transit

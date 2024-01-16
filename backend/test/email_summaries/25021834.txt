@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34728a.100ge*fra-ist /comment: (SupplierId:WL079436 ), msn34727a.100ge*fra-ist /comment: (SupplierId:WL079435 ), msn33631a.100ge*fra-ist /comment: (SupplierId:WL074822 ), msn33630a.100ge*fra-ist /comment: (SupplierId:WL074814 )	2023-09-07 21:01, 2023-09-08 04:00	2023-09-07 21:01, 2023-09-08 04:00	New maintenance scheduled	Wavelength and client service relocations from Istanbul Equinix 88-05 to Istanbul Equinix 98U32-01	Istanbul Equinix	Türk Telekom International

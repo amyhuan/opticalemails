@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG TOK EPL 9698386, HKG TOK EPL 9576673	2023-02-15 15:00	2023-02-15 16:00	New maintenance scheduled	Fiber Maintenance	Narashino RS and Kisarazu East RS	KDDI

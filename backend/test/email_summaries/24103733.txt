@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/244430//ZYO, OQYX/244410//ZYO, OQYX/244426//ZYO, OQYX/244405//ZYO, OQYX/244416//ZYO, OQYX/244431//ZYO, OQYX/244414//ZYO, OQYX/244434//ZYO	2023-05-31 05:01, 2023-06-01 05:01, 2023-06-02 05:01	New maintenance scheduled	Zayo's service provider needs to proceed for Cable Relocation & Cutover @ MP. 146.52 South, to allow for greater capacity/reliability.	Michigan	Zayo

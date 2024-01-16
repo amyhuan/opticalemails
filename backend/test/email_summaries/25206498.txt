@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS131988	2023-09-27 00:00	2023-09-27 04:00	New maintenance scheduled	Interface and peer down	Osaka	JPNAP

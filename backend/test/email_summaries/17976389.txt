@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR147408 / HKG(PCG)-OAS(PCG) EP5385	2023-04-19 16:00	2023-04-19 23:59	New maintenance scheduled	IACS power reconfiguration on segment 1	N/A	PCCW Global

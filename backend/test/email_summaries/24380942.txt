@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/812212/008/ZFS, FBDK/812212//ZFS	2023-06-28 04:01, 2023-06-29 04:01, 2023-06-29 00:01	2023-06-29 10:00, 2023-06-30 10:00, 2023-06-30 06:00	New maintenance scheduled	There are minimal customers affected by this work and all other customers will see No Impact during the maintenance timeframe. We are notifying all other Non Impacting customers to advise we have a technician in the splice enclosure working near live fiber	Atlanta, GA	Zayo

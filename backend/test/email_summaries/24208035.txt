@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443948697, 443948699, 443948700, 443948698	2023-06-17 21:00	2023-06-18 07:00	New maintenance scheduled	Perform cable diversion works	Oxford United Kingdom	Lumen

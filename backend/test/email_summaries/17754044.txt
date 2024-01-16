@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MM-C-IKE-LND-IPC-A03145	2023-04-26 21:59	2023-04-27 04:00	New maintenance scheduled	Planned Maintenance Activity	N/A	MainOne

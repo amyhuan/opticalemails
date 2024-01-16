@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+H:MIC:IX:002	H:MIC:PO:002	2023-04-18 01:00	2023-04-18 05:00	New maintenance scheduled	Planned Work	Unknown	Unknown

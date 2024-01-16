@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1-7571390, 1-7571414, 1-7571390-R, 1-7571414-R, 20783652, 20783656, 20783655, 20783653	2023-04-10 13:00, 2023-04-11 13:00	2023-04-10 23:00, 2023-04-11 23:00	New maintenance scheduled	Equinix facility engineers performing UPS annual preventive maintenance	DA3	None

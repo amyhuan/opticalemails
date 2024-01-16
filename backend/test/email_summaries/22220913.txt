@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+08887007-0163, 08887007-0164	2023-05-16 15:00	2023-05-16 16:00	New maintenance scheduled	Urgent maintenance for replacing the defective AOC cable	Busan cable landing station	KT Global Telecommunication Service Center

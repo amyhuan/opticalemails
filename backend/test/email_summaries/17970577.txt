@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM17621, CRM18032, CRT-000687, CRT-000961, CRT-005247, CRT-006002, CRT-006003, CRT-006086, CRT-006087, CRT-007316, CRT-007317, CRT-010092, CRT-010093	2023-04-20 03:00, 2023-04-21 03:00	2023-04-20 11:00, 2023-04-21 11:00	Emergency	A scheduled work will be performed in order to reconfigure network equipment	Rio de Janeiro, Brazil	MICROSOFT

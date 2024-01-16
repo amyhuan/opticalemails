@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2006795206, FRO2006795207, FRO2006815717	2023-11-14 06:00, 2023-11-14 00:00	2023-11-14 12:00, 2023-11-14 06:00	New maintenance scheduled	Network optimization	CIUDAD DE MEXICO Mexico	Lumen

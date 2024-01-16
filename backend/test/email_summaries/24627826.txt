@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUC SYD EPL 9635575, SYD/SXAL/TELSTRA/AUS - AUC/WHLS/TELSTRA/NZL 100GIGE BASE EPL 9635575	2023-08-07 17:00, 2023-08-08 01:00	2023-08-07 17:00, 2023-08-08 01:00	New maintenance scheduled	Hazardous Condition - DC Power Connection	Alexandria, AU	Telstra

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUH/K2A/MSFT-DOH/BTC/GCCIA 100GES01, AUH/K2A/MSFT-DOH/BTC/GCCIA 100GES02, KDC/MICROSOFT-MUM/BBG 100GE02, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04	Not mentioned	Not mentioned	Not mentioned	Not mentioned	Not mentioned	Not mentioned

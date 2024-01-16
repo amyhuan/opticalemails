@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0062	2023-02-16 21:00	2023-02-17 04:00	New maintenance scheduled	Maintenance activity to repair fibre cable	Johannesburg, Isando Teraco to Marseille Interxion 2 via EASSy+Onwards	WIOCC

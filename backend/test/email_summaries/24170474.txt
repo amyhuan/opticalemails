@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211009, 14211007, 14211008, 14211005, 14211010	2023-06-06 20:00, 2023-06-07 20:00, 2023-06-08 20:00	2023-06-07 04:00, 2023-06-08 04:00, 2023-06-09 04:00	New maintenance scheduled	Planned Maintenance for Fiber relocation works due to road work at Marseille	N/A	N/A

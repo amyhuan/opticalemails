@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/EQUINIX - GLOBENET/MSFT 100GB S005, RIO/EQU SAOPAULO/MSFT 100GB S011, RIO/EQU SAOPAULO/MSFT 100GB S012	2023-05-09 16:00, 2023-05-10 03:00, 2023-05-10 14:00	2023-05-09 22:00, 2023-05-09 08:00, 2023-05-10 22:00	Emergency	A schedule work will be carried out in order to implement optimizations in the network	Savior	Telxius

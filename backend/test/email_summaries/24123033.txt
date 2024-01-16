@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-06-06 01:00	2023-06-06 04:00	New maintenance scheduled	Urgent and mandatory SW upgrade	London, UK	Türk Telekom International

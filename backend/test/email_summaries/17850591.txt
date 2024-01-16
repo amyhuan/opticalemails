@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-WIEN/WED NP 0001, ATHENS/WED-WIEN/WED NP 0002	2023-04-19 22:00, 2023-04-20 03:00	2023-04-19 22:00, 2023-04-20 03:00	New maintenance scheduled	Mandatory maintenance to perform permanent repair on a previously damaged cable	Kiskunfélegyháza – Röszke (Hungary)	Telecom Italia Sparkle

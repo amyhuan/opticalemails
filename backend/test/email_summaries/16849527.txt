@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SNG EPL 90007666, HKG SNG EPL 90007701, HKG SNG EPL 90007702, HKG SNG EPL 90007705, HKG SNG EPL 90007708, HKG SNG EPL 90007711, HKG SNG EPL 90007714, HKG SNG EPL 90007717	2023-01-31 09:00	2023-01-31 11:00	New maintenance scheduled	FRM card replacement	Singapore	N/A

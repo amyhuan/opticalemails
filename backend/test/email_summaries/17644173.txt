@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500159517389, 500177375094, 500177375095, 500177375096, 500177394417, 500177394418, 500177394419, 500201248579, 500201248580, 500201248581, 500201248582	2023-04-15 15:00	2023-04-15 21:00	New maintenance scheduled	Relocation of the optical cable	Unknown	LGuplus

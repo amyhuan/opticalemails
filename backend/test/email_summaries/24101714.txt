@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1080010148, 1080010122, 1080010120, 1080010150, 1080010151, 1080010121, 1080010149, 1080010119, 1080010118	2023-06-03 21:00	2023-06-08 06:00	New maintenance scheduled	Very Urgent – Cable Consortium fiber maintenance work activity	Singapore	Microsoft Operations Pte Ltd

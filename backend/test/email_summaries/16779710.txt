@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595473, 443595472, 443595471, 443595474, 443595475, 443595469	2023-01-17 23:00, 2023-01-18 00:00, 2023-01-18 05:00, 2023-01-18 06:00	2023-01-18 05:00, 2023-01-18 06:00, 2023-01-18 11:00, 2023-01-18 12:00	New maintenance scheduled	Fiber cable work	Warszawa MZ Poland	N/A

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+116771	2023-11-07 00:00	2023-11-07 00:45	New maintenance scheduled	Planned maintenance	Equinix Internet Exchange	HK1

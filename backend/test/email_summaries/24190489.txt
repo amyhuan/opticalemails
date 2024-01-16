@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-ZA-C013-0020	2023-06-10 05:00	2023-06-10 15:00	New maintenance scheduled	Fibre maintenance activity	Johannesburg to Cape Town	WIOCC

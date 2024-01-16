@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0029, CA-MU-C170-0030, CA-MU-C170-0034, CA-MU-C170-0035, CA-MU-C170-0036	2023-06-20 21:00	2023-06-20 23:00	Rescheduled - Not Started	Maintenance activity to perform firmware upgrade on our node in Capetown.	Cape Town, SADC to London, LD10 Equinix Slough via WACS	WIOCC

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284001, 500175284002	2023-03-06 22:00	2023-03-06 23:00	New maintenance scheduled	Replacing DTX-X AOFX module to clear threshold alarm	Unknown	Unknown

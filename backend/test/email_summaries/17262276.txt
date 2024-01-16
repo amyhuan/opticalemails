@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HWK-MIC-100G-0002 HWK-MIC-100G-0001	2023-03-09 00:00	2023-03-09 04:00	Planned outage notification	planned activity to clear Temperature out of range alarm on SOFX card at Alexandria	Unknown	Unknown

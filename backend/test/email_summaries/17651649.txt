@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MS-0019, MS-0020	2023-04-16 16:00, 2023-04-17 00:00	2023-04-16 22:00, 2023-04-17 06:00	New maintenance scheduled	Provider will migrate existing services to new DWDM system for their network tech refresh	Kowloon Bay, Kowloon, Hong Kong	Donghwa Telecom Co. Ltd

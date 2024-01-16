@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM Number, CRM Name, CRT, NAP/MICROSOFT - SP2/MICROSOFT 100GB S002, CRT-006005	2023-04-07 04:00, 2023-04-08 04:00	2023-04-07 07:00, 2023-04-08 07:00	Normal	A scheduled work will be performed in order to clear network alarms by resetting equipment	San Juan - Fortaleza, Puerto Rico-Brazil	MICROSOFT

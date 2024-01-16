@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/1333153/001/ZFS, OQYX/244405//ZYO, OQYX/244416//ZYO, OQYX/244431//ZYO, OQYX/244434//ZYO, OQYX/244414//ZYO, OQYX/244410//ZYO, OQYX/244426//ZYO, OQYX/244430//ZYO	2023-09-07 02:00	2023-09-07 09:00	New maintenance scheduled	Zayo will perform emergency maintenance to replace bad cable to prevent further damage	115 Caron, Windsor, Ontario	Zayo

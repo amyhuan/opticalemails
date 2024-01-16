@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-10-05 21:00	2023-10-06 05:30	New maintenance scheduled	Hardware Replacement	Schiphol-Rijk, Netherlands	euNetworks

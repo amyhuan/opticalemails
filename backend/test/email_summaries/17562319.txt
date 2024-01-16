@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUC-SYD_NP256	2023-03-21 00:00	2023-03-21 06:00	New maintenance scheduled	Vodafone planned work	7A PARKHEAD PLACE ALBANY AUCKLAND	Spark New Zealand

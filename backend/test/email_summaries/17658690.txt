@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPYX/177537//ZYO, IDIA/274699//ZYO	2023-04-07 04:01	2023-04-07 09:00	New maintenance scheduled	Zayo will perform maintenance for upgrading er1.iad47.us to JunOS 20	21691 Filigree Ct, Ashburn, VA	Zayo

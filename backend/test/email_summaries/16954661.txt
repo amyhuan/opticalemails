@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2UB12361(CHT-24), 2UB13301	2023-02-20 15:00	2023-02-20 17:00	New maintenance scheduled	Maintenance work on Dark Fiber	TAIWAN,－JAPAN	CHTI

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MEL GIP 9486876	2023-05-27 14:00	2023-05-27 20:00	New maintenance scheduled	Router software upgrade	Sydney, AU	Telstra Global

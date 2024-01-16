@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ETH100-17532513	2023-07-12 04:00, 2023-07-12 00:00	2023-07-12 10:00, 2023-07-12 06:00	New maintenance scheduled	Network optimization performing software maintenance	Petersburg, VA United States	Lumen

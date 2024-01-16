@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1-13799182, 1-13799184, 1-13808812, 1-13808813	2023-03-31 00:00	2023-03-31 06:00	New maintenance scheduled	Migration of Microsoft services to FLO Network infrastructure	SN1 San Antonio	None

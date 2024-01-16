@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-02-15 10:00	2023-02-15 16:00	New maintenance scheduled	Emergency Fiber maintenance work to reroute cable between Ber Erida – Zafarana (BER-ZFR) Span in Seg X1.2	Fiber maintenance work	Fiber maintenance work	PCCW Global

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114 (QDC5) DOH-MUM/MICROSOFT/TGN-100G05-PW618348/PW618349	2023-04-07 20:00	2023-04-08 02:00	New maintenance scheduled	Planned activity for Shunt fault localization & Power Balancing	KSA-Dubai	Ooredoo Qatar

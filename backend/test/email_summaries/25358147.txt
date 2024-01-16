@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+WIS120979865, WIS120986433	2023-10-29 22:00	2023-10-30 06:00	New maintenance scheduled	Network maintenance	Silverdale, Westgate	SPARK

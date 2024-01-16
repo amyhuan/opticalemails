@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+08887007-0133, 08887007-0134, 08887007-0147, 08887007-0148, 08887007-0149, 08887007-0150, 08887007-0163, 08887007-0164	2023-03-30 00:00	2023-04-05 23:59	New maintenance scheduled	Submarine cable FNAL Seg.E repair	Pusan, Hong Kong	KT Global Telecommunication

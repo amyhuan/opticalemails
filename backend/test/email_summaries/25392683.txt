@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114 (QDC5), DOH-MUM/MICROSOFT/TGN-100G05-PW618348/PW618349	2023-10-13 00:01	2023-10-13 01:00	New maintenance scheduled	BU switching between Mumbai-Oman	Mumbai-Oman	Ooredoo Qatar

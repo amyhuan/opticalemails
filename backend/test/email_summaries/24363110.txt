@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/176206//ZYO OGYX/172340//ZYO FBDK/1148245//ZFS FBDK/1162976//ZFS FBDK/1245142//ZFS	2023-07-18 22:00, 2023-07-19 05:00, 2023-07-19 22:00, 2023-07-20 05:00, 2023-07-20 22:00, 2023-07-21 05:00	2023-07-19 05:00, 2023-07-19 12:00, 2023-07-20 05:00, 2023-07-20 12:00, 2023-07-21 05:00, 2023-07-21 12:00	New maintenance scheduled	Relocation mandated by AZ Dept. of Transportation	Tempe, AZ	Zayo

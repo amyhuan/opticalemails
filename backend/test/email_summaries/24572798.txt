@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284001 500175284002 500175284003 500175284004 500255622398 500255674848	2023-08-17 15:00	2023-08-17 21:00	New maintenance scheduled	Relocation of the optical cable	Japan TY030 - KT MokDong2/100 G, Japan TY030 - KTMokDong2/100 G, Microsoft _ Nonhyeon IX/100 G	KT MokDong2/100 G, Microsoft _ Nonhyeon IX/100 G	LGuplus

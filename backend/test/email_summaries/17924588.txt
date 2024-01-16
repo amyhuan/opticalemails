@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-04-22 17:00	2023-04-23 01:00	New maintenance scheduled	Optical degradation on a Colt long distance network link	Worms and Rüsselsheim	Colt Technology Services

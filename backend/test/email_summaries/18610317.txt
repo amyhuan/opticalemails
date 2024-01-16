@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ASCT-DF003/18.1, ASCT-DF003/18.5, ASCT-DF003/04.1, ASCT-DF003/18.2, ASCT-DF003/71.1, ASCT-DF003/81.1, ASCT-DF003/10.1, ASCT-DF003/18.3, ASCT-DF003/10.2, ASCT-DF003/18.4	2023-05-04 03:01	2023-05-04 11:00	New maintenance scheduled	Replace optical splice box	Unknown	Ascenty

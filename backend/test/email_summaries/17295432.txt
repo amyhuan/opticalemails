@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0058, CA-MU-C170-0059, CA-MU-C170-0065	2023-02-26 00:01, 2023-02-27 22:59	2023-02-26 23:59, 2023-02-28 06:00	New maintenance scheduled	Equipment migration activity, Fibre-swapping activities	Marseille	SEACOM

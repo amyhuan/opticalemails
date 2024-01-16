@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+23816	2023-12-13 04:30	2023-12-13 07:00	New maintenance scheduled	N/A	Tokyo	Yahoo Japan

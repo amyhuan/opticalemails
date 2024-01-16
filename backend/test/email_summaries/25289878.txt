@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BCYZ3889, 444010524	2023-10-07 04:00, 2023-10-07 00:00	2023-10-07 07:00, 2023-10-07 03:00	New maintenance scheduled	Code upgrade	NEW YORK, NY USA	Lumen

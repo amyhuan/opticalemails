@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRT-007324, CRT-007325, CRT-007326, CRT-007327, CRT-009825, CRT-009826, CRT-009827, CRT-009828, CRT-010253, CRT-010254, CRT-010255, CRT-010256	2023-04-13 03:00, 2023-04-14 03:00	2023-04-13 09:00, 2023-04-14 09:00	Normal	A schedule work will performed in order to implement network optimization	ARROYITO - SAN FRANCISCO

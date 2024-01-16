@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2UB13296/CHF/CHT-HKG/CHT GE100L251, 2UB13297/CHF/CHT-HKG/CHT GE100L252	2023-07-11 01:00	2023-07-11 07:00	New maintenance scheduled	Government’s project of Taiwan Highway 11	TAIWAN,－HK	CHTI

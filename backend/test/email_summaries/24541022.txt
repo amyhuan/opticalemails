@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1033104610, IR1033213076	2023-07-19 00:00	2023-07-19 06:00	New maintenance scheduled	CABLE MAINTENANCE : PERFORM TWO PERMANENT JOINT AT KUANTAN, ML109	Pahang (Eastern)	TM

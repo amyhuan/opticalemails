@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DCI 10G ports at B1 and B2 Brisbane	2023-09-09 10:00	2023-09-09 16:00	New maintenance scheduled	DCI network maintenance	B1 and B2 Brisbane	NEXTDC

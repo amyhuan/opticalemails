@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719838	2023-10-26 00:00	2023-10-26 04:00	New maintenance scheduled	Main optical cable repair	Messina-Rosarno (ITALY)	Bharti Airtel

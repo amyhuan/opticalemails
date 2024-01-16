@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-04-26 13:00	2023-04-26 17:00	New maintenance scheduled	Certification of the La Pintada - Medellin link	Unknown	Unknown

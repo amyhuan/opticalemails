@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-18 04:00	2023-03-18 10:00	New maintenance scheduled	Se debe realizar cambio de ruta por solicitud de la concesión vial VIA40 Express, por la construcción del tercer carril entre Bogotá y Girardot en el sector de Granada entre los PR 92+500 y el PR 95+800. Previamente se realizará la instalación del nuevo cable por donde se migrarán los servicios actuales.	Unknown	Unknown

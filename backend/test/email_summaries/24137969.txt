@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/282676//ZYO, OQYX/282677//ZYO	2023-06-22 07:01, 2023-06-22 07:01	2023-06-22 12:00, 2023-06-22 12:00	Reschedule Notification	Zayo will perform maintenance to upgrade network	1845 E US Hwy 50, Middlegate, NV	Zayo

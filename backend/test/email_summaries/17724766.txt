@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0034, CA-MU-C170-0035, CA-MU-C170-0036	2023-03-29 22:00	2023-03-30 04:00	New maintenance scheduled	Emergency maintenance activity on our network to enhance service resilience	N/A	WIOCC

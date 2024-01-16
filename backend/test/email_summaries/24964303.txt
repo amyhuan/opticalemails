@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004489	2019-09-10 02:00	2019-09-10 08:00	New maintenance scheduled	Replacing older DWDM equipment	Global	Viettel

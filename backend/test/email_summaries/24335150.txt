@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+441360990, 442021403	2023-06-29 06:00, 2023-06-29 00:00	2023-06-29 11:00, 2023-06-29 05:00	New maintenance scheduled	Troubleshoot network alarms	SANTA TERESA, NM USA	Lumen

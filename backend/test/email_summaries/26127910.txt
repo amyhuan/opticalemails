@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+3-001013725, 3-001013726, 3-000973797, 3-000973798, 3-001038275	2023-12-12 00:00	2023-12-12 04:00	New maintenance scheduled	ASR9K Code Upgrade	Seattle, WA, and Boise, ID	Cogent Communications

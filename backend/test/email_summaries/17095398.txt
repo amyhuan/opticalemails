@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-02-13 10:00	2023-02-13 13:00	New maintenance scheduled	Emergency PW To Troubleshoot "Loss of Communication" alarm on 1-A-4-O1 at Ber Erida	Unknown	PCCW Global

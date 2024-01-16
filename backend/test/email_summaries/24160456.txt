@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042621281, IE1042621663	2023-06-22 00:00	2023-06-22 06:00	New maintenance scheduled	TROUBLESHOOT HIGH SPAN LOSS SECTOR KAJANG-SEREMBAN/SEREMBAN-KAJANG	Kajang (Central) - N.Sembilan (Southern)	TM

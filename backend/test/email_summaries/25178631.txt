@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE160995	2023-10-03 14:00	2023-10-03 20:00	New maintenance scheduled	Planned Transmission works to rectify a Fault situation	DERRIMUT, VIC	Vocus

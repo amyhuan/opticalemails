@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MN-C-RAC-LIS-IPL-100GE-A00121, MM-C-IKE-LND-IPC-A03145	2023-09-24 06:00	2023-09-24 15:00	New maintenance scheduled	Cable Maintenance work on Upstream Partner's Network	Nigeria	MainOne

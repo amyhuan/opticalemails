@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-08-03 11:00	2023-08-03 17:00	New maintenance scheduled	Correction of attenuations in the Carmen - Sincelejo segment	Sincelejo - Carmen	GlobeNet

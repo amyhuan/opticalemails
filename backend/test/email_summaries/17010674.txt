@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-02-03 23:00	2023-02-04 04:00	New maintenance scheduled	Card Replacement	Russelsheim, Germany; Zaventem, Belgium	euNetworks

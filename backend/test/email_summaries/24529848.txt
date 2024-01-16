@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595473, 443595469, 443595475, 443595471, 443595474, 443595472	2023-07-17 21:00, 2023-07-18 00:00	2023-07-18 02:00, 2023-07-18 05:00	New maintenance scheduled	Perform traffic affecting work	SOFIA, Bulgaria; SOFYA, Bulgaria	Lumen

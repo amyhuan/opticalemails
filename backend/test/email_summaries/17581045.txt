@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES03 (M) - 1444057932, JDC/MICROSOFT-FJN/EMIX/PRG/RA 10GBES04 (M) - 1444057933, JDC/MICROSOFT-KHI/PTCL/AAE1 10GE02, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04	Not mentioned	Not mentioned	Not mentioned	Not mentioned	Not mentioned	Not mentioned

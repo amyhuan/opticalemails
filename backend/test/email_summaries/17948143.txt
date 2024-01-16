@@ -1,0 +1,7 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-04-27 22:01	2023-04-28 04:00	Planned	Cable Relocation	Schiphol-Rijk, Netherlands	-
+S00352799, S00352800, S00352801, S00352802, S00352803, S00352804, S00352805, S00352806, S00352807, S00352808, S00352809, S00352810, S00352811, S00352812, S00352813, S00352814	-	-	Planned	LH Wave	Schiphol-Rijk, Netherlands; Kista, Sweden	-
+C35308-218, C35308-219, C35308-220, C35308-221, C35308-222, C35308-223, C35308-224, C35308-225, C35308-226, C35308-227, C35308-228, C35308-229, C35308-230, C35308-231, C35308-232, C35308-233	-	-	Planned	LH Wave	Schiphol-Rijk, Netherlands; Kista, Sweden	-
+C35349-675, C35349-676, C35349-677	-	-	Planned	LH Wave	Kista, Sweden	-
+C35349-678	-	-	Planned	LH Wave	Berlin, Germany; Oslo, Norway	-
+C35236-095, C35236-096, C35236-097, C35236-098, C35236-099, C35236-100	-	-	Planned	LH Wave	Berlin, Germany; Oslo, Norway	-

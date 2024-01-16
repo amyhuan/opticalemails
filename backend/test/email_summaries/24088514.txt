@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MUM/MICROSOFT/TGN-100G02 (PW 616112 / PW 616114 (QDC5)	2023-05-28 06:30	2023-05-28 11:30	New maintenance scheduled	Planned activity to clear the Critical alarm	Mumbai-Jeddha-Oman	Ooredoo Qatar

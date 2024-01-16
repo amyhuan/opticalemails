@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111 (QDC5), DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351	2023-06-21 20:00, 2023-06-26 20:00	2023-06-21 22:00, 2023-06-26 22:00	New maintenance scheduled	Network optimization	Doha & Muscat	Ooredoo Qatar

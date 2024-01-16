@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-366815 (TRIM.20210210.07)	2023-05-16 21:00	2023-05-17 05:00	New maintenance scheduled	Maintenance to relocate cable due to civil construction works	Suomenoja, Finland	Arelion

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-03-30 22:01	2023-03-31 02:00	Planned	Hardware Reset	Schiphol-Rijk Netherlands, Slough UK	euNetworks

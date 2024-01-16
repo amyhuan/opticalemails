@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM Number, CRM Name, CRT, NAP/MICROSOFT SP2/MICROSOFT 100GB S001, CRT-006004	2023-05-10 13:00, 2023-05-11 13:00	2023-05-10 20:00, 2023-05-11 20:00	Emergency	Recovering fiber threads	Santos - Fortaleza, Brazil	MICROSOFT

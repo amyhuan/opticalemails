@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-23 22:00	2023-05-24 02:00	New maintenance scheduled	Maintenance Works	Vienna, Austria; Warsaw, Poland	euNetworks

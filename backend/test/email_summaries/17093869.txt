@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MNDL01I, MNDL02J	2023-03-21 09:59 UTC, 2023-03-20 23:59 HST	2023-03-21 14:00 UTC, 2023-03-21 04:00 HST	New maintenance scheduled	Emergency SA Maintenance	Waipahu, Hawaii	RTI Cables Support (RTI Cable)
+MNAJ01H, MNAJ07G	2023-02-09 17:00 UTC	2023-02-09 20:00 UTC	New maintenance scheduled	Emergency Maintenance	Sydney	RTI Cables Support (RTI Cable)

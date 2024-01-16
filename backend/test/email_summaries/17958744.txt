@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+115690	2023-05-02 14:00	2023-05-02 22:00	New maintenance scheduled	Planned maintenance	Equinix Internet Exchange	SG1

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00301064, S00301065, S00301066, S00301067	2023-01-28 22:01, 2023-01-28 22:01, 2023-01-28 22:01, 2023-01-28 22:01	2023-01-29 05:00, 2023-01-29 05:00, 2023-01-29 05:00, 2023-01-29 05:00	Scheduled	Hardware Reset	Frankfurt Germany, Saint-Denis France	euNetworks

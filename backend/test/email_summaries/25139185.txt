@@ -1,0 +1,5 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G2758ET	2023-09-19 08:00	2023-09-19 16:00	New maintenance scheduled	SMW5 NOC will be carrying out the following Planned Activity	Singapore	Singtel
+MSL/ST-SNG 100G2985ET	2023-09-19 08:00	2023-09-19 16:00	New maintenance scheduled	SMW5 NOC will be carrying out the following Planned Activity	Singapore	Singtel
+MSL/ST-SNG 100G2986ET	2023-09-19 08:00	2023-09-19 16:00	New maintenance scheduled	SMW5 NOC will be carrying out the following Planned Activity	Singapore	Singtel
+MSL/ST-SNG 100G4010ET	2023-09-19 08:00	2023-09-19 16:00	New maintenance scheduled	SMW5 NOC will be carrying out the following Planned Activity	Singapore	Singtel

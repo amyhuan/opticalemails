@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-02-20 22:00	2023-02-21 04:00	New maintenance scheduled	To perform the essential maintenance for the BBGupg4 soft node Mumbai-Penang FP2E insertion	Unknown	Unknown

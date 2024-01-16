@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-WIEN/WED NP 0002, TIS-00000081577, ATHENS/WED-WIEN/WED NP 0001, TIS-00000078765	2023-09-03 22:00	2023-10-03 04:00	New maintenance scheduled	Urgent & mandatory network maintenance	Thessaloniki - Veroia (Greece)	None

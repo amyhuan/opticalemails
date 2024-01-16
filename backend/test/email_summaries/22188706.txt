@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR186730, SR184688	2023-05-14 09:00	2023-05-14 16:00	New maintenance scheduled	AAE-1 urgent cable re-route work between Zayed– 15th May (Zay-May) Span in Seg X1.1	N/A	PCCW Global

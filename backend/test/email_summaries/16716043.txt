@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502 / SNG(PCG)-MRS(PCG) EP6227 /, SR186730 / SNG(PCG)-MSL(PCG) EP6664 /, SR211308 / SNG(PCG)-MSL(PCG) EP7111 /, SR184688 / SNG(PCG)-MSL(PCG) EP6663 /, SR164498 / SNG(PCG)-MSL(PCG) EP6000 /, SR164499 / MSL(PCG)-SNG(PCG) EP6001	2023-01-17 10:30	2023-01-17 13:30	New maintenance scheduled	AAE-1 channel insertion at DLS 1 in ABU-MRS in Seg S2	Unknown	Unknown

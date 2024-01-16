@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 9883755, SCA SYD EPL 9601000, SCA SYD EPL 9774722	2023-08-05 14:00	2023-08-05 20:00	New maintenance scheduled	Telstra Endeavour MW#4	Sydney, Australia	Telstra

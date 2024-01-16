@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC8174E#33_100G, MIC8174E#32_100G	2023-04-02 04:00	2023-04-02 08:00	New maintenance scheduled		Not specified	GlobeNet

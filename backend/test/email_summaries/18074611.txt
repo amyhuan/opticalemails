@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG TOK EPL 9636236	2023-04-20 09:00	2023-04-20 11:30	New maintenance scheduled	Telstra Emergency Hardware Replacement	Philippines	Not specified

@@ -1,0 +1,21 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSAWDMMV2MRS001U	2023-12-03 00:00	2023-12-03 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-03-13 00:00	2023-03-13 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-03-14 00:00	2023-03-14 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM002U	2023-03-15 00:00	2023-03-15 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM002U	2023-03-16 00:00	2023-03-16 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM002U	2023-03-19 00:00	2023-03-19 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-03-20 00:00	2023-03-20 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM002U	2023-03-20 00:00	2023-03-20 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-03-21 00:00	2023-03-21 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM002U	2023-03-21 00:00	2023-03-21 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-03-26 00:00	2023-03-26 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM002U	2023-03-26 00:00	2023-03-26 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM001U	2023-03-27 00:00	2023-03-27 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM001U	2023-03-28 00:00	2023-03-28 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MUM001U	2023-03-29 00:00	2023-03-29 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-03-30 00:00	2023-03-30 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS002U	2023-03-30 00:00	2023-03-30 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-04-02 00:00	2023-04-02 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS002U	2023-04-02 00:00	2023-04-02 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown
+MSAWDMMV2MRS001U	2023-04-03 00:00	2023-04-03 06:00	Planned	Switch Hit (50ms)	Unknown	Unknown

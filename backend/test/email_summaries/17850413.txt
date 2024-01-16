@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-04-18 00:00	2023-04-18 04:00	New maintenance scheduled	Network maintenance by our Network Provider for main optical cable repair	Unknown	ILD

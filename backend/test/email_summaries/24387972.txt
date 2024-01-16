@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004488, IPL004401	2023-07-03 02:00, 2023-07-05 02:00	2023-07-04 10:00, 2023-07-07 10:00	New maintenance scheduled	Emergency Fiber relocation work for 2 sub segments of X2.1 between Songkhla- RTP ILA and RTP ILA- Pakbara within Segment- X2.1. Services will be running via Sub-Segments X2.2	Not specified	AAE1

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+cid:15043/100G/CHCGILDT/CHCGILDTR45 cid:15044/100G/CHCGILDT/CHCGILDTR45	2023-01-26 00:00	2023-01-26 06:00	New maintenance scheduled	Preventative maintenance	Illinois	Comcast

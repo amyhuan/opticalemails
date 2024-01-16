@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+193.188.137.21, 193.188.137.47, 2001:7f8:35::8075:1, 2001:7f8:35::8448:1	2023-05-23 22:00	2023-05-24 04:00	New maintenance scheduled	N/A	N/A	N/A

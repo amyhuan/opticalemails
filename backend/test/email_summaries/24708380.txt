@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0031, CA-MU-C170-0032, CA-MU-C170-0033	2023-08-07 00:00, 2023-08-08 00:00	2023-08-07 06:00, 2023-08-08 06:00	New maintenance scheduled	Traffic migration as part of the WACs system upgrade activity	Cape Town, SADC to London, LD10 Equinix Slough via WACS	None

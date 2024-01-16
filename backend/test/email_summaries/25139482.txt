@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HRV/SUI/LE-252510, HRV/SUI/LE-264911-A, RUM/CES/LE-283991-A	2023-09-28 22:00, 2023-09-28 22:00, 2023-09-28 22:00	2023-09-28 23:00, 2023-09-28 23:00, 2023-09-28 23:00	New maintenance scheduled	Improving network stability and service quality	Zagreb, Ruemlang	Colt

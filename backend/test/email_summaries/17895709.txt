@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1-7571390, 1-7571414, 1-7571390-R, 1-7571414-R, 20783652, 20783656, 20783655, 20783653	2023-05-15 11:00, 2023-05-16 11:00, 2023-05-17 11:00	2023-05-15 23:00, 2023-05-16 23:00, 2023-05-17 23:00	New maintenance scheduled	Routine preventative maintenance on Generators G1A & GSA	DA3	Equinix

@@ -1,0 +1,4 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR186730, SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1	Sep 14, 2023 21:00 UTC	Sep 16, 2023 03:00 UTC	New maintenance scheduled	Software upgrade on our national network	N/A	PCCW Global
+SR184688, SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2	Sep 14, 2023 21:00 UTC	Sep 16, 2023 03:00 UTC	New maintenance scheduled	Software upgrade on our national network	N/A	PCCW Global
+Equinix Fabric	Aug 30, 2023 21:00 UTC	Aug 31, 2023 01:00 UTC	New maintenance scheduled	Planned configuration update	LD6	Equinix

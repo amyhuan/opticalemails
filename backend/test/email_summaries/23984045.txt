@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00321674, S00321675	2023-06-13 20:00, 2023-06-14 04:30	New maintenance scheduled	Hardware Replacement	Berlin, Germany; Frankfurt, Germany	euNetworks

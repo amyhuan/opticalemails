@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-09-11 02:00, 2023-09-11 02:00	2023-09-11 09:00, 2023-09-11 09:00	New maintenance scheduled	Urgent PW To replace anti rodent fiber optic cable in Air Hitam - T. Gembira	N/A	PCCW Global

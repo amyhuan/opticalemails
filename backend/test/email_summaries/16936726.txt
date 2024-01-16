@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+133451, 001MC2, 0209, 17852409, 133451, 001MC2, 0210, 17852417, 133451, 001MC2, 0211, 20343984, 133451, 1MC118, 0108, 21840225, 133451, 1MC118, 0208, 21840218	2023-03-07 01:00	2023-03-07 05:00	New maintenance scheduled	Equinix will be performing switching operations to allow us to complete a scheduled preventative maintenance to our HV transformers.	LD5	Equinix

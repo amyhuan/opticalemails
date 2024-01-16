@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353, DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille)	2023-02-15 10:00	2023-02-15 16:00	New maintenance scheduled	Emergency Fiber maintenance work to reroute cable	Between Ber Erida – Zafarana	Ooredoo Qatar

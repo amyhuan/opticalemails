@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 9932644, LAX SYD EPL 90022024	2023-08-22 17:00, 2023-08-23 17:00	2023-08-24 01:00	New maintenance scheduled	Southern Cross 3rd Party Essential Maintenance	Takapuna, AKL and Spencer Beach, HI	Telstra

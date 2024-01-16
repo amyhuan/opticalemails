@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20013989	2023-03-08 13:00	2023-03-08 19:00	New maintenance scheduled	Planned software upgrade	SY2	Equinix Connect

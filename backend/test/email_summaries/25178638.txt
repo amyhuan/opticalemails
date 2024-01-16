@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DKF096789, DKF096790, DKF096783, DKF094909, DKF096809, DKF141869, DKF096788, DKF094906, DKF096808, DKF141862, DKF096786, DKF141859, DKF141855, DKF096807	2023-10-04 12:00	2023-10-05 20:00	New maintenance scheduled	Planned Major Fibre works due to road widening works by Transport NSW	Macquarie Park, NSW	Vocus

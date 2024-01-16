@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211010	2023-08-23 19:00	2023-08-24 00:00	New maintenance scheduled	TE || planned Maintenance activity to clear high fiber loss issue in EIG Segment S2.7 North Route	Not specified	ILD

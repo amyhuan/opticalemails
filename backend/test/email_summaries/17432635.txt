@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004488	2023-03-16 06:00	2023-03-16 10:00	New maintenance scheduled	PW for card reset or replacement to clear 'Post-Fec BER based signal failure' on 3-A-4-L1-7&8 and 'Partial facility failure' on 3-A-4-L1-1 at Pakbara	Unknown	AAE1

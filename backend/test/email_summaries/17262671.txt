@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RIO/EQU SAOPAULO/MSFT 100GB S012	2023-03-01 03:00, 2023-03-02 03:00, 2023-03-03 03:00	2023-03-01 11:00, 2023-03-02 11:00, 2023-03-03 11:00	Normal	A scheduled work will be performed in order to upgrade XTC-10 of the DTX-SNT-FP3-01	Santos, Brasil	MICROSOFT

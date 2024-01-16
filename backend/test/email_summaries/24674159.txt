@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR170478 / HKG(PCG)-BKK(PCG) EP6421	2023-08-04 05:00	2023-08-04 13:00	New maintenance scheduled	Planned work for power reconfiguration of Segment S1H to facilitate shunt fault repair work in Segment S1H.3	Global	PCCW Global

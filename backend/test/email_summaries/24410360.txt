@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE296996, VWE297068, VWE297066, VWE297062, VWE297016, VWE297067, VWE297063, VWE297026, VWE296997, VWE296995	2023-07-17 14:00	2023-07-17 20:00	New maintenance scheduled	Planned Transmission works to rectify a Fault situation	Derrimut, VIC	Vocus

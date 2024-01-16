@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-07-21 21:00	2023-07-22 03:00	New maintenance scheduled	Maintenance to perform faulty board replacement	Milan (ITALY)	ILD Service provider

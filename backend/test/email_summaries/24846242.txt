@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MFSA5/WAVE/U/121928	2023-08-23 21:00, 2023-08-24 04:00	2023-08-23 21:00, 2023-08-24 04:00	New maintenance scheduled	Hardware Change	France	EXA

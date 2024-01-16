@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS3856	2023-09-29 00:15	2023-09-29 02:15	New maintenance scheduled	Software upgrade	N/A	Packet Clearing House

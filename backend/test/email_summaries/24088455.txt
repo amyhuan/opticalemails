@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+05KGXS802762-006BLCA-000, 05KGXS802762-008BLCA-000, 05KGXS802762-010BLCA-000, 05KGXS802762-012BLCA-000, 05KGXS802762-014BLCA-000, 05KGXS802762-018BLCA-000	2023-06-01 04:00	2023-06-01 10:00	New maintenance scheduled	Confirmed - We need to carry out work on cables and fibers in order to improve your service.	1250 RENE LEVESQUE	Bell

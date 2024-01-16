@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442093904, 442714881, 442156856, 442714758, 442714759, 442714882, 442714880, 442093903	2023-04-26 22:00, 2023-04-27 00:00	2023-04-27 04:00, 2023-04-27 06:00	New maintenance scheduled	Fiber cable work	Czech Republic	Lumen

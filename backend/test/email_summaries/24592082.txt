@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RUM/CES/LE-283991-A, HRV/SUI/LE-264911-A, HRV/SUI/LE-252510	2023-07-27 21:00	2023-07-27 23:00	New maintenance scheduled	Improving network stability and service quality	Not specified	Colt

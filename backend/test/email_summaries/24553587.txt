@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500175284003	2023-07-20 22:00	2023-07-20 23:00	New maintenance scheduled	Service relocation activity	Shinduri CLS and Seocho Korea	None

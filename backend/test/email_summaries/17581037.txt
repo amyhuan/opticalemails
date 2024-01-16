@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+05KGXS802762-003BLCA-000, 05KGXS802762-005BLCA-000, 05KGXS802762-007BLCA-000, 05KJXS802762-049BLCA-000, 05KJXS802762-050BLCA-000, 05KJXS802762-053BLCA-000, 05KJXS802762-054BLCA-000	2023-03-24 04:00	2023-03-24 10:00	New maintenance scheduled	Confirmed - We need to proceed with a central office maintenance in order to improve your service.	Toronto ON	Bell

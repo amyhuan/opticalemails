@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2a01:0111:2000:0001:0000:0000:0000:2879, 104.44.196.150	2023-11-14 16:00	2023-11-15 02:00	New maintenance scheduled	N/A	Hong Kong	Facebook

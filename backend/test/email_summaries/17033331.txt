@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0057	2023-02-06 19:00	2023-02-07 05:00	New maintenance scheduled	Emergency change to relocate affected cables	Johannesburg, Teraco Isando to Marseille Interxion 2 (MRS21) via EASSy+EIG	WIOCC

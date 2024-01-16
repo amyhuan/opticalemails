@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DN0658905, DN0658907, DN0658923, DN0658928, DN0658931, DN0658933, DN0658935, DN0658938, DN0658940, DN0658942, DN0658973, DN0658975, DN0658979, DN0658982, DN0658984, DN0658998, DN0659005, DN0659030	2023-06-09 16:00	2023-06-09 22:00	New maintenance scheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity. This is part of SingTel's ongoing effort in providing a stable network to our customers.	Singapore	Singtel

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-04-07 13:00	2023-04-07 21:00	New maintenance scheduled	-	-	-

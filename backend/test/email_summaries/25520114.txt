@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+187.16.222.60, 2001:12f8:0000:0000:0000:0000:0222:0060	2023-10-19 05:30	2023-10-19 07:30	New maintenance scheduled	N/A	São Paulo	Facebook

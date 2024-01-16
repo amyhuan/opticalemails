@@ -1,0 +1,6 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2007081349	2023-09-02 03:00, 2023-09-01 22:00	2023-09-02 09:00, 2023-09-02 04:00	New maintenance scheduled	Card replacement	BOGOTA Colombia	Lumen
+FRO2006816388, FRO2006819059	2023-09-02 03:00, 2023-09-01 22:00	2023-09-02 09:00, 2023-09-02 04:00	New maintenance scheduled	Card replacement	BOGOTA Colombia	Lumen
+FRO2006816388, FRO2006819059	2023-09-02 03:00, 2023-09-01 22:00	2023-09-02 09:00, 2023-09-02 04:00	New maintenance scheduled	Card replacement	BOGOTA Colombia	Lumen
+FRO2007225960, FRO2007226068	2023-09-02 03:00, 2023-09-01 22:00	2023-09-02 09:00, 2023-09-02 04:00	New maintenance scheduled	Card replacement	BOGOTA Colombia	Lumen
+FRO2006816380	2023-09-02 03:00, 2023-09-01 22:00	2023-09-02 09:00, 2023-09-02 04:00	New maintenance scheduled	Card replacement	BOGOTA Colombia	Lumen

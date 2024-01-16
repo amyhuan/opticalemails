@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1031382327, IE1031382269	2023-05-26 00:00	2023-05-26 08:00	New maintenance scheduled	Relocation BSG-PNW 48C_J_B, PNW-ST 48C_J_C, PGG-PNW 48C_J_A & ATL-PNW 48C_J_A; plan relocation work of TM infrastructure at Jalan Highway Penawar - Sg. Rengit due to landslide and other damages caused by flood in Kota Tinggi	JOHOR (SOUTHERN)	TM

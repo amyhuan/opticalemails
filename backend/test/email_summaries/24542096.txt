@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/282366//ZYO OGYX/268109//ZYO	2023-07-27 06:01	2023-07-27 12:00	New maintenance scheduled	Zayo will implement planned maintenance to migrate services due to forced relocation	1805 29th St, Boulder, CO	Zayo

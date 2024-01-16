@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE189689, VWE189693	2023-08-16 14:00, 2023-08-16 14:00	2023-08-16 20:00, 2023-08-16 20:00	New maintenance scheduled	Planned Fibre works	Brisbane, QLD	Vocus

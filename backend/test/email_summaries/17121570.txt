@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-MARSEILLE/WED NP 0002	2023-02-24 23:00	2023-02-25 07:00	Postponed	urgent & mandatory network maintenance	Termini Imerese-Bellolampo (ITALY)	TELECOM ITALIA SPARKLE

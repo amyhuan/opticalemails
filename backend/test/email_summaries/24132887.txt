@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209360, 14209371	2023-06-06 01:00	2023-06-06 04:00	New maintenance scheduled	SW Upgrade activity on equipment	London	None

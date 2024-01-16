@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000048, T200000049, T200000050, T200000051, T200000052, T200000053, T200000675, T200000676, T200000677, T200000678, T200000679, T200000680	2023-02-14 00:00	2023-02-14 06:00	New maintenance scheduled	Planned maintenance on circuit between Rennesoy and Mariero	Europe/Oslo	Altibox AS

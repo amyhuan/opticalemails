@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-05-16 14:00	2023-05-16 22:00	New maintenance scheduled	Configuration update	SG1, SG3	Equinix

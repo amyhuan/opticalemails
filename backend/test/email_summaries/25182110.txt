@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/268109//ZYO OGYX/282366//ZYO	2023-09-19 07:01, 2023-09-20 07:01	2023-09-19 13:00, 2023-09-20 13:00	New maintenance scheduled	Service provider intends to carry out internal maintenance within its network	Deschutes, OR	Zayo

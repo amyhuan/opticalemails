@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-355176	2023-04-16 22:00	2023-04-17 01:00	New maintenance scheduled	Urgent software upgrade on to latest version recommended by vendor in order to avoid future incidents	Oslo, Norway	Arelion

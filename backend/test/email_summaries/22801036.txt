@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-356473, IC-356472	2023-05-31 06:00	2023-05-31 07:30	New maintenance scheduled	Maintenance to perform software upgrade works on network device	Miami/FL, US	Arelion

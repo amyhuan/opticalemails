@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRT-007378, CRT-007379, CRT-007380, CRT-007381	2023-06-06 05:00, 2023-06-07 05:00	2023-06-06 09:00, 2023-06-07 09:00	Normal	A scheduled work will be performed in order to find and repair degradations in the fiber path	San Juan, Puerto Rico

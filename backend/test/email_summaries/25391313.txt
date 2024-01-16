@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2a01:111:2000:1::2925 2a01:111:2000:1::2926	2023-10-13 03:15	2023-10-13 04:15	New maintenance scheduled	N/A	SJC1	Meta

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:12f8::220:240 2001:12f8::218:144	2023-12-02 02:45	2023-12-02 03:15	New maintenance scheduled	N/A	GRU1	SP4

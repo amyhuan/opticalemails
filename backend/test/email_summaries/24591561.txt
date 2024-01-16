@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442714811, 442714812, 442142814, 442714861	2023-07-28 22:00, 2023-07-29 00:00	2023-07-29 04:00, 2023-07-29 06:00	New maintenance scheduled	Network optimisation	WIEN 09 AUSTRIA, BUCURESTI B ROMANIA	MICROSOFT CORPORATION MCIO

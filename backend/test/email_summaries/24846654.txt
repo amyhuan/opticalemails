@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BEI/CT-HKG/CTHK EP219(BEI/CT-HKG/CTHKI 64V4C002) BEI/CT-HKG/CTHK EP263	2023-08-25 16:00	2023-08-25 22:00	New maintenance scheduled	Hidden-faulty troubleshooting	Guangdong province, China	China Telecom Americas

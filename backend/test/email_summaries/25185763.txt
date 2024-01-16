@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+157.240.65.92, 2620:0000:1cff:dead:beee:0000:0000:05ac	2023-09-19 06:00, 2023-09-19 08:00	New maintenance scheduled	N/A	São Paulo	Facebook

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100630, MICRSI/WAVE/U/100610, MICRSI/WAVE/U/100611, MICRSI/WAVE/U/100629	2023-10-17 07:30	2023-10-17 13:00	New maintenance scheduled	Repair needed to prevent future outages & repair a damaged portion of cable	Piacenza to Reggio Emilia Italy	EXA

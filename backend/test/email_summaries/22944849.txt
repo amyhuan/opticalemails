@@ -1,0 +1,6 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+0EW/P2P/392973-698233/18, 0EW/18, C2C/18, TSAM/VNR : 5903095916/500125	2023-05-30 22:00, 2023-05-31 00:00	2023-05-31 03:30, 2023-05-31 05:30	New maintenance scheduled	Cable works	Frankfurt am Main, Germany	Microsoft Deutschland MCIO Gmb (CMIC) Germany
+0EW/P2P/392973-698233/19, 0EW/19, C2C/19, TSAM/VNR : 5903095916/500118	2023-05-30 22:00, 2023-05-31 00:00	2023-05-31 03:30, 2023-05-31 05:30	New maintenance scheduled	Cable works	Frankfurt am Main, Germany	Microsoft Deutschland MCIO Gmb (CMIC) Germany
+0EW/P2P/392973-698233/20, 0EW/20, C2C/20, TSAM/VNR : 5903095916/500119	2023-05-30 22:00, 2023-05-31 00:00	2023-05-31 03:30, 2023-05-31 05:30	New maintenance scheduled	Cable works	Frankfurt am Main, Germany	Microsoft Deutschland MCIO Gmb (CMIC) Germany
+0EY/C2PC/392973-031916/1, 0EY/1, C2C/1, TSAM/VNR : 5903095916/500102	2023-05-30 22:00, 2023-05-31 00:00	2023-05-31 03:30, 2023-05-31 05:30	New maintenance scheduled	Cable works	Amsterdam, Netherlands	Microsoft Deutschland MCIO Gmb (CMIC) Germany
+0EY/C2PC/392973-031916/2, 0EY/2, C2C/2, TSAM/VNR : 5903095916/500103	2023-05-30 22:00, 2023-05-31 00:00	2023-05-31 03:30, 2023-05-31 05:30	New maintenance scheduled	Cable works	Amsterdam, Netherlands	Microsoft Deutschland MCIO Gmb (CMIC) Germany

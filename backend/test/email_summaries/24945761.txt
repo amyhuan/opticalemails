@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004338, IPL004489	2017-09-10 02:00	2017-09-10 08:00	New maintenance scheduled	Replacing older DWDM equipment	Global	IA

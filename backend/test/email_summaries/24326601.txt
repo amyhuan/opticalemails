@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICROSOFT	2023-06-29 04:01	2023-06-29 10:00	New maintenance scheduled	Unknown	Newark	Verizon (AS701)

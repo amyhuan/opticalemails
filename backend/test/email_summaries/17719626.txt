@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000054, T200000055, T200000056, T200000057, T200000058, T200000059, T200000981, T200000982, T200000983, T200000984, T200000985, T200000986	2023-04-13 00:01	2023-04-13 06:00	New maintenance scheduled	Planned maintenance on red circuit	Europe/Oslo	Altibox AS

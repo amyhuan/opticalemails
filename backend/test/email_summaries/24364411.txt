@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-06-30 05:00	2023-06-30 11:00	New maintenance scheduled	Replacing damaged fiber	Girardot - Ibagué	GlobeNet

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 9696335	2023-06-27 01:00	2023-06-27 03:30	New maintenance scheduled	Telstra Hardware Replacement	USA	Telstra

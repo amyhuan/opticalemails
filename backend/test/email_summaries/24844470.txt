@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE297057, VWE283022, VWE297022, VWE297025, VWE297056, VWE283021, VWE286633, VWE286634, VWE296994, VWE297024	2023-10-02 14:30	2023-10-02 20:30	New maintenance scheduled	Planned Transmission works to rectify a Fault situation	Adelaide, SA	Vocus

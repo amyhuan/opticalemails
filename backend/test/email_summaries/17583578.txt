@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719838	2023-03-31 00:00	2023-03-31 04:00	New maintenance scheduled	Optical cable relocation	MESSINA-PATTI (ITALY)	Bharti Airtel Limited

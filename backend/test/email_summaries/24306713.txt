@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308, SR211309, SR215090	2023-06-22 16:00	2023-06-22 22:00	New maintenance scheduled	AAE-1 urgent Network maintenance in Melaka- Muar (MLK-MUR) span within Segment- L.2	Not specified	CCW Global

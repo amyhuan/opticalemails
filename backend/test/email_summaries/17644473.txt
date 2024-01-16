@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+210.173.184.83 2001:7fa:7:2::7670:2	2023-03-27 18:00	2023-03-27 21:00	New maintenance scheduled	N/A	Osaka	JPNAP

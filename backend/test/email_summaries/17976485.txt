@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360, 12719838	2023-04-27 00:00	2023-04-27 04:00	New maintenance scheduled	Main optical cable repair activity	Cecina-Piombino path, ITALY	Bharti Airtel Limited

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MS-0041, MS-0035, MS-0036, MS-0037	2023-04-10 02:00, 2023-04-10 10:00	2023-04-27 16:00, 2023-04-28 00:00	New maintenance scheduled	Partner will perform UG#4.3 DLS 3.1 PHASE 2.2 for the activities of New 22x400G channel insertion and Traffic Migration 52x100G + 100x10G	Tuas - Chikura	None

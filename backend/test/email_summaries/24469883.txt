@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+444104538, 444104527, 444104537, 444104536	2023-07-20 23:00	2023-07-21 05:00	New maintenance scheduled	Perform traffic-affecting circuit re-route	PETERBOROUGH, United Kingdom	Lumen
