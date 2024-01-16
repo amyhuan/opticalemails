@@ -19,7 +19,7 @@ import time
 from datetime import datetime
 import threading
 from vso import *
-from backend.model_specs import *
+from model_specs import *
 
 dotenv.load_dotenv()
 app = Flask(__name__)
