@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AMSTERDAM/MCS-AMSTERDAM/TLC NP 0001	2023-02-24 21:00	2023-02-25 05:00	New maintenance scheduled	Mandatory maintenance for equipment software upgrade	Amsterdam (The Netherlands), Marseille (France), Frankfurt (Germany)	Telecom Italia Sparkle

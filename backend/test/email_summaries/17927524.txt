@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICD0021	2023-05-02 19:00, 2023-05-03 03:00	2023-05-02 19:30, 2023-05-03 03:30	New maintenance scheduled	Fiber Maintenance at Lohas Park Road	N/A	N/A

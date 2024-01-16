@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSAWDMMV2MUM001U, MSAWDMMV2MUM002U	2023-04-15 01:00	2023-04-15 13:00	New maintenance scheduled	Transmission segment activity	Doha, Qatar	Vodafone Qatar

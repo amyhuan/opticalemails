@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042621663	2023-09-19 16:00, 2023-09-20 16:00	2023-09-19 20:00, 2023-09-20 20:00	New maintenance scheduled	Upgrade#22.1 project	APCN2	International service provider

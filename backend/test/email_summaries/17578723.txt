@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+INT21890814/1	2023-03-29 00:00, 2023-03-30 00:00, 2023-04-04 00:00, 2023-04-05 00:00, 2023-04-06 00:00	2023-03-29 06:00, 2023-03-30 06:00, 2023-04-04 06:00, 2023-04-05 06:00, 2023-04-06 06:00	New maintenance scheduled	Vodafone network upgrades	Eastern Creek, New South Wales	Vodafone

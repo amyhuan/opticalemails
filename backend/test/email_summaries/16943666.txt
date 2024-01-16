@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CR-000000807675>POHC for D-189>AAN/AHO/B1//RK9-[TXM ODF]-AAN/AJH/0G//RK38-[TXM ODF] 200F (Cable Rationalization) on Feb. 26, 2023 @ 0100-1300 Hrs. (Extended Time Activity)	2023-02-26 01:00	2023-02-26 13:00	New maintenance scheduled		Customer Location	

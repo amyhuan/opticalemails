@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MS_Interphone(1F_SOC, 6AS, 6BS), C19000183_MS_EDGE_OOB_06AB-12AS, MS_F06C01_OOB, MS_F06C02_OOB	2023-06-22 19:00	2023-06-22 20:00	New maintenance scheduled	Replacement of interface module in Console	SEL21	KT

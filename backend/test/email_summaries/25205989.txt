@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004338	2019-10-08 01:30	2019-10-08 13:30	New maintenance scheduled	Replacing older DWDM equipment	Hanoi	Viettel

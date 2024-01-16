@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442611824, BDKZ7535, BDKZ7536, 443762638, 441254213, 443762639, 442611823, 442611825	2023-08-24 05:00, 2023-08-24 00:00	2023-08-24 11:00, 2023-08-24 06:00	New maintenance scheduled	Fiber repair maintenance	FALCON HEIGHTS, TX UNITED STATES	Lumen

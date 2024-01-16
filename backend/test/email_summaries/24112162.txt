@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000937, T200000938, T200000939, T200000940	2023-05-27 23:00	2023-05-28 20:00	New maintenance scheduled	Emergency planned maintenance on circuit between Slough and Aberdeen	London-Enebakk	Altibox AS

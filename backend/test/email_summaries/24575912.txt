@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442860305, 442860307	2023-08-01 04:00, 2023-08-02 04:00	2023-08-01 10:00, 2023-08-02 10:00	New maintenance scheduled	Perform configuration change	STAMFORD, CT USA; NEW HAVEN, CT USA	Lumen

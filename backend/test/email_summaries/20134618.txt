@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MNDL02J, MNDL01I	2023-05-19 09:00	2023-05-19 13:00	New maintenance scheduled		Los Angeles

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-07-17 16:00	2023-07-17 22:00	New maintenance scheduled	AAE-1 PW To do ring cut for Sg Mati to Simpang Jalan for urgent Network Activation in Melaka- Muar (MLK-MUR) span within Segment- L.2	Not specified	PCCW Global

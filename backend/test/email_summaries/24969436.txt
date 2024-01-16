@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33648b.100ge*fra-ist msn33649b.100ge*fra-ist	2023-11-09 21:00	2023-12-09 06:00	New maintenance scheduled	Optical cable relocation	Opfingel - Kehl, Germany	Türk Telekom International

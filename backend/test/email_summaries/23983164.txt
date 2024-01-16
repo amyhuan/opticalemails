@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-05-28 16:00	2023-05-28 23:00	New maintenance scheduled	Emergency maintenance work to transfer and normalize the junction cable	N/A	Bharti Airtel Limited

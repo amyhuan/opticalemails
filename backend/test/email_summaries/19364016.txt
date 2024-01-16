@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG TOK EPL 9698386, HKG TOK EPL 9576673, HKG TOK EPL 9426365	2023-05-11 10:00	2023-05-11 11:00	New maintenance scheduled	Equinix 3rd Party Equinix Network Device Maintenance-TY Metro Area Network Maintenance	Unknown	Unknown

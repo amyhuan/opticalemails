@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-16 04:00	2023-03-16 10:00	New maintenance scheduled	Depuracion de eventos y una sangria para superar las atenuaciones presentes en el anillo nacional y red espectro	Unknown	Unknown

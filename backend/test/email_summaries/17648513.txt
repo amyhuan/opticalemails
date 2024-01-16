@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSAWDMMV2MRS001U, MSAWDMMV2MRS002U	2023-03-30 22:00, 2023-03-31 08:00	New maintenance scheduled	Optimization Activity on transmission segment	Qatar	Vodafone Qatar

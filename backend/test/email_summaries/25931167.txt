@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS131937	2023-12-06 03:00	2023-12-07 02:00	New maintenance scheduled	N/A	N/A	N/A

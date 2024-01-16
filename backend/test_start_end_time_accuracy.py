@@ -20,14 +20,7 @@ output_tsv = 'test/start_end_times/start_end_times_accuracy_results.tsv'
 summary_tsv = 'test/start_end_times/start_end_times_accuracy_results_summary.tsv'
 emails_dir = 'test/vso_descriptions' 
 
-
-# Function to find a file starting with a given ID (VSO ID)
-def find_file_with_id(directory, file_id):
-    for filename in os.listdir(directory):
-        if filename.startswith(file_id):
-            return os.path.join(directory, filename)
-    return None
-
+# get start and end times from summary tsv
 def extract_start_end_times(tsv_string):
     lines = tsv_string.strip().split('\n')
     start_times = [line.split('\t')[1] for line in lines[1:] if line]
@@ -53,6 +46,24 @@ def process_file_content(vso_id, content):
         return "", ""
     return starts, ends
 
+# Function to find a file starting with a given ID (VSO ID)
+def find_file_with_id(directory, file_id):
+    for filename in os.listdir(directory):
+        if filename.startswith(file_id):
+            return os.path.join(directory, filename)
+    return None
+
+# process line from input VSO - summarize email and put start and end times in new tsv
+def process_line(columns, directory, output_queue):
+    vso_id = columns[0]
+    file_path = find_file_with_id(directory, vso_id)
+    if file_path:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            file_content = file.read()
+            extracted_start, extracted_end = process_file_content(vso_id, file_content)
+        old_cols = "\t".join(columns)
+        output_queue.put(f"{old_cols}\t{extracted_start}\t{extracted_end}\n")
+
 # Get VSO IDs that are already processed
 def get_existing_ids(file_name):
         existing_ids = {}
@@ -64,16 +75,6 @@ def get_existing_ids(file_name):
         except FileNotFoundError:
             pass
         return existing_ids
-
-def process_line(columns, directory, output_queue):
-    vso_id = columns[0]
-    file_path = find_file_with_id(directory, vso_id)
-    if file_path:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            file_content = file.read()
-            extracted_start, extracted_end = process_file_content(vso_id, file_content)
-        old_cols = "\t".join(columns)
-        output_queue.put(f"{old_cols}\t{extracted_start}\t{extracted_end}")
 
 def worker(input_queue, output_queue, directory):
     while True:
@@ -110,6 +111,7 @@ def process_tsv(input_tsv, output_tsv, emails_dir):
                     input_queue.join()
                     while not output_queue.empty():
                         outfile.write(output_queue.get())
+                        outfile.flush()
                     print(f"{current_line}/{infile_len} input lines processed")
                     new_tests = 0
 
@@ -129,10 +131,10 @@ def process_tsv(input_tsv, output_tsv, emails_dir):
         print("Done processing VSO descriptions (maintenance email texts)")
         calculate_success_rate(infile_len, infile_len, output_tsv, True)
 
-def record_test_results(percentage, incorrect_ids, current_line, input_len):
+def record_test_results(percentage, incorrect_lines, current_line, input_len):
     with open(summary_tsv, 'w', encoding='utf-8') as summary_file:
         summary = f"""
-Circuit ID accuracy test - ask GPT to summarize emails taken from VSO descriptions and compare the IDs extracted compared to the actual
+Start and end time accuracy test - ask GPT to summarize emails taken from VSO descriptions and compare the IDs extracted compared to the actual
 IDs included in the VSO
 
 Date and time run:      {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} Pacific Time
@@ -150,9 +152,29 @@ Model system prompt:    {SYSTEM_PROMPT}
 
 
 Incorrect ID extractions:
-{incorrect_ids}
+{incorrect_lines}
         """
         summary_file.write(summary)
+
+def compare_datetimes(expected_time, actual_time):
+    """
+    Compares two datetime strings in different formats.
+
+    Args:
+    datetime_str1 (str): A datetime string in the format 'YYYY-MM-DDTHH:MM:SSZ'.
+    datetime_str2 (str): A datetime string in the format 'YYYY-MM-DD HH:MM'.
+
+    Returns:
+    bool: True if both datetime strings represent the same time, False otherwise.
+    """
+
+    # Parse the first datetime string (format: 2023-01-17T10:30:00Z)
+    dt1 = datetime.strptime(expected_time, '%Y-%m-%dT%H:%M:%SZ')
+
+    # Parse the second datetime string (format: 2023-11-07 07:01)
+    dt2 = datetime.strptime(actual_time, '%Y-%m-%d %H:%M')
+
+    return dt1 == dt2
 
 # calculate success rate based on if the actual IDs match the expected IDs
 def calculate_success_rate(current_line, input_len, output_tsv, record_results=False):
@@ -170,7 +192,7 @@ def calculate_success_rate(current_line, input_len, output_tsv, record_results=F
 
                 vso_id, expected_start, expected_end, actual_start, actual_end = line.strip().split('\t')
 
-                if expected_start != actual_start or expected_end != actual_end:
+                if not compare_datetimes(expected_start, actual_start) or not compare_datetimes(expected_end, actual_end):
                     incorrect_table += f"""
 VSO ID:         {vso_id}
 Expected Start: {expected_start}
@@ -191,77 +213,77 @@ Actual End:     {actual_end}
     except Exception as e:
         raise e 
 
-print(process_file_content("16694439", """Dear Equinix Customer,
+# print(process_file_content("16694439", """Dear Equinix Customer,
 
 
 
-DATE: 26-JAN-2023 - 27-JAN-2023
+# DATE: 26-JAN-2023 - 27-JAN-2023
 
 
 
-SPAN: 26-JAN-2023 - 27-JAN-2023
+# SPAN: 26-JAN-2023 - 27-JAN-2023
 
 
 
-LOCAL: THURSDAY, 26 JAN 22:00 - FRIDAY, 27 JAN 06:00
+# LOCAL: THURSDAY, 26 JAN 22:00 - FRIDAY, 27 JAN 06:00
 
-UTC: THURSDAY, 26 JAN 14:00 - THURSDAY, 26 JAN 22:00
+# UTC: THURSDAY, 26 JAN 14:00 - THURSDAY, 26 JAN 22:00
 
 
 
-IBX(s): HK1,HK2,HK3,HK4,HK5,HP1
+# IBX(s): HK1,HK2,HK3,HK4,HK5,HP1
 
 
 
-DESCRIPTION:Please be advised that Equinix engineers identified a software bug and will perform a software upgrade on our Metro Connect devices.
+# DESCRIPTION:Please be advised that Equinix engineers identified a software bug and will perform a software upgrade on our Metro Connect devices.
 
 
 
-During the maintenance, the following impact are expected depending on your subscribed service:
+# During the maintenance, the following impact are expected depending on your subscribed service:
 
 
 
-1. Unprotected Metro Connect circuits will experience service interruption of up to 60 minutes.
+# 1. Unprotected Metro Connect circuits will experience service interruption of up to 60 minutes.
 
 
 
-2. Protected Metro Connect circuits will experience service interruption of up to 60 minutes.
+# 2. Protected Metro Connect circuits will experience service interruption of up to 60 minutes.
 
 
 
-3. One of your Dual Diverse Metro Connect circuits will experience port downtime of up to 60 minutes but no service interruption due to redundancy.
+# 3. One of your Dual Diverse Metro Connect circuits will experience port downtime of up to 60 minutes but no service interruption due to redundancy.
 
 
 
-4. Equinix Fabric Metro Remote Port will experience service interruption of up to 60 minutes. If you have secondary circuit, please ensure to have redundant VC to avoid service interruption.
+# 4. Equinix Fabric Metro Remote Port will experience service interruption of up to 60 minutes. If you have secondary circuit, please ensure to have redundant VC to avoid service interruption.
 
 
 
-5. Equinix Connect Single Homed customers will experience service interruption of up to 60 minutes
+# 5. Equinix Connect Single Homed customers will experience service interruption of up to 60 minutes
 
 
 
-6. Network Edge circuits will experience service interruption of up to 60 minutes. If you have secondary circuit, please ensure to have redundant VC to avoid service interruption.
+# 6. Network Edge circuits will experience service interruption of up to 60 minutes. If you have secondary circuit, please ensure to have redundant VC to avoid service interruption.
 
 
 
-PRODUCTS: EQUINIX FABRIC, METRO CONNECT, NETWORK EDGE
+# PRODUCTS: EQUINIX FABRIC, METRO CONNECT, NETWORK EDGE
 
 
 
-IMPACT: There will be service interruptions.
+# IMPACT: There will be service interruptions.
 
 
 
 
 
-Equinix Fabric
+# Equinix Fabric
 
 
 
-Account #	Product	IBX	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
+# Account #	Product	IBX	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connection Name	L2 Connection UUID	L3 Seller Profile Name	L3 Subscription Name	L3 Subscription UUID	Virtual Asset Type	Virtual Asset Name	Virtual Asset UUID
 
-116771	Equinix Fabric	HK1	20500763-A	-	-	-	-	-	-	-	-	-	-
+# 116771	Equinix Fabric	HK1	20500763-A	-	-	-	-	-	-	-	-	-	-
 
 
 
@@ -269,15 +291,15 @@ Account #	Product	IBX	Service Serial #	ECX Port	L2 Seller Profile Name	L2 Connec
 
 
 
-We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
+# We apologize for any inconvenience you may experience during this activity. Your cooperation and understanding are greatly appreciated.
 
 
 
-The Equinix SMC is available to provide up-to-date status information or additional details, should you have any questions regarding the maintenance. Please reference 5-222102819313.
+# The Equinix SMC is available to provide up-to-date status information or additional details, should you have git any questions regarding the maintenance. Please reference 5-222102819313.
 
 
 
-Sincerely,
+# Sincerely,
 
-Equinix SMC"""))
+# Equinix SMC"""))
 process_tsv(input_tsv, output_tsv, emails_dir)

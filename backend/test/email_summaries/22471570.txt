@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+TI-2200182-01 TI-2200182-02	2023-05-22 17:01	2023-05-22 23:00	New maintenance scheduled	DWDM Power Rectifier Sources Migration	Jakarta-Singapore	PT. Telekomunikasi Indonesia International

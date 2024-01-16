@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442224865, 442224867	2023-09-29 04:00, 2023-09-29 00:00	2023-09-29 10:00, 2023-09-29 06:00	New maintenance scheduled	Circuit migration	ATLANTA, GA USA; TAMPA, FL USA	Lumen

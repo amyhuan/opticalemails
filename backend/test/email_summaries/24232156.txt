@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Fiber462, Fiber461, Fiber464, Fiber463, Fiber409, 445052649, Fiber413, 442250296, 442352010, Fiber415, 442352011, Fiber416, Fiber414, 442250299, Fiber410	2023-06-21 05:00, 2023-06-21 00:00	2023-06-21 11:00, 2023-06-21 06:00	New maintenance scheduled	Repairing fiber	BROADVIEW, IL USA; Oakbrook Terrace, IL USA; Oakbrook Terrace, IL, IL USA	
+Fiber462, Fiber461, Fiber464, Fiber463, Fiber409, 445052649, Fiber413, 442250296, 442352010, Fiber415, 442352011, Fiber416, Fiber414, 442250299, Fiber410	2023-06-22 05:00, 2023-06-22 00:00	2023-06-22 11:00, 2023-06-22 06:00	New maintenance scheduled	Repairing fiber	BROADVIEW, IL USA; Oakbrook Terrace, IL USA; Oakbrook Terrace, IL, IL USA	

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+210.173.176.61, 2001:7fa:7:1:0:2:3627:1	2023-05-30 15:00	2023-05-30 21:00	New maintenance scheduled	N/A	N/A	UEDA CABLE VISION (AS23627)

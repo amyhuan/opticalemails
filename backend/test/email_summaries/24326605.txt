@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443820787, 443818288, 443818285, 443820788, 443818286	2023-06-28 07:00, 2023-06-28 00:00	2023-06-28 13:00, 2023-06-28 06:00	New maintenance scheduled	Circuit migration	Bandon, OR USA; Hillsboro, OR USA	Lumen

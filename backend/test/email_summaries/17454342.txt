@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS7524	2023-03-10 02:00	2023-03-10 04:00	New maintenance scheduled	Maintenance of network equipment	N/A	i-TEC

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00385547, S00392469	2023-11-15 22:59, 2023-11-16 02:00	New maintenance scheduled	Software Upgrades	Schwechat, Austria	euNetworks

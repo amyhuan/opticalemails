@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JIOGIPLMUMSIN0223 JIOGIPLMUMSIN0248 JIOGIPLMUMSIN0249	2023-09-04 22:00, 2023-09-05 03:30	2023-09-05 06:00, 2023-09-05 11:30	New maintenance scheduled	Traffic migration	PEN-SEQ	N/A

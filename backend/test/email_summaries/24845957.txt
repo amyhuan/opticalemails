@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1031381556, IE1031371299	2023-08-26 16:00, 2023-08-26 00:00	2023-08-26 00:00, 2023-08-26 08:00	New maintenance scheduled	To facilitate the diversion of fiber away from railway company road work activities	Singapore	None

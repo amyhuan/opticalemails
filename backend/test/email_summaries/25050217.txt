@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-09-03 18:00	2023-09-04 00:00	Planned	Card Replacement	Barcelona, Spain; Saint-Denis, France	-
+S00373980, S00374330, S00374335, S00374336, S00374337, S00374338, S00374339, S00374340, S00374341, S00374342, S00374343, S00374344, S00374345, S00374346, S00374347, S00374348	-	-	Planned	LH Wave	Barcelona, Spain; Saint-Denis, France	-

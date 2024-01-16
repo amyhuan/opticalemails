@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/282366//ZYO, OGYX/268109//ZYO	2023-03-27 06:01, 2023-03-28 06:01, 2023-03-29 06:01	2023-03-27 11:00, 2023-03-28 11:00, 2023-03-29 11:00	New maintenance scheduled	Routine Fiber splice	910 15th St, Denver, CO	Zayo

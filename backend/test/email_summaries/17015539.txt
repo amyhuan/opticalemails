@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+edge02.ist1.ist.de-cix.net	2023-02-28 21:00	2023-03-01 03:00	Open		Cabling clean up	Frankfurt, Germany	DE-CIX

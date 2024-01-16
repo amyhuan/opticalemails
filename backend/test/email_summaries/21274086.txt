@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2006795785, FRO2006795791, FRO2006795788, FRO2006795794	2023-05-12 04:00, 2023-05-12 00:00	2023-05-12 09:00, 2023-05-12 05:00	New maintenance scheduled	Replacing faulty equipment	Miami, FL USA	Lumen

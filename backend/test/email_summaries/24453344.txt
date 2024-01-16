@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839, 12719838	2023-08-03 22:00	2023-08-04 04:00	New maintenance scheduled	Main optical cable relocation due to some civil works	Padova-Verona (ITALY)	ILD Service provider
+12719839, 12719838	2023-08-03 22:00	2023-08-04 04:00	New maintenance scheduled	Main optical cable relocation due to some civil works	Padova-Verona (ITALY)	ILD Service provider

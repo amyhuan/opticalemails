@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-UAE/MICROSOFT/GCCIA-100G08-PW621142, DOH-UAE/MICROSOFT/GCCIA-100G07-PW621130	2023-07-07 21:00, 2023-07-08 09:00	2023-07-07 21:00, 2023-07-08 09:00	New maintenance scheduled	CR-000000594393>POHC for M-441> DSO - FAQ 200F ULL Cable (Relocation Work)	UAE	Ooredoo Qatar

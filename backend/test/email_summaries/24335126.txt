@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0012	2023-06-27 21:00	2023-06-28 03:00	Rescheduled - Not Started	Firmware upgrade on node at Rack Centre	Lagos, Rack Centre to SADC, Cape Town	WIOCC

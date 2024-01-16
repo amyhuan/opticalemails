@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2024-01-10 00:01	2024-01-10 04:00	New maintenance scheduled	Hardware Configuration	Schiphol-Rijk, Netherlands	euNetworks
+S00349173, S00349174, S00349175, S00349176, S00349177, S00349178	2024-01-10 00:01	2024-01-10 04:00	New maintenance scheduled	Hardware Configuration	Schiphol-Rijk, Netherlands	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-366815 (TRIM.20210210.07)	2023-03-10 08:30	2023-03-10 10:00	New maintenance scheduled	Emergency power work	Helsinki, Finland	None

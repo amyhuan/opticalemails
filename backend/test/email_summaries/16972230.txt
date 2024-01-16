@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+103749	2023-02-02 05:00, 2023-02-02 10:00, 2023-02-03 05:00, 2023-02-03 10:00	New maintenance scheduled	Routine configuration update	DC2	Equinix

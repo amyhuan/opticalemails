@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+15009/100G/ATLNGAMQ/ATLNGAMQR31, 15010/100G/ATLNGAMQ/ATLNGAMQR31	2023-02-02 05:00	2023-02-02 11:00	New maintenance scheduled	Preventative maintenance	Georgia	Comcast

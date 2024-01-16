@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-08-31 22:00, 2023-09-01 04:00	Scheduled	Fault Investigation / Cleaning	Oslo, Norway; Hamburg, Germany	euNetworks

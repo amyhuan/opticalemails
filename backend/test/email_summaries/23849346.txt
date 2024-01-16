@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+EQIX-EXR04-TYO02-SEC-03092022, EQIX-EXR02-TYO2-SEC-12152019-A, EQIX-EXR02-TYO2-SEC-12152019-B, EQIX-EXR02-TYO02-SEC-09222020-A, EQIX-EXR02-TYO02-SEC-09222020-B, ORACLE-TY4-CX-SEC-02, eqix-google-nni9-ty-sec-zone1, pc-6we342cb2wdvy63rb1fz5, pc-6weyfbo5h1yh1atqg00i7	2023-06-22 13:00	2023-06-22 21:00	New maintenance scheduled	Software upgrade	TY4	EQUINIX FABRIC, NETWORK EDGE

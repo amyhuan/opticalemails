@@ -1,0 +1,19 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356669	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356736	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356737	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356738	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356739	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356740	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356741	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356742	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356743	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356744	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356745	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356746	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356747	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356748	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356749	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356750	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-
+S00356751	2023-05-11 10:30	2023-05-11 14:30	New maintenance scheduled	Hardware Replacement	Bouches-du-Rhône, Marseille, France	-

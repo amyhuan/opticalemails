@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+115690	2023-08-12 01:00	2023-08-12 14:00	New maintenance scheduled	Electrical High Tension (HT) A-Feed Shutdown	SG3	Equinix

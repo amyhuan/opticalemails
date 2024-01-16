@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/172331//ZYO, OQYX/283655//ZYO	2023-09-25 04:01	2023-09-25 09:00	New maintenance scheduled	Zayo will perform demand maintenance to replace degrading AMP in order to prevent an unplanned outage and restore network stability	1400 3rd Ave, Alpha, NJ	Zayo

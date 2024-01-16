@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442142814, 442714811, 442714812, 442714861	2023-06-05 22:00, 2023-06-06 00:00	2023-06-06 03:00, 2023-06-06 05:00	New maintenance scheduled	Fiber cable work	WIEN 09 AUSTRIA	BUCURESTI B ROMANIA	Lumen

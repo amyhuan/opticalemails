@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Cloud Connect 1000361639 (MARSEILLE-MARSEILLE) 10 Gb/s Eth.: Impacted, IP Peering 1000361071 (MARSEILLE-MARSEILLE) 10 Gb/s Eth.: Impacted, IP Peering 1000367338 (MARSEILLE-MARSEILLE) 10 Gb/s Eth.: Impacted	2023-07-17 19:00	2023-07-18 02:00	New maintenance scheduled	Replacement of card running on high temperature condition	Marseille	BICS

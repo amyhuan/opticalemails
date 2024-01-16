@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100612, MICRSI/WAVE/U/100613, MICRSI/WAVE/U/100615, MICRSI/WAVE/U/100616	2023-06-01 21:00, 2023-06-01 21:00, 2023-06-01 21:00, 2023-06-01 21:00	2023-06-02 04:00, 2023-06-02 04:00, 2023-06-02 04:00, 2023-06-02 04:00	New maintenance scheduled	Hardware replacement on our network due to faulty card	Orbetello, Italy	None

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-356576	2023-12-06 23:00	2023-12-07 01:00	New maintenance scheduled	Urgent maintenance to perform upgrade and reload of router and fix missing fan tray	Amsterdam, Netherlands	Arelion

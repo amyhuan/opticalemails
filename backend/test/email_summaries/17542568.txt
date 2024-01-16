@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2UB12270(HKG TPE EPL 9996208), 2UB12271(HKG TPE EPL 9828251)	2023-03-20 16:00, 2023-03-21 00:00	2023-03-20 20:00, 2023-03-21 04:00	New maintenance scheduled	Migration of fiber optic splice box	TAIWAN,－HK	CHTI

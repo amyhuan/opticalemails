@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered, SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered	2023-03-21 01:00, 2023-03-21 01:00	2023-03-21 10:00, 2023-03-21 10:00	New maintenance scheduled	Fiber maintenance work between IPH - BID(Ipoh-Bidor) Span	N/A	PCCW Global

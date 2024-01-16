@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HWK-MIC-100G-0002 HWK-MIC-100G-0001	2023-04-20 19:30	2023-04-21 04:00	New maintenance scheduled	planned activity for RS cable installation	Marseille, France

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042623878, IE1042623732	2023-06-03 00:00	2023-06-03 07:00	New maintenance scheduled	CHANGE FIBER 48C AT JALAN ULU YAM LAMA DUE TO LANDSLIDE	Selangor (Central)	TM

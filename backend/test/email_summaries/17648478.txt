@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/812212/008/ZFS, FBDK/812212/009/ZFS, FBDK/2047722/001/ZFS, OGYX/172008//ZYO	2023-03-23 04:01	2023-03-23 09:00	New maintenance scheduled	Zayo is performing Emergency maintenance to repair fiber and restore services	Atlanta, GA	Zayo

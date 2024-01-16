@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+22146597-A	2023-02-22 13:00	2023-02-22 21:00	New maintenance scheduled	Software update on Metro Connect devices	SG3, TP4, TY1, TY11, TY2, TY3, TY4, TY6, TY8, TY9	Equinix

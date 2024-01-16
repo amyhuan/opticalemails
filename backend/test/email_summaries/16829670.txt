@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1070010079	2023-01-28 16:00	2023-01-28 21:00	New maintenance scheduled	Overseas carrier Maintenance work Power reconfiguration in advance in order to get the exact fault position and clear doubt on APG BU9 at/via SINGAPORE,Singapore－JAPAN,Shima.	Singapore	

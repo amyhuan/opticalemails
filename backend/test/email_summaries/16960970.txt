@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00356669, S00356736, S00356737, S00356738, S00356739, S00356740, S00356741, S00356742, S00356743, S00356744, S00356745, S00356746, S00356747, S00356748, S00356749, S00356750	2023-01-31 16:30	2023-01-31 22:30	New maintenance scheduled	Repair Works	Marseille, France; Milan, Italy	euNetworks

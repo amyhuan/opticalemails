@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-04-10 21:00, 2023-04-11 21:00	2023-04-11 03:00, 2023-04-12 03:00	Postponed	Excavation	Fiber provider	N/A

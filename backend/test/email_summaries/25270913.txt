@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RJ2/EQU - ASCENTY/MSFT 100GB S011, RJ2/EQU - ASCENTY/MSFT 100GB S013	2023-09-27 03:00, 2023-09-28 03:00	2023-09-27 10:00, 2023-09-28 10:00	Emergency	A scheduled work will be performed in order to carry maintenance due to migration	Rio de Janeiro, Brasil	MICROSOFT

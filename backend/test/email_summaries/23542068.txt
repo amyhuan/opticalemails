@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595474, 443595472, 443595473, 443595475, 443595469, 443595471	2023-06-13 22:00, 2023-06-14 00:00	2023-06-14 02:00, 2023-06-14 04:00	New maintenance scheduled	N/A	Vendor network Poland	N/A

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-05-30 06:00	2023-05-30 11:00	New maintenance scheduled	Corrective action for MAD01 snags resolution process	MAD01	PhyNet

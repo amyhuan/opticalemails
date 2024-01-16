@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/812212/008/ZFS FBDK/812212/009/ZFS FBDK/2047722/001/ZFS	2023-07-27 04:01, 2023-07-28 04:01	2023-07-27 09:00, 2023-07-28 09:00	New maintenance scheduled	Zayo is performing Emergency maintenance to enter an embargoed splice case in order to restore services	1105 Eagles Landing Pkwy @ Cell Site, Stockbridge, GA	Zayo

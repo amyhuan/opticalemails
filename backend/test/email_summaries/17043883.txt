@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-02-18 08:00	2023-02-18 16:00	Planned	Hardware Replacement	Pantin, France; Uxbridge, UK	euNetworks

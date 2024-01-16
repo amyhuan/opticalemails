@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-08-10 15:00	2023-08-10 21:00	New maintenance scheduled	AAE-1 urgent fiber maintenance and network upgrade	AHT-TGB	PCCW Global

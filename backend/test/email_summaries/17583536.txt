@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-MARSEILLE/WED NP 0002, TIS-00000081576	2023-03-31 20:00, 2023-04-01 02:00	New maintenance scheduled	Aerial fiber line repair	S. Stefano-Termini Imerese (ITALY)	Telecom Italia Sparkle

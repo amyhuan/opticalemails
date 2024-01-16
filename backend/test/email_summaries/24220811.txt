@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/244434//ZYO, OQYX/244405//ZYO, OQYX/244426//ZYO, OQYX/244431//ZYO, OQYX/244414//ZYO, OQYX/244416//ZYO, OQYX/244430//ZYO, OQYX/244410//ZYO	2023-06-22 04:01	2023-06-22 09:00	New maintenance scheduled	ZAYO will be performing maintenance to clear a trouble on network equipment to prevent further issues	151 Front St W, Toronto, ON	Zayo

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G3097ET	2023-09-19 15:00	2023-09-19 17:00	New maintenance scheduled	Improving the quality of our infrastructures	Singapore	Orange

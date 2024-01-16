@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE224159, VWE123911429, VWE160997, VWE160996, VWE160994, VWE123209, VWE224160, VWE128559, VWE160995, VWE160993, VWE243313	2023-09-19 14:00	2023-09-19 20:00	New maintenance scheduled	Planned Transmission works to rectify a Fault situation	Coolamon, NSW	Vocus

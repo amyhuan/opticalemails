@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0028	2023-07-04 21:00	2023-07-05 02:00	New maintenance scheduled	Maintenance activity to perform a software upgrade on our network equipment in London	Lagos to London	WIOCC

@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498 / SNG(PCG)-MSL(PCG) EP6000	2023-05-09 07:00	2023-05-09 22:00	New maintenance scheduled	Planned work for Infinera XTC-10 Shelf-5 replacement	Zafarana cable landing station	
+SR164498 / SNG(PCG)-MSL(PCG) EP6000	2023-05-15 07:00	2023-05-15 22:00	Rescheduled	Planned work for Infinera XTC-10 Shelf-5 replacement	Zafarana cable landing station

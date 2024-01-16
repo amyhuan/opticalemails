@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-01-12 05:00	2023-01-12 09:00	New maintenance scheduled	AAE-1 planned maintenance for OFX card replacement	ZAF	PCCW Global

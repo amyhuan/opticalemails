@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-09-21 21:00	2023-09-22 04:00	Planned	Cable Works	Oslo, Norway; Hamburg, Germany	euNetworks

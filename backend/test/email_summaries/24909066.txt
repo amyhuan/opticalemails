@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-08-24 16:00	2023-08-24 22:00	New maintenance scheduled	BBG SEQ:FIBER RELOCATION FOC 48C GEMAS-GEMENCHEH T-A(CTW) DUE CHANGE NEW BRIDGE BY 3RD PARTY (JKR TAMPIN) on Segment Q Sector Q2 between GS- RU (Gemas - Rembau)	Not specified	ILD

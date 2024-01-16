@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-10-08 15:00	2023-10-08 22:00	New maintenance scheduled	Urgent Fiber maintenance work	Jalan Pontian in Tg. Segenting- Pontian Kecil(TGS-PNK)	SNG(PCG)-MSL(PCG), MSL(PCG)-SNG(PCG)

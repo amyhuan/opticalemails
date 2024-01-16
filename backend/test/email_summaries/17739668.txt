@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100612	2023-05-13 21:00, 2023-05-18 21:00	2023-05-13 23:30, 2023-05-18 23:30	New	Services migration works	France	EXA

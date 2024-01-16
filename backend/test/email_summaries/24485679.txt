@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC8174E#33_100G	2023-07-19 03:00	2023-07-19 07:00	New maintenance scheduled	Maintenance work on land route	Fiber provider	GlobeNet

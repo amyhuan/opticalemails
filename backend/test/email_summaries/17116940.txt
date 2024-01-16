@@ -1,0 +1,9 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RIO/EQU-SAOPAULO/MSFT 100GB S001, RIO/EQU-SAOPAULO/MSFT 100GB S002	2023-02-28 03:00, 2023-03-01 03:00	2023-02-28 11:00, 2023-03-01 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+MIAMI/NAP-SPO/MSFT 100GB S001, MIAMI/NAP-SPO/MSFT 100GB S002	2023-02-28 03:00, 2023-03-01 03:00	2023-02-28 11:00, 2023-03-01 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+RJ2/EQUINIX-SP2/MICROSOFT 100GB S003	2023-02-28 03:00	2023-02-28 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+VIRGINIA/MSFT - RJ2/EQU 100GB S001, VIRGINIA/MSFT - RJ2/EQU 100GB S002, VIRGINIA/MSFT - RJ2/EQU 100GB S003, VIRGINIA/MSFT - RJ2/EQU 100GB S004	2023-02-28 03:00	2023-02-28 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+RIO /EQU SAOPAULO/MSFT 100GB S004, RIO /EQU SAOPAULO/MSFT 100GB S005, RIO /EQU SAOPAULO/MSFT 100GB S006	2023-02-28 03:00	2023-02-28 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+VIRGINIA/MSFT - RJ2/EQU 100GB S005, VIRGINIA/MSFT - RJ2/EQU 100GB S006	2023-02-28 03:00	2023-02-28 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+NAP/MICROSOFT SP2/MICROSOFT 100GB S001, NAP/MICROSOFT - SP2/MICROSOFT 100GB S002	2023-02-28 03:00	2023-02-28 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil	
+RJ2/EQU - ASCENTY/MSFT 100GB S001, RJ2/EQU - ASCENTY/MSFT 100GB S003	2023-02-28 03:00	2023-02-28 11:00	New maintenance scheduled	Outage up to 15 minutes	Boca Raton, USA - Fortaleza, Brazil

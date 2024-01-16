@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/268480//ZYO	2023-02-22 03:00	2023-02-22 10:00	New maintenance scheduled	Restart of Channel Controller Software	700 S Federal St, Chicago, IL	Zayo

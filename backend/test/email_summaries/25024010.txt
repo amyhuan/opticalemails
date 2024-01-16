@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RS1 (2001:7FA:0:1::CA28:A101), RS2 (2001:7FA:0:1::CA28:A102)	2023-09-17 02:00, 2023-09-24 02:00	2023-09-17 08:00, 2023-09-24 08:00	New maintenance scheduled	Planned maintenance of HKIX IPv6 Route Servers	N/A	N/A

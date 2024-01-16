@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-MARSEILLE/WED NP 0001	2023-11-05 21:00	2023-12-05 03:00	New maintenance scheduled	Degradation problem along the network	APRICENA – FOGGIA (ITALY)	TELECOM ITALIA SPARKLE

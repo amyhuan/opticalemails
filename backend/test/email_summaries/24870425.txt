@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SNG(PCG)-MSL(PCG) EP6000, SR164499, MSL(PCG)-SNG(PCG) EP6001	2023-08-21 16:00	2023-08-21 22:00	New maintenance scheduled	AAE-1 PW TT reference	Fiber migration work at Segment- L.2	Global	PCCW Global

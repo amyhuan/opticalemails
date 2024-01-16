@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+eqix-google-nni5-sg-pri-zone1 eqix-google-nni1-sg-pri-zone2 115944-SG1-CX-PRI-01 584665-SG1-CX-PRI-01 584665-SG1-CX-PRI-02 EQIX-EXR01-SIN31-PRI-11042021 EQIX-SGE-09XGMR-CIS-1-PRI-A-03152020 EQIX-SGE-09XGMR-CIS-1-PRI-B-03152020	2023-06-21 14:00	2023-06-21 22:00	New maintenance scheduled	Upgrading device	Equinix Fabric	SG1

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RGWLS31148, RGWLS31147, RGWLS31146, RGWLS31145, RGWLS31144, RGWLS31143, RGWLS31142, RGWLS31130, RGWLS16746, RGWLS16739, RGBO4TA134, RGBO4TA133	2023-07-26 10:00	2023-07-26 13:00	New maintenance scheduled	Faulty card replacement	Belbes, Egypt	Global Cloud Xchange

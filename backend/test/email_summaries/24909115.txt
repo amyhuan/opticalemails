@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JIOGIPLMUMSIN0224	2023-08-25 16:00	2023-08-25 22:00	New maintenance scheduled	Fiber Maintenance	PERAK	N/A

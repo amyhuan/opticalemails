@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SYD TOK EPL 9231792	2023-04-20 18:00	2023-04-20 20:00	New maintenance scheduled	SOFX Card Replacement	Tanguisson 1-B-3	Microsoft Ireland Operations Ltd (USA)

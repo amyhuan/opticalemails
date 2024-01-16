@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ASCT-DF003/71.1, ASCT-DF003/18.2, ASCT-DF003/18.3, ASCT-DF003/79.1, ASCT-DF003/81.1, ASCT-DF003/18.4, ASCT-DF003/18.1, ASCT-DF003/18.5	2023-08-16 22:00	2023-08-17 08:00	New maintenance scheduled	Replacing optical splice box	Fortaleza, Brazil	Ascenty

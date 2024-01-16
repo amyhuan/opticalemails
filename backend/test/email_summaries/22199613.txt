@@ -1,0 +1,18 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351878	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351879	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351880	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351881	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351882	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351883	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351884	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351885	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351886	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351887	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351888	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351889	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351890	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351891	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-
+S00351892	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Vienna, Austria	-
+S00351893	2023-05-30 22:00	2023-05-31 02:00	Planned	Cable Works	Warsaw, Poland	-

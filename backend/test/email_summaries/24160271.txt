@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004488, IPL004401	2023-06-14 04:00	2023-06-16 13:00	New maintenance scheduled	PW for channel insertion at DLS 1,3,5,8,9,12,14,15 in Songkhla within Segment S1H	Songkhla	Viettel

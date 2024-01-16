@@ -1,0 +1,4 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+F-288> SAJ - TAS 200F ULL Cable	Not mentioned	Not mentioned	Not mentioned	Planned maintenance work	Not mentioned	Not mentioned
+AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01	Not mentioned	Not mentioned	Not mentioned	Planned maintenance work	Not mentioned	Not mentioned
+AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02	Not mentioned	Not mentioned	Not mentioned	Planned maintenance work	Not mentioned	Not mentioned

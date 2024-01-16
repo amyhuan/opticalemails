@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-04-24 20:00, 2023-11-29 01:00	2023-04-25 04:00, 2023-11-29 02:00	Planned	Cable Relocation	Marseille, France; Milan, Italy	euNetworks

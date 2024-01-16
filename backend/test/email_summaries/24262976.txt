@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2001:7f8::80a6:0:1 2001:7f8::1f8b:0:2	2023-06-20 19:30	2023-06-20 20:30	New maintenance scheduled	None	FRA5	None

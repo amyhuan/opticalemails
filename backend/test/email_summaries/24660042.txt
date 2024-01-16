@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502 / SNG(PCG)-MRS(PCG) EP6227	2023-08-03 06:00	2023-08-03 10:00	New maintenance scheduled	Provider AAE1 Planned Work (PW3514): card reset or replacement to troubleshoot "Equipment control plane unreachable" alarm on 3-A-5 at Zafarana	Unknown	PCCW Global

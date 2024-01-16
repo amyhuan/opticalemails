@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595472, 443595471, 443595473, 443595474, 443595475, 443595469	2023-06-08 21:00, 2023-06-09 00:00	2023-06-09 03:00, 2023-06-09 06:00	New maintenance scheduled	Perform traffic-affecting circuit re-route	SOFIA, Bulgaria	Lumen

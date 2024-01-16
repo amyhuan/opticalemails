@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IMW-MIC-100G-0001	2023-10-05 04:00, 2023-10-05 22:00	2023-10-05 14:00, 2023-10-05 23:59	New maintenance scheduled	Software upgrade from Release 12.85 to Release 15.5v2.0	Unknown	Unknown

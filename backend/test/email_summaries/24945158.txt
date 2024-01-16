@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-09-01 22:00	2023-09-02 06:00	New maintenance scheduled	Network maintenance	Not specified	ILD Service provider

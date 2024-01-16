@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SLS-120	2023-05-25 06:00, 2023-05-26 06:00	2023-05-25 15:00, 2023-05-26 15:00	New maintenance scheduled	Fiber relocation maintenance	SNTECAGKSJ56IDMS1631 <-> LSANCARCLAX6IDMS1681	Lumen

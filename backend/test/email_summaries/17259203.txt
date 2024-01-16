@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+08887007-0133, 08887007-0134, 08887007-0313	2023-03-08 17:00	2023-03-08 20:00	New maintenance scheduled	Fiber cable maintenance	Cheongju, Korea	KT Global Telecommunication

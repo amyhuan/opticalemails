@@ -1,0 +1,5 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRSI/WAVE/U/100612,Wavelength/01641719	2023-08-10 22:00,2023-08-11 02:00	New maintenance scheduled	Fiber works related to Jointing replacement due to double fault	Rome	
+MICRSI/WAVE/U/100613,Wavelength/01641724	2023-08-10 22:00,2023-08-11 02:00	New maintenance scheduled	Fiber works related to Jointing replacement due to double fault	Rome	
+MICRSI/WAVE/U/100615,GTT/001923689	2023-08-10 22:00,2023-08-11 02:00	New maintenance scheduled	Fiber works related to Jointing replacement due to double fault	Rome	
+MICRSI/WAVE/U/100616,GTT/001923696	2023-08-10 22:00,2023-08-11 02:00	New maintenance scheduled	Fiber works related to Jointing replacement due to double fault	Rome	

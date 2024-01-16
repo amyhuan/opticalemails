@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MFSA5/WAVE/U/108100, GTT/001783647, MFSA5/WAVE/U/108101, GTT/001783648, MFSA5/WAVE/U/121931, GTT/001815634, MFSA5/WAVE/U/121933, GTT/001815637	2023-05-23 20:00, 2023-05-23 20:00, 2023-05-23 20:00, 2023-05-23 20:00	2023-05-24 04:00, 2023-05-24 04:00, 2023-05-24 04:00, 2023-05-24 04:00	New maintenance scheduled	Due to road renovation works in Pleyel, we're required to move our cable to new manhole	St Denis, France	

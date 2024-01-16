@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR/MICROSOFT/AAE1-100G03 (PW 616115 / PW 616116(Marseille))	2023-05-09 07:00	2023-05-09 22:00	New maintenance scheduled	Infinera XTC-10 Shelf-5 replacement	Zafarana	None

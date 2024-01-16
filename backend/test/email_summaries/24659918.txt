@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE297016, VWE297068, VWE297066, VWE297062, VWE296996, VWE296997, VWE296995, VWE297067, VWE297063, VWE297026	2023-08-15 12:00	2023-08-16 20:00	New maintenance scheduled	Planned network maintenance	Remotely Sydney-Melbourne-Adelaide	Vocus

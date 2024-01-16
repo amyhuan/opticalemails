@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+17852409, 17852417, 20343984, 21840225, 21840218	2023-04-10 00:00	2023-04-10 04:00	New maintenance scheduled	Scheduled preventative maintenance to HV transformers	LD5	Equinix

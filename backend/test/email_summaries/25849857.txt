@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-11-15 16:00	2023-11-15 22:00	Planned	Fault Investigation / Cleaning	Schiphol-Rijk Netherlands, Slough UK	euNetworks

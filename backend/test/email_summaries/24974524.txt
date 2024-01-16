@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839, 12719838	2023-09-06 21:00	2023-09-07 04:00	New maintenance scheduled	optical cable rerouting	MARSEILLE, France	ILD Service provider

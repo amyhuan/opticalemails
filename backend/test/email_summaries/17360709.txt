@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES01, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES02, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES03, AUH/MS/IMEWE-MAR/MRS1/Interxion 100GBES04	2023-03-06 22:00, 2023-03-07 22:00	2023-03-07 18:00, 2023-03-08 18:00	Postponed	Planned activity to resolve degradation at BMH in Seg 1.7	Not specified	Not specified

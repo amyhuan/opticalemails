@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-05-13 11:00	2023-05-13 17:00	New maintenance scheduled	Certification of network segment	Sabanalarga - Fundación	GlobeNet

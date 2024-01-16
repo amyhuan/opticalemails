@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/1163304//ZFS, FBDK/812212/008/ZFS, FBDK/812212/009/ZFS, FBDK/2047722/001/ZFS	2023-02-27 05:01, 2023-02-28 05:01	2023-02-27 10:00, 2023-02-28 10:00	New maintenance scheduled	Routine Fiber splice	1033 Jefferson St NW, Atlanta, GA	Zayo

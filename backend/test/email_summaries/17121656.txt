@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+443595469, 443595474, 443595472, 443595473, 443595471, 443595475	2023-02-16 23:00, 2023-02-17 00:00	2023-02-17 05:00, 2023-02-17 06:00	New maintenance scheduled	Fiber cable work	Vrcin, Serbia	N/A

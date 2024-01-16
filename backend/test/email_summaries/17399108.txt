@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-03-17 00:00	2023-03-17 06:00	New maintenance scheduled	Upgrades to network	-	Vodafone
+-	2023-03-24 00:00	2023-03-24 06:00	New maintenance scheduled	Upgrades to network	-	Vodafone

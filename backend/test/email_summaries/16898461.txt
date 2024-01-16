@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+440849937, 442860305, 440878959, 442860307	2023-02-07 05:00, 2023-02-07 00:00	2023-02-07 10:00, 2023-02-07 05:00	New maintenance scheduled	Replace faulty hardware	Boston, MA USA	Lumen

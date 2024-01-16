@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LE100054, LE100055, LE100062, LE100063, LE100071, LE100072	2023-06-24 16:00	2023-06-24 20:00	New maintenance scheduled	Network management carrier - INFRA-NOC will perform urgent maintenance work to secure network reliability	Fiber provider	Not specified

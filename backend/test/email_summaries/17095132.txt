@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+TI-2000217-01, TI-2000217-02	2023-02-20 17:01, 2023-02-20 17:01	2023-02-20 22:00, 2023-02-20 22:00	New maintenance scheduled	Clearing High Fiber Loss Issue at DWDM TCS BSCS (MPO & FIM)	Telin-1 Changi - Singapore

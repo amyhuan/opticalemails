@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DF1519.4	2023-04-12 22:00	2023-04-13 04:00	New maintenance scheduled	N/A	Remigen	N/A

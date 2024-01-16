@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Not mentioned	2023-04-09 02:00	2023-04-09 14:00	New maintenance scheduled	Improving network infrastructure	Not mentioned	Etisalat

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+K0519039A	2023-03-30 21:00	2023-03-31 03:00	New maintenance scheduled	Software upgrade	Milano, Italy	Vodafone

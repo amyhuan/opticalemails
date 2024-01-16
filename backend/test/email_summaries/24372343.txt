@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-ZA-C013-0023, CA-ZA-C013-0021, CA-ZA-C013-0022, CA-ZA-C013-0019, CA-ZA-C013-0017, CA-ZA-C013-0018, CA-ZA-C013-0024	2023-06-26 19:00, 2023-06-26 19:00	2023-06-27 05:00, 2023-06-27 05:00	Rescheduled - Not Started	Fibre maintenance activity between WITS Johannesburg and Teraco Isando on our South African network to enhance service resilience	Johannesburg, Teraco Isando	Cape Town, SADC, Cape Town	WIOCC

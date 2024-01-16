@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005	2023-08-25 05:00	2023-08-25 08:00	Emergency	A scheduled work will be carried out in order to card replacement	Lurin, Peru	MICROSOFT

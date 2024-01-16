@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00357571, S00357572, S00357573, S00357574	2023-08-01 20:00, 2023-08-01 20:00, 2023-08-01 20:00, 2023-08-01 20:00	2023-08-02 04:30, 2023-08-02 04:30, 2023-08-02 04:30, 2023-08-02 04:30	New maintenance scheduled	Hardware Replacement	Pantin, France; Zaventem, Belgium	Equinix PA4, Interxion BRU1

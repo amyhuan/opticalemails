@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Ooredoo/DOH/MRS2/100G/100Gbe/000015 DOHAMARSEILLE-2DOH-MAR/MICROSOFT/AAE1-100G03, Ooredoo/DOH/MRS1/100G/100Gbe/000022DOHAMARSEILLE-1DOH-MAR1/MICROSOFT/AAE1-100G06	2023-02-13 10:00	2023-02-13 13:00	New maintenance scheduled	Emergency PW To Troubleshoot "Loss of Communication" alarm on 1-A-4-O1 at Ber Erida. (Network TT# NW6996)	Ber Erida	Ooredoo

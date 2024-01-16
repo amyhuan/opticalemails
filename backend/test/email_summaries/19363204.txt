@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RGWLS31148, RGWLS31147, RGWLS31146, RGWLS31145, RGWLS31144, RGWLS31143, RGWLS31142, RGWLS31130	2023-05-11 19:30	2023-05-12 01:30	New maintenance scheduled	New Battery Bank installation & Commissioning	Versova CLS	Global Cloud Xchange

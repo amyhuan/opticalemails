@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209360, 14209371	2023-05-09 06:00	2023-05-09 15:00	New maintenance scheduled	Preventive maintenance on main cable in France	N/A	Bharti Airtel Limited

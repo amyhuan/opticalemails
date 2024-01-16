@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442714880, 442714882, 442714881, 442156856	2023-10-03 20:00, 2023-10-03 23:00	2023-10-03 22:00, 2023-10-04 01:00	New maintenance scheduled	Fiber cable work	BUCURESTI B ROMANIA	
+MICROSOFT CORPORATION MCIO

@@ -1,0 +1,11 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DN0658906	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0658908	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0658974	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0658978	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0658980	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0658983	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0659003	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0659007	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0659031	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel
+DN0662439	2023-06-09 16:00	2023-06-09 22:00	Rescheduled	To facilitate the diversion of fiber away from railway company road work activities vicinity	Singapore	Singtel

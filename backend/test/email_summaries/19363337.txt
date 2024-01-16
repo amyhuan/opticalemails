@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-04-05 00:00	2023-04-05 04:00	New maintenance scheduled	Mandatory cable works to fix an attenuation issue	Valmontone - Roccasecca, Italy	Türk Telekom International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502 / SNG(PCG)-MRS(PCG) EP6227	2023-02-03 01:00	2023-02-03 10:00	New maintenance scheduled	Fiber maintenance work	Fiber maintenance work between IPH - BID(Ipoh-Bidor) Span in Segment- L.1.	Unknown	PCCW Global

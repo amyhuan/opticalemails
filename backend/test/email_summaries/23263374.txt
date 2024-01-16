@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS131988	2023-06-07 16:30	2023-06-07 20:30	New maintenance scheduled	N/A	Osaka	JPNAP

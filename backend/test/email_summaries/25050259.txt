@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPLC-20-12667, IPLC-20-12666	2023-09-13 02:00, 2023-09-14 10:00	2023-09-13 02:00, 2023-09-14 10:00	New maintenance scheduled	Emergency Maintenance on our provider Fiber infrastructure platform related to Cable Splicing	N/A	Bezeq International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G4010ET	2023-10-24 08:00, 2023-10-24 08:00	2023-10-24 12:00, 2023-10-24 12:00	New maintenance scheduled	SMW5 will clean fibers and ports to clear alarm	Singapore, France	Singtel

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MPI02-052020-49552	2023-05-20 16:01	2023-05-20 22:00	New maintenance scheduled	Node upgrade by International Provider at Hong Kong	Unknown	Unknown

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ITS-0001050191 - GRTVAPEM4 - et-14/0/0 - IPv4, ITS-0001050189 - GRTVAPEM1 - ae70 - IPv4	2023-04-21 04:00	2023-04-21 12:00	New maintenance scheduled		N/A	N/A

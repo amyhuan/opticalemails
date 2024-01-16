@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SO6084782506/ JIOGIPLMUMSIN0223, SO6084842330/ JIOGIPLMUMSIN0248, SO6085053694/ JIOGIPLMUMSIN0249	2023-02-16 22:00	2023-02-17 04:00	New maintenance scheduled	Software upgradation	Unknown	Unknown

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-05-30 22:00	2023-05-31 04:00	New maintenance scheduled	Configuration Works	Schiphol-Rijk Netherlands, Pantin France	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DKF125411, DKF104155, DKF125408, DKF104152, DKF125414, DKF125412, DKF106208, DKF101085, DKF113679, DKF125409, DKF104154, DKF125413, DKF122886, DKF122875, DKF113681, DKF113678	2023-03-15 13:00	2023-03-15 19:00	New maintenance scheduled	Planned cable relocation work	Foleys Rd, Ardeer, VIC	Vocus

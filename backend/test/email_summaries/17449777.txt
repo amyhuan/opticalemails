@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442553404, 442138497, 442138486, 442553405, 442271562, 442271560, BCXR6655, 440687861, 441225922, BCXR6656	2023-03-13 05:01, 2023-03-13 01:01	2023-03-13 10:00, 2023-03-13 06:00	New maintenance scheduled	Troubleshoot network alarms	SOUTH BAY, FL USA; MIAMI, FL USA	Lumen

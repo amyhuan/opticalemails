@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500215016907, 500215016908, 500215016909, 500215016910, 500215016978	2023-09-25 15:00	2023-09-25 21:00	New maintenance scheduled	Relocation of the optical cable	Pyeongchon Mega Center - MS Busan Autonomous Center/100 G, KT MOK-DONG2 - LG CNS Mieum/100 G	LGuplus

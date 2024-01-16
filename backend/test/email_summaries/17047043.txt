@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00349141, S00349142, S00349143, S00349144, S00349145, S00349146	2023-02-08 23:00, 2023-02-08 23:00, 2023-02-08 23:00, 2023-02-08 23:00, 2023-02-08 23:00, 2023-02-08 23:00	2023-02-09 05:00, 2023-02-09 05:00, 2023-02-09 05:00, 2023-02-09 05:00, 2023-02-09 05:00, 2023-02-09 05:00	New maintenance scheduled	Hardware Replacement	Schiphol-Rijk, Netherlands; Dublin, Ireland	euNetworks

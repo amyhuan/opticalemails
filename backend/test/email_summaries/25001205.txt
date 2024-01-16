@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+196.60.8.133 196.60.9.133 2001:43f8:6d0::133 2001:43f8:6d0::9:133	2023-08-31 01:00	2023-08-31 07:00	New maintenance scheduled		Location: Johannesburg, South Africa	Fastly

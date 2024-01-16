@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+N/A	2023-10-28 17:00	2023-10-28 22:00	New maintenance scheduled	Fiber Cable Replacement	N/A	HKBN

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-03-13 16:00	2023-03-13 22:00	New maintenance scheduled	AAE-1 fiber migration work between (MLK-PDK) span in Segment- L	N/A	PCCW Global

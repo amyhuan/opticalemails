@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+195.66.224.110, 2001:7F8:4::ce7:1	2023-03-17 01:00	2023-03-17 05:00	New maintenance scheduled	N/A	London, UK (LINX)	AS3303 (Swisscom/IP-Plus)

@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-04-01 21:00	2023-04-02 04:00	Planned	Cable Relocation	Zurich, Switzerland; Frankfurt, Germany	euNetworks
+S00349183, S00349184, S00349185, S00349186, S00316644, S00316645, S00316646, S00316647, S00316648, S00316649, S00331426, S00331427, S00331428, S00331429, S00308592, S00308593	2023-04-01 21:00	2023-04-02 04:00	Planned	Cable Relocation	Zurich, Switzerland; Frankfurt, Germany	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE189693, VWE189689	2023-03-01 13:00	2023-03-01 19:00	New maintenance scheduled	Planned major fibre work	Medowie, NSW	Vocus

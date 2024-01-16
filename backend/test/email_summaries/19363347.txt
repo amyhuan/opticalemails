@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-05-19 00:00	2023-05-19 04:00	New maintenance scheduled	Optical cable relocation	Città della Pieve - Lucignano, Italy	Türk Telekom International

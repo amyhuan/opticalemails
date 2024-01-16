@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719838, 12719839	2023-02-16 20:00	2023-02-17 04:00	New maintenance scheduled	Fiber cable and ensure the continued integrity of the network	Not specified	Bharti Airtel Limited

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 9441534	2023-04-10 17:00	2023-04-10 19:00	New maintenance scheduled	Essential maintenance to troubleshoot an intermittent alarm condition	Spencer Beach	Unknown

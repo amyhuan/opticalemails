@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM17621, CRM18032, CRT-000687, CRT-000961, CRT-005247, CRT-006050	2023-02-16 14:00, 2023-02-17 14:00, 2023-02-18 03:00	2023-02-16 22:00, 2023-02-17 22:00, 2023-02-18 08:00	Emergency	A schedule work will performed in order to implement network optimization	RIO ALOG2 y RIO LS	MICROSOFT

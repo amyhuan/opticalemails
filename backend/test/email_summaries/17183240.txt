@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JIOGIPLMUMSIN0223/ SO6084782506, JIOGIPLMUMSIN0248 / SO6084842330, JIOGIPLMUMSIN0249 / SO6085053694	2023-03-02 22:00, 2023-02-06 22:00	2023-03-03 04:00, 2023-02-07 04:00	Planned Maintenance	Performing activity at Mumbai-Penang FP2E Step8 insertion	Not specified	Not specified

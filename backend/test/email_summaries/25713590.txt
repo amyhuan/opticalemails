@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ITS-0001087096 - GRTRIOTW2 - HundredGigE0/1/0/13 - IPv4 ITS-0001087096 - GRTRIOTW2 - ae22 - IPv4 ITS-0001087096 - GRTRIOTW2 - HundredGigE0/1/0/13 - IPv6 ITS-0001087096 - GRTRIOTW2 - ae22 - IPv6 ITS-0001087095 - GRTRIOTW2 - HundredGigE0/0/0/13 - IPv4 ITS-0001087095 - GRTRIOTW2 - ae21 - IPv4 ITS-0001087095 - GRTRIOTW2 - HundredGigE0/0/0/13 - IPv6 ITS-0001087095 - GRTRIOTW2 - ae21 - IPv6	2023-11-13 07:00	2023-11-13 13:00	New maintenance scheduled	Upgrade	Unknown	Unknown

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LL023236	2023-01-28 16:00	2023-01-28 21:00	New maintenance scheduled	Provider APG Maintenance	Unknown	Unknown

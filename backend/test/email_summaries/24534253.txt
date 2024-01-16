@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SP2/MSFT - EDGECONNEX/MSFT 100GB S005, CRT-009825	2023-07-25 03:00, 2023-07-26 03:00	2023-07-25 11:00, 2023-07-26 11:00	Normal	A scheduled work will be performed in order to carry out a migration for network optimization	Barracas- Las Toninas, Buenos Aires - Argentina	MICROSOFT

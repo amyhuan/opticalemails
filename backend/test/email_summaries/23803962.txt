@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20170531-SITEMPLS-0000427720	2023-06-05 22:00	2023-06-06 02:00	New maintenance scheduled	Upgrade	Gutersloh, Germany	

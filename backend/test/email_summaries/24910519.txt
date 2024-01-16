@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799182, Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13799184, Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808812, Private Line - Ethernet - 100 Gbps - KIO DC Rogers - ID:1-13808813	2023-08-27 19:00	2023-08-27 22:00	New maintenance scheduled	An improvement will be carried out in our connections by replacing cables and connectors	General Bravo, Matamoros	Flō Networks

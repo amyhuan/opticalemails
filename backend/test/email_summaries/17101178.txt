@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2007341317, FRO2006554777, FRO2007341296, FRO2007251707, FRO2007251710	2023-02-17 03:00, 2023-02-17 03:00, 2023-02-17 03:00, 2023-02-17 03:00, 2023-02-17 03:00	2023-02-17 06:00, 2023-02-17 06:00, 2023-02-17 06:00, 2023-02-17 06:00, 2023-02-17 06:00	New maintenance scheduled	Perform traffic affecting work to rectify a fault	PRAIA GRANDE, Brazil	Lumen

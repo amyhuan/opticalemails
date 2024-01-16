@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S003, NAP/MSFT - EDGECONNEX/MSFT 100GB S004	2023-06-02 03:00, 2023-06-06 03:00	2023-06-02 11:00, 2023-06-06 11:00	Emergency	A schedule work will performed in order to implement network optimization.	BOCA RATON - MIAMI NAP	MICROSOFT

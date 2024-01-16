@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+17993100G01 to 17993100G08, 12550100G01 to 12550100G04, 14147100G01 to 14147100G04, 19534100G01 to 19534100G02	2023-06-27 23:30	2023-06-28 01:30	New maintenance scheduled	Traffic Affecting Activity	Chennai and Delhi	TCL

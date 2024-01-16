@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-03-22 16:00	2023-03-22 23:00	New maintenance scheduled	Essential maintenance to normalize fiber cable to original core	Fiber cable between Kuala Muda CS - Sungai Petani (KMACS - SP)	ILD

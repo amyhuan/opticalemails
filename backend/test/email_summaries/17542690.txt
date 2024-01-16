@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+135593	2023-03-30 02:00	2023-03-30 10:00	New maintenance scheduled	Planned software upgrade	NY4,NY9	Equinix

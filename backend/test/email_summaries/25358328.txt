@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSL/ST-SNG 100G2757ET, MSL/ST-SNG 100G2758ET	2023-10-07 16:00, 2023-10-08 00:00	2023-10-12 00:00, 2023-10-12 08:00	New maintenance scheduled	Extra Attenuation Repair Yanbu and Zafarana	N/A	Singtel

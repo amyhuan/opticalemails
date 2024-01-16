@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0012	2023-09-05 21:00	2023-09-06 00:00	New maintenance scheduled	Maintenance activity to perform Software Upgrade on our Nigerian network to enhance service resilience	N/A	WIOCC

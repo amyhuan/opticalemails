@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0057, CA-MU-C170-0062, CA-MU-C170-0063	2023-05-25 22:00, 2023-05-26 22:00	2023-05-26 04:00, 2023-05-27 04:00	New maintenance scheduled	EASSy Dar Es Salaam(DES) staff will be replacing the Earth Isolation Board(EIB) on the Power Feeding Equipment. PFE is giving incorrect earth readings.	Dar Es Salaam	WIOCC

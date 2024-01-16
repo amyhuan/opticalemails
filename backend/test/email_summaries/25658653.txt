@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2620:0000:1cff:dead:beee:0000:0000:1230, 157.240.77.176	2023-11-06 11:30	2023-11-06 15:30	New maintenance scheduled	N/A	Seattle, WA	Facebook

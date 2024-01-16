@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442714881, 442714882, 442156856, 442714880	2023-05-02 21:00, 2023-05-03 00:00	2023-05-03 02:00, 2023-05-03 05:00	New maintenance scheduled	Investigate and resolve high span loss	Ploiesti, Romania; Bucharest, Romania	Lumen

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 9601000, SCA SYD EPL 9774722, SCA SYD EPL 9822118, SCA SYD EPL 9926103	2023-05-05 14:00	2023-05-05 20:00	New maintenance scheduled	Migrate and upgrade on Telstra Endeavour MW#3	Not specified	Telstra

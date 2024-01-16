@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+500018889, EON 1027494/88 - FRO006337859 - Dark Fiber - CID: 500018895	2023-09-23 03:00, 2023-09-24 03:00	2023-09-23 12:00, 2023-09-24 12:00	New maintenance scheduled	Readjustment of the optical cable	Hortolandia, sp Brazil	Cirion

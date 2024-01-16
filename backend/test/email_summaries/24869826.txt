@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308, SR211309, SR215090	2023-08-21 04:00	2023-08-21 13:00	New maintenance scheduled	AAE-1 PW TT reference	SNG(PCG)-MSL(PCG)	Unknown

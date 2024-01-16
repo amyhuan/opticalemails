@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+15169	2023-11-17 08:55	2023-11-17 15:05	New maintenance scheduled	Emergency Network Maintenance	Unknown	Google

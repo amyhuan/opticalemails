@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPLC-20-12610, IPLC-20-12609, IPLC-20-12668, IPLC-20-12669, IPLC-22-15394, IPLC-22-15395, IPLC-22-15396, IPLC-22-15397	2023-03-08 03:00	2023-03-08 07:00	Planned Work Notification	Maintenance on 3rd party provider Fiber infrastructure platform related to Cable Splicing	Unknown	Bezeq International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR147407 / HKG(PCG)-OAS(PCG) EP5384, SR164498 / SNG(PCG)-MSL(PCG) EP6000, SR164499 / MSL(PCG)-SNG(PCG) EP6001, SR147408 / HKG(PCG)-OAS(PCG) EP5384, SR171502 / SNG(PCG)-MRS(PCG) EP6227, SR186730 / SNG(PCG)-MSL(PCG) EP6664, SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-01-17 16:00	2023-01-17 18:00	New maintenance scheduled	Provider's partner will perform cable relocation due to damaged cable by traffic accident.	Not specified	PCCW Global

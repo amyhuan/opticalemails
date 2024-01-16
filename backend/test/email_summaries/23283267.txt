@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR164498, SR164499	2023-05-31 10:00	2023-05-31 18:00	New maintenance scheduled	Fibre maintenance work between Korymat – Ber Erida (KOR-BER) Span in Seg X1.2(South Route)	N/A	PCCW Global

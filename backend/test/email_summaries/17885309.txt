@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1-13816949, 1-13816950, 1-13816951, 1-13816952, 1-13816953, 1-13816954, 1-13816955, 1-13816956, 1-13816957, 1-13816958, 1-13816959, 1-13816960, 1-13816961, 1-13816962, 1-13816963, 1-13816964	2023-04-08 00:00	2023-04-08 00:00	New maintenance scheduled	Reboot line card	SN1	N/A

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2006366822, FRO2007251710, FRO2007251713	2023-08-23 05:00, 2023-08-23 00:00	2023-08-23 08:00, 2023-08-23 03:00	New maintenance scheduled	Replacing faulty hardware	M�ZATLAN, Mexico	Lumen

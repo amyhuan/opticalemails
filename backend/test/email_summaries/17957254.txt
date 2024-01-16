@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+05KGXS802762-003BLCA-000, 05KGXS802762-005BLCA-000, 05KGXS802762-007BLCA-000	2023-05-05 04:00	2023-05-05 10:00	New maintenance scheduled	Improving service	Microsoft	Bell

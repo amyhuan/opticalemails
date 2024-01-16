@@ -1,0 +1,6 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00335369, S00335370, S00335371, S00335376, S00324684	2023-04-26 22:01, 2023-04-27 02:00	Planned	Hardware Inspection	Frankfurt Germany, Helsinki Finland	-
+S00324685, S00324686, S00324687, S00324688, S00324689	2023-04-06 00:00	Planned	LH Wave	Helsinki Finland, Stockholm Sweden	-
+S00324690, S00324691, S00324692, S00324693, S00324694	2023-04-06 00:00	Planned	LH Wave	Helsinki Finland, Stockholm Sweden	-
+S00324695, S00335310, S00335311, S00335312, S00335313	2023-04-06 00:00	Planned	LH Wave	Helsinki Finland, Stockholm Sweden	-
+S00382462, S00382463, S00382464, S00382465, S00382466	2022-04-28 00:00	Planned	Open Line System	Helsinki Finland, Stockholm Sweden	-

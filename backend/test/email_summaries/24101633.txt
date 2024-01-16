@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AUC-SYD_NP256	2023-06-07 00:01	2023-06-07 02:00	New maintenance scheduled	Network repairs	Albany Auckland	Spark New Zealand

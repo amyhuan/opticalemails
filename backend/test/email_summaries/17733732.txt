@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-04-12 21:00	2023-04-13 04:00	New maintenance scheduled	Network optimization works	Germany	Türk Telekom International

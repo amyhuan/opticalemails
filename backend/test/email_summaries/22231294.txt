@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+74273-660442, 347597-1631327	2023-05-24 09:00	2023-05-24 13:00	New maintenance scheduled	Maintenance on our IP platform related to Junos software upgrade	United States, San Jose	GTT

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-09-18 15:30	2023-09-18 18:00	New maintenance scheduled	Emergency Software Upgrade	N/A	ILD Service provider

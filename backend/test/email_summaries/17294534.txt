@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IDN146864GIG100, IDN146863GIG100, IDN146862GIG100, IDN146865GIG100	2023-03-24 22:00, 2023-03-24 22:00, 2023-03-24 22:00, 2023-03-24 22:00	2023-03-25 04:00, 2023-03-25 04:00, 2023-03-25 04:00, 2023-03-25 04:00	New maintenance scheduled	Engineering works required on transmission platform	Fresno CA	None

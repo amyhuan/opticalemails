@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR/MICROSOFT/GCX-100G01 (PW 616113 / PW 616111), DOH-MAR/MICROSOFT/GCX-100G04-PW618350/PW618351	2023-07-26 10:00	2023-07-26 13:00	New maintenance scheduled	Faulty card replacement	Belbes, Egypt	Global Cloud Xchange

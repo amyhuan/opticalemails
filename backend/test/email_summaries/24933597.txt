@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SCA EPL 9343122	2023-09-05 17:00	2023-09-05 19:00	New maintenance scheduled	Bharti Airtel Essential Maintenance Notification - CRQ000003340023 (Backup Window)	Not specified	Not specified

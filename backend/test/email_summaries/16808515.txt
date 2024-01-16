@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-02-20 05:00	2023-02-20 11:00	New maintenance scheduled	La actividad se ejecutará con el fin de realizar cambio de ruta por solciitud de la conseción vial VIA40 Express, por la construcción del tercer carril  entre Bogotá y Girardot en Silvania en el sector de la cazuela PR 74+400. Previamente se realizará la instalación del nuevo cable por donde se migrarán los servicios actuales.	Not specified	GlobeNet

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPYX/131949/004/ZYO, IDIA/298456//ZYO, ACCX/298456//ZYO	2023-03-08 06:01	2023-03-08 11:00	New maintenance scheduled	Zayo will perform planned maintenance for software upgrade	1905 Lunt Ave, Elk Grove Village, IL	Zayo

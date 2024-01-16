@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATHENS/WED-WIEN/WED NP 0002, TIS-00000081577, ATHENS/WED-WIEN/WED NP 0001, TIS-00000078765	2023-03-15 22:00	2023-03-16 04:00	New maintenance scheduled	Mandatory network cable works by provider at Ag.Dimitrios of Ioannina	Unknown	Unknown

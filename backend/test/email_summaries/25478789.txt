@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+2620:0:1cff:dead:beee::1232 2620:0:1cff:dead:beee::1233	2023-10-20 03:15	2023-10-20 04:15	New maintenance scheduled	N/A	SEA1	N/A

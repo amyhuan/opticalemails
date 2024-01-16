@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005, NAP/MSFT - EDGECONNEX/MSFT 100GB S006	2023-07-20 06:00, 2023-07-21 06:00	2023-07-20 11:00, 2023-07-21 11:00	Normal	A scheduled work will be performed in order to relocate fiber due to civil project	Guatemala	MICROSOFT

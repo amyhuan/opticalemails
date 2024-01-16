@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839, 12719838	2023-05-11 20:00	2023-05-12 04:00	New maintenance scheduled	Cable replacement due to its damage	Unknown	Unknown

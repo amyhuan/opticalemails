@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+05KJXS802762-097BLCA-000, 05KJXS802762-098BLCA-000, 05KJXS802762-099BLCA-000, 05KJXS802762-100BLCA-000, 05KJXS802762-101BLCA-000, 05KJXS802762-102BLCA-000, 05KJXS802762-103BLCA-000, 05KJXS802762-104BLCA-000, 05KJXS802762-106BLCA-000, 05KJXS802762-107BLCA-000	2023-03-18 03:00	2023-03-18 09:00	New maintenance scheduled	We need to carry out work on cables and fibers in order to avoid a loss of service.	Quebec City QC	Microsoft

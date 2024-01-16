@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VET272772, VCT271378, VET272771, VET272773, VET272774	2023-04-27 14:00	2023-04-27 20:00	New maintenance scheduled	Planned network maintenance	Sydney, NSW	Vocus

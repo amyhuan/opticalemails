@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1039258367	2023-02-24 23:00	2023-02-25 07:00	New maintenance scheduled	PERMENANT CABLE JUNCTION DUE BREAKDOWN FOC CBJ2-PCG 144C 'C'	SELANGOR (CENTRAL)	TM

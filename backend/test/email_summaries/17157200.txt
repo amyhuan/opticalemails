@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-02-18 05:00	2023-02-18 11:00	New maintenance scheduled	La actividad se ejecutará con el fin de realizar cambio de ruta de aéreo a canalizado debido a obra de ampliación de vía por construcción de puente vehicular portal "El Vinculo" en Soacha.	Not specified	GlobeNet

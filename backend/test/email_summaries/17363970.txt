@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-04 05:00	2023-03-04 11:00	New maintenance scheduled	Certification of link	Normandía - La Mesa	GlobeNet

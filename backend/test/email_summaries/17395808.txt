@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-24 10:00	2023-03-24 16:00	New maintenance scheduled	La actividad se ejecutará con el fin de realizar cambio de ruta por tecnificación planteada.	Unknown	Unknown

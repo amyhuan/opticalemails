@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NR, IR1033213076, IN1015460079, IN1015550917	2023-04-29 16:01, 2023-04-30 00:01, 2023-05-04 15:59, 2023-05-05 23:59	Rescheduled	PLAN MAINTENANCE CABLE REPAIR FOR APCN2 SEGMENT 2	Kuantan - Lantau (Hong Kong)	APCN2 SEGMENT 2

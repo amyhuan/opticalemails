@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854902	2023-03-25 16:00	2023-03-26 00:00	New maintenance scheduled	Facilitate the diversion of fiber	Unknown	Unknown

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0024	2023-10-25 22:00, 2023-11-01 22:00	2023-10-26 06:00, 2023-11-02 06:00	New maintenance scheduled	Network upgrade in London	Lagos, Rack Centre - Lagos	London, London

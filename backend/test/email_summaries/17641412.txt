@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn35900a.100ge*fra-ist msn35906a.100ge*fra-ist msn35905a.100ge*fra-ist msn35904a.100ge*fra-ist msn35903a.100ge*fra-ist msn35902a.100ge*fra-ist msn35901a.100ge*fra-ist	2023-04-13 23:00	2023-04-14 01:00	New maintenance scheduled	Cable route quality improvement	FRA-IST	Türk Telekom International

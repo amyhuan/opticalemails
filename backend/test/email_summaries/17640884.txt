@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn34964a.100ge*fra-ist	2023-04-06 22:00	2023-04-07 04:00	New maintenance scheduled	Mandatory main optical cable repair	Paola S. Agata-Lamezia Terme (ITALY)	Türk Telekom International

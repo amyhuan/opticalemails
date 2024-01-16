@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308, SR211309, SR215090	2023-07-04 01:00, 2023-07-04 01:00, 2023-07-04 01:00	2023-07-04 10:00, 2023-07-04 10:00, 2023-07-04 10:00	New maintenance scheduled	AAE-1: PW to rectify fiber degradation issue at Taiping- Kuala Kangsar in Taiping –Ipoh (TPG-IPH) span within Segment L.1. Services will be running via Sub-Segments L.2.	N/A	PCCW Global

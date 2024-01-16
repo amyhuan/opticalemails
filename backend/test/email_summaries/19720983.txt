@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RGWLS16739, RGBO4TA134	2023-05-11 00:00	2023-05-11 04:00	New maintenance scheduled	Clear temperature out of range alarm	Alexandria	Global Cloud Xchange

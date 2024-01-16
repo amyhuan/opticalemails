@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG TOK EPL 9636236	2023-06-19 09:00	2023-06-19 11:30	New maintenance scheduled	Telstra Hardware Replacement	Hong Kong	Telstra

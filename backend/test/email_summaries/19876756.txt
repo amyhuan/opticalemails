@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SRVCKT00001314, SRVCKT00001319	2023-05-07 23:00, 2023-05-08 07:00	2023-05-07 23:00, 2023-05-08 07:00	New maintenance scheduled	Permanent Cable Repair Works	Not specified	Optus

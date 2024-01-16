@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-02-24 17:00	2023-02-24 22:00	OPEN	Increased latency between KUL1 and KUL2	Kuala Lumpur	-

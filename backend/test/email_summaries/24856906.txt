@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+08887007-0146	2023-08-17 16:00	2023-08-17 18:00	New maintenance scheduled	[Emergency]KT will perform to replace emergency the faulty card to prevent an unplanned outage and to improve network reliability.	SEL20 to HKG20	KT Global Telecommunication Service Center

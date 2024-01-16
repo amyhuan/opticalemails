@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRT-007322, CRT-007323, CRT-009612, CRT-009613, CRT-009823, CRT-009824, CRT-010257, CRT-010258, CRT-010259, CRT-010260	2023-09-10 06:00, 2023-09-11 06:00	2023-09-10 11:00, 2023-09-11 11:00	Normal	A scheduled work will be performed to repair damaged fiber cable	Pto. San José - Guatemala	MICROSOFT

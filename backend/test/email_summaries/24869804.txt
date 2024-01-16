@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR153904 / HKG(PCG)-SEL(PCG) EP5640	2023-08-21 17:00	2023-08-21 21:00	New maintenance scheduled	Scope of work Regional backbone network infrastructure improvement in nearby area	Unknown	PCCW Global

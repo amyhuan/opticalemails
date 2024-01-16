@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+TIS-00000078761, TIS-00000081576, TIS-00000081577, TIS-00000078765	Not mentioned	Not mentioned	New maintenance scheduled	Mandatory maintenance for equipment software upgrade	Athens-Koropi (Greece), Rome (Italy), London (England)-New York (USA)-Paris (France)	Not mentioned

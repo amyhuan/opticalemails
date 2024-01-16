@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2007081349, FRO2007081346	2023-06-14 05:00, 2023-06-14 02:00	2023-06-14 10:00, 2023-06-14 07:00	New maintenance scheduled	Troubleshoot network issues	Buenos Aires Argentina	Lumen

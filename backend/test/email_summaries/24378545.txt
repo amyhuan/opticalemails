@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+COUSMIC10053789C	2023-07-06 23:00	2023-07-07 06:00	New maintenance scheduled	Equipment Update	Unknown	UFINET

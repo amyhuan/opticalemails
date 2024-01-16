@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2006554780, FRO2006554777, FRO2006554771, FRO2006764002, FRO2006763937, FRO2006764005	2023-06-22 03:00, 2023-06-22 03:00, 2023-06-22 03:00, 2023-06-22 03:00, 2023-06-22 03:00, 2023-06-22 03:00	2023-06-22 09:00, 2023-06-22 09:00, 2023-06-22 09:00, 2023-06-22 09:00, 2023-06-22 09:00, 2023-06-22 09:00	New maintenance scheduled	Migrate services to a new device	Multiple Locations Brazil	Lumen

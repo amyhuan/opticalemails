@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+wt 230721093402	2023-09-07 22:00, 2023-09-08 04:00	2023-09-07 22:00, 2023-09-08 04:00	New maintenance scheduled	Cable relocation due to civil works	Bagheria - Palermo, Italy	Türk Telekom International

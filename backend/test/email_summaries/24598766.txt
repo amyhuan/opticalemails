@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-08-03 00:00	2023-08-03 04:00	New maintenance scheduled	Maintenance main optical cable repair	Brancaleone-Locri (ITALY)	ILD Service provider

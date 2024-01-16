@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/283655//ZYO OGYX/172331//ZYO	2023-08-21 04:01	2023-08-21 09:00	New maintenance scheduled	Zayo will be performing a planned maintenance to replace a failing amplifier	1005 W Centre St, Mahanoy City, PA	Zayo

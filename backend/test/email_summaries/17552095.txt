@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-03-28 21:59	2023-03-29 01:00	Planned	Hardware Inspection	Vienna, Austria; Pantin, France	euNetworks

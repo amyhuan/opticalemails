@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-ZA-C013-0019, CA-ZA-C013-0020	2023-05-13 05:00	2023-05-13 15:00	New maintenance scheduled	Maintenance activity to repair damaged cables on African network to enhance service resilience.	Not specified	WIOCC

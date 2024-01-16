@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MDMR0001-SK0012/0001, MDMR0008-SK0012/0001, MDMR0008-SK0012/0003	2023-09-22 00:00	2023-09-22 06:00	New maintenance scheduled	Preventive maintenance work	Middenmeer	Eurofiber Nederland

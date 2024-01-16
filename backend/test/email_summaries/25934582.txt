@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+104.44.47.130 2a01:111:2000:1::3815	2023-11-23 00:00	2023-11-23 05:00	New maintenance scheduled	Unknown	Frankfurt Interxion	htp GmbH

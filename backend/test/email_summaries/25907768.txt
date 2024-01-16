@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+edge01.fra9.de-cix.management:chassis-1/1, edge01.fra9.de-cix.management:chassis-1/2, edge01.fra9.de-cix.management:chassis-1/4, edge01.fra9.de-cix.management:chassis-1/5, edge01.fra9.de-cix.management:chassis-1/6, edge01.fra9.de-cix.management:chassis-1/3	2023-12-04 23:00	2023-12-05 04:00	OPEN	Replacing edge1.fra09 with a new router	Frankfurt	DE-CIX

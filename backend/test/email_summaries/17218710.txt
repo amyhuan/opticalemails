@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CRM Number, CRT-006005, CRT-007916	2023-02-21 15:00	2023-02-21 18:00	Normal	A schedule work will performed in order to implement network optimization	Miami NAP - BOCA	MICROSOFT

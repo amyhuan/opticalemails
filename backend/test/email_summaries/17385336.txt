@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00316644, S00316645, S00316646, S00316647, S00316648, S00316649, S00308592, S00308593	2023-03-18 19:00, 2023-03-20 19:00	2023-03-19 05:00, 2023-03-21 05:00	New maintenance scheduled	Hardware Installation	Zurich, Switzerland; Frankfurt, Germany	euNetworks

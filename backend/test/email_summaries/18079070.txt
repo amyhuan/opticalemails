@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0057	2023-04-19 20:00	2023-04-19 23:00	New maintenance scheduled	Network optimization activity	Johannesburg, Teraco Isando	Microsoft 1968 South Africa (Pty) Limited

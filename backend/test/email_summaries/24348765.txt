@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+441573398	2023-06-29 07:00	2023-06-29 12:00	New maintenance scheduled	Replace faulty hardware	SAN LUIS OBISPO, CA USA	Lumen
+441573397	2023-06-29 07:00	2023-06-29 12:00	New maintenance scheduled	Replace faulty hardware	SAN LUIS OBISPO, CA USA	Lumen

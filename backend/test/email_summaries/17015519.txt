@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00372640, C35346-953, S00372677, C35346-969, S00372678, C35346-970, S00372679, C35346-971, S00372680, C35346-972, S00372681, C35346-973	2023-02-03 23:00	2023-02-04 04:00	New maintenance scheduled	Card Defect	Brussels, Belgium	None

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ALX/MAR/10GbE/029/M ALX/MAR/10GbE/030/M	2023-03-08 21:00	2023-03-09 03:00	Planned outage notification	Hardware Replacement	Unknown	Unknown

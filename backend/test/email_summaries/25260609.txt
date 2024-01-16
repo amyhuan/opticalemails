@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BDKW6953, BCWT6805, BDKZ7536, BDKZ7535	2023-10-07 07:00, 2023-10-07 02:00	2023-10-07 10:00, 2023-10-07 05:00	New maintenance scheduled	Perform traffic-affecting circuit re-route	HOUSTON, TX USA	Lumen

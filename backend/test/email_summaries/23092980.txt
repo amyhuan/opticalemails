@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042622373, IE1042623063	2023-06-08 00:00	2023-06-08 06:00	New maintenance scheduled	INSTALLATION OF OLP CARD WST036(FH) BANDAR TUN RAZAK.7 - SERDANG.5	SELANGOR ( CENTRAL )	TM

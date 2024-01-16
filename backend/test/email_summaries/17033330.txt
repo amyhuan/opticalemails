@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FRO2006795794, FRO2006795788, FRO2006795785, FRO2006795791	2023-02-08 04:00, 2023-02-08 00:00	2023-02-08 08:00, 2023-02-08 04:00	New maintenance scheduled	Perform traffic affecting work	ST CROIX, VI USA	Lumen

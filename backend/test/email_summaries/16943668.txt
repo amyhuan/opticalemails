@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0063	2023-02-05 05:00	2023-02-05 14:00	New maintenance scheduled	Maintenance activity to replace faulty joints on our South African network to enhance service resilience	South Africa	WIOCC

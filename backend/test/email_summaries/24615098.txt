@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MNAJ02D, MNAJ02H, MNAJ05E, MNAJ06F, MNAJ01H, MNAJ08H, MNAJ02C, MNAJ07G	2023-08-06 16:00	2023-08-06 18:00	New maintenance scheduled	System power will be normalized following the completion of cable supplier repair activities within the Piti beach manhole	Piti, Guam & Minami-Boso, Japan	RTI Cable

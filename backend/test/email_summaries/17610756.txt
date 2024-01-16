@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE189689, VWE189693	2023-03-30 14:01	2023-03-30 20:00	New maintenance scheduled	Fibre works - Hazard notice	SOUTHPORT, QLD	Vocus

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MTU9000 / VLAN 410: IPv4: 212.237.192.0/24, IPv6: 2001:7f8:d:202::0/64	2023-04-17 22:01	2023-04-18 04:00	New maintenance scheduled	Hardware replacement	Copenhagen	Netnod

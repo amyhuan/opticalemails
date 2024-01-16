@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13863717	2023-02-17 18:30	2023-02-18 00:30	New maintenance scheduled	WLAi to WL5e Channel migration & OPS, Direction & Frequency migration	Santhome and VSNL	Bharti Airtel Limited

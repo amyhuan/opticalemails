@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-06-07 16:00	2023-06-07 22:00	New maintenance scheduled	AAE-1 urgent fiber relocation	Penang - Kuala Kurau	PCCW Global

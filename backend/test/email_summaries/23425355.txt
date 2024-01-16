@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - SP2/MSFT 100GB S005, NAP/MSFT - SP2/MSFT 100GB S006, NAP/MSFT - SP2/MSFT 100GB S007, NAP/MSFT - SP2/MSFT 100GB S008	2023-05-22 19:00	2023-05-22 21:00	Normal	A scheduled work will be performed in order to reduce noise in core network section	San Juan - Rio, Brazil	MICROSOFT

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442224867, 442224865, 442067421, 442247054	2023-08-15 04:00	2023-08-15 10:00	New maintenance scheduled	Relocate fiber cable	Altamonte Springs, Florida	Not specified

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HKG SCA EPL 9343122	2023-09-01 17:00	2023-09-01 19:00	New maintenance scheduled	AAG || Planned maintenance Activity to Migrate 4x WL3 (2x 100G) to WL5e.	Not specified	Bharti Airtel

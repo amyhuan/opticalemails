@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+13854870	2023-05-15 22:00	2023-05-16 04:00	New maintenance scheduled	Partner provider’s maintenance	N/A	Bharti Airtel Limited

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+27.111.228.94	2023-12-12 20:00	2023-12-12 22:00	New maintenance scheduled		'SIN1'	Facebook

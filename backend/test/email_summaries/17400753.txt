@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+DOH-MAR1/MICROSOFT/AAE1-100G06-PW618352/PW618353	2023-03-09 04:00	2023-03-09 07:00	New maintenance scheduled	PW for channel insertion at DLS 1 in Segment S2	Not specified	Not specified

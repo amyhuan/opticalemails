@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSFT-CAS-108457-H8D4F5, MSFT-CAS-108456-W4H4Q4	2023-11-22 02:00	2023-11-22 10:30	New maintenance scheduled	N/A	Phu.dc	NetNam

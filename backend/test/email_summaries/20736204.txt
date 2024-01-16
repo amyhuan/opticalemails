@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/283507//ZYO, OQYX/330747//ZYO, OQYX/330748//ZYO, OQYX/282138//ZYO	2023-05-16 22:00, 2023-05-17 03:00	2023-05-17 05:00, 2023-05-17 10:00	New maintenance scheduled	Zayo will implement planned maintenance to relocate a section of cable	Hinton, IA	Zayo

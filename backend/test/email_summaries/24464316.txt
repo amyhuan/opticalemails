@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RGWLS31146, RGWLS31145, RGWLS31144, RGWLS31143, RGWLS31142, RGWLS31130, RGWLS31148, RGWLS31147, RGWLS16746, RGWLS16739, RGBO4TA134, RGBO4TA133	2023-07-07 00:00	2023-07-07 04:00	New maintenance scheduled	ODF replacement	Banha CLS, Egypt	GCX

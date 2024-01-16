@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VLN2034798	2023-02-23 23:30	2023-02-24 04:30	New maintenance scheduled		Unknown	Orange

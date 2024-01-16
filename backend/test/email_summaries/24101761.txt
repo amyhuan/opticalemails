@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14211010	2023-06-07 22:00	2023-06-08 04:00	New maintenance scheduled	Planned Maintenance Activity to clear High received span loss issue at EIG Segment S2.7 Rail Route	Not specified	Bharti Airtel Limited

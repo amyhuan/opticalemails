@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+HON LAX EPL 9140586	2023-04-10 14:00	2023-04-10 20:00	New maintenance scheduled	Infinera Hardware upgrade	Fresno CA	Telstra

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 9332080, SCA SYD EPL 9601000, SCA SYD EPL 9822118, SCA SYD EPL 9926103	2023-09-02 08:00	2023-09-02 13:00	New maintenance scheduled	Troubleshoot network alarms	MODESTO, CA USA; TRACY, CA USA	Telstra

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IP Transit/01633197, IP Transit/01633198, GI/DIA/00416155, GI/DIA/00605492	2023-05-16 06:00	2023-05-16 10:00	New maintenance scheduled	Maintenance on our IP platform related to Junos software upgrade	United States, Washington	None

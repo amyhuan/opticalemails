@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+21387365	2023-04-13 02:00, 2023-04-15 02:00	2023-04-13 10:00, 2023-04-15 10:00	New maintenance scheduled	Power maintenance	HK1	Equinix

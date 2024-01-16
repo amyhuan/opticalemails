@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-367064 (TRIM.20210225.06)	2023-05-20 21:00	2023-05-21 00:00	New maintenance scheduled	Software upgrade of a network device due to vendor recommendation	Helsinki, Finland	Arelion

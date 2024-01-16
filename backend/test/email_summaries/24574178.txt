@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33649b.100ge*fra-ist, msn33648b.100ge*fra-ist	2023-03-08 01:00, 2023-03-08 01:00	2023-03-08 05:00, 2023-03-08 05:00	New maintenance scheduled	Fiber works in partner network	Brancaleone-Locri, Italy	Türk Telekom International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+-	2023-11-29 00:01	2023-11-29 06:00	New maintenance scheduled	Updating equipment for security reasons	InterXion AMS9 switch	NL-ix

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+FBDK/812212/008/ZFS FBDK/812212/009/ZFS FBDK/2047722/001/ZFS OGYX/172008//ZYO	2023-03-22 07:01, 2023-03-23 07:01, 2023-03-24 07:01	2023-03-22 12:00, 2023-03-23 12:00, 2023-03-24 12:00	New maintenance scheduled	Zayo to perform demand maintenance in order to clean out man hole affected by sewage in order to prevent damage to splice case and potential prolonged outage	55 Marietta St NW, Atlanta, GA	Zayo

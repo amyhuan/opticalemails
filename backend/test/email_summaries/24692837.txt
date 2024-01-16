@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+027JOHA292013677984, 027CAPE292014221327, 027CAPE292014221322, 027CAPE292014221317, 027CAPE292014221332, 027MIDR292013956867, 027CAPE292014066895, 027CAPE292014066903, 027MIDR292014077306	2023-08-13 07:00	2023-08-13 17:00	New maintenance scheduled	To do permanent repairs on the damaged cable between manholes NT069 and NT056	Bloemfontein	Liquid

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+20500763-A	2023-01-26 14:00	2023-01-26 22:00	New maintenance scheduled	Software upgrade	HK1,HK2,HK3,HK4,HK5,HP1	Equinix

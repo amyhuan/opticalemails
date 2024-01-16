@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ME021631, 076688800, LL034505	2023-07-06 02:00	2023-07-06 09:00	New maintenance scheduled	Urgent overhead OFC96 cores replacement	Kg Pulai Sebatang	None

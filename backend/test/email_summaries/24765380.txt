@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+12719839, 12719838	2023-08-24 00:00	2023-08-24 04:00	New maintenance scheduled	Mandatory main optical cable repair	BOLOGNA-RAVENNA (ITALY)	
+CR-000000861405	2023-08-20 01:00	2023-08-20 13:00	New maintenance scheduled	Planned Critical Network Maintenance Activity	ABU DHABI	

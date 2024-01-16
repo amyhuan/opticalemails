@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+441383823, 441360868, 442191862, 442021402, 442021403	2023-06-02 06:00, 2023-06-02 00:00	2023-06-02 11:00, 2023-06-02 05:00	New maintenance scheduled	Reboot/reset equipment	LARAMIE, WY USA; HANNA, WY USA	Lumen

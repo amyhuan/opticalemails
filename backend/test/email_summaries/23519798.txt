@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS18135	2023-05-30 01:00	2023-05-30 03:00	New maintenance scheduled	Maintenance of network equipment	Miyazaki Japan	BTV

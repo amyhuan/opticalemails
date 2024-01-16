@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00372640, S00372677, S00372678, S00372679, S00372680, S00372681, S00372682, S00372685	2023-06-08 22:01, 2023-06-08 22:01, 2023-06-08 22:01, 2023-06-08 22:01, 2023-06-08 22:01, 2023-06-08 22:01, 2023-06-08 22:01	2023-06-09 03:00, 2023-06-09 03:00, 2023-06-09 03:00, 2023-06-09 03:00, 2023-06-09 03:00, 2023-06-09 03:00, 2023-06-09 03:00	New maintenance scheduled	Hardware Inspection	Russelsheim, Germany; Zaventem, Belgium	euNetworks

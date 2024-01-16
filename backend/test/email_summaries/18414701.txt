@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+440878959, 440849937	2023-04-20 04:00, 2023-04-21 04:00	2023-04-20 10:00, 2023-04-21 10:00	New maintenance scheduled	Fiber enclosure repair maintenance	New Haven, CT, United States	Lumen

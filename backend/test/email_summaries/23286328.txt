@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33649b.100ge*fra-ist msn33648b.100ge*fra-ist msn34964a.100ge*fra-ist	2023-06-06 21:00	2023-06-07 04:00	New maintenance scheduled	Fiber relocation due to construction works	Allershausen, Germany	Türk Telekom International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JDC/MICROSOFT-KHI/PTCL/IMW 10GE02, BAH/FOG/BTC-FJN/SHB/GOOGLE 10GE02, JDC/MICROSOFT-FJN/EMIX/PRG/RB 10GBES01 (S/B) - 1444057930, JDC/MICROSOFT-FJN/EMIX/PRG/RB 10GBES02 (S/B) - 1444057931, J4S/MICROSOFT-MAR/SFR/AAE1 100GE01, J4S/MICROSOFT-MAR/SFR/AAE1 100GE02	Not mentioned	Not mentioned	Postponed	Not mentioned	Not mentioned	Not mentioned

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 90015279, LAX SYD EPL 90022027	2023-05-22 16:00, 2023-05-23 16:00, 2023-05-24 16:00	2023-05-23 01:00, 2023-05-24 01:00, 2023-05-25 01:00	New maintenance scheduled	Hazardous Condition: ODF Panel Fiber Works at El Segundo (LE4)	Fresno CA	Telstra

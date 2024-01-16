@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR171502 / SNG(PCG)-MRS(PCG) EP6227	2023-08-10 15:00	2023-08-10 21:00	New maintenance scheduled	Telin to reconstruct of splicing joint and network upgrade at Kempas cabin	Unknown	PCCW Global

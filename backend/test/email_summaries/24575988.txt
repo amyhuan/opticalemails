@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+31508G/10GIG/FRNKGEAT/FRNKGEIQ, 31507G/10GIG/FRNKGEAT/FRNKGEIQ	2023-08-01 22:00, 2023-08-02 00:00	2023-08-02 01:00, 2023-08-02 03:00	New maintenance scheduled	Network Element software upgrade	Frankfurt, Germany	Lumen

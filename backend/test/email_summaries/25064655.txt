@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn33649b.100ge*fra-ist msn33648b.100ge*fra-ist	2023-09-28 00:00	2023-09-28 04:00	New maintenance scheduled	Mandatory main optical cable maintenance	Grosseto-Orbetello Scalo	Türk Telekom International

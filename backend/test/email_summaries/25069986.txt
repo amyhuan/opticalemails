@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/282151//ZYO OQYX/282224//ZYO	2023-09-13 04:01	2023-09-13 09:00	Planned	Zayo will implement demand maintenance to replace a shelf processor	4005 S Mendenhall Rd, Memphis, TN	Zayo

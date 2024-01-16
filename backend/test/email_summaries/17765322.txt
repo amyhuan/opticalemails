@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-04-11 23:00	2023-04-12 03:00	New maintenance scheduled	Urgent and mandatory network maintenance (by our Network Provider) for new shelter activation	Casale Monferrato (ITALY)	Bharti Airtel Limited

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR153547 / TOK(PCG)-SEL(PCG) EP5637	2023-06-03 16:00	2023-06-03 22:00	New maintenance scheduled	RNAL Planned maintenance for the repeater TOP adjustment on RNAL FP1 [PSN WAD]	Not specified	PCCW Global

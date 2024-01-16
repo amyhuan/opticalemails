@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209371, 14209360	2023-09-22 10:00	2023-09-22 14:00	New maintenance scheduled	Emergency & mandatory equipment Software upgrade	N/A	Bharti Airtel

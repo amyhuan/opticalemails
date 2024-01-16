@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+RGWLS31148, RGWLS31147, RGWLS31146, RGWLS31145, RGWLS31144, RGWLS31143, RGWLS31142, RGWLS31130	2023-02-15 09:30	2023-02-15 14:00	New maintenance scheduled	Network optimization	Versova, Mumbai	Global Cloud Xchange

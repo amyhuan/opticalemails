@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICRMOD01SAT201A	2023-10-07 07:00	2023-10-07 10:00	New maintenance scheduled	Traffic-affecting circuit re-route	SAN ANTONIO, TX USA	Lumen

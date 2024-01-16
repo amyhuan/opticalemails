@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Fiber109, Fiber110, 441941859, 441974363, 441202427, 441202425, 441974362, 441360868, 442191976, 442191977, 443762641	2023-02-23 05:00, 2023-02-23 00:00	2023-02-23 11:00, 2023-02-23 06:00	New maintenance scheduled	Relocate fiber cable	FRIENDSVILLE, MD USA	Lumen

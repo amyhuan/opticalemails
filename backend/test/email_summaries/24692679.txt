@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SRVCKT00001314, SRVCKT00001319, SRVCKT00001327, SRVCKT00001356, SRVCKT00002016, SRVCKT00002089, SRVCKT00002647, SRVCKT00002688, SRVCKT00002704, SRVCKT00002709	2023-08-22 16:00, 2023-08-22 16:00	2023-08-22 23:00, 2023-08-22 23:00	New maintenance scheduled	Network Fault Fixing Activity	0 Lake King-Norseman Rd,Norseman,WA,6356 0 Biddy Camm Rd,Newdegate/Norseman,WA,6355	Optus

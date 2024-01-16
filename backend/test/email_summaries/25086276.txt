@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+msn35906a.100ge*fra-ist msn35905a.100ge*fra-ist msn35904a.100ge*fra-ist msn35903a.100ge*fra-ist msn35902a.100ge*fra-ist msn35901a.100ge*fra-ist msn35900a.100ge*fra-ist msn35899a.100ge*fra-ist msn35898a.100ge*fra-ist msn35897a.100ge*fra-ist msn34727a.100ge*fra-ist msn33631a.100ge*fra-ist msn33630a.100ge*fra-ist msn34728a.100ge*fra-ist	2023-09-27 23:00	2023-09-28 03:00	New maintenance scheduled	Expected outage: all time period	T01_HADIMKOY_T03_ESENYURT	Türk Telekom International

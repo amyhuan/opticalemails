@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+LAX SYD EPL 90015279, LAX SYD EPL 90022027	2023-05-25 17:00, 2023-05-26 01:00	2023-05-25 17:00, 2023-05-26 01:00	New maintenance scheduled	Hazardous Maintenance - SX NEXT Channel Add between Alexandria & Hermosa Beach	Not specified	Telstra

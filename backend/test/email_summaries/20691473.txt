@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+Not provided	2023-05-07 14:00, 2023-05-07 07:00	2023-05-08 01:00, 2023-05-07 18:00	New maintenance scheduled	Zayo Third-Party service provider will implement planned maintenance to perform network enhancement to ensure continued service reliability	Wheeler, WA	Not provided

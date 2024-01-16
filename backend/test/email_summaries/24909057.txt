@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+EMEA-IN-1708833, EMEA-IN-1708832, MIRL-IN-1824149, MIRL-IN-1824148	2023-08-23 21:00, 2023-08-28 21:00	2023-08-24 05:00, 2023-08-29 05:00	New maintenance scheduled	Channel insertion at MAZ-ZAF upgrade	N/A	ILD Service provider

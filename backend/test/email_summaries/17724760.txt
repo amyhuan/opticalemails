@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MN-C-RAC-LIS-IPL-100GE-A00121	2023-04-10 21:00	2023-04-11 06:00	New maintenance scheduled	Planned Maintenance Activity	Nigeria	MainOne

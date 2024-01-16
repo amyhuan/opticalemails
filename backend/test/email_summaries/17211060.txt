@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MICROSOFT	2023-03-07 08:01	2023-03-07 14:00	New maintenance scheduled	Unknown	Philadelphia	Verizon

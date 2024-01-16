@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042623732	2023-06-04 00:00:00	2023-06-04 07:00:00	New maintenance scheduled	CHANGE FOC KUALA KUBU BHARU -TANJUNG MALIM DUE TO LANDSLIDE	SELANGOR (CENTRAL)	TM

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC9041E#30_100G	2023-03-07 23:00	2023-03-08 02:00	New maintenance scheduled	Certification of DWDM link	Monteria, Cordoba	GlobeNet

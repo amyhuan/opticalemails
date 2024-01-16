@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MIC0001	2023-06-26 22:01	2023-06-27 04:00	Scheduled	Cable Works	Warsaw, Poland; Berlin, Germany	euNetworks

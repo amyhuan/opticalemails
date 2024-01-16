@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+TIS-00000081576	2023-01-30 21:00	2023-01-31 05:00	New maintenance scheduled	Equipment chassis faulty exchange	Milan/Caldera PoP (ITALY)	TELECOM ITALIA SPARKLE

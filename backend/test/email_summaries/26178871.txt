@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+ATH01 (EIE) and ATH03 (TIS), ATH02 (Digital Realty) and ATH03 (TIS)	2023-12-21 09:00	2023-12-21 14:00	New maintenance scheduled	N/A	Athens	GR-IX

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BBBK73421 BBBP69245 BBDR6409	2023-03-01 23:00, 2023-03-02 00:00	2023-03-02 02:00, 2023-03-02 03:00	New maintenance scheduled	Network Element software upgrade	AMSTERDAM, Netherlands	Lumen

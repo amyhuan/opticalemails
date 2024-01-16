@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+VWE161000, VWE243303, VWE243299, VWE128557, VWE160998, VWE283010, VWE243333, VWE283008, VWE160999, VWE123210, VWE161001	2023-02-23 13:00	2023-02-23 17:00	New maintenance scheduled	Network maintenance works to rectify a fault condition	Bowning NSW	Vocus

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+116771	2023-01-17 14:00	2023-01-17 22:00	New maintenance scheduled	Software upgrade on Metro Connect devices	HK1,HK2,HK3,HK5,HP1,SG2	Equinix

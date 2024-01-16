@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SCA SYD EPL 9194138, SCA SYD EPL 9294316, SCA SYD EPL 9601000	2023-04-30 13:00	2023-04-30 19:00	New maintenance scheduled	Emergency software upgrade	Keawaula and San Luis Obispo	TEC

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPL004401	2023-07-17 16:00	2023-07-17 22:00	New maintenance scheduled	PW To do ring cut for Sg Mati to Simpang Jalan for urgent Network Activation in Melaka- Muar (MLK-MUR) span within Segment- L.2. Services will be running via Sub-Segments L.1	Hoa Lac High Tech, Thach That District, Tan Xa Commune, Ha Noi	Viettel

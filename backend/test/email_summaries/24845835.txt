@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR186730 / SNG(PCG)-MSL(PCG) EP6664 / Interxion CCT ID: FR179145-1 – Customer ordered, SR184688 / SNG(PCG)-MSL(PCG) EP6663 / Interxion CCT ID: FR179145-2 – Customer ordered	2023-08-17 21:00, 2023-08-18 21:00, 2023-08-19 21:00, 2023-08-20 21:00, 2023-08-21 21:00	2023-08-18 03:00, 2023-08-19 03:00, 2023-08-20 03:00, 2023-08-21 03:00, 2023-08-22 03:00	New maintenance scheduled	Software upgrade on national network at Egypt	N/A	N/A

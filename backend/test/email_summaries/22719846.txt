@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IDN126971GIG100, IDN126972GIG100, IDN126973GIG100, IDN124261GIG100, IDN124263GIG100, IDN124264GIG100, IDN124260GIG100, IDN124262GIG100	2023-06-05 20:00, 2023-06-06 23:00	2023-06-06 06:00	New maintenance scheduled	Essential maintenance work	NGD Data Centre, Newport, NP10 8BE	Virtus London5 Data Centre, UB11 1HB

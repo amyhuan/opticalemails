@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IDN136736GIG100, IDN136997GIG100, IDN136995GIG100, IDN136996GIG100, IDN136733GIG100, IDN136994GIG100, IDN136734GIG100, IDN136735GIG100	2023-02-21 22:00, 2023-02-22 22:00	2023-02-23 06:00	New maintenance scheduled	Emergency 3rd Party Engineering Works	BT Chepstow to NEOS Bradley Stoke POP	Unknown

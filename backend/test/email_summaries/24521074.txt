@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/267721//ZYO, F18M-0077739, FBDK/812212/007/ZFS (F17M-0050924), FBDK/812212/008/ZFS (F17M-0189256), FBDK/812212/009/ZFS ( F17M-0189258), FBDK/2137624//ZFS (F22M-0205752), FBDK/2137672//ZFS ( F22M-0206038)	2023-07-25 04:01, 2023-07-26 04:01, 2023-07-27 04:01	2023-07-25 09:00, 2023-07-26 09:00, 2023-07-27 09:00	New maintenance scheduled	Zayo will perform Routine Fiber splice - NO Impact is Expected to your services	1033 Jefferson St NW, Atlanta, GA	Zayo

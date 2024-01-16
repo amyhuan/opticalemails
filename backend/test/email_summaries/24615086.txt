@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+BHGWR01115, BHGWR01116, BHGWR01117, BHGWR01118, BHGWR01119, BHGWR01120, BHGWR01121, BHGWR01122, BHGWR01123, BHGWR01124, BHGWR01125, BHGWR01126, BHGWR01127, BHGWR01128, BHGWR01129, BHGWR01130	2023-08-02 16:01	2023-08-02 21:00	New maintenance scheduled	To upgrade the 2 end mux to a higher version (SW release 4.3.1) in order to resolve the issue	Singapore	Microsoft Operations Pte Ltd

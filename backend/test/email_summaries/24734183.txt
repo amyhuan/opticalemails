@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OQYX/282151//ZYO OQYX/282224//ZYO OGYX/176205//ZYO	2023-08-07 05:01	2023-08-07 07:00	New maintenance scheduled	Zayo has identified a failed circuit pack in East St. Louis that could affect service performance. This circuit pack needs to be replaced to prevent future network outages and stabilize the overall performance of the network.	735 Bogard Ave, East Saint Louis, IL	Zayo

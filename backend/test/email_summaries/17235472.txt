@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442627052, 442627053, 442627054, 442627051	2023-03-07 06:00, 2023-03-08 06:00	2023-03-07 12:00, 2023-03-08 12:00	New maintenance scheduled	Fiber maintenance	Edina, MN	Lumen

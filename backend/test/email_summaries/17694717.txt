@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00356636,S00356637,S00356638,S00356639,S00356640,S00356641,S00356642,S00356643,S00356644,S00356645,S00356646,S00356647,S00356648,S00356649,S00356650,S00356651	2023-05-09 06:00	2023-05-09 15:00	New maintenance scheduled	Cable Relocation	Gland, Switzerland; Milan, Italy	euNetworks

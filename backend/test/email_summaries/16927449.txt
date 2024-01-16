@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C208-0012	2023-02-06 20:00	2023-02-06 23:00	Rescheduled - Not Started	Maintenance activity to perform Fibre Protection Unit(FPU) swapping on our Lagos metro in order to resolve protection switching issue and to improve service resiliency.	Not specified	WIOCC

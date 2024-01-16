@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - SP2/MSFT 100GB S006, CRT-007379	2023-09-12 14:00, 2023-09-13 14:00	2023-09-12 17:00, 2023-09-13 17:00	Normal	A scheduled work will be performed in order to rollback services	SAN JUAN - BOCA RATON, PUERTO RICO - USA	MICROSOFT

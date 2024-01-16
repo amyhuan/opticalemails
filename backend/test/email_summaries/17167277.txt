@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+JIOGIPLMUMSIN0224, SO6084822091	2023-02-27 22:00	2023-02-28 04:00	Planned Maintenance	Upgrade#4 soft node Mumbai-Penang FP2E Step7 insertion	N/A	N/A

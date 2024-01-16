@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00321674, C35254-059, S00321675, C35254-060	2023-06-13 20:00 GMT	2023-06-14 04:30 GMT	New maintenance scheduled	Network Growth	Germany	euNetworks

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+1-211993837, 1-211994148, 1-211994249, 3-000973797, 3-000973798	2023-05-26 00:00	2023-05-26 03:00	New maintenance scheduled	Replace and upgrade route processors	2001 6th Ave, Seattle, WA	Cogent Communications

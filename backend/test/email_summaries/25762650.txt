@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+AS 8075 / 8068	2023-11-20 23:00	2023-11-21 04:00	New maintenance scheduled	Planned maintenance	SwissIX - Equinix ZH4	None

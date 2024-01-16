@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+NAP/MSFT - EDGECONNEX/MSFT 100GB S005, NAP/MSFT - EDGECONNEX/MSFT 100GB S006	2023-08-25 06:00, 2023-08-26 06:00	2023-08-25 11:00, 2023-08-26 11:00	Normal	Switching tests	Puerto San José - Lurin, Guatemala - Peru	MICROSOFT

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SNG TOK EPL 9918488	2023-03-24 09:00	2023-03-24 11:30	New maintenance scheduled	Telstra Hardware Replacement	Philippines	Telstra

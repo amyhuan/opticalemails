@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+442247054, 442067421	2023-07-14 04:00, 2023-07-18 04:00	2023-07-14 10:00, 2023-07-18 10:00	New maintenance scheduled	Fiber maintenance	ORLANDO, FL USA; DE LEON SPRINGS, FL USA	Lumen

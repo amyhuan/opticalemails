@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+441573398, 441573397	2023-09-26 07:00, 2023-09-26 01:00	2023-09-26 12:00, 2023-09-26 06:00	New maintenance scheduled	Replace faulty hardware	Buckeye, AZ USA	Lumen

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IE1042621663	2023-09-11 16:00	2023-09-11 20:00	New maintenance scheduled	APCN2 Seg S2 (KTN-LNT) cable shunt fault repair	APCN2	International service provider

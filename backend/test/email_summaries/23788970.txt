@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IC-356574	2023-06-07 22:00	2023-06-08 04:00	New maintenance scheduled	Maintenance to perform service migration works for network optimization purposes	Frankfurt, Germany	Arelion

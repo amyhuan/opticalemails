@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR211308 / SNG(PCG)-MSL(PCG) EP7111	2023-05-15 16:00	2023-05-15 22:00	New maintenance scheduled	Fiber restoration works	Seremban, Seremban - UPM (SRB-UPM)	Unknown

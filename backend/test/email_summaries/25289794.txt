@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+IPLC-20-12610, IPLC-20-12609, IPLC-20-12668, IPLC-20-12669, IPLC-22-15394, IPLC-20-12472, IPLC-20-12471, IPLC-20-12059, IPLC-20-12241	2023-09-29 22:00	2023-09-30 03:00	New maintenance scheduled	Emergency faulty board replacement	Milan (ITALY)	Bezeq International

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0063, CA-MU-C170-0062	2023-03-18 09:00	2023-03-18 14:00	New maintenance scheduled	Maintenance activity to resolve degradation on NLD1 fiber	Germiston and Heidelberg	WIOCC

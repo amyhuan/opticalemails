@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+MSAWDMMV2MUM001U, MSAWDMMV2MUM002U	2023-08-05 04:00	2023-08-05 16:00	New maintenance scheduled	Maintenance activity work on the network	N/A	N/A

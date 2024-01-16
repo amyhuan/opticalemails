@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+14209360, 14209371	2023-03-03 22:00	2023-03-04 02:00	New maintenance scheduled	To avoid unplanned outage in near future	Unknown	Bharti Airtel Limited

@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+CA-MU-C170-0005, CA-MU-C170-0006, CA-MU-C170-0031, CA-MU-C170-0032, CA-MU-C170-0033	2023-03-29 22:00, 2023-03-31 04:00	2023-03-30 04:00, 2023-04-01 04:00	New maintenance scheduled	Emergency Maintenance activity to perform SLTE insertion at Segment 4 on the WACS network	N/A	WIOCC

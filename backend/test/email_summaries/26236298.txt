@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+OGYX/172331//ZYO	2023-12-22 00:01, 2023-12-22 07:01	2023-12-22 05:00, 2023-12-22 12:00	New maintenance scheduled	Zayo will perform emergency maintenance to replace failed equipment	240 Fort Keogh Rd, Miles City, MT	None

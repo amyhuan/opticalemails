@@ -1,0 +1,3 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00321674, C35254-059, Frankfurt to Berlin, LH Wave, 100 Gbit/s A: DRT Sossenheim (Digital Realty FRA10/Interxion FRA30), Wilhelm-Fay-Strasse 24, Frankfurt Z: NTT BER1, Nonnendammallee 15, Berlin	2023-04-10 20:00 GMT	2023-04-11 04:30 GMT	New maintenance scheduled	Network Growth	Frankfurt and Hannover	euNetworks
+S00321675, C35254-060, Frankfurt to Berlin, LH Wave, 100 Gbit/s A: DRT Sossenheim (Digital Realty FRA10/Interxion FRA30), Wilhelm-Fay-Strasse 24, Frankfurt Z: NTT BER1, Nonnendammallee 15, Berlin	2023-04-10 20:00 GMT	2023-04-11 04:30 GMT	New maintenance scheduled	Network Growth	Frankfurt and Hannover	euNetworks

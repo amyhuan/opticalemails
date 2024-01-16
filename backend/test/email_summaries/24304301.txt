@@ -1,0 +1,2 @@
+CircuitIds	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+T200000054, T200000055, T200000056, T200000057, T200000058, T200000059	2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01	2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01, 2023-07-25 22:01	New maintenance scheduled	Planned maintenance on circuit between Hyllestad and Askvoll	Unknown	Altibox AS
