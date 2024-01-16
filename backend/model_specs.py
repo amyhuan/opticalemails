@@ -25,4 +25,4 @@ SYSTEM_PROMPT="""Each message you will get, contains the contents of a fiber pro
 """
 MODEL_DEPLOYMENT="gpt-35-turbo-16k"
 TEMPERATURE=0
-MAX_TOKENS=1028
+MAX_TOKENS=6000
