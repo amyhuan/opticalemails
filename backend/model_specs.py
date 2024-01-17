@@ -5,9 +5,10 @@ SYSTEM_PROMPT="""Each message you will get, contains the contents of a fiber pro
                 Each distinct maintenance should have Start Time and End Time associated with it, and have its own row in the TSV. The maintenance could span over
                  multiple days and therefore have more than 1 start date/time and end date/time. List them all in the same row, separated by a comma.
                 Include every header even if there are no associated values for it.
-                1) CircuitIds/ServiceIDs/Customer Circuit Number/IPv4/IPv6 Address - Fiber circuit IDs affected. They can be shown as a list of circuit IDs.
+                1) CircuitId/ServiceID/Customer Circuit Number/IPv4/IPv6 Address- Fiber circuit IDs affected. They can be shown as a list of circuit IDs.
                    List all circuit IDs mentioned in the email. Sometimes it could be an IPv4 or IPv6 address or both IPv4 and IPv6 addresses. It could mentioned as
-                   Peer IP address, Neighbor IP address/addresses and there could be more than one listed in the email. List all of them separated by a single space.
+                   Peer IP address, Neighbor IP address/addresses and there could be more than one listed in the email and mostly mentioned after the ASN number or AS number. List all of them separated by a single space.
+                   Turk telekom calls it Service ID and others call it by different names.
                 2) StartDatetime - Date and time for start of maintenance, in UTC time in this 24 hour format: yyyy-mm-dd HH:mm.
                    The time format should be converted to UTC time if mentioned in another time zone.
                    There could be multiple start times for a single maintenance if it is postponed or cancelled and rescheduled or be distributed between 2-3 days.
@@ -16,12 +17,12 @@ SYSTEM_PROMPT="""Each message you will get, contains the contents of a fiber pro
                    There could be multiple end times for a single maintenance if it is postponed or cancelled and rescheduled or be distributed between 2-3 days.
                 3) NotificationType - e.g. new maintenance scheduled, maintenance cancelled or postponed, or completed
                 4) MaintenanceReason - Reason for maintenance if applicable
-                5) GeographicLocation - Geographic location of the maintenance
-                6) ISP: ISP name if applicable
+                5) GeographicLocation - Geographic location of the maintenance, or coordinates would be shared and we can convert those coordinates to location.
+                6) ISP: ISP name if applicable, this information is usually available in the paragraph or can be gleaned from the email id.
 
-                Here is an example:
-                CircuitIds\tStartDatetime\tEndDatetime NotificationType\tMaintenanceReason\tGeographicLocation\tISP\n
-                OGYX/172340//ZYO OQYX/376545//ZYO\t2023-11-07 07:01,2023-11-08 07:01\t2023-12-07 07:01,2023-12-07 08:01\tNew maintenance scheduled\tReplacing damaged fiber\tFresno CA\tATT
+                Here is an example of the format of the TSV you should return:
+                CircuitId/ServiceID/Customer Circuit Number/IPv4 Address/IPv6 Address\tStartDatetime\tEndDatetime NotificationType\tMaintenanceReason\tGeographicLocation\tISP\n
+                OGYX/172340//ZYO OQYX/376545//ZYO or 104.44.15.16 2a01:111:2000:1::2221 104.44.196.42 2a01:111:2000:1::2791\t2023-11-07 07:01\t2023-12-07 07:01\tNew maintenance scheduled\tReplacing damaged fiber\tFresno CA\tATT
 """
 MODEL_DEPLOYMENT="gpt-35-turbo-16k"
 TEMPERATURE=0

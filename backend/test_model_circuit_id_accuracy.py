@@ -1,11 +1,11 @@
 import os
-from openai import AzureOpenAI
-import dotenv
 import sys
 from model_specs import *
 from datetime import datetime
 import threading
 from queue import Queue
+from openai import AzureOpenAI
+import dotenv
 
 dotenv.load_dotenv()
 
@@ -33,7 +33,7 @@ def process_file_content(vso_id, content):
         res = gpt_client.chat.completions.create(
                 model=MODEL_DEPLOYMENT,
                 messages=[
-                    {"role": "system", "content": ONLY_IDS_SYSTEM_PROMPT},
+                    {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": content},
                 ],
                 temperature=TEMPERATURE,
@@ -57,6 +57,10 @@ def get_existing_ids(file_name):
         except FileNotFoundError:
             pass
         return existing_ids
+
+# Replace actual IDs column with current model results
+import threading
+from queue import Queue
 
 def process_line(columns, directory, output_queue):
     file_id = columns[0]
@@ -156,10 +160,9 @@ def calculate_success_rate(current_line, input_len, output_tsv, record_results=F
             incorrect_ids_table = ""
 
             for line in outfile:
-                total_rows += 1
                 parts = line.strip().split('\t')
                 if len(parts) < 3:
-                    # print(f"only found 2 columns instead of 3: {line}")
+                    print(f"only found 2 columns instead of 3: {line}")
                     continue
                 if parts[0] == "VsoId":
                     continue
@@ -169,28 +172,53 @@ def calculate_success_rate(current_line, input_len, output_tsv, record_results=F
                 # Converting IDs from string to sets for easy comparison
                 expected_ids_set = set(expected_ids.replace(",", "").split())
                 actual_ids_set = set(actual_ids.replace(",", "").split())
-
-                row_add = 1
-                for expected in expected_ids_set:
-                    if len(expected) > 2:
-                        found = False
+                expected_not_found = set()
+                if expected_ids_set and actual_ids_set:
+                    total_rows += 1
+                    divisor = len(expected_ids_set) if len(expected_ids_set) > 0 else 0
+                    len2 = len(actual_ids_set) if len(actual_ids_set) > 0 else 0
+                    dividend = 0
+                    if divisor > len2:
+                        for expected in expected_ids_set:
+                            for actual in actual_ids_set:
+                                if expected == actual:
+                                    dividend += 1
+                                elif expected in actual:
+                                    dividend += 1
+                                else:
+                                    expected_not_found.add(expected)
+                    else:
                         for actual in actual_ids_set:
-                            if expected in actual:
-                                found = True
-                        if not found:
-                            row_add = 0
-                            incorrect_ids_table += f"""
-VSO ID:         {vso_id}
-Expected IDs:   {expected_ids}
-Actual IDs:     {actual_ids}
-"""
+                            for expected in expected_ids_set:
+                                if expected == actual:
+                                    dividend += 1
+                                elif expected in actual:
+                                    dividend += 1
+                                else:
+                                    expected_not_found.add(expected)
+                            
+                    if len2 > 0:
+                        matches = dividend / divisor
+                    else:
+                        matches = 0
+
+                    if matches > 1:
+                        matching_rows += 1
+                        matches = 1
+                    else:
+                        matching_rows += matches
+                    # print(f"Missed an expected ID. VsoId: {vso_id}, Expected: {expected_ids}, Actual: {actual_ids}")
+                    incorrect_ids_table += f"""
+    VSO ID:         {vso_id}
+    Expected IDs:   {expected_ids}
+    Actual IDs:     {actual_ids}
+    Expected IDs not found: {expected_not_found}
+    Matching rows: {matches}
+    """
 
                 # if len(actual_ids_set) > len(expected_ids_set):
                 #     print(f"Included extra ID. VsoId: {vso_id}, Expected: {expected_ids}, Actual: {actual_ids}")
-
-                matching_rows += row_add
-
-            success_rate = (matching_rows / total_rows) * 100 if total_rows > 0 else 0
+            success_rate = matching_rows / total_rows * 100
             sucess_rate_str = f"{current_line}/{input_len} input lines processed. Circuit ID Exact Match Rate: {success_rate:.2f}%"
             print(sucess_rate_str)
 
