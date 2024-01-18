@@ -1,0 +1,2 @@
+CircuitId/ServiceID/Customer Circuit Number/IPv4 Address/IPv6 Address	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+S00321674, C35254-059, S00321675, C35254-060	2023-07-04 20:00	2023-07-05 04:30	New maintenance scheduled	Network Growth	Frankfurt, Hanover	euNetworks

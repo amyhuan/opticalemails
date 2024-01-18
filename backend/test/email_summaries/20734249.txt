@@ -1,0 +1,2 @@
+CircuitId/ServiceID/Customer Circuit Number/IPv4 Address/IPv6 Address	StartDatetime	EndDatetime NotificationType	MaintenanceReason	GeographicLocation	ISP
+EQIX-EXR04-SJC-SEC-10122021 ZOOM_SJC_AER-3-1 544828-SV5-CX-SEC-01 619579-SV5-CX-SEC-04 EQIX-EXR22-SJC30-SEC-05182022 EQIX-EXR04-SJC-SEC-02172023 551411-SV1-CX-SEC-01	2023-05-18 05:00	2023-05-18 13:00	New maintenance scheduled	Software upgrade on Equinix Fabric routers	SV5	Equinix

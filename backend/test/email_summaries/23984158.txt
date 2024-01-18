@@ -1,0 +1,3 @@
+CircuitId/ServiceID/Customer Circuit Number/IPv4 Address/IPv6 Address	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+
+S00316056 S00316057 S00317293 S00317283	2023-07-04 20:00	2023-07-05 04:30	Scheduled	Hardware Replacement	Frankfurt, Germany; Berlin, Germany	euNetworks

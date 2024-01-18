@@ -20,6 +20,7 @@ from datetime import datetime
 import threading
 from vso import *
 from model_specs import *
+import re
 
 dotenv.load_dotenv()
 app = Flask(__name__)
@@ -204,7 +205,6 @@ def get_email_summary():
 
 def upload_email_summary(summary, email_id):
     summaries = []
-
     try:
         rows = summary.split('\n')
 
@@ -284,63 +284,66 @@ def format_time_for_vso(time_string):
     formatted_dt = dt.isoformat(timespec='milliseconds') + 'Z'
     return formatted_dt
 
-def get_or_create_vso(activity_id):
-    print(f"beginning '{activity_id}'")
+def get_time_strings(s):
+    return re.split(r'\s*,\s*', s)
+
+# Retrieve existing VSO for maintenance, or create a new one if there is none
+def get_or_create_vsos(activity_id):
+    # Get table row for that summary. Should only be 1 since this ID
+    # is created upon summary generation
     query_filter = f"RowKey eq '{activity_id}'"
     entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
 
+    new_vsos = []
     for row in entities:
-        vso_id = row["VsoId"]
-        if vso_id:
-            print(f"Found vso ID {vso_id}")
-            return vso_id
+        if "VsoIds" in row:
+            existing_vsos = re.split(r'\s*,\s*', row["VsoIds"])
+            if existing_vsos:
+                # Existing VSO exists
+                print(f"Found existing VSOs {existing_vsos} for summary {activity_id}")
+                return existing_vsos
         else:
-            print(f"Creating new VSO")
+            # Create new VSO if this notification is for new maintenance
             if "new" in row['NotificationType'].lower():
-                # get activity details
                 email_id = row['EmailId']
                 circuit_ids = row['CircuitIds'].split(",")
 
                 from_email, subject = get_email_info(email_id)
                 devices = get_devices_for_circuits(circuit_ids)
 
-                start_time = format_time_for_vso(row['StartDatetime'])
-                end_time = format_time_for_vso(row['EndDatetime'])
-                
-                reason = row['MaintenanceReason']
-                location = row['GeographicLocation']
-                description = f"{location}\n{reason}\n\n{subject}"
+                # Create a new VSO for each pair of start/end times for this summary
+                start_times = get_time_strings(row['StartDatetime'])
+                end_times = get_time_strings(row['EndDatetime'])
+                for start, end in zip(start_times, end_times):
+                    reason = row['MaintenanceReason']
+                    location = row['GeographicLocation']
+                    description = f"{location}\n{reason}\n\n{subject}" # TODO: enhance with email metadata and body text
 
-                # create new VSO
-                new_vso = create_new_maintenance_vso(from_email, start_time, end_time, circuit_ids, devices, description, location)
-                new_vso_id = new_vso.id
-                print(f"Created new VSO {new_vso}")
+                    new_vso = create_new_maintenance_vso(from_email, start, end, circuit_ids, devices, description, location)
+                    new_vso_id = new_vso.id
+                    print(f"Created new VSO {new_vso_id} from email summary {activity_id}")
+                    
+                    new_vsos.append(new_vso_id)
 
-                # update VSO id
+                print(new_vsos)
+
+                # Update summary table with new VSO IDs
                 updated_entity = {
                     'PartitionKey': row['PartitionKey'],
                     'RowKey': row['RowKey'],
-                    'VsoId': new_vso_id
+                    'VsoIds': ",".join(map(str, new_vsos))
                 }
                 MAINTENANCE_TABLE_CLIENT.update_entity(mode=UpdateMode.MERGE, entity=updated_entity)
-                print(f"Updated activity detail table with ID {new_vso_id}")
-                return new_vso_id
+                print(f"Updated email summary table row {activity_id} with new VSO IDs: {new_vsos}")
             else:
-                return "No new maintenance scheduled"
+                print(f"Email summary {activity_id} notification type is {row['NotificationType']}, not making VSO for it")
+            return new_vsos
                 
-    print(f"No summary found for {activity_id}")
-    return None
+    print(f"No summary found for {activity_id} while attempting VSO creation")
+    return []
 
-@app.route('/createvsos', methods=['GET'])
-def create_vsos_by_activity_id():
-    activity_ids = request.args.get('ids', default='').replace("'", "").split(",")
-
-    vso_ids = []
-    for id in activity_ids:
-        vso_ids.append(get_or_create_vso(id))
-
-    return vso_ids
-
+# Get summaries from email IDs and make new ones if needed
+# Then make new VSOs if needed or get existing ones and return the IDs of them
 def get_vso_ids_for_emails(ids):
     print(f"Getting VSOs for email ids: {ids}")
     vsos = {}
@@ -351,24 +354,39 @@ def get_vso_ids_for_emails(ids):
             activity_id = summary["RowKey"]
             print(f"in for loop '{activity_id}'")
             email_id = summary["EmailId"]
-            vso_id = get_or_create_vso(activity_id)
+            vso_id = get_or_create_vsos(activity_id)
             if email_id not in vsos:
                 vsos[email_id] = []
             vsos[email_id].append(vso_id)
     return vsos
 
+# Takes email IDs and creates VSOs for them if they don't already have them
 @app.route('/emailstovsos', methods=['GET'])
 def email_ids_to_vso_ids():
     email_ids = request.args.get('ids', default='').replace("'", "").split(",")
     return get_vso_ids_for_emails(email_ids)
 
-auto_summaries = threading.Thread(target=generate_summaries_periodically)
-auto_summaries.daemon = True
-auto_summaries.start()
+# Get or create VSOs for the given summary IDs, which are created on summary generation
+# and used as the RowKey/PartitionKey in table storage for that summary
+@app.route('/createvsos', methods=['GET'])
+def create_vsos_by_activity_id():
+    activity_ids = request.args.get('ids', default='').replace("'", "").split(",")
 
-auto_summaries = threading.Thread(target=generate_vsos_periodically)
-auto_summaries.daemon = True
-auto_summaries.start()
+    vso_ids = []
+    for id in activity_ids:
+        vso_ids.append(get_or_create_vsos(id))
+
+    return vso_ids
+
+# # Automatically create summaries every few minutes from new emails in table storage
+# auto_summaries = threading.Thread(target=generate_summaries_periodically)
+# auto_summaries.daemon = True
+# auto_summaries.start()
+
+# # Automatically create VSOs from new summaries in table storage every few minutes
+# auto_summaries = threading.Thread(target=generate_vsos_periodically)
+# auto_summaries.daemon = True
+# auto_summaries.start()
 
 if __name__ == "__main__":
     socketio.run(app, allow_unsafe_werkzeug=True, debug=True, port=80, host="0.0.0.0")
