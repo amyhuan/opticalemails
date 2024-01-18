@@ -205,7 +205,6 @@ def get_email_summary():
 
 def upload_email_summary(summary, email_id):
     summaries = []
-
     try:
         rows = summary.split('\n')
 
@@ -297,11 +296,12 @@ def get_or_create_vsos(activity_id):
 
     new_vsos = []
     for row in entities:
-        existing_vsos = re.split(r'\s*,\s*', row["VsoIds"])
-        if existing_vsos:
-            # Existing VSO exists
-            print(f"Found vso ID {existing_vsos}")
-            return existing_vsos
+        if "VsoIds" in row:
+            existing_vsos = re.split(r'\s*,\s*', row["VsoIds"])
+            if existing_vsos:
+                # Existing VSO exists
+                print(f"Found existing VSOs {existing_vsos} for summary {activity_id}")
+                return existing_vsos
         else:
             # Create new VSO if this notification is for new maintenance
             if "new" in row['NotificationType'].lower():
@@ -321,15 +321,17 @@ def get_or_create_vsos(activity_id):
 
                     new_vso = create_new_maintenance_vso(from_email, start, end, circuit_ids, devices, description, location)
                     new_vso_id = new_vso.id
-                    print(f"Created new VSO {new_vso} from email summary {activity_id}")
+                    print(f"Created new VSO {new_vso_id} from email summary {activity_id}")
                     
                     new_vsos.append(new_vso_id)
+
+                print(new_vsos)
 
                 # Update summary table with new VSO IDs
                 updated_entity = {
                     'PartitionKey': row['PartitionKey'],
                     'RowKey': row['RowKey'],
-                    'VsoIds': ",".join(new_vsos)
+                    'VsoIds': ",".join(map(str, new_vsos))
                 }
                 MAINTENANCE_TABLE_CLIENT.update_entity(mode=UpdateMode.MERGE, entity=updated_entity)
                 print(f"Updated email summary table row {activity_id} with new VSO IDs: {new_vsos}")
@@ -376,15 +378,15 @@ def create_vsos_by_activity_id():
 
     return vso_ids
 
-# Automatically create summaries every few minutes from new emails in table storage
-auto_summaries = threading.Thread(target=generate_summaries_periodically)
-auto_summaries.daemon = True
-auto_summaries.start()
+# # Automatically create summaries every few minutes from new emails in table storage
+# auto_summaries = threading.Thread(target=generate_summaries_periodically)
+# auto_summaries.daemon = True
+# auto_summaries.start()
 
-# Automatically create VSOs from new summaries in table storage every few minutes
-auto_summaries = threading.Thread(target=generate_vsos_periodically)
-auto_summaries.daemon = True
-auto_summaries.start()
+# # Automatically create VSOs from new summaries in table storage every few minutes
+# auto_summaries = threading.Thread(target=generate_vsos_periodically)
+# auto_summaries.daemon = True
+# auto_summaries.start()
 
 if __name__ == "__main__":
     socketio.run(app, allow_unsafe_werkzeug=True, debug=True, port=80, host="0.0.0.0")

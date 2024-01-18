@@ -1,0 +1,2 @@
+CircuitId/ServiceID/Customer Circuit Number/IPv4 Address/IPv6 Address	StartDatetime	EndDatetime	NotificationType	MaintenanceReason	GeographicLocation	ISP
+SR153547 / TOK(PCG)-SEL(PCG) EP5637	2023-05-13 06:00	2023-05-13 09:00	New maintenance scheduled	Planned maintenance for troubleshooting DWDM ASE module in Wada CLS	TOK(PCG)-SEL(PCG)	PCCW Global
