@@ -234,54 +234,61 @@ def get_or_create_vsos(activity_id):
     query_filter = f"RowKey eq '{activity_id}'"
     entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
 
-    new_vsos = []
-    for row in entities:
-        if "VsoIds" in row:
-            existing_vsos = re.split(r'\s*,\s*', row["VsoIds"])
-            if existing_vsos:
-                # Existing VSO exists
-                print(f"Found existing VSOs {existing_vsos} for summary {activity_id}")
-                return existing_vsos
-        else:
-            # Create new VSO if this notification is for new maintenance
-            if "new" in row['NotificationType'].lower():
-                email_id = row['EmailId']
-                circuit_ids = row['CircuitIds'].split(",")
-
-                from_email, subject = get_email_info(email_id)
-                devices = get_devices_for_circuits(circuit_ids)
-
-                # Create a new VSO for each pair of start/end times for this summary
-                start_times = get_time_strings(row['StartDatetime'])
-                end_times = get_time_strings(row['EndDatetime'])
-                for start, end in zip(start_times, end_times):
-                    reason = row['MaintenanceReason']
-                    location = row['GeographicLocation']
-                    description = f"{location}\n{reason}\n\n{subject}" # TODO: enhance with email metadata and body text
-
-                    new_vso = create_new_maintenance_vso(from_email, start, end, circuit_ids, devices, description, location)
-                    new_vso_id = new_vso.id
-                    print(f"Created new VSO {new_vso_id} from email summary {activity_id}")
-                    
-                    new_vsos.append(new_vso_id)
-
-                print(new_vsos)
-
-                # Update summary table with new VSO IDs
-                updated_entity = {
-                    'PartitionKey': row['PartitionKey'],
-                    'RowKey': row['RowKey'],
-                    'VsoIds': ",".join(map(str, new_vsos))
-                }
-                MAINTENANCE_TABLE_CLIENT.update_entity(mode=UpdateMode.MERGE, entity=updated_entity)
-                print(f"Updated email summary table row {activity_id} with new VSO IDs: {new_vsos}")
+    try:
+        new_vsos = []
+        for row in entities:
+            if "VsoIds" in row:
+                existing_vsos = re.split(r'\s*,\s*', row["VsoIds"])
+                if existing_vsos:
+                    # Existing VSO exists
+                    print(f"Found existing VSOs {existing_vsos} for summary {activity_id}")
+                    return existing_vsos
             else:
-                print(f"Email summary {activity_id} notification type is {row['NotificationType']}, not making VSO for it")
-            return new_vsos
-                
-    print(f"No summary found for {activity_id} while attempting VSO creation")
+                # Create new VSO if this notification is for new maintenance
+                if "new" in row['NotificationType'].lower():
+                    email_id = row['EmailId']
+                    circuit_ids = row['CircuitIds'].split(",")
+
+                    from_email, subject = get_email_info(email_id)
+                    devices = get_devices_for_circuits(circuit_ids)
+
+                    # Create a new VSO for each pair of start/end times for this summary
+                    start_times = get_time_strings(row['StartDatetime'])
+                    end_times = get_time_strings(row['EndDatetime'])
+                    for start, end in zip(start_times, end_times):
+                        reason = row['MaintenanceReason']
+                        location = row['GeographicLocation']
+                        description = f"{location}\n{reason}\n\n{subject}" # TODO: enhance with email metadata and body text
+
+                        new_vso = create_new_maintenance_vso(from_email, start, end, circuit_ids, devices, description, location)
+                        new_vso_id = new_vso.id
+                        print(f"Created new VSO {new_vso_id} from email summary {activity_id}")
+                        
+                        new_vsos.append(new_vso_id)
+
+                    print(new_vsos)
+
+                    # Update summary table with new VSO IDs
+                    updated_entity = {
+                        'PartitionKey': row['PartitionKey'],
+                        'RowKey': row['RowKey'],
+                        'VsoIds': ",".join(map(str, new_vsos))
+                    }
+                    MAINTENANCE_TABLE_CLIENT.update_entity(mode=UpdateMode.MERGE, entity=updated_entity)
+                    print(f"Updated email summary table row {activity_id} with new VSO IDs: {new_vsos}")
+                else:
+                    print(f"Email summary {activity_id} notification type is {row['NotificationType']}, not making VSO for it")
+                return new_vsos
+                    
+        print(f"No summary found for {activity_id} while attempting VSO creation")
+        return []
+
+    except Exception as e:
+        print(f"Failed to create VSO for summary ID {activity_id}: {e}")
+        
     return []
 
+    
 # Get summaries from email IDs and make new ones if needed
 # Then make new VSOs if needed or get existing ones and return the IDs of them
 def get_vso_ids_for_emails(ids):
