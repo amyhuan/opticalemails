@@ -41,7 +41,10 @@ AZURE_TABLES_CLIENT = table_service_client = TableServiceClient.from_connection_
 EMAIL_METADATA_TABLE_CLIENT = table_service_client.get_table_client(table_name='MaintenanceEmailMetadata')
 MAINTENANCE_TABLE_CLIENT = table_service_client.get_table_client(table_name='MaintenanceDetails')
 
-EMAIL_SUMMARY_HEADERS = ['CircuitIds', 'StartDatetime', 'EndDatetime', 'NotificationType', 'MaintenanceReason', 'GeographicLocation', 'VsoId']
+EMAIL_SUMMARY_HEADERS = ['CircuitIds', 'StartDatetime', 'EndDatetime', 'NotificationType', 'MaintenanceReason', 'GeographicLocation', 'ISP', 'VsoId']
+FAILURE_TO_SUMMARIZE_TSV = """CircuitIds\tStartDatetime\tEndDatetime\tNotificationType\tMaintenanceReason\tGeographicLocation\tISP\tVsoIds
+Failure to summarize\tFailure to summarize\tFailure to summarize\tFailure to summarize\tFailure to summarize\tFailure to summarize\tFailure to summarize\tFailure to summarize
+"""
 
 def summarize_emails_in_range(start, end):
     email_dict = emails_by_time_range(start, end)
@@ -108,24 +111,21 @@ def get_blob_client(connection_string, container_name, blob_name):
     blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
     return blob_client
 
-def parse_html_blob(blob_client):
+def parse_html_blob(html_content):
     """
     Parses an HTML blob and returns the text of each tag.
     """
-    # Download the blob content
-    blob_data = blob_client.download_blob().readall()
-    html_content = blob_data.decode('utf-8')
-
     # Parse the HTML content
     soup = BeautifulSoup(html_content, 'html.parser')
 
-    # Extract text from specific tags (e.g., body)
+    # Extract text from body as one string
     body_text = soup.body.get_text(strip=True) if soup.body else None
 
     return body_text
 
-def summarize_email(email_html):
-    res = gpt_client.chat.completions.create(
+def summarize_email(email_id, email_html):
+    try:
+        res = gpt_client.chat.completions.create(
             model=MODEL_DEPLOYMENT,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
@@ -134,90 +134,73 @@ def summarize_email(email_html):
             temperature=TEMPERATURE,
             max_tokens=MAX_TOKENS
         )
-    return res.choices[0].message.content
+        return res.choices[0].message.content
+    except Exception as e:
+        print(f"Error summarizing email {email_id}: {e}")
+        return FAILURE_TO_SUMMARIZE_TSV
+    
+def generate_new_summary(email_id):
+    blob_client = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', email_id)
+    blob_data = blob_client.download_blob().readall()
+    email_body_text = blob_data.decode('utf-8')
 
+    # Check if format is HTML or not; if so, get the pure body text 
+    query_filter = f"RowKey eq '{email_id}'"
+    entities = EMAIL_METADATA_TABLE_CLIENT.query_entities(query_filter)
+    for ent in entities:
+        if ent["IsHtml"] == "True":
+            html_content = blob_data.decode('utf-8')
+            email_body_text = parse_html_blob(html_content)
+    
+    print(f"Email body for {email_id} retrieved for new summary")
+    summary_tsv = summarize_email(email_id, email_body_text)
+    print(f"Generated new summary for email {email_id}")
+    summaries = upload_email_summary(summary_tsv, email_id)
+    print(f"Uploaded new summary for email {email_id}")
+    return summaries
+
+# Given email IDs, summarize them and upload summaries to table storage
 def summarize_emails(ids):
     all_summaries = []
     try:
         for id in ids:
             clean_id = id.replace("'", "")
-            print(f"clean id: '{clean_id}'")
             if not clean_id or clean_id.isspace():
-                print(f"Email ID is empty, skipping: '{clean_id}'")
                 continue
-            print(f"Summarizing email {clean_id}")
 
+            # Check if summaries already exist
             query_filter = f"EmailId eq '{clean_id}'"
             entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
             entity_list = [ent for ent in entities]
 
             if len(entity_list) > 0:
-                print("Summaries exist in table for this email")
-                # get summaries as list
+                print(f"Found existing summaries for email {clean_id}: {[ent['RowKey'] for ent in entity_list]}")
                 all_summaries.append(entity_list)
                 continue
         
-            print(f"Summary doesn't exist, creating new one now. Retrieving body of email {clean_id}")
-            email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
-
-            email_body_text = parse_html_blob(email_body_blob)
-            print(f"Email body retrieved")
-
-            summary_tsv = summarize_email(email_body_text)
-            print(f"Summary generated")
-
-            summaries = upload_email_summary(summary_tsv, clean_id)
+            print(f"No summaries found for email {clean_id}")
+            summaries = generate_new_summary(clean_id)
             all_summaries.append(summaries)
-            print(f"Summary uploaded")
+
+            print(f"Summaries for email {clean_id} generated: {[ent['RowKey'] for ent in summaries]}")
     except Exception as e:
         print(e)
     
     return all_summaries
 
-# Generate new summary and upload it regardless of if one exists already
-# Don't catch errors so we can see full stack trace
-@app.route('/summarizeforce', methods=['GET'])
-def get_email_summary_force():
-    ids = request.args.get('ids', default='').split(',')
-
-    summaries = []
-    for id in ids:
-        clean_id = id.replace("'", "")
-        print(f"Summarizing email {clean_id}")
-        
-        print(f"Writing new summary")
-        email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
-        email_body_text = parse_html_blob(email_body_blob)
-        print(f"Email body retrieved")
-        summary = summarize_email(email_body_text)
-        summaries.append(summary)
-        print(f"Summary generated")
-
-        upload_email_summary(summary, clean_id)
-        print(f"Summary uploaded")
-    return summaries
-
-# Summarize emails specified by IDs. Don't generate a new summary if one exists already
-@app.route('/summarize', methods=['GET'])
-def get_email_summary():
-    ids = request.args.get('ids', default='').split(',')
-    return summarize_emails(ids)
-
+# Given AI generated summary, upload it to table storage
 def upload_email_summary(summary, email_id):
     summaries = []
     try:
         rows = summary.split('\n')
-
         for row in rows[1:]:
             values = row.split("\t")
-            if len(values) != len(EMAIL_SUMMARY_HEADERS):
-                continue
-
             row_key = str(uuid.uuid4())
             new_entity = {}
             
-            for i, header in enumerate(EMAIL_SUMMARY_HEADERS):
-                new_entity[header] = values[i]
+            for header, val in zip(EMAIL_SUMMARY_HEADERS, values):
+                print(f"{header} {val}")
+                new_entity[header] = val
 
             new_entity["RowKey"] = row_key
             new_entity["PartitionKey"] = row_key
@@ -225,51 +208,12 @@ def upload_email_summary(summary, email_id):
 
             summaries.append(new_entity)
             MAINTENANCE_TABLE_CLIENT.create_entity(entity=TableEntity(**new_entity))
-        
     except Exception as e:
-        print(e)
-        raise e
+        print(f"Failure to upload summary for email {email_id}: {e}")
 
     return summaries
 
-# Get email metadata for a time range
-@app.route('/ids', methods=['GET'])
-def get_email_metadata():
-    start = request.args.get('start', default='').replace("'", "")
-    end = request.args.get('end', default='').replace("'", "")
-
-    # Check if start or end parameters are missing and set default values
-    if not start:
-        start = (datetime.now(pytz.utc) - timedelta(hours=1)).isoformat()
-    if not end:
-        end = datetime.now(pytz.utc).isoformat()
-
-    # Call the function to get emails by time range
-    return emails_by_time_range(start, end)
-
-# Get email ids between a start and end time as a list of strings
-@app.route('/justids', methods=['GET'])
-def get_id_list():
-    start = request.args.get('start', default='').replace("'", "")
-    end = request.args.get('end', default='').replace("'", "")
-
-    if not start:
-        start = (datetime.now(pytz.utc) - timedelta(hours=1)).isoformat()
-    if not end:
-        end = datetime.now(pytz.utc).isoformat()
-
-    email_dict = emails_by_time_range(start, end)
-    return ",".join([f"'{id}'" for id in email_dict])
-
-# Get summaries for emails received within a time frame
-# Generate new ones if they don't exist, otherwise retrieve cached ones
-@app.route('/summaries', methods=['GET'])
-def generate_summaries_by_time_range():
-    start = request.args.get('start', default='').replace("'", "")
-    end = request.args.get('end', default='').replace("'", "")
-
-    return summarize_emails_in_range(start, end)
-
+# Get email sender and subject line
 def get_email_info(email_id):
     query_filter = f"RowKey eq '{email_id}'"
     entities = EMAIL_METADATA_TABLE_CLIENT.query_entities(query_filter)
@@ -279,11 +223,7 @@ def get_email_info(email_id):
         return provider_email, subject
     return None, None
 
-def format_time_for_vso(time_string):
-    dt = datetime.strptime(time_string, '%Y-%m-%d %H:%M')
-    formatted_dt = dt.isoformat(timespec='milliseconds') + 'Z'
-    return formatted_dt
-
+# From string to list of times
 def get_time_strings(s):
     return re.split(r'\s*,\s*', s)
 
@@ -352,13 +292,80 @@ def get_vso_ids_for_emails(ids):
         for summary in sum_list:
             print(summary)
             activity_id = summary["RowKey"]
-            print(f"in for loop '{activity_id}'")
             email_id = summary["EmailId"]
             vso_id = get_or_create_vsos(activity_id)
             if email_id not in vsos:
                 vsos[email_id] = []
             vsos[email_id].append(vso_id)
     return vsos
+
+
+# Get email metadata for a time range
+@app.route('/ids', methods=['GET'])
+def get_email_metadata():
+    start = request.args.get('start', default='').replace("'", "")
+    end = request.args.get('end', default='').replace("'", "")
+
+    # Check if start or end parameters are missing and set default values
+    if not start:
+        start = (datetime.now(pytz.utc) - timedelta(hours=1)).isoformat()
+    if not end:
+        end = datetime.now(pytz.utc).isoformat()
+
+    # Call the function to get emails by time range
+    return emails_by_time_range(start, end)
+
+# Get email ids between a start and end time as a list of strings
+@app.route('/justids', methods=['GET'])
+def get_id_list():
+    start = request.args.get('start', default='').replace("'", "")
+    end = request.args.get('end', default='').replace("'", "")
+
+    if not start:
+        start = (datetime.now(pytz.utc) - timedelta(hours=1)).isoformat()
+    if not end:
+        end = datetime.now(pytz.utc).isoformat()
+
+    email_dict = emails_by_time_range(start, end)
+    return ",".join([f"'{id}'" for id in email_dict])
+
+# Get summaries for emails received within a time frame
+# Generate new ones if they don't exist, otherwise retrieve cached ones
+@app.route('/summaries', methods=['GET'])
+def generate_summaries_by_time_range():
+    start = request.args.get('start', default='').replace("'", "")
+    end = request.args.get('end', default='').replace("'", "")
+
+    return summarize_emails_in_range(start, end)
+
+# Generate new summary and upload it regardless of if one exists already
+# Don't catch errors so we can see full stack trace
+@app.route('/summarizeforce', methods=['GET'])
+def get_email_summary_force():
+    ids = request.args.get('ids', default='').split(',')
+
+    summaries = []
+    for id in ids:
+        clean_id = id.replace("'", "")
+        print(f"Summarizing email {clean_id}")
+        
+        print(f"Writing new summary")
+        email_body_blob = get_blob_client(STORAGE_CONNECTION_STRING, 'emails', clean_id)
+        email_body_text = parse_html_blob(email_body_blob)
+        print(f"Email body retrieved")
+        summary = summarize_email(email_body_text)
+        summaries.append(summary)
+        print(f"Summary generated")
+
+        upload_email_summary(summary, clean_id)
+        print(f"Summary uploaded")
+    return summaries
+
+# Summarize emails specified by IDs. Don't generate a new summary if one exists already
+@app.route('/summarize', methods=['GET'])
+def get_email_summary():
+    ids = request.args.get('ids', default='').split(',')
+    return summarize_emails(ids)
 
 # Takes email IDs and creates VSOs for them if they don't already have them
 @app.route('/emailstovsos', methods=['GET'])
