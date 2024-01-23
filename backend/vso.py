@@ -141,7 +141,10 @@ def create_vso_ticket(title, description, work_item_type, project, circuits, phy
 def create_new_maintenance_vso(provider, start_time, end_time, circuit_ids, phynet_devices, description, location):
     project = 'PhyNet'
     work_item_type = 'Change Record'  
-    title = f"{provider} maintenance for circuits {', '.join(circuit_ids)}"
+    circuit_id_str = ', '.join(circuit_ids)
+    if len(circuit_ids) > 7:
+        circuit_id_str = ', '.join(circuit_ids[:7]) + ", and others"
+    title = f"{provider} maintenance for circuits {circuit_id_str}"
     new_work_item = create_vso_ticket(title, description, work_item_type, project, ", ".join(circuit_ids), ", ".join(phynet_devices), start_time, end_time, location)
     return new_work_item
 
