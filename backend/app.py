@@ -205,6 +205,7 @@ def upload_email_summary(summary, email_id):
             new_entity["RowKey"] = row_key
             new_entity["PartitionKey"] = row_key
             new_entity["EmailId"] = email_id
+            new_entity["TimeCreated"] = datetime.utcnow().strftime('%Y-%m-%d %H:%M')
 
             summaries.append(new_entity)
             MAINTENANCE_TABLE_CLIENT.create_entity(entity=TableEntity(**new_entity))
@@ -253,11 +254,10 @@ def get_or_create_vsos(activity_id):
     # is created upon summary generation
     query_filter = f"RowKey eq '{activity_id}'"
     entities = MAINTENANCE_TABLE_CLIENT.query_entities(query_filter)
-    sorted_entities = sorted(entities, key=lambda x: x.Timestamp, reverse=True)
 
     try:
         new_vsos = []
-        for row in sorted_entities:
+        for row in entities:
             if "VsoIds" in row:
                 existing_vsos = re.split(r'\s*,\s*', row["VsoIds"])
                 if existing_vsos:
