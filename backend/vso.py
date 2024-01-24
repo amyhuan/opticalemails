@@ -138,10 +138,31 @@ def create_vso_ticket(title, description, work_item_type, project, circuits, phy
     work_item = wit_client.create_work_item(document=document, project=project, type=work_item_type)
     return work_item
 
+def vso_title_str(provider, circuit_ids):
+    soft_line_length_limit = 70
+    circuit_id_str = ' '
+    truncated = False
+    for id in circuit_ids:
+        if len(circuit_id_str) > soft_line_length_limit:
+                truncated = True
+                break
+
+        id_parts = id.split()
+        for part in id_parts:
+            if len(circuit_id_str) > soft_line_length_limit:
+                truncated = True
+                break
+            circuit_id_str += f"{part} "
+    
+    if truncated:
+        circuit_id_str += f"and others"
+    
+    return f"{provider} maintenance for circuits {circuit_id_str}"
+
 def create_new_maintenance_vso(provider, start_time, end_time, circuit_ids, phynet_devices, description, location):
     project = 'PhyNet'
     work_item_type = 'Change Record'  
-    title = f"{provider} maintenance for circuits {', '.join(circuit_ids)}"
+    title = vso_title_str(provider, circuit_ids)
     new_work_item = create_vso_ticket(title, description, work_item_type, project, ", ".join(circuit_ids), ", ".join(phynet_devices), start_time, end_time, location)
     return new_work_item
 

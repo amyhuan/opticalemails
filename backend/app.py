@@ -205,6 +205,7 @@ def upload_email_summary(summary, email_id):
             new_entity["RowKey"] = row_key
             new_entity["PartitionKey"] = row_key
             new_entity["EmailId"] = email_id
+            new_entity["TimeCreated"] = datetime.utcnow().strftime('%Y-%m-%d %H:%M')
 
             summaries.append(new_entity)
             MAINTENANCE_TABLE_CLIENT.create_entity(entity=TableEntity(**new_entity))
@@ -227,6 +228,26 @@ def get_email_info(email_id):
 def get_time_strings(s):
     return re.split(r'\s*,\s*', s)
 
+def is_notification_type_new_maintenance(notif_type):
+    res = gpt_client.chat.completions.create(
+            model=MODEL_DEPLOYMENT,
+            messages=[
+                {"role": "system", "content": """Each message you receive is the notification type for a fiber optical cable provider email.
+                 If the notification implies that a new maintenance has been scheduled, return true. Examples of notification types
+                 that imply a new maintenance include: 'Maintenance scheduled', 'Planned maintenance', 'New maintenance'.
+                 Otherwise, return false. Examples of notification types that don't imply a new maintenance include: 'Maintenance completed',
+                 'Pending maintenance', 'Reschedule Notification', 'Service restored', 'Technician dispatched', 'Reminder of upcoming maintenance'. 
+                 If you can't determine whether it's a new maintenance, return false by default.
+
+                 Only return either true or false as an output.
+                """},
+                {"role": "user", "content": notif_type},
+            ],
+            temperature=TEMPERATURE,
+            max_tokens=MAX_TOKENS
+        )
+    return res.choices[0].message.content
+
 # Retrieve existing VSO for maintenance, or create a new one if there is none
 def get_or_create_vsos(activity_id):
     # Get table row for that summary. Should only be 1 since this ID
@@ -245,7 +266,8 @@ def get_or_create_vsos(activity_id):
                     return existing_vsos
             else:
                 # Create new VSO if this notification is for new maintenance
-                if "new" in row['NotificationType'].lower():
+                is_new = is_notification_type_new_maintenance(row['NotificationType'])
+                if "true" in is_new.lower():
                     email_id = row['EmailId']
                     circuit_ids = row['CircuitIds'].split(",")
 
@@ -279,6 +301,7 @@ def get_or_create_vsos(activity_id):
                 else:
                     print(f"Email summary {activity_id} notification type is {row['NotificationType']}, not making VSO for it")
                 return new_vsos
+            break # Only check the one most recent summary in table storage
                     
         print(f"No summary found for {activity_id} while attempting VSO creation")
         return []
